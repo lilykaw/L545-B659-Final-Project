@@ -1,0 +1,3 @@
+/Users/lilykawaoto/Desktop/L545_FinalProject/clean_train_vec.txt filter=lfs diff=lfs merge=lfs -text
+clean_train_vec.txt filter=lfs diff=lfs merge=lfs -text
+clean_test_vec.txt filter=lfs diff=lfs merge=lfs -text
