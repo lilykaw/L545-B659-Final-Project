@@ -112,8 +112,8 @@ X_train = X[:2914, :]
 np.save(OUTPUT_FILE_TRAIN, X_train)
 print("Save the numpy array (shape: {}) of training data into {}".format(X_train.shape, OUTPUT_FILE_TRAIN))
 X_test = X[2914:, :]
-np.save("clean_test_vec.npy", X_test)
-print("Save the numpy array (shape: {}) of training data into {}".format(X_test.shape, OUTPUT_FILE_TRAIN))
+np.save(OUTPUT_FILE_TEST, X_test)
+print("Save the numpy array (shape: {}) of training data into {}".format(X_test.shape, OUTPUT_FILE_TEST))
 
 
 
