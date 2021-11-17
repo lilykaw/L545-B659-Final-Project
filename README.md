@@ -44,4 +44,4 @@ Let's test the SVM!
 Accuracy score: 0.40081799591002043
 ```
 
-Note (11/17/2021): After removing stopwords, accuracy improves to 0.42995910020449896
+Note (11/17/2021): After removing stopwords, accuracy improves to 0.42995910020449896. Afterwards, removing numbers and pronouns did not affect the score at all.
