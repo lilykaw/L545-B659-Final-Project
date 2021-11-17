@@ -70,7 +70,7 @@ for sent in word_tokens:
 filtered_tweets = [' '.join(t) for t in filtered_tweets]
 #print(filtered_tweets)
 train_tweets = filtered_tweets
-print(train_tweets)
+#print(train_tweets)
 
 # Remove stopwords from train_tweets
 stop_words = set(stopwords.words('english'))
@@ -86,7 +86,7 @@ for sent in word_tokens:
 filtered_tweets = [' '.join(t) for t in filtered_tweets]
 #print(filtered_tweets)
 test_tweets = filtered_tweets
-print(test_tweets)
+#print(test_tweets)
 
 
 ### 2: POS tagger on training Tweets
