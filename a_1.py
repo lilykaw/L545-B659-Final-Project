@@ -22,6 +22,8 @@ import numpy as np
 import pprint, treetaggerwrapper
 # import sklearn
 from sklearn.feature_extraction.text import CountVectorizer
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 
 
 # change paths if necessary
@@ -54,6 +56,37 @@ test_tweets = [sent.translate(translator) for sent in test_tweets]
 # pprint.pprint(test_tweets)
 print("Remove the punctuation in test tweets ({} sentences).\n".format(len(test_tweets)))
 
+# Remove stopwords from test_tweets
+stop_words = set(stopwords.words('english'))
+word_tokens = [word_tokenize(sent) for sent in train_tweets]
+filtered_tweets = []
+for sent in word_tokens:
+   filtered_sentence = []
+   for w in sent:
+      if w not in stop_words:
+         filtered_sentence.append(w)
+   sent = filtered_sentence
+   filtered_tweets.append(sent)
+filtered_tweets = [' '.join(t) for t in filtered_tweets]
+#print(filtered_tweets)
+train_tweets = filtered_tweets
+print(train_tweets)
+
+# Remove stopwords from train_tweets
+stop_words = set(stopwords.words('english'))
+word_tokens = [word_tokenize(sent) for sent in test_tweets]
+filtered_tweets = []
+for sent in word_tokens:
+   filtered_sentence = []
+   for w in sent:
+      if w not in stop_words:
+         filtered_sentence.append(w)
+   sent = filtered_sentence
+   filtered_tweets.append(sent)
+filtered_tweets = [' '.join(t) for t in filtered_tweets]
+#print(filtered_tweets)
+test_tweets = filtered_tweets
+print(test_tweets)
 
 
 ### 2: POS tagger on training Tweets
