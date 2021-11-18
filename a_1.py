@@ -56,7 +56,7 @@ test_tweets = [sent.translate(translator) for sent in test_tweets]
 # pprint.pprint(test_tweets)
 print("Remove the punctuation in test tweets ({} sentences).\n".format(len(test_tweets)))
 
-# Remove stopwords from test_tweets
+# Remove stopwords from test_tweets (holly)
 stop_words = set(stopwords.words('english'))
 word_tokens = [word_tokenize(sent) for sent in train_tweets]
 filtered_tweets = []
@@ -72,7 +72,7 @@ filtered_tweets = [' '.join(t) for t in filtered_tweets]
 train_tweets = filtered_tweets
 #print(train_tweets)
 
-# Remove stopwords from train_tweets
+# Remove stopwords from train_tweets (holly)
 stop_words = set(stopwords.words('english'))
 word_tokens = [word_tokenize(sent) for sent in test_tweets]
 filtered_tweets = []
@@ -87,6 +87,13 @@ filtered_tweets = [' '.join(t) for t in filtered_tweets]
 #print(filtered_tweets)
 test_tweets = filtered_tweets
 #print(test_tweets)
+
+# Remove usernames in train_tweets (holly):
+train_tweets = [re.sub('@[^\s]+', '', t) for t in train_tweets]
+
+# Remove usernames in test_tweets (holly):
+test_tweets = [re.sub('@[^\s]+', '', t) for t in test_tweets]
+
 
 
 ### 2: POS tagger on training Tweets
@@ -107,7 +114,7 @@ print("Tag the training tweets ({} sentences) by TreeTagger\n".format(len(tagged
 
 ### 3: Filter POS that are not nouns, adjectives, or verbs
 # TreeTagger uses older abbreviations; see this document: https://repository.upenn.edu/cgi/viewcontent.cgi?article=1603&context=cis_reports 
-nav = ['CD', 'NP', 'NPS', 'NN', 'NNS', 'PP', 'PP$', 'WP', 'WP$', 'JJ', 'JJR', 'JJS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
+nav = ['NP', 'NPS', 'NN', 'NNS', 'JJ', 'JJR', 'JJS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
 
 # @ vocab : list of relevant words. Doesn't include POS tag. Includes misspellings and hashtag keywords (without spaces)
 vocab = []
