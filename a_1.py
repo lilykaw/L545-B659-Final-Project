@@ -59,7 +59,8 @@ print("Remove the punctuation in test tweets ({} sentences).\n".format(len(test_
 ### 2: POS tagger on training Tweets
 # See https://github.com/daimrod/lina-opinion-target-extractor/blob/master/treetaggerwrapper.py for where to put your TreeTagger directory
 # @ tagged_train : list of sentences, each of which is a list of strings (words+POS+lemma)
-tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
+# tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
+tagger = treetaggerwrapper.TreeTagger(TAGLANG='en', TAGDIR='/mnt/d/install/treetagger/') # Yuhui: I install the TreeTagger in a different directory
 tagged_train = [] 
 for t in train_tweets:
     tagged_train.append(tagger.tag_text(t))

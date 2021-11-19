@@ -1,4 +1,9 @@
 '''
+Date: 2021-11-10 21:33:22
+LastEditors: yuhhong
+LastEditTime: 2021-11-18 22:28:36
+'''
+'''
 
 L545/B659 Fall 2021
 Final Project
@@ -13,6 +18,8 @@ import pandas as pd
 from sklearn import svm
 from sklearn.metrics import accuracy_score
 
+
+
 # change paths if necessary
 TRAIN_SET_PATH = './StanceDataset/train.csv'
 TEST_SET_PATH = './StanceDataset/test.csv'
@@ -21,16 +28,24 @@ TEST_FEATURE_PATH = 'clean_test_vec.npy'
 
 
 
-# dictionaries for label encoding and decoding
-encode_dict = {'Hillary Clinton': 0, 'Climate Change is a Real Concern': 1, 'Legalization of Abortion': 2, 'Atheism': 3, 'Feminist Movement': 4, 'Donald Trump': 5}
-decode_dict = {0: 'Hillary Clinton', 1: 'Climate Change is a Real Concern', 2: 'Legalization of Abortion', 3: 'Atheism', 4: 'Feminist Movement', 5: 'Donald Trump'}
-
 # Load the labels and features
 # Yuhui: There is no 'Donald Trump' in training data
 df_train = pd.read_csv(TRAIN_SET_PATH, engine='python', dtype='str', encoding ='latin1')
 df_test = pd.read_csv(TEST_SET_PATH, engine='python', dtype='str', encoding ='latin1')
-Y_train = np.array([encode_dict[t] for t in df_train['Target']])
-Y_test = np.array([encode_dict[t] for t in df_test['Target']])
+
+# generate a dictionary for encoding labels
+labels = set()
+for t, s in zip(df_train['Target'], df_train['Sentiment']):
+    labels.add(t+' > '+s)
+for t, s in zip(df_test['Target'], df_test['Sentiment']):
+    labels.add(t+' > '+s)
+encode_dict = {}
+for i, label in enumerate(list(labels)):
+    encode_dict[label] = i
+print("We will encode the labels as: \n{}\n".format(encode_dict))
+
+Y_train = np.array([encode_dict[t+' > '+s] for t, s in zip(df_train['Target'], df_train['Sentiment'])])
+Y_test = np.array([encode_dict[t+' > '+s] for t, s in zip(df_test['Target'], df_test['Sentiment'])])
 print("Load {} targets of training data,\n\t{} features of test data.\n".format(Y_train.shape, Y_test.shape))
 
 X_train = np.load(TRAIN_FEATURE_PATH)
@@ -46,33 +61,11 @@ clf = svm.SVC(decision_function_shape='ovr')
 clf.fit(X_train, Y_train)
 print("Done!")
 
+
+
 # Test
 print("Let's test the SVM!")
 Y_pred = clf.predict(X_test)
 acc = accuracy_score(Y_test, Y_pred)
 print("Accuracy score: {}".format(acc))
 # output the restuls
-
-
-
-# Results of 'ovr' ----------------------------------
-# Load (2914,) targets of training data, 
-#         (1956,) features of test data.
-
-# Load (2914, 13459) features of training data,
-#         (1956, 13459) features of test data.
-
-# Training the SVM...
-# Let's test the SVM!
-# Accuracy score: 0.40081799591002043
-
-# Results of 'ovo' ----------------------------------
-# Load (2914,) targets of training data,
-#         (1956,) features of test data.
-
-# Load (2914, 13459) features of training data,
-#         (1956, 13459) features of test data.
-
-# Training the SVM...
-# Let's test the SVM!
-# Accuracy score: 0.40081799591002043
