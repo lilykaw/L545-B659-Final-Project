@@ -41,25 +41,13 @@ Load (2914, 13459) features of training data,
         (1956, 13459) features of test data.
 
 Training the SVM...
+Done!
 Let's test the SVM!
 Accuracy score: 0.40081799591002043
 ```
 
-Note (11/17/2021): After removing stopwords, accuracy improves to 0.42995910020449896. After that, removing numbers and pronouns did not affect the accuracy score at all.
+Note (11/17/2021): After removing stopwords, accuracy improves to 0.42995910020449896. After that, removing numbers and pronouns did not affect the accuracy score at all. 
 Removing usernames also did not affect the score.
-```
-Load (2914,) targets of training data,
-	(1956,) features of test data.
-
-Load (2914, 13442) features of training data,
-	(1956, 13442) features of test data.
-
-Training the SVM...
-Let's test the SVM!
-Accuracy score: 0.42995910020449896
-```
-
-Note (11/19/2021): After optimizing the parameters of SVM, accuracy improves to 0.42535787321063395.
 ```
 Load (2914,) targets of training data,
 	(1956,) features of test data.
@@ -70,5 +58,19 @@ Load (2914, 13442) features of training data,
 Training the SVM...
 Done!
 Let's test the SVM!
-Accuracy score: 0.42535787321063395
+Accuracy score: 0.42995910020449896
+```
+
+Note (11/19/2021): After optimizing the parameters of SVM, accuracy improves to 0.44683026584867075. 
+```
+Load (2914,) targets of training data,
+	(1956,) features of test data.
+
+Load (2914, 13442) features of training data,
+	(1956, 13442) features of test data.
+
+Training the SVM...
+Done!
+Let's test the SVM!
+Accuracy score: 0.44683026584867075
 ```
