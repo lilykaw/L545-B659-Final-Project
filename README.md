@@ -46,3 +46,14 @@ Accuracy score: 0.40081799591002043
 
 Note (11/17/2021): After removing stopwords, accuracy improves to 0.42995910020449896. After that, removing numbers and pronouns did not affect the accuracy score at all.
 Removing usernames also did not affect the score.
+```
+Load (2914,) targets of training data,
+	(1956,) features of test data.
+
+Load (2914, 13442) features of training data,
+	(1956, 13442) features of test data.
+
+Training the SVM...
+Let's test the SVM!
+Accuracy score: 0.42995910020449896
+```
