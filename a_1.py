@@ -68,7 +68,6 @@ for sent in word_tokens:
    sent = filtered_sentence
    filtered_tweets.append(sent)
 filtered_tweets = [' '.join(t) for t in filtered_tweets]
-#print(filtered_tweets)
 train_tweets = filtered_tweets
 #print(train_tweets)
 
