@@ -1,7 +1,7 @@
 '''
 Date: 2021-11-20 13:10:42
 LastEditors: yuhhong
-LastEditTime: 2021-11-20 14:56:45
+LastEditTime: 2021-11-22 13:16:43
 '''
 import re
 import string
@@ -61,21 +61,19 @@ class TweetsData(object):
         Y = target_df['Stance'].to_list()
         return X, Y
 
-    def get_data_of_target2(self, target): 
+    def get_data_of_target_bow(self, target): 
         # filter the data by target
         target_df = self.df[self.df['Target']==target]
         X = target_df['BOW'].to_list()
         Y = target_df['Stance'].to_list()
         return X, Y
 
-
     def get_nav(self):
         # changes sentences in 'CleanTweet' into only Nouns, Adjectives, & Verbs
         # note: see treetaggerwrapper manual on @daimrod 's GitHub for TreeTagger directory
-        # # Yuhui: I install the TreeTagger in a different directory:
-          # tagger = treetaggerwrapper.TreeTagger(TAGLANG='en', TAGDIR='/mnt/d/install/treetagger/') 
         NAV_LIST = ['NP', 'NPS', 'NN', 'NNS', 'JJ', 'JJR', 'JJS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
-        tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
+        # tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
+        tagger = treetaggerwrapper.TreeTagger(TAGLANG='en', TAGDIR='/mnt/d/install/treetagger/')
         cleantweets = self.df['CleanTweet'].to_list()
         
         pos_tweets = [tagger.tag_text(tweet) for tweet in cleantweets] # tagger format: 'word\tPOS\tlemma'
@@ -87,5 +85,4 @@ class TweetsData(object):
                 if POS in NAV_LIST:
                     str += word + ' '
             nav.append(str)
-
         return nav

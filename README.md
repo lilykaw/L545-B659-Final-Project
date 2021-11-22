@@ -1,7 +1,7 @@
 <!--
  * @Date: 2021-11-09 11:26:11
  * @LastEditors: yuhhong
- * @LastEditTime: 2021-11-20 15:00:28
+ * @LastEditTime: 2021-11-22 12:54:51
 -->
 # L545-B659-Final-Project
 
@@ -28,8 +28,12 @@ Tips:
 ## Part A
 
 - Extract a bag-of-words list of nouns, adjectives, and verbs for all targets individually. Then create feature vectors for all training and test data (separately) for all targets.
-- Perform classification using Support Vector Machines (SVM) and default settings. `a_2_all.py` is the codes for classify both target and sentiment. `a_2.py` is the codes for only classify target. 
-- Improve the results when optimize the settings. 
+- Perform classification using Support Vector Machines (SVM) and default settings. 
+- Improve the results when optimize the settings. In `explore_SVM_settings.ipynb`, the 'Hillary Clinton' is used as an example aiming to explore the affect of each parameter of SVM. Then we get a general step of adjust SVM settings and optimized them for different targets one by one in `a.py`. The general steps are: 
+	- Check that which kernel performance best with their default related parameters. 
+    In most of the situations, it is linear kernel or RBF kernel. If the dimension of feature is large enough compare to the number of samples, the data can be linearly seperatable in high dimensionality, the linear kernel will performance great and fast. If the dimension of feature is not large enough, the RBF kernel could be a good choice. 
+	- Adjust the regularization parameter.
+	- Check that whether a balanced class weight need to be used. 
 
 ---
 
