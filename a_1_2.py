@@ -43,45 +43,50 @@ df_test = pd.read_csv(TEST_SET_PATH, engine='python', dtype='str', encoding ='la
 
 
 ### 2: Preprocess on data (details in `a_1_2_util.py`).
+### 3: Extract a bag-of-words list of nouns, adj, and verbs from original Tweets.
 data_train = TweetsData(df_train) # init a TweetsData
 print("Load {} training data from {}".format(len(data_train), TRAIN_SET_PATH))
 data_test = TweetsData(df_test) # init a TweetsData
 print("Load {} test data from {}\n".format(len(data_test), TEST_SET_PATH))
 # print("Targets in train: {}".format(data_train.get_targets()))
-# print("Targets in test: {}".format(data_test.get_targets()))
+# print("Targets in test: {}".format(data_test.get_targets()))   
 
 
-
-### 3: Perform SVM for different targets indivisually. 
+### 4: Perform SVM for different targets individually. 
 for target in TARGET_LIST:
     # load data
     print(">>> {}".format(target))
-    X_train, Y_train = data_train.get_data_of_target(target)
-    X_test, Y_test = data_test.get_data_of_target(target)
+
+    # Lily: we may have to add more code later to specify whether to use X_[train|test] or X2_[train|test].
+    # For example, Parts A & B depend on the Noun/Adj/Verb bag-of-words vocabulary, but not Part C.
+    X2_train, Y_train = data_train.get_data_of_target2(target) # X2 = 'BOW', Y = 'Stance'
+    X2_test, Y_test = data_test.get_data_of_target2(target)
+    # X_train, Y_train = data_train.get_data_of_target(target) # X = 'CleanTweet', Y = 'Stance'
+    # X_test, Y_test = data_test.get_data_of_target(target)
 
     # encode X and Y
     # Yuhui: I put them outside the class TweetsData, because the training data 
     # and test data need to be encoded together. 
-    split_flg = len(X_train) # split training and test data later
-    vectorizer = CountVectorizer()
-    X = vectorizer.fit_transform(X_train + X_test).toarray()
-    X_train = X[:split_flg]
-    X_test = X[split_flg:]
+    split_flg = len(X2_train) # split training and test data later
+    vectorizer = CountVectorizer()           
+    X = vectorizer.fit_transform(X2_train + X2_test).toarray()      
+    X2_train = X[:split_flg]
+    X2_test = X[split_flg:]
 
     Y_train = np.array([STANCE_DICT[s] for s in Y_train])
     Y_test = np.array([STANCE_DICT[s] for s in Y_test])
-    print("X_train: {}, Y_train: {}".format(X_train.shape, Y_train.shape))
-    print("X_test: {}, Y_test: {}".format(X_test.shape, Y_test.shape))
+    print("X2_train: {}, Y_train: {}".format(X2_train.shape, Y_train.shape))
+    print("X2_test: {}, Y_test: {}".format(X2_test.shape, Y_test.shape))
 
     # train
     print("Training the SVM...")
     # clf = svm.SVC(decision_function_shape='ovo')
     clf = svm.SVC(decision_function_shape='ovr')
-    clf.fit(X_train, Y_train)
+    clf.fit(X2_train, Y_train)
     print("Done!")
 
     # test
     # print("Let's test the SVM!")
-    Y_pred = clf.predict(X_test)
+    Y_pred = clf.predict(X2_test)
     acc = accuracy_score(Y_test, Y_pred)
     print("Accuracy score: {}\n".format(acc))
