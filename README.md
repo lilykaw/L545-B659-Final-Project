@@ -34,6 +34,7 @@ Tips:
 ---
 
 Note (11/21/21): After filtering Vocabulary to be only Nouns, Adjectives, and Verbs, accuracy scores went down slightly.
+
 Results:
 
 ```
@@ -78,8 +79,8 @@ Accuracy score: 0.6210526315789474
 
 ---
 
-(11/20/21)
-Results: Vocabulary uses all words in training data
+(11/20/21) Vocabulary consists of all words
+Results: 
 
 ```
 Load 2914 training data from ./StanceDataset/train.csv
