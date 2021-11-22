@@ -78,7 +78,7 @@ Accuracy score: 0.6210526315789474
 
 ---
 
-
+(11/20/21)
 Results: Vocabulary uses all words in training data
 
 ```
