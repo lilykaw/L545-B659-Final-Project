@@ -24,7 +24,6 @@ Tips:
 
 2. Remember to add the path to treetagger to your environment variables. 
 
-
 ## Part A
 
 - Extract a bag-of-words list of nouns, adjectives, and verbs for all targets individually. Then create feature vectors for all training and test data (separately) for all targets.

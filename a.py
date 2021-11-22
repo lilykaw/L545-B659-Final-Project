@@ -39,8 +39,8 @@ STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 
 
 
-# Yuhui: I make it as a function for reusing in a_3. Also, we could adjust 
-# the settings for different targets seperately (shown in the __main__). 
+# Yuhui: I make it as a function for reusing in `explore_SVM_settings.ipynb`. 
+# Also, we could adjust the settings for different targets seperately (shown in the __main__). 
 def per_SVM(data_train, data_test, clf, target): 
     print(">>> {}".format(target))
 
