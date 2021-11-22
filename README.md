@@ -79,7 +79,8 @@ Accuracy score: 0.6210526315789474
 
 ---
 
-(11/20/21) Vocabulary consists of all words
+(11/20/21) Vocabulary consists of all words.
+
 Results: 
 
 ```
