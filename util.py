@@ -1,7 +1,7 @@
 '''
 Date: 2021-11-20 13:10:42
 LastEditors: yuhhong
-LastEditTime: 2021-11-24 14:47:03
+LastEditTime: 2021-11-24 15:03:17
 '''
 import re
 import string
@@ -26,11 +26,14 @@ class TweetsData(object):
         self.df['BOW'] = self.get_nav()
 
         # added column: the count of negative or positive lexicons
+        # check that positive and negative lexicons are added at the same time
+        assert pos_lexicon != None and neg_lexicon != None or pos_lexicon == None and neg_lexicon == None
         if pos_lexicon != None: 
             self.df['PosLexicon'] = self.gen_lexicon_feature(pos_lexicon)
         if neg_lexicon != None: 
             self.df['NegLexicon'] = self.gen_lexicon_feature(neg_lexicon)
-        self.df['CntLexicon'] = self.df['PosLexicon'] - self.df['NegLexicon']
+        if pos_lexicon != None and neg_lexicon != None: 
+            self.df['CntLexicon'] = self.df['PosLexicon'] - self.df['NegLexicon']
         
     def preprocess(self): 
         # 1. remove the punctuations 
