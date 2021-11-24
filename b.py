@@ -15,7 +15,7 @@ Part b.2:
     Can you use the Arguing Lexicon (http://mpqa.cs.pitt.edu/lexicons/arg_lexicon/)? Do you
     find occurrences of the listed expressions? How do you convert the information into features? 
     Howdo these features affect classiffcation results?
-    
+
 '''
 
 import pandas as pd
@@ -41,10 +41,6 @@ STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 def per_SVM(data_train, data_test, clf, target): 
     print(">>> {}".format(target))
 
-    # Lily: we may have to add more code later to specify whether to use X_[train|test] or X2_[train|test].
-    # For example, Parts A & B depend on the Noun/Adj/Verb bag-of-words vocabulary, but not Part C.
-    # X_train, Y_train = data_train.get_data_of_target_bow(target) # X2 = 'BOW', Y = 'Stance'
-    # X_test, Y_test = data_test.get_data_of_target_bow(target) 
     X_train, Y_train = data_train.get_data_of_target(target) # X = 'CleanTweet', Y = 'Stance'
     X_train_cnt_lexicon = data_train.get_cnt_lexicon_of_target(target)
 
@@ -52,9 +48,7 @@ def per_SVM(data_train, data_test, clf, target):
     X_test_cnt_lexicon = data_test.get_cnt_lexicon_of_target(target)
 
 
-    # encode X and Y
-    # Yuhui: I put them outside the class TweetsData, because the training data 
-    # and test data need to be encoded together. 
+    # encode X, Y and add lexicons feature into X
     split_flg = len(X_train) # split training and test data later
     vectorizer = CountVectorizer()           
     X = vectorizer.fit_transform(X_train + X_test).toarray()      

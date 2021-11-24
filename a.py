@@ -24,7 +24,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import svm
 from sklearn.metrics import accuracy_score
 
-from a_util import TweetsData
+from util import TweetsData
 
 # change paths if necessary
 TRAIN_SET_PATH = './StanceDataset/train.csv'
@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
 
 
-    ### 2: Preprocess on data (details in `a_1_2_util.py`).
+    ### 2: Preprocess on data (details in `a_1_2_util.py`). 
     ### 3: Extract a bag-of-words list of nouns, adj, and verbs from original Tweets.
     data_train = TweetsData(df_train) # init a TweetsData
     print("Load {} training data from {}".format(len(data_train), TRAIN_SET_PATH))
