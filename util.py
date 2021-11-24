@@ -1,7 +1,7 @@
 '''
 Date: 2021-11-20 13:10:42
 LastEditors: yuhhong
-LastEditTime: 2021-11-22 13:16:43
+LastEditTime: 2021-11-24 14:47:03
 '''
 import re
 import string
@@ -13,7 +13,7 @@ from nltk.tokenize import word_tokenize
 
 
 class TweetsData(object):
-    def __init__(self, df): 
+    def __init__(self, df, pos_lexicon=None, neg_lexicon=None): 
         self.df = df
         # check the input dataframe
         assert 'Tweet' in df.columns and 'Target' in df.columns and 'Stance' in df.columns
@@ -24,6 +24,13 @@ class TweetsData(object):
         # added column: new vocab only consists of Nouns, Adjectives, and Verbs
         # basically, filtered sentences of 'CleanTweet'
         self.df['BOW'] = self.get_nav()
+
+        # added column: the count of negative or positive lexicons
+        if pos_lexicon != None: 
+            self.df['PosLexicon'] = self.gen_lexicon_feature(pos_lexicon)
+        if neg_lexicon != None: 
+            self.df['NegLexicon'] = self.gen_lexicon_feature(neg_lexicon)
+        self.df['CntLexicon'] = self.df['PosLexicon'] - self.df['NegLexicon']
         
     def preprocess(self): 
         # 1. remove the punctuations 
@@ -34,7 +41,7 @@ class TweetsData(object):
         stop_words = set(stopwords.words('english'))
         word_tokens = [word_tokenize(sent) for sent in tweets]
         filtered_tweets = []
-        for sent in word_tokens:
+        for sent in word_tokens: 
             filtered_sentence = [w for w in sent if w not in stop_words]
             filtered_tweets.append(' '.join(filtered_sentence))
         # 3. remove usernames (holly)
@@ -86,3 +93,12 @@ class TweetsData(object):
                     str += word + ' '
             nav.append(str)
         return nav
+
+    def get_cnt_lexicon_of_target(self, target): 
+        return self.df[self.df['Target']==target]['CntLexicon']
+
+    def gen_lexicon_feature(self, lexicons): 
+        count_lexicons = []
+        for tweet in self.df['CleanTweet']: 
+            count_lexicons.append(sum([1 for w in tweet.split() if w in lexicons]))
+        return count_lexicons
