@@ -1,7 +1,7 @@
 '''
 Date: 2021-11-20 13:10:42
 LastEditors: yuhhong
-LastEditTime: 2021-11-24 15:19:03
+LastEditTime: 2021-11-24 15:46:52
 '''
 import re
 import string
@@ -98,7 +98,7 @@ class TweetsData(object):
         return nav
 
     def get_cnt_lexicon_of_target(self, target): 
-        return self.df[self.df['Target']==target]['CntLexicon']
+        return self.df[self.df['Target']==target]['CntLexicon'].to_list()
 
     def gen_lexicon_feature(self, lexicons): 
         count_lexicons = []

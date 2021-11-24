@@ -36,16 +36,19 @@ LEXICON = './subjectivity_clues_hltemnlp05/subjclueslen1-HLTEMNLP05.tff'
 TARGET_LIST = ['Hillary Clinton', 'Climate Change is a Real Concern', 'Legalization of Abortion', 'Atheism', 'Feminist Movement']
 STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 
-
+def normalize_list(list_normal): 
+    max_value = max(list_normal)
+    min_value = min(list_normal)
+    for i in range(len(list_normal)):
+        list_normal[i] = (list_normal[i] - min_value) / (max_value - min_value)
+    return list_normal 
 
 def per_SVM(data_train, data_test, clf, target): 
     print(">>> {}".format(target))
-
     X_train, Y_train = data_train.get_data_of_target(target) # X = 'CleanTweet', Y = 'Stance'
-    X_train_cnt_lexicon = data_train.get_cnt_lexicon_of_target(target)
-
+    X_train_cnt_lexicon = normalize_list(data_train.get_cnt_lexicon_of_target(target))
     X_test, Y_test = data_test.get_data_of_target(target)
-    X_test_cnt_lexicon = data_test.get_cnt_lexicon_of_target(target)
+    X_test_cnt_lexicon = normalize_list(data_test.get_cnt_lexicon_of_target(target))
 
     # encode X, Y and add lexicons feature into X
     split_flg = len(X_train) # split training and test data later
