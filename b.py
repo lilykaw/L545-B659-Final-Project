@@ -47,7 +47,6 @@ def per_SVM(data_train, data_test, clf, target):
     X_test, Y_test = data_test.get_data_of_target(target)
     X_test_cnt_lexicon = data_test.get_cnt_lexicon_of_target(target)
 
-
     # encode X, Y and add lexicons feature into X
     split_flg = len(X_train) # split training and test data later
     vectorizer = CountVectorizer()           
