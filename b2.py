@@ -118,6 +118,7 @@ if __name__ == "__main__":
         extend_arg_lexicons.append(new_lex)
     print("Generate {} argument lexicons!".format(len(extend_arg_lexicons)))
 
+
     
     ### 1: Read in train.csv and test.csv. 
     # 'latin1' resolves UniCode decode error
