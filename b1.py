@@ -18,10 +18,25 @@ Part b.2:
 
 '''
 
+# Extend data set to include features using the MPQA Subjectivity lexicon
+# Decide on a good way of using this information in features
+# The info includes:
+# - type (strongsubj or weaksubj)
+# - len (not useful because all of the lengths are 1)
+# - word1
+# - pos1 (noun, adjective, adverb, verb...)
+# - stemmed1 (y for yes, n for no)
+# - priorpolarity (positive or negative)
+
+# Plan (based on https://export.arxiv.org/ftp/arxiv/papers/1703/1703.02019.pdf):
+# 1) For each word in Tweets, check if word lemma is in subjectivity lexicon (file name: subjclueslen1-HLTEMNLP05.tff)
+# 2) If word from Tweets is in the lexicon, determine the priorpolarity (positive or negative)
+# 3) Assign +1 for positive polarity and -1 for negative polarity. Assign 0 if the word is not in the lexicon.
+## Note: for this, we can use all words for bag of words since there are more than just adjectives, nouns and verbs in the lexicon
+## To do: figure out how to assign the polarity scores and include these as features... 
+
 import pandas as pd
 import numpy as np
-import pprint
-import treetaggerwrapper
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import svm
@@ -32,7 +47,7 @@ from util import TweetsData
 # change paths if necessary
 TRAIN_SET_PATH = './StanceDataset/train.csv'
 TEST_SET_PATH = './StanceDataset/test.csv'
-LEXICON = './subjectivity_clues_hltemnlp05/subjclueslen1-HLTEMNLP05.tff'
+SUB_LEXICON = './subjectivity_clues_hltemnlp05/subjclueslen1-HLTEMNLP05.tff'
 TARGET_LIST = ['Hillary Clinton', 'Climate Change is a Real Concern', 'Legalization of Abortion', 'Atheism', 'Feminist Movement']
 STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 
@@ -46,9 +61,9 @@ def normalize_list(list_normal):
 def per_SVM(data_train, data_test, clf, target): 
     print(">>> {}".format(target))
     X_train, Y_train = data_train.get_data_of_target(target) # X = 'CleanTweet', Y = 'Stance'
-    X_train_cnt_lexicon = normalize_list(data_train.get_cnt_lexicon_of_target(target))
+    X_train_cnt_lexicon = normalize_list(data_train.get_cnt_sublexicon_of_target(target))
     X_test, Y_test = data_test.get_data_of_target(target)
-    X_test_cnt_lexicon = normalize_list(data_test.get_cnt_lexicon_of_target(target))
+    X_test_cnt_lexicon = normalize_list(data_test.get_cnt_sublexicon_of_target(target))
 
     # encode X, Y and add lexicons feature into X
     split_flg = len(X_train) # split training and test data later
@@ -81,7 +96,7 @@ def per_SVM(data_train, data_test, clf, target):
 if __name__ == "__main__": 
     # 0. Open lexicon file, use priorpolarity scores to determine 
     # if words from tweets are positive, negative, or neither
-    with open(LEXICON) as f: 
+    with open(SUB_LEXICON) as f: 
         lexicon = f.read().splitlines() 
     neg_lexicon = []
     pos_lexicon = []
@@ -107,9 +122,9 @@ if __name__ == "__main__":
 
     ### 2: Preprocess on data (details in `a_1_2_util.py`).
     ### 3: Extract a bag-of-words list of nouns, adj, and verbs from original Tweets.
-    data_train = TweetsData(df_train, pos_lexicon, neg_lexicon) # init a TweetsData
+    data_train = TweetsData(df_train, mode='SubLexicon', args=(pos_lexicon, neg_lexicon)) # init a TweetsData
     print("Load {} training data from {}".format(len(data_train), TRAIN_SET_PATH))
-    data_test = TweetsData(df_test, pos_lexicon, neg_lexicon) # init a TweetsData
+    data_test = TweetsData(df_test, mode='SubLexicon', args=(pos_lexicon, neg_lexicon)) # init a TweetsData
     print("Load {} test data from {}\n".format(len(data_test), TEST_SET_PATH))
     # print("Targets in train: {}".format(data_train.get_targets())) 
     # print("Targets in test: {}".format(data_test.get_targets()))  

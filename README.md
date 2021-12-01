@@ -1,7 +1,7 @@
 <!--
  * @Date: 2021-11-09 11:26:11
  * @LastEditors: yuhhong
- * @LastEditTime: 2021-11-24 15:48:49
+ * @LastEditTime: 2021-11-30 22:36:32
 -->
 # L545-B659-Final-Project
 
@@ -162,6 +162,47 @@ Accuracy score: 0.6421052631578947
 - Then extend your data set to include features using the [MPQA Subjectivity lexicon](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/). Decide on a good way of using this information in features. Explain your reasoning. How do the results change? 
 
 - Can you use the [Arguing Lexicon](http://mpqa.cs.pitt.edu/lexicons/arg_lexicon/)? Do you find occurrences of the listed expressions? How do you convert the information into features? How do these features affect classiffcation results?
+
+---
+
+Note (11/30/2021): Add arguing lexicons, and normalizing the feature to $[0, 1]$. 
+
+```
+>>> Hillary Clinton
+X_train: (689, 3978), Y_train: (689,)
+X_test: (295, 3978), Y_test: (295,)
+Training the SVM...
+Done!
+Accuracy score: 0.6237288135593221
+
+>>> Climate Change is a Real Concern
+X_train: (395, 3062), Y_train: (395,)
+X_test: (169, 3062), Y_test: (169,)
+Training the SVM...
+Done!
+Accuracy score: 0.7396449704142012
+
+>>> Legalization of Abortion
+X_train: (653, 3695), Y_train: (653,)
+X_test: (280, 3695), Y_test: (280,)
+Training the SVM...
+Done!
+Accuracy score: 0.6892857142857143
+
+>>> Atheism
+X_train: (513, 3317), Y_train: (513,)
+X_test: (220, 3317), Y_test: (220,)
+Training the SVM...
+Done!
+Accuracy score: 0.7318181818181818
+
+>>> Feminist Movement
+X_train: (664, 3985), Y_train: (664,)
+X_test: (285, 3985), Y_test: (285,)
+Training the SVM...
+Done!
+Accuracy score: 0.6385964912280702
+```
 
 ---
 
