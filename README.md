@@ -288,5 +288,5 @@ Accuracy score: 0.5929824561403508
 
 ## Part C
 
-- Parse your training and test data using MALTparser and the predened model. Then extract dependency triples form the data (word, head, label) and use those as features for the stance detection task instead of the bag-of-words model. How does that affect the results? 
+- Parse your training and test data using MALTparser and the predifined model. Then extract dependency triples form the data (word, head, label) and use those as features for the stance detection task instead of the bag-of-words model. How does that affect the results? 
 
