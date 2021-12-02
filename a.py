@@ -86,9 +86,9 @@ if __name__ == "__main__":
 
     ### 2: Preprocess on data (details in `a_1_2_util.py`). 
     ### 3: Extract a bag-of-words list of nouns, adj, and verbs from original Tweets.
-    data_train = TweetsData(df_train) # init a TweetsData
+    data_train = TweetsData(df_train, mode='Bow') # init a TweetsData
     print("Load {} training data from {}".format(len(data_train), TRAIN_SET_PATH))
-    data_test = TweetsData(df_test) # init a TweetsData
+    data_test = TweetsData(df_test, mode='Bow') # init a TweetsData
     print("Load {} test data from {}\n".format(len(data_test), TEST_SET_PATH))
     # print("Targets in train: {}".format(data_train.get_targets())) 
     # print("Targets in test: {}".format(data_test.get_targets()))  

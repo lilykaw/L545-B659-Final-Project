@@ -1,7 +1,7 @@
 '''
 Date: 2021-11-20 13:10:42
 LastEditors: yuhhong
-LastEditTime: 2021-12-02 12:30:36
+LastEditTime: 2021-12-02 12:35:47
 '''
 import re
 import string
@@ -13,7 +13,7 @@ from nltk.tokenize import word_tokenize
 
 
 class TweetsData(object):
-    def __init__(self, df, mode, args): 
+    def __init__(self, df, mode, args=None): 
         # Yuhui: Let's use mode to control which feature we will use. 
         # The number of parameters may lead conflict later. 
         self.df = df
