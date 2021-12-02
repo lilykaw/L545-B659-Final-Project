@@ -25,7 +25,6 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import svm
 from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import normalize
 
 from util import TweetsData
 
@@ -42,12 +41,19 @@ STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 
 
 
+def normalize_list(list_normal): 
+    max_value = max(list_normal)
+    min_value = min(list_normal)
+    for i in range(len(list_normal)):
+        list_normal[i] = (list_normal[i] - min_value) / (max_value - min_value)
+    return list_normal 
+
 def per_SVM(data_train, data_test, clf, target): 
     print(">>> {}".format(target))
     X_train, Y_train = data_train.get_data_of_target(target) # X = 'CleanTweet', Y = 'Stance'
-    X_train_cnt_lexicon = data_train.get_cnt_arglexicon_of_target(target)
+    X_train_cnt_lexicon = normalize_list(data_train.get_cnt_arglexicon_of_target(target))
     X_test, Y_test = data_test.get_data_of_target(target)
-    X_test_cnt_lexicon = data_test.get_cnt_arglexicon_of_target(target)
+    X_test_cnt_lexicon = normalize_list(data_test.get_cnt_arglexicon_of_target(target))
 
     # encode X, Y and add lexicons feature into X
     split_flg = len(X_train) # split training and test data later
@@ -56,10 +62,9 @@ def per_SVM(data_train, data_test, clf, target):
     X_train = X[:split_flg]
     X_test = X[split_flg:]
     # add lexicons
-    X_train_cnt_lexicon = normalize(np.array(X_train_cnt_lexicon))
+    X_train_cnt_lexicon = np.array(X_train_cnt_lexicon)[:, np.newaxis]
     X_train = np.append(X_train, X_train_cnt_lexicon, axis=1)
-    
-    X_test_cnt_lexicon = normalize(np.array(X_test_cnt_lexicon))
+    X_test_cnt_lexicon = np.array(X_test_cnt_lexicon)[:, np.newaxis]
     X_test = np.append(X_test, X_test_cnt_lexicon, axis=1)
 
     Y_train = np.array([STANCE_DICT[s] for s in Y_train])
@@ -81,7 +86,7 @@ def per_SVM(data_train, data_test, clf, target):
 if __name__ == "__main__": 
     # 0. Open lexicon files, including 5 macro files and 17 files contain arguing lexicons
     macro_dict = {}
-    arg_lexicons = {}
+    arg_lexicons = []
     file_list = [f for f in os.listdir(ARG_LEXICON_DIR) if f.endswith('.tff')]
     for file_name in file_list:
         if file_name in MACRO_ARG_LEXICONS:
@@ -98,24 +103,23 @@ if __name__ == "__main__":
             # process the argument lexicons
             with open(os.path.join(ARG_LEXICON_DIR, file_name), 'r') as f:
                 data = f.read().splitlines()[1:] # regular expressions
-                arg_lexicons[file_name.replace('.tff', '')] = data
+                arg_lexicons.extend(data)
     # extand the arg_lexicons by macro_dict
-    extend_arg_lexicons = {k: [] for k in arg_lexicons.keys()}
-    for k, v in arg_lexicons.items():
-        for lex in v: # v is a list of lexicons 
-            lex = lex.replace('\\', '') 
-            pos_iter = re.finditer(r'@(\w)+', lex, flags=0)
-            new_lex = lex
-            for p in pos_iter: # replace the words with macro dictionary
-                start_p = int(p.span()[0])
-                end_p = int(p.span()[1])
-                w = lex[start_p:end_p] # the positions are based on the 'lex', rather than the 'new_lex'
-                new_lex = re.sub(w, macro_dict[w], new_lex)
-            extend_arg_lexicons[k].append(new_lex)
-    print("Generate argument lexicons for {} classes!".format(len(extend_arg_lexicons)))
+    extend_arg_lexicons = []
+    for lex in arg_lexicons:
+        lex = lex.replace('\\', '') 
+        pos_iter = re.finditer(r'@(\w)+', lex, flags=0)
+        new_lex = lex
+        for p in pos_iter: # replace the words with macro dictionary
+            start_p = int(p.span()[0])
+            end_p = int(p.span()[1])
+            w = lex[start_p:end_p] # the positions are based on the 'lex', rather than the 'new_lex'
+            new_lex = re.sub(w, macro_dict[w], new_lex)
+        extend_arg_lexicons.append(new_lex)
+    print("Generate {} argument lexicons!".format(len(extend_arg_lexicons)))
+
 
     
-
     ### 1: Read in train.csv and test.csv. 
     # 'latin1' resolves UniCode decode error
     df_train = pd.read_csv(TRAIN_SET_PATH, engine='python', dtype='str', encoding ='latin1') 

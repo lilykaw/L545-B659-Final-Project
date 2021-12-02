@@ -1,7 +1,7 @@
 '''
 Date: 2021-11-20 13:10:42
 LastEditors: yuhhong
-LastEditTime: 2021-11-30 22:34:21
+LastEditTime: 2021-12-02 12:30:36
 '''
 import re
 import string
@@ -47,7 +47,8 @@ class TweetsData(object):
         elif mode == 'ArgLexicon': 
             regex_patterns = args
             # added column: the count of arguing lexicons
-            self.df['CntArgLex'] = self.gen_lexicon_feature_re(regex_patterns)
+            # self.df['CntArgLex'] = self.gen_lexicon_feature_re(regex_patterns)
+            self.df['CntArgLex'] = self.gen_lexicon_feature_redict(regex_patterns)
         
 
     def preprocess(self): 
@@ -100,11 +101,20 @@ class TweetsData(object):
             count_lexicons.append(sum([1 for w in tweet.split() if w in lexicons]))
         return count_lexicons
 
-    def gen_lexicon_feature_re(self, lexicons): 
+    # def gen_lexicon_feature_re(self, lexicons): 
+    #     count_lexicons = []
+    #     for tweet in self.df['CleanTweet']: 
+    #         count_lexicons.append(sum([len(re.findall(lex, tweet)) for lex in lexicons]))
+    #     return count_lexicons
+
+    def gen_lexicon_feature_redict(self, lexicons): 
         count_lexicons = []
         for tweet in self.df['CleanTweet']: 
-            count_lexicons.append(sum([len(re.findall(lex, tweet)) for lex in lexicons]))
-        return count_lexicons
+            count_lexicons_each = [] # a list of count of lexicons for each sentence
+            for lex_list in lexicons:
+                count_lexicons_each.append(sum([len(re.findall(lex, tweet)) for lex in lex_list]))
+            count_lexicons.append(count_lexicons_each)
+        return count_lexicons # shape: (n, 17)
 
     # Please put the "get" functions here ================================
     # These functions are used to export the features. 
