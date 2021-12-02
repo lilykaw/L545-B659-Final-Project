@@ -1,7 +1,8 @@
 <!--
+
  * @Date: 2021-11-09 11:26:11
  * @LastEditors: yuhhong
- * @LastEditTime: 2021-12-02 12:31:07
+ * @LastEditTime: 2021-12-02 13:56:12
 -->
 # L545-B659-Final-Project
 
@@ -24,7 +25,27 @@ Tips:
 
 2. Remember to add the path to treetagger to your environment variables. 
 
-## Part A
+
+
+## Performance
+
+| Target                           | Default_BOW        | Optimized_BOW      | Default_SubLexicon | Optimized_SubLexicon | Default_ArgLexicon | Optimized_ArgLexicon |
+| -------------------------------- | ------------------ | ------------------ | ------------------ | -------------------- | ------------------ | -------------------- |
+| Hillary Clinton                  | 0.6305084745762712 | 0.6338983050847458 | 0.6271186440677966 | 0.6576271186440678   | 0.6271186440677966 | 0.6610169491525424   |
+| Climate Change is a Real Concern | 0.7278106508875741 | 0.7396449704142012 | 0.7337278106508875 | 0.7337278106508875   | 0.7218934911242604 | 0.727810650887574    |
+| Legalization of Abortion         | 0.6892857142857143 | 0.6892857142857143 | 0.6892857142857143 | 0.6892857142857143   | 0.6928571428571428 | 0.6928571428571428   |
+| Atheism                          | 0.7227272727272728 | 0.7227272727272728 | 0.7318181818181818 | 0.7318181818181818   | 0.7318181818181818 | 0.7318181818181818   |
+| Feminist Movement                | 0.6210526315789474 | 0.6421052631578947 | 0.631578947368421  | 0.6421052631578947   | 0.6421052631578947 | 0.6421052631578947   |
+
+Also, here is the plot of all the performances. The optimized arguing lexicons perform best on most of the targets. 
+
+![results](./results.png)
+
+
+
+## Notes
+
+### Part A
 
 - Extract a bag-of-words list of nouns, adjectives, and verbs for all targets individually. Then create feature vectors for all training and test data (separately) for all targets.
 - Perform classification using Support Vector Machines (SVM) and default settings. 
@@ -157,7 +178,7 @@ Done!
 Accuracy score: 0.6421052631578947
 ```
 
-## Part B
+### Part B
 
 - Then extend your data set to include features using the [MPQA Subjectivity lexicon](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/). Decide on a good way of using this information in features. Explain your reasoning. How do the results change? 
 
@@ -327,7 +348,7 @@ Done!
 Accuracy score: 0.5929824561403508
 ```
 
-## Part C
+### Part C
 
 - Parse your training and test data using MALTparser and the predifined model. Then extract dependency triples form the data (word, head, label) and use those as features for the stance detection task instead of the bag-of-words model. How does that affect the results? 
 

@@ -34,6 +34,7 @@ from util import TweetsData
 # change paths if necessary
 TRAIN_SET_PATH = './StanceDataset/train.csv'
 TEST_SET_PATH = './StanceDataset/test.csv'
+RESULTS_PATH = 'results.csv'
 SUB_LEXICON = './subjectivity_clues_hltemnlp05/subjclueslen1-HLTEMNLP05.tff'
 ARG_LEXICON_DIR = './arglex_Somasundaran07'
 MACRO_ARG_LEXICONS = ['modals.tff', 'spoken.tff', 'wordclasses.tff', 'pronoun.tff', 'intensifiers.tff']
@@ -74,7 +75,9 @@ def per_SVM(data_train, data_test, clf, target):
 
     # test
     Y_pred = clf.predict(X_test)
-    print("Accuracy score: {}\n".format(accuracy_score(Y_test, Y_pred)))
+    acc = accuracy_score(Y_test, Y_pred)
+    print("Accuracy score: {}\n".format(acc))
+    return acc
 
 
 
@@ -113,6 +116,13 @@ if __name__ == "__main__":
                 new_lex = re.sub(w, macro_dict[w], new_lex)
             extend_arg_lexicons[k].append(new_lex)
     print("Generate argument lexicons for {} classes!".format(len(extend_arg_lexicons)))
+    # init the outputs
+    if os.path.exists(RESULTS_PATH): 
+        df_res = pd.read_csv(RESULTS_PATH, sep='\t')
+        print("Load the previous results from {}".format(RESULTS_PATH))
+        print(df_res)
+    else:
+        df_res = pd.DataFrame(TARGET_LIST, columns=['Target'])
 
     
 
@@ -136,6 +146,38 @@ if __name__ == "__main__":
 
     ### 4: Perform SVM for different targets individually. 
     print("Default SVM:\n")
+    results = []
     clf = svm.SVC(decision_function_shape='ovr')
     for target in TARGET_LIST: 
-        per_SVM(data_train, data_test, clf, target)
+        results.append(per_SVM(data_train, data_test, clf, target))
+
+
+
+    ### 5: Improve the results when optimize the settings. 
+    # The details of exploring the setting are in `explore_SVM_settings.ipynb`.  
+    print("Optimized SVM:\n")
+    opt_results = []
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Hillary Clinton'))
+
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Climate Change is a Real Concern'))
+
+    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Legalization of Abortion'))
+
+    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Atheism'))
+
+    clf = svm.SVC(C=0.1, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Feminist Movement'))
+
+    
+
+    ### 6: Save the results to a file. 
+    # add new columns for this experiment
+    df_res['Default_ArgLexicon'] = results
+    df_res['Optimized_ArgLexicon'] = opt_results
+    print(df_res)
+    df_res.to_csv(RESULTS_PATH, sep='\t', index=False)
+    print("Save the results into {}".format(RESULTS_PATH))

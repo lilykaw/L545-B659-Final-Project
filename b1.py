@@ -35,6 +35,7 @@ Part b.2:
 ## Note: for this, we can use all words for bag of words since there are more than just adjectives, nouns and verbs in the lexicon
 ## To do: figure out how to assign the polarity scores and include these as features... 
 
+import os
 import pandas as pd
 import numpy as np
 
@@ -47,6 +48,7 @@ from util import TweetsData
 # change paths if necessary
 TRAIN_SET_PATH = './StanceDataset/train.csv'
 TEST_SET_PATH = './StanceDataset/test.csv'
+RESULTS_PATH = 'results.csv'
 SUB_LEXICON = './subjectivity_clues_hltemnlp05/subjclueslen1-HLTEMNLP05.tff'
 TARGET_LIST = ['Hillary Clinton', 'Climate Change is a Real Concern', 'Legalization of Abortion', 'Atheism', 'Feminist Movement']
 STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
@@ -89,7 +91,9 @@ def per_SVM(data_train, data_test, clf, target):
 
     # test
     Y_pred = clf.predict(X_test)
-    print("Accuracy score: {}\n".format(accuracy_score(Y_test, Y_pred)))
+    acc = accuracy_score(Y_test, Y_pred)
+    print("Accuracy score: {}\n".format(acc))
+    return acc
 
 
 
@@ -110,6 +114,13 @@ if __name__ == "__main__":
             pos_lexicon.append(item.split()[2].split('=')[1])
         elif 'polarity=negative' in item:
             neg_lexicon.append(item.split()[2].split('=')[1])
+    # init the outputs
+    if os.path.exists(RESULTS_PATH): 
+        df_res = pd.read_csv(RESULTS_PATH, sep='\t')
+        print("Load the previous results from {}".format(RESULTS_PATH))
+        print(df_res)
+    else:
+        df_res = pd.DataFrame(TARGET_LIST, columns=['Target'])
 
 
 
@@ -133,7 +144,38 @@ if __name__ == "__main__":
 
     ### 4: Perform SVM for different targets individually. 
     print("Default SVM:\n")
+    results = []
     clf = svm.SVC(decision_function_shape='ovr')
     for target in TARGET_LIST: 
-        per_SVM(data_train, data_test, clf, target)
+        results.append(per_SVM(data_train, data_test, clf, target))
 
+
+    
+    ### 5: Improve the results when optimize the settings. 
+    # The details of exploring the setting are in `explore_SVM_settings.ipynb`.  
+    print("Optimized SVM:\n")
+    opt_results = []
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Hillary Clinton'))
+
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Climate Change is a Real Concern'))
+
+    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Legalization of Abortion'))
+
+    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Atheism'))
+
+    clf = svm.SVC(C=0.1, kernel='rbf', gamma='scale', class_weight=None)
+    opt_results.append(per_SVM(data_train, data_test, clf, target='Feminist Movement'))
+
+
+
+    ### 6: Save the results to a file. 
+    # add new columns for this experiment
+    df_res['Default_SubLexicon'] = results
+    df_res['Optimized_SubLexicon'] = opt_results
+    print(df_res)
+    df_res.to_csv(RESULTS_PATH, sep='\t', index=False)
+    print("Save the results into {}".format(RESULTS_PATH))
