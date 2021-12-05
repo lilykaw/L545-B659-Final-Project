@@ -85,6 +85,10 @@ class TweetsData(object):
         cleantweets = self.df['CleanTweet'].to_list()
         
         pos_tweets = [tagger.tag_text(tweet) for tweet in cleantweets] # tagger format: 'word\tPOS\tlemma'
+        f = open('tweets_tagged.txt', 'w')
+        for tweet in pos_tweets:
+           f.write(tweet)
+        f.close()
         nav = []
         for tweet in pos_tweets:
             str = ''
