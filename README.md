@@ -18,6 +18,7 @@ Please install the following packages:
 - scikit-learn
 - nltk
 - treetaggerwrapper
+- matplotlib
 
 Tips: 
 
@@ -29,17 +30,17 @@ Tips:
 
 ## Performance
 
-| Target                           | Default_BOW        | Optimized_BOW      | Default_SubLexicon | Optimized_SubLexicon | Default_ArgLexicon | Optimized_ArgLexicon |
-| -------------------------------- | ------------------ | ------------------ | ------------------ | -------------------- | ------------------ | -------------------- |
-| Hillary Clinton                  | 0.6305084745762712 | 0.6338983050847458 | 0.6271186440677966 | 0.6576271186440678   | 0.6271186440677966 | 0.6610169491525424   |
-| Climate Change is a Real Concern | 0.7278106508875741 | 0.7396449704142012 | 0.7337278106508875 | 0.7337278106508875   | 0.7218934911242604 | 0.727810650887574    |
-| Legalization of Abortion         | 0.6892857142857143 | 0.6892857142857143 | 0.6892857142857143 | 0.6892857142857143   | 0.6928571428571428 | 0.6928571428571428   |
-| Atheism                          | 0.7227272727272728 | 0.7227272727272728 | 0.7318181818181818 | 0.7318181818181818   | 0.7318181818181818 | 0.7318181818181818   |
-| Feminist Movement                | 0.6210526315789474 | 0.6421052631578947 | 0.631578947368421  | 0.6421052631578947   | 0.6421052631578947 | 0.6421052631578947   |
+| Target                           | Default_BOW | Optimized_BOW | Default_SubLexicon | Optimized_SubLexicon | Default_ArgLexicon | Optimized_ArgLexicon |
+| -------------------------------- | ----------- | ------------- | ------------------ | -------------------- | ------------------ | -------------------- |
+| Hillary Clinton                  | 0.6305      | 0.6339        | 0.6271             | 0.6576               | 0.6271             | **0.6610**           |
+| Climate Change is a Real Concern | 0.7278      | **0.7396**    | 0.7337             | 0.7337               | 0.7219             | 0.7278               |
+| Legalization of Abortion         | 0.6893      | 0.6893        | 0.6893             | 0.6893               | **0.6929**         | **0.6929**           |
+| Atheism                          | 0.7227      | 0.7227        | **0.7318**         | **0.7318**           | **0.7318**         | **0.7318**           |
+| Feminist Movement                | 0.6211      | **0.6421**    | 0.6316             | **0.6421**           | **0.6421**         | **0.6421**           |
 
 Also, here is the plot of all the performances. The optimized arguing lexicons perform best on most of the targets. 
 
-![results](./results.png)
+![results](./img/results.png)
 
 
 
