@@ -13,13 +13,13 @@ from nltk.tokenize import word_tokenize
 
 
 class TweetsData(object):
-    def __init__(self, df, mode, args=None): 
+    def __init__(self, df, mode='AllWords', args=None): 
         # Yuhui: Let's use mode to control which feature we will use. 
         # The number of parameters may lead conflict later. 
         self.df = df
         # check the input dataframe
         assert 'Tweet' in df.columns and 'Target' in df.columns and 'Stance' in df.columns
-        assert mode == 'Bow' or mode == 'SubLexicon' or mode == 'ArgLexicon'
+        assert mode=='AllWords' or mode == 'Bow' or mode == 'SubLexicon' or mode == 'ArgLexicon'
         # preprocess the tweets
         self.df['CleanTweet'] = self.preprocess()
 
