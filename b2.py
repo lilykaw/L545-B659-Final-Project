@@ -53,7 +53,7 @@ def per_SVM(data_train, data_test, clf, target):
     # encode X, Y and add lexicons feature into X
     split_flg = len(X_train) # split training and test data later
     vectorizer = CountVectorizer()           
-    X = vectorizer.fit_transform(X_train + X_test).toarray()      
+    X = vectorizer.fit_transform(X_train + X_test).toarray()    
     X_train = X[:split_flg]
     X_test = X[split_flg:]
     # add lexicons
