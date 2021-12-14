@@ -42,13 +42,13 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 
 - In the baseline, all the tweets have been preprocessed, and all the words are used as the feature. We could compare new features from PartA, PartB, PartC and PartD with this baseline, then decide what are the features will be used in our final model. 
 
-| Target                           | Default_BOW | Optimized_BOW |
-| -------------------------------- | ----------- | ------------- |
-| Hillary Clinton                  | 0.6237      | 0.6576        |
-| Climate Change is a Real Concern | 0.7278      | 0.7278        |
-| Legalization of Abortion         | 0.6928      | 0.7000        |
-| Atheism                          | 0.7318      | 0.7318        |
-| Feminist Movement                | 0.6421      | 0.6421        |
+| Target                           | Default_AllWords | Optimized_AllWords |
+| -------------------------------- | ---------------- | ------------------ |
+| Hillary Clinton                  | 0.6237           | 0.6576             |
+| Climate Change is a Real Concern | 0.7278           | 0.7278             |
+| Legalization of Abortion         | 0.6928           | 0.7000             |
+| Atheism                          | 0.7318           | 0.7318             |
+| Feminist Movement                | 0.6421           | 0.6421             |
 
 
 
