@@ -64,8 +64,11 @@ class TweetsData(object):
             filtered_sentence = [w for w in sent if w not in stop_words]
             filtered_tweets.append(' '.join(filtered_sentence))
         # 3. remove usernames (holly)
-        clean_tweets = [re.sub('@[^\s]+', '', t) for t in filtered_tweets]
-        return clean_tweets
+       # clean_tweets = [re.sub('@[^\s]+', '', t) for t in filtered_tweets]
+       # return clean_tweets
+      ''' If we remove usernames, that step would actually need to go before removing punctuation (because the regex
+          expression looks for '@', which is in the set of punctuation. But when I did that, the accuracy
+          decreased. So I don't think usernames should be removed. '''
 
     def __len__(self):
         return len(self.df)
