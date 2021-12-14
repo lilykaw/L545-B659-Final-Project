@@ -1,7 +1,7 @@
 '''
 Date: 2021-11-20 13:10:42
 LastEditors: yuhhong
-LastEditTime: 2021-12-02 12:35:47
+LastEditTime: 2021-12-14 14:27:49
 '''
 import re
 import string
@@ -22,6 +22,8 @@ class TweetsData(object):
         assert mode=='AllWords' or mode == 'Bow' or mode == 'SubLexicon' or mode == 'ArgLexicon'
         # preprocess the tweets
         self.df['CleanTweet'] = self.preprocess()
+
+        # Baseline uses the mode of 'AllWords'. Nothing special need to be done in this mode. 
 
         # Part A
         if mode == 'Bow':
@@ -64,11 +66,13 @@ class TweetsData(object):
             filtered_sentence = [w for w in sent if w not in stop_words]
             filtered_tweets.append(' '.join(filtered_sentence))
         # 3. remove usernames (holly)
-       # clean_tweets = [re.sub('@[^\s]+', '', t) for t in filtered_tweets]
-       # return clean_tweets
-      ''' If we remove usernames, that step would actually need to go before removing punctuation (because the regex
-          expression looks for '@', which is in the set of punctuation. But when I did that, the accuracy
-          decreased. So I don't think usernames should be removed. '''
+        # clean_tweets = [re.sub('@[^\s]+', '', t) for t in filtered_tweets]
+        # return clean_tweets
+        ''' If we remove usernames, that step would actually need to go before removing punctuation (because the regex
+        expression looks for '@', which is in the set of punctuation. But when I did that, the accuracy
+        decreased. So I don't think usernames should be removed. '''
+        '''Yuhui: Is there any Emoji in our data? I think that make sense to keep the emojis, but I did not find them.'''
+        return filtered_tweets
 
     def __len__(self):
         return len(self.df)
@@ -77,6 +81,7 @@ class TweetsData(object):
         print(self.df)
         return
     
+
     # Please put the "gen" functions here ================================
     # These functions are used to generate feature for the Dataset, in initialization. 
     def gen_nav(self):
@@ -88,10 +93,11 @@ class TweetsData(object):
         cleantweets = self.df['CleanTweet'].to_list()
         
         pos_tweets = [tagger.tag_text(tweet) for tweet in cleantweets] # tagger format: 'word\tPOS\tlemma'
-        f = open('tweets_tagged.txt', 'w')
-        for tweet in pos_tweets:
-           f.write(tweet)
-        f.close()
+        # Yuhui: Uncommend these line when use. 
+        # f = open('tweets_tagged.txt', 'w')
+        # for tweet in pos_tweets:
+        #    f.write(tweet)
+        # f.close()
         nav = []
         for tweet in pos_tweets:
             str = ''
@@ -122,6 +128,7 @@ class TweetsData(object):
                 count_lexicons_each.append(sum([len(re.findall(lex, tweet)) for lex in lex_list]))
             count_lexicons.append(count_lexicons_each)
         return count_lexicons # shape: (n, 17)
+
 
     # Please put the "get" functions here ================================
     # These functions are used to export the features. 

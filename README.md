@@ -2,7 +2,7 @@
 
  * @Date: 2021-11-09 11:26:11
  * @LastEditors: yuhhong
- * @LastEditTime: 2021-12-02 13:56:12
+ * @LastEditTime: 2021-12-14 14:52:19
 -->
 # L545-B659-Final-Project
 
@@ -38,6 +38,20 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 
 
 
+## Baseline
+
+- In the baseline, all the tweets have been preprocessed, and all the words are used as the feature. We could compare new features from PartA, PartB, PartC and PartD with this baseline, then decide what are the features will be used in our final model. 
+
+| Target                           | Default_BOW | Optimized_BOW |
+| -------------------------------- | ----------- | ------------- |
+| Hillary Clinton                  | 0.6237      | 0.6576        |
+| Climate Change is a Real Concern | 0.7278      | 0.7278        |
+| Legalization of Abortion         | 0.6928      | 0.7000        |
+| Atheism                          | 0.7318      | 0.7318        |
+| Feminist Movement                | 0.6421      | 0.6421        |
+
+
+
 ## Part A
 
 - Extract a bag-of-words list of nouns, adjectives, and verbs for all targets individually. Then create feature vectors for all training and test data (separately) for all targets.
@@ -45,16 +59,16 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 - Improve the results when optimize the settings. In `explore_SVM_settings.ipynb`, the 'Hillary Clinton' is used as an example aiming to explore the affect of each parameter of SVM. Then we get a general step of adjust SVM settings and optimized them for different targets one by one in `a.py`. The general steps are: 
 	- Check that which kernel performance best with their default related parameters. 
     In most of the situations, it is linear kernel or RBF kernel. If the dimension of feature is large enough compare to the number of samples, the data can be linearly seperatable in high dimensionality, the linear kernel will performance great and fast. If the dimension of feature is not large enough, the RBF kernel could be a good choice. 
-	- Adjust the regularization parameter.
+	- Adjust the regularization parameter. 
 	- Check that whether a balanced class weight need to be used. 
 
-| Target                           | Default_AllWords | Default_BOW | Optimized_BOW |
-| -------------------------------- | ---------------- | ----------- | ------------- |
-| Hillary Clinton                  | 0.6237           | 0.6305      | 0.6339        |
-| Climate Change is a Real Concern | 0.7278           | 0.7278      | 0.7396        |
-| Legalization of Abortion         | 0.6929           | 0.6893      | 0.6893        |
-| Atheism                          | 0.7318           | 0.7227      | 0.7227        |
-| Feminist Movement                | 0.6421           | 0.6211      | 0.6421        |
+| Target                           | Default_BOW | Optimized_BOW |
+| -------------------------------- | ----------- | ------------- |
+| Hillary Clinton                  | 0.6305      | 0.6339        |
+| Climate Change is a Real Concern | 0.7278      | 0.7396        |
+| Legalization of Abortion         | 0.6893      | 0.6893        |
+| Atheism                          | 0.7227      | 0.7227        |
+| Feminist Movement                | 0.6211      | 0.6421        |
 
 
 
@@ -95,4 +109,3 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 | Legalization of Abortion         | 0.7036          | 0.6750             | 0.6786                 |
 | Atheism                          | 0.7273          | 0.7273             | 0.7273                 |
 | Feminist Movement                | 0.6351          | 0.6561             | 0.6491                 |
-
