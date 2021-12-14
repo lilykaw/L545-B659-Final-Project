@@ -6,11 +6,6 @@ Holly Redman <hredman@iu.edu>
 Lily Kawaoto <lkawaoto@iu.edu>
 Yuhui Hong <yuhhong@iu.edu>
 
-Part b.1: 
-    Then extend your data set to include features using the MPQA Subjectivity lexicon 
-    (http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/). Decide on a good way of using this 
-    information in features. Explain your reasoning. How do the results change?
-
 Part b.2: 
     Can you use the Arguing Lexicon (http://mpqa.cs.pitt.edu/lexicons/arg_lexicon/)? Do you
     find occurrences of the listed expressions? How do you convert the information into features? 
@@ -20,6 +15,7 @@ Part b.2:
 import os
 import re
 import numpy as np
+pd.set_option("display.max_rows", None, "display.max_columns", None)
 import pandas as pd
 
 from sklearn.feature_extraction.text import CountVectorizer

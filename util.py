@@ -35,8 +35,8 @@ class TweetsData(object):
         # Part B - subjectivity lexicons
         elif mode == 'SubLexicon':
             # 12/14/21 update: Part B is an extension of Part A -- use NAV Vocab, not CleanTweets
-            self.df = df
-            self.df['BOW'] = self.gen.nav()
+            # Yuhui: But BOW does not perform good, we need to decide whether we will use BOW in this part or CleanTweet. 
+            self.df['BOW'] = self.gen_nav()
 
             pos_lexicon, neg_lexicon = args
             # added column: the count of negative or positive lexicons
@@ -47,11 +47,12 @@ class TweetsData(object):
             if neg_lexicon != None: 
                 self.df['NegLexicon'] = self.gen_lexicon_feature(neg_lexicon)
             if pos_lexicon != None and neg_lexicon != None: 
-                self.df['CntSubLex'] = self.df['PosLexicon'] - self.df['NegLexicon']
+                # self.df['CntSubLex'] = self.df['PosLexicon'] - self.df['NegLexicon']
+                # Yuhui: Let's concatenate the PosLexicon and NegLexicon
+                self.df['CntSubLex'] = [[p, n, p-n] for p, n in zip(self.df['PosLexicon'], self.df['NegLexicon'])]
   
         # Part B - arguing lexicons
         elif mode == 'ArgLexicon': 
-            self.df = df
             self.df['BOW'] = self.gen.nav()
 
             regex_patterns = args
@@ -96,8 +97,8 @@ class TweetsData(object):
         # changes sentences in 'CleanTweet' into only Nouns, Adjectives, & Verbs
         # note: see treetaggerwrapper manual on @daimrod 's GitHub for TreeTagger directory
         NAV_LIST = ['NP', 'NPS', 'NN', 'NNS', 'JJ', 'JJR', 'JJS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
-        tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
-        # tagger = treetaggerwrapper.TreeTagger(TAGLANG='en', TAGDIR='/mnt/d/install/treetagger/')
+        # tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
+        tagger = treetaggerwrapper.TreeTagger(TAGLANG='en', TAGDIR='/mnt/d/install/treetagger/')
         cleantweets = self.df['CleanTweet'].to_list()
 
         pos_tweets = [tagger.tag_text(tweet) for tweet in cleantweets] # tagger format: 'word\tPOS\tlemma'
