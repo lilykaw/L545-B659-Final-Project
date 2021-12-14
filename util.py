@@ -7,6 +7,7 @@ import re
 import string
 import numpy as np
 import treetaggerwrapper
+import pprint
 
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
@@ -27,13 +28,16 @@ class TweetsData(object):
 
         # Part A
         if mode == 'Bow':
-            self.df = df
             # added column: new vocab only consists of Nouns, Adjectives, and Verbs
             # basically, filtered sentences of 'CleanTweet'
             self.df['BOW'] = self.gen_nav()
             
         # Part B - subjectivity lexicons
         elif mode == 'SubLexicon':
+            # 12/14/21 update: Part B is an extension of Part A -- use NAV Vocab, not CleanTweets
+            self.df = df
+            self.df['BOW'] = self.gen.nav()
+
             pos_lexicon, neg_lexicon = args
             # added column: the count of negative or positive lexicons
             # check that positive and negative lexicons are added at the same time
@@ -47,6 +51,9 @@ class TweetsData(object):
   
         # Part B - arguing lexicons
         elif mode == 'ArgLexicon': 
+            self.df = df
+            self.df['BOW'] = self.gen.nav()
+
             regex_patterns = args
             # added column: the count of arguing lexicons
             # self.df['CntArgLex'] = self.gen_lexicon_feature_re(regex_patterns)
@@ -71,7 +78,8 @@ class TweetsData(object):
         ''' If we remove usernames, that step would actually need to go before removing punctuation (because the regex
         expression looks for '@', which is in the set of punctuation. But when I did that, the accuracy
         decreased. So I don't think usernames should be removed. '''
-        '''Yuhui: Is there any Emoji in our data? I think that make sense to keep the emojis, but I did not find them.'''
+        '''Delete this command, when we solved this!
+        Yuhui: Is there any Emoji in our data? I think that make sense to keep the emojis, but I did not find them.'''
         return filtered_tweets
 
     def __len__(self):
@@ -88,10 +96,10 @@ class TweetsData(object):
         # changes sentences in 'CleanTweet' into only Nouns, Adjectives, & Verbs
         # note: see treetaggerwrapper manual on @daimrod 's GitHub for TreeTagger directory
         NAV_LIST = ['NP', 'NPS', 'NN', 'NNS', 'JJ', 'JJR', 'JJS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
-        # tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
-        tagger = treetaggerwrapper.TreeTagger(TAGLANG='en', TAGDIR='/mnt/d/install/treetagger/')
+        tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
+        # tagger = treetaggerwrapper.TreeTagger(TAGLANG='en', TAGDIR='/mnt/d/install/treetagger/')
         cleantweets = self.df['CleanTweet'].to_list()
-        
+
         pos_tweets = [tagger.tag_text(tweet) for tweet in cleantweets] # tagger format: 'word\tPOS\tlemma'
         # Yuhui: Uncommend these line when use. 
         # f = open('tweets_tagged.txt', 'w')
@@ -110,7 +118,7 @@ class TweetsData(object):
 
     def gen_lexicon_feature(self, lexicons): 
         count_lexicons = []
-        for tweet in self.df['CleanTweet']: 
+        for tweet in self.df['BOW']: 
             count_lexicons.append(sum([1 for w in tweet.split() if w in lexicons]))
         return count_lexicons
 
@@ -122,7 +130,7 @@ class TweetsData(object):
 
     def gen_lexicon_feature_redict(self, lexicons): 
         count_lexicons = []
-        for tweet in self.df['CleanTweet']: 
+        for tweet in self.df['BOW']: 
             count_lexicons_each = [] # a list of count of lexicons for each sentence
             for lex_list in lexicons:
                 count_lexicons_each.append(sum([len(re.findall(lex, tweet)) for lex in lex_list]))
