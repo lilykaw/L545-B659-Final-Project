@@ -11,11 +11,6 @@ Part b.1:
     (http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/). Decide on a good way of using this 
     information in features. Explain your reasoning. How do the results change?
 
-Part b.2: 
-    Can you use the Arguing Lexicon (http://mpqa.cs.pitt.edu/lexicons/arg_lexicon/)? Do you
-    find occurrences of the listed expressions? How do you convert the information into features? 
-    Howdo these features affect classiffcation results?
-
 '''
 
 # Extend data set to include features using the MPQA Subjectivity lexicon
@@ -37,11 +32,13 @@ Part b.2:
 
 import os
 import pandas as pd
+pd.set_option("display.max_rows", None, "display.max_columns", None)
 import numpy as np
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import svm
 from sklearn.metrics import accuracy_score
+from sklearn.preprocessing import normalize
 
 from util import TweetsData
 
@@ -53,30 +50,26 @@ SUB_LEXICON = './subjectivity_clues_hltemnlp05/subjclueslen1-HLTEMNLP05.tff'
 TARGET_LIST = ['Hillary Clinton', 'Climate Change is a Real Concern', 'Legalization of Abortion', 'Atheism', 'Feminist Movement']
 STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 
-def normalize_list(list_normal): 
-    max_value = max(list_normal)
-    min_value = min(list_normal)
-    for i in range(len(list_normal)):
-        list_normal[i] = (list_normal[i] - min_value) / (max_value - min_value)
-    return list_normal 
+
 
 def per_SVM(data_train, data_test, clf, target): 
     print(">>> {}".format(target))
     X_train, Y_train = data_train.get_data_of_target(target) # X = 'CleanTweet', Y = 'Stance'
-    X_train_cnt_lexicon = normalize_list(data_train.get_cnt_sublexicon_of_target(target))
+    X_train_cnt_lexicon = data_train.get_cnt_sublexicon_of_target(target)
     X_test, Y_test = data_test.get_data_of_target(target)
-    X_test_cnt_lexicon = normalize_list(data_test.get_cnt_sublexicon_of_target(target))
+    X_test_cnt_lexicon = data_test.get_cnt_sublexicon_of_target(target)
 
     # encode X, Y and add lexicons feature into X
     split_flg = len(X_train) # split training and test data later
-    vectorizer = CountVectorizer()           
+    vectorizer = CountVectorizer()        
     X = vectorizer.fit_transform(X_train + X_test).toarray()      
     X_train = X[:split_flg]
     X_test = X[split_flg:]
     # add lexicons
-    X_train_cnt_lexicon = np.array(X_train_cnt_lexicon)[:, np.newaxis]
+    # X_train_cnt_lexicon = np.array(X_train_cnt_lexicon)[:, np.newaxis]
+    X_train_cnt_lexicon = normalize(np.array(X_train_cnt_lexicon), axis=0)
     X_train = np.append(X_train, X_train_cnt_lexicon, axis=1)
-    X_test_cnt_lexicon = np.array(X_test_cnt_lexicon)[:, np.newaxis]
+    X_test_cnt_lexicon = normalize(np.array(X_test_cnt_lexicon), axis=0)
     X_test = np.append(X_test, X_test_cnt_lexicon, axis=1)
 
     Y_train = np.array([STANCE_DICT[s] for s in Y_train])
@@ -143,7 +136,7 @@ if __name__ == "__main__":
 
 
     ### 4: Perform SVM for different targets individually. 
-    print("Default SVM:\n")
+    print("Default SVM ==============>> \n")
     results = []
     clf = svm.SVC(decision_function_shape='ovr')
     for target in TARGET_LIST: 
@@ -153,21 +146,23 @@ if __name__ == "__main__":
     
     ### 5: Improve the results when optimize the settings. 
     # The details of exploring the setting are in `explore_SVM_settings.ipynb`.  
-    print("Optimized SVM:\n")
+    print("Optimized SVM ==============>> \n")
     opt_results = []
+    # Yuhui: These optimized SVM is different with that in baseline. We may always optimize the SVM 
+    # when we use the different features. "C" is the most important parameter, which need to be adjusted. 
     clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Hillary Clinton'))
 
     clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Climate Change is a Real Concern'))
 
-    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Legalization of Abortion'))
 
-    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Atheism'))
 
-    clf = svm.SVC(C=0.1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Feminist Movement'))
 
 

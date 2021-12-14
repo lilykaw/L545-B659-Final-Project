@@ -1,25 +1,13 @@
 '''
+Date: 2021-12-14 13:55:02
+LastEditors: yuhhong
+LastEditTime: 2021-12-14 14:35:13
 
-L545/B659 Fall 2021
-Final Project
-Holly Redman <hredman@iu.edu>
-Lily Kawaoto <lkawaoto@iu.edu>
-Yuhui Hong <yuhhong@iu.edu>
-
-Part a.1:
-    "Extract a bag-of-words list of nouns, adjectives, and verbs for all targets individually. 
-    Then create feature vectors for all training and test data (separately) for all targets."
-
-Part a.2: 
-    "Perform classification using Support Vector Machines (SVM) and default settings."
-
-Part a.3:
-    "Improve the results when optimize the settings. " 
-
+This is the baseline, which use all the words as features. We could compare the results from part A, B, C and D with this baseline. 
 '''
+
 import os
 import pandas as pd
-pd.set_option("display.max_rows", None, "display.max_columns", None)
 import numpy as np
 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -33,11 +21,6 @@ TRAIN_SET_PATH = './StanceDataset/train.csv'
 TEST_SET_PATH = './StanceDataset/test.csv'
 RESULTS_PATH = 'results.csv'
 TARGET_LIST = ['Hillary Clinton', 'Climate Change is a Real Concern', 'Legalization of Abortion', 'Atheism', 'Feminist Movement']
-# Yuhui: Except 'Donald Trump' temporarily, we may need to disscuss how to process this target. 
-# Targets in train: ['Hillary Clinton', 'Atheism', 'Legalization of Abortion', 
-#                       'Climate Change is a Real Concern', 'Feminist Movement']
-# Targets in test: ['Donald Trump', 'Hillary Clinton', 'Atheism', 'Climate Change is a Real Concern', 
-#                          'Feminist Movement', 'Legalization of Abortion']
 STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 
 
@@ -47,10 +30,8 @@ STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 def per_SVM(data_train, data_test, clf, target): 
     print(">>> {}".format(target))
 
-    # Lily: we may have to add more code later to specify whether to use X_[train|test] or X2_[train|test].
-    # For example, Parts A & B depend on the Noun/Adj/Verb bag-of-words vocabulary, but not Part C.
-    X_train, Y_train = data_train.get_data_of_target_bow(target) # X2 = 'BOW', Y = 'Stance'
-    X_test, Y_test = data_test.get_data_of_target_bow(target)
+    X_train, Y_train = data_train.get_data_of_target(target) # X = 'CleanTweet', Y = 'Stance'
+    X_test, Y_test = data_test.get_data_of_target(target)
 
     # encode X and Y
     # Yuhui: I put them outside the class TweetsData, because the training data 
@@ -96,12 +77,12 @@ if __name__ == "__main__":
 
     ### 2: Preprocess on data (details in `a_1_2_util.py`). 
     ### 3: Extract a bag-of-words list of nouns, adj, and verbs from original Tweets.
-    data_train = TweetsData(df_train, mode='Bow') # init a TweetsData
+    data_train = TweetsData(df_train, mode='AllWords') # init a TweetsData
     print("Load {} training data from {}".format(len(data_train), TRAIN_SET_PATH))
-    data_test = TweetsData(df_test, mode='Bow') # init a TweetsData
+    data_test = TweetsData(df_test, mode='AllWords') # init a TweetsData
     print("Load {} test data from {}\n".format(len(data_test), TEST_SET_PATH))
     # print("Targets in train: {}".format(data_train.get_targets())) 
-    # print("Targets in test: {}".format(data_test.get_targets()))  
+    # print("Targets in test: {}".format(data_test.get_targets()))
 
 
 
@@ -118,30 +99,27 @@ if __name__ == "__main__":
     # The details of exploring the setting are in `explore_SVM_settings.ipynb`.  
     print("Optimized SVM ==============>> \n")
     opt_results = []
-    # Yuhui: These optimized SVM is different with that in baseline. We may always optimize the SVM 
-    # when we use the different features. "C" is the most important parameter, which need to be adjusted. 
-    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight='balanced')
     opt_results.append(per_SVM(data_train, data_test, clf, target='Hillary Clinton'))
 
-    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=100, kernel='rbf', gamma='scale', class_weight='balanced')
     opt_results.append(per_SVM(data_train, data_test, clf, target='Climate Change is a Real Concern'))
 
-    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=100, kernel='rbf', gamma='scale', class_weight='balanced')
     opt_results.append(per_SVM(data_train, data_test, clf, target='Legalization of Abortion'))
 
-    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight='balanced')
     opt_results.append(per_SVM(data_train, data_test, clf, target='Atheism'))
 
-    clf = svm.SVC(C=0.1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=0.1, kernel='rbf', gamma='scale', class_weight='balanced')
     opt_results.append(per_SVM(data_train, data_test, clf, target='Feminist Movement'))
 
 
 
     ### 6: Save the results to a file. 
     # add new columns for this experiment
-    df_res['Default_BOW'] = results
-    df_res['Optimized_BOW'] = opt_results
+    df_res['Default_AllWords'] = results
+    df_res['Optimized_AllWords'] = opt_results
     print(df_res)
     df_res.to_csv(RESULTS_PATH, sep='\t', index=False)
     print("Save the results into {}".format(RESULTS_PATH))
-

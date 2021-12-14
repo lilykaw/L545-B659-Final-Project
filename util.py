@@ -1,7 +1,7 @@
 '''
 Date: 2021-11-20 13:10:42
 LastEditors: yuhhong
-LastEditTime: 2021-12-02 12:35:47
+LastEditTime: 2021-12-14 14:27:49
 '''
 import re
 import string
@@ -24,6 +24,8 @@ class TweetsData(object):
         # preprocess the tweets
         self.df['CleanTweet'] = self.preprocess()
 
+        # Baseline uses the mode of 'AllWords'. Nothing special need to be done in this mode. 
+
         # Part A
         if mode == 'Bow':
             # added column: new vocab only consists of Nouns, Adjectives, and Verbs
@@ -33,7 +35,8 @@ class TweetsData(object):
         # Part B - subjectivity lexicons
         elif mode == 'SubLexicon':
             # 12/14/21 update: Part B is an extension of Part A -- use NAV Vocab, not CleanTweets
-            self.df['BOW'] = self.gen.nav()
+            # Yuhui: But BOW does not perform good, we need to decide whether we will use BOW in this part or CleanTweet. 
+            self.df['BOW'] = self.gen_nav()
 
             pos_lexicon, neg_lexicon = args
             # added column: the count of negative or positive lexicons
@@ -44,12 +47,13 @@ class TweetsData(object):
             if neg_lexicon != None: 
                 self.df['NegLexicon'] = self.gen_lexicon_feature(neg_lexicon)
             if pos_lexicon != None and neg_lexicon != None: 
-                self.df['CntSubLex'] = self.df['PosLexicon'] - self.df['NegLexicon']
+                # self.df['CntSubLex'] = self.df['PosLexicon'] - self.df['NegLexicon']
+                # Yuhui: Let's concatenate the PosLexicon and NegLexicon
+                self.df['CntSubLex'] = [[p, n, p-n] for p, n in zip(self.df['PosLexicon'], self.df['NegLexicon'])]
   
         # Part B - arguing lexicons
-        elif mode == 'ArgLexicon':
-            # 12/14/21 update: Part B is an extension of Part A -- use NAV Vocab, not CleanTweets
-            self.df['BOW'] = self.gen.nav()
+        elif mode == 'ArgLexicon': 
+            self.df['BOW'] = self.gen_nav()
 
             regex_patterns = args
             # added column: the count of arguing lexicons
@@ -73,8 +77,10 @@ class TweetsData(object):
         # clean_tweets = [re.sub('@[^\s]+', '', t) for t in filtered_tweets]
         # return clean_tweets
         ''' If we remove usernames, that step would actually need to go before removing punctuation (because the regex
-          expression looks for '@', which is in the set of punctuation. But when I did that, the accuracy
-          decreased. So I don't think usernames should be removed. '''
+        expression looks for '@', which is in the set of punctuation. But when I did that, the accuracy
+        decreased. So I don't think usernames should be removed. '''
+        '''Delete this command, when we solved this!
+        Yuhui: Is there any Emoji in our data? I think that make sense to keep the emojis, but I did not find them.'''
         return filtered_tweets
 
     def __len__(self):
@@ -84,6 +90,7 @@ class TweetsData(object):
         print(self.df)
         return
     
+
     # Please put the "gen" functions here ================================
     # These functions are used to generate feature for the Dataset, in initialization. 
     def gen_nav(self):
@@ -97,12 +104,11 @@ class TweetsData(object):
         cleantweets = self.df['CleanTweet'].to_list()
 
         pos_tweets = [tagger.tag_text(tweet) for tweet in cleantweets] # tagger format: 'word\tPOS\tlemma'
-
-        f = open('tweets_tagged.txt', 'w')
-        for tweet in pos_tweets:
-            for sent in tweet:
-                f.write(sent)
-        f.close()
+        # Yuhui: Uncommend these line when use. 
+        # f = open('tweets_tagged.txt', 'w')
+        # for tweet in pos_tweets:
+        #    f.write(tweet)
+        # f.close()
         nav = []
         for tweet in pos_tweets:
             str = ''
@@ -133,6 +139,7 @@ class TweetsData(object):
                 count_lexicons_each.append(sum([len(re.findall(lex, tweet)) for lex in lex_list]))
             count_lexicons.append(count_lexicons_each)
         return count_lexicons # shape: (n, 17)
+
 
     # Please put the "get" functions here ================================
     # These functions are used to export the features. 
