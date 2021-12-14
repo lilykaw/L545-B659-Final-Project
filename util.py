@@ -33,7 +33,6 @@ class TweetsData(object):
         # Part B - subjectivity lexicons
         elif mode == 'SubLexicon':
             # 12/14/21 update: Part B is an extension of Part A -- use NAV Vocab, not CleanTweets
-            self.df = df
             self.df['BOW'] = self.gen.nav()
 
             pos_lexicon, neg_lexicon = args
@@ -48,8 +47,8 @@ class TweetsData(object):
                 self.df['CntSubLex'] = self.df['PosLexicon'] - self.df['NegLexicon']
   
         # Part B - arguing lexicons
-        elif mode == 'ArgLexicon': 
-            self.df = df
+        elif mode == 'ArgLexicon':
+            # 12/14/21 update: Part B is an extension of Part A -- use NAV Vocab, not CleanTweets
             self.df['BOW'] = self.gen.nav()
 
             regex_patterns = args
@@ -90,7 +89,9 @@ class TweetsData(object):
     def gen_nav(self):
         # changes sentences in 'CleanTweet' into only Nouns, Adjectives, & Verbs
         # note: see treetaggerwrapper manual on @daimrod 's GitHub for TreeTagger directory
-        NAV_LIST = ['NP', 'NPS', 'NN', 'NNS', 'JJ', 'JJR', 'JJS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
+        NAV_LIST = ['NP', 'NPS', 'NN', 'NNS', 
+        'JJ', 'JJR', 'JJS', 
+        'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ', 'VD', 'VDG', 'VDN', 'VDZ', 'VDP', 'VH', 'VHD', 'VHG', 'VHN', 'VHZ', 'VHP', 'VV', 'VVD', 'VVG', 'VVN', 'VVP', 'VVZ']
         tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
         # tagger = treetaggerwrapper.TreeTagger(TAGLANG='en', TAGDIR='/mnt/d/install/treetagger/')
         cleantweets = self.df['CleanTweet'].to_list()
