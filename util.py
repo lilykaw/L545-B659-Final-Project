@@ -53,7 +53,7 @@ class TweetsData(object):
   
         # Part B - arguing lexicons
         elif mode == 'ArgLexicon': 
-            self.df['BOW'] = self.gen.nav()
+            self.df['BOW'] = self.gen_nav()
 
             regex_patterns = args
             # added column: the count of arguing lexicons

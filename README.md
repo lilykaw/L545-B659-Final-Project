@@ -81,8 +81,8 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 | Target                           | Default_SubLexicon | Optimized_SubLexicon | Default_ArgLexicon | Optimized_ArgLexicon |
 | -------------------------------- | ------------------ | -------------------- | ------------------ | -------------------- |
 | Hillary Clinton                  | 0.6237             | 0.6576               | 0.6271             | 0.6610               |
-| Climate Change is a Real Concern | 0.7278             | 0.7278               | 0.7219             | 0.7278               |
-| Legalization of Abortion         | 0.6929             | 0.7000               | 0.6929             | 0.6929               |
+| Climate Change is a Real Concern | 0.7278             | 0.7278               | 0.7219             | 0.7396               |
+| Legalization of Abortion         | 0.6929             | 0.7000               | 0.6929             | 0.6964               |
 | Atheism                          | 0.7318             | 0.7318               | 0.7318             | 0.7318               |
 | Feminist Movement                | 0.6421             | 0.6421               | 0.6421             | 0.6421               |
 

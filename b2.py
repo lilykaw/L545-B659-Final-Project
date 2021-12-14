@@ -15,8 +15,8 @@ Part b.2:
 import os
 import re
 import numpy as np
-pd.set_option("display.max_rows", None, "display.max_columns", None)
 import pandas as pd
+pd.set_option("display.max_rows", None, "display.max_columns", None)
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import svm
@@ -159,13 +159,13 @@ if __name__ == "__main__":
     clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Climate Change is a Real Concern'))
 
-    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Legalization of Abortion'))
 
-    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Atheism'))
 
-    clf = svm.SVC(C=0.1, kernel='rbf', gamma='scale', class_weight=None)
+    clf = svm.SVC(C=1, kernel='rbf', gamma='scale', class_weight=None)
     opt_results.append(per_SVM(data_train, data_test, clf, target='Feminist Movement'))
 
     
