@@ -32,6 +32,8 @@ Tips:
 
 ## Performance
 
+We may use more metrics (recall, precisioon, f1-score) in the final paper!!
+
 Here is the plot of all the performances. The optimized arguing lexicons perform best on most of the targets. 
 
 ![results](./img/results.png)
@@ -64,11 +66,11 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 
 | Target                           | Default_BOW | Optimized_BOW |
 | -------------------------------- | ----------- | ------------- |
-| Hillary Clinton                  | 0.6305      | 0.6339        |
-| Climate Change is a Real Concern | 0.7278      | 0.7396        |
-| Legalization of Abortion         | 0.6893      | 0.6893        |
-| Atheism                          | 0.7227      | 0.7227        |
-| Feminist Movement                | 0.6211      | 0.6421        |
+| Hillary Clinton                  | 0.6305      | 0.6406        |
+| Climate Change is a Real Concern | 0.7456      | 0.7574        |
+| Legalization of Abortion         | 0.6929      | 0.6929        |
+| Atheism                          | 0.7318      | 0.7318        |
+| Feminist Movement                | 0.6070      | 0.6421        |
 
 
 
@@ -91,6 +93,7 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 ### Part C
 
 - Parse your training and test data using MALTparser and the predifined model. Then extract dependency triples form the data (word, head, label) and use those as features for the stance detection task instead of the bag-of-words model. How does that affect the results? 
+
 
 
 

@@ -66,7 +66,6 @@ def per_SVM(data_train, data_test, clf, target):
     X_train = X[:split_flg]
     X_test = X[split_flg:]
     # add lexicons
-    # X_train_cnt_lexicon = np.array(X_train_cnt_lexicon)[:, np.newaxis]
     X_train_cnt_lexicon = normalize(np.array(X_train_cnt_lexicon), axis=0)
     X_train = np.append(X_train, X_train_cnt_lexicon, axis=1)
     X_test_cnt_lexicon = normalize(np.array(X_test_cnt_lexicon), axis=0)

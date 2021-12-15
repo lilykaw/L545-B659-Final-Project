@@ -8,6 +8,7 @@ This is the baseline, which use all the words as features. We could compare the 
 
 import os
 import pandas as pd
+pd.set_option("display.max_rows", None, "display.max_columns", None)
 import numpy as np
 
 from sklearn.feature_extraction.text import CountVectorizer
