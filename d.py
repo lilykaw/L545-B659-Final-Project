@@ -133,11 +133,36 @@ if __name__ == "__main__":
         tri_results.append(per_SVM(data_train, data_test, clf, target, ngram_range=(1, 3), n=8000))
 
 
+    ### 5: Improve the results when optimize the settings. 
+    # The details of exploring the setting are in `explore_SVM_settings.ipynb`.  
+    # Yuhui: These optimized SVM is different with that in baseline. We may always optimize the SVM 
+    # when we use the different features. "C" is the most important parameter, which need to be adjusted. 
+    print("Optimized SVM with unigrams:\n")
+    opt_uni_results = []
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    for target in TARGET_LIST:
+        opt_uni_results.append(per_SVM(data_train, data_test, clf, target, ngram_range=(1, 1), n=2000))
 
-    ### 5: Save the results to a file. 
+    print("Optimized SVM with unigrams and bigrams:\n")
+    opt_bi_results = []
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    for target in TARGET_LIST:
+        opt_bi_results.append(per_SVM(data_train, data_test, clf, target, ngram_range=(1, 2), n=4000))
+    
+    print("Optimized SVM with unigrams bigrams and trigrams:\n")
+    opt_tri_results = []
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    for target in TARGET_LIST:
+        opt_tri_results.append(per_SVM(data_train, data_test, clf, target, ngram_range=(1, 3), n=8000))
+
+
+    ### 6: Save the results to a file. 
     # add new columns for this experiment
     df_res['Default_Unigrams'] = uni_results
     df_res['Default_Uni-Bigrams'] = bi_results
     df_res['Default_Uni-Bi-Trigrams'] = tri_results
+    df_res['Optimized_Unigrams'] = opt_uni_results
+    df_res['Optimized_Uni-Bigrams'] = opt_bi_results
+    df_res['Optimized_Unit-Bi-Trigrams'] = opt_tri_results
     df_res.to_csv(RESULTS_PATH, sep='\t', index=False)
     print("Save the results into {}".format(RESULTS_PATH))
