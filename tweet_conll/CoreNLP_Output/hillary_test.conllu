@@ -21,11 +21,12 @@
 21	?	?	_	.	_	_	_	_	_
 
 1	#nixon	#nixon	_	NNP	_	_	_	_	_
-2	#p2	#p2	_	CD	_	_	_	_	_
-3	@JDSon78	@jdson78	_	NN	_	_	_	_	_
-4	@AndrewBroering	@andrewbroering	_	VBG	_	_	_	_	_
-5	AndrewWhyDoYouCareAboutWhatIThink	AndrewWhyDoYouCareAboutWhatIThink	_	NNP	_	_	_	_	_
-6	?	?	_	.	_	_	_	_	_
+2	#p2	#p2	_	NN	_	_	_	_	_
+
+1	@JDSon78	@jdson78	_	NN	_	_	_	_	_
+2	@AndrewBroering	@andrewbroering	_	VBG	_	_	_	_	_
+3	AndrewWhyDoYouCareAboutWhatIThink	AndrewWhyDoYouCareAboutWhatIThink	_	NNP	_	_	_	_	_
+4	?	?	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	DidNotRealizeThatIWasThisImportant	DidNotRealizeThatIWasThisImportant	_	NNP	_	_	_	_	_
@@ -33,14 +34,15 @@
 
 1	SirTweet	SirTweet	_	NNP	_	_	_	_	_
 2	AndrewIsAPaidTroll	AndrewIsAPaidTroll	_	NNP	_	_	_	_	_
-3	The	the	_	DT	_	_	_	_	_
-4	white	white	_	JJ	_	_	_	_	_
-5	male	male	_	JJ	_	_	_	_	_
-6	vote	vote	_	NN	_	_	_	_	_
-7	is	be	_	VBZ	_	_	_	_	_
-8	solidly	solidly	_	RB	_	_	_	_	_
-9	GOP	GOP	_	NNP	_	_	_	_	_
-10	.	.	_	.	_	_	_	_	_
+
+1	The	the	_	DT	_	_	_	_	_
+2	white	white	_	JJ	_	_	_	_	_
+3	male	male	_	JJ	_	_	_	_	_
+4	vote	vote	_	NN	_	_	_	_	_
+5	is	be	_	VBZ	_	_	_	_	_
+6	solidly	solidly	_	RB	_	_	_	_	_
+7	GOP	GOP	_	NNP	_	_	_	_	_
+8	.	.	_	.	_	_	_	_	_
 
 1	The	the	_	DT	_	_	_	_	_
 2	black	black	_	JJ	_	_	_	_	_
@@ -60,25 +62,25 @@
 8	.	.	_	.	_	_	_	_	_
 
 1	#FeelTheBern	#FeelTheBern	_	NNP	_	_	_	_	_
-2	@nyinvesting	@nyinvesting	_	VBG	_	_	_	_	_
-3	big	big	_	JJ	_	_	_	_	_
-4	banker	banker	_	NN	_	_	_	_	_
-5	buds	bud	_	NNS	_	_	_	_	_
-6	need	need	_	VBP	_	_	_	_	_
-7	to	to	_	TO	_	_	_	_	_
-8	ratchet	ratchet	_	VB	_	_	_	_	_
-9	up	up	_	RP	_	_	_	_	_
-10	their	they	_	PRP$	_	_	_	_	_
-11	"	"	_	``	_	_	_	_	_
-12	Hillary	Hillary	_	NNP	_	_	_	_	_
-13	cares	care	_	VBZ	_	_	_	_	_
-14	about	about	_	IN	_	_	_	_	_
-15	the	the	_	DT	_	_	_	_	_
-16	little	little	_	JJ	_	_	_	_	_
-17	people	people	_	NNS	_	_	_	_	_
-18	"	"	_	''	_	_	_	_	_
-19	propaganda	propaganda	_	NN	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
+
+1	@nyinvesting	@nyinvesting	_	VBG	_	_	_	_	_
+2	big	big	_	JJ	_	_	_	_	_
+3	banker	banker	_	NN	_	_	_	_	_
+4	buds	bud	_	NNS	_	_	_	_	_
+5	need	need	_	VBP	_	_	_	_	_
+6	to	to	_	TO	_	_	_	_	_
+7	ratchet	ratchet	_	VB	_	_	_	_	_
+8	up	up	_	RP	_	_	_	_	_
+9	their	they	_	PRP$	_	_	_	_	_
+10	"	"	_	``	_	_	_	_	_
+11	Hillary	Hillary	_	NNP	_	_	_	_	_
+12	cares	care	_	VBZ	_	_	_	_	_
+13	about	about	_	IN	_	_	_	_	_
+14	the	the	_	DT	_	_	_	_	_
+15	little	little	_	JJ	_	_	_	_	_
+16	people	people	_	NNS	_	_	_	_	_
+17	"	"	_	''	_	_	_	_	_
+18	propaganda	propaganda	_	NN	_	_	_	_	_
 
 1	@GOP	@gop	_	NN	_	_	_	_	_
 2	Why	why	_	WRB	_	_	_	_	_
@@ -103,28 +105,28 @@
 11	!!!	!!!	_	.	_	_	_	_	_
 
 1	#tcot	#tcot	_	NNP	_	_	_	_	_
-2	@RushetteNY	@RushetteNY	_	NNP	_	_	_	_	_
-3	@TwitchyTeam	@TwitchyTeam	_	NNP	_	_	_	_	_
-4	Hillary	Hillary	_	NNP	_	_	_	_	_
-5	to	to	_	TO	_	_	_	_	_
-6	press	press	_	VB	_	_	_	_	_
-7	:	:	_	:	_	_	_	_	_
-8	"	"	_	``	_	_	_	_	_
-9	Curtsy	Curtsy	_	NNP	_	_	_	_	_
-10	while	while	_	IN	_	_	_	_	_
-11	you	you	_	PRP	_	_	_	_	_
-12	're	be	_	VBP	_	_	_	_	_
-13	thinking	think	_	VBG	_	_	_	_	_
-14	what	what	_	WP	_	_	_	_	_
-15	to	to	_	TO	_	_	_	_	_
-16	say	say	_	VB	_	_	_	_	_
-17	,	,	_	,	_	_	_	_	_
-18	it	it	_	PRP	_	_	_	_	_
-19	saves	save	_	VBZ	_	_	_	_	_
-20	time	time	_	NN	_	_	_	_	_
-21	"	"	_	''	_	_	_	_	_
-22	#throughthelookingglass	#throughthelookingglass	_	NN	_	_	_	_	_
-23	.	.	_	.	_	_	_	_	_
+
+1	@RushetteNY	@RushetteNY	_	NNP	_	_	_	_	_
+2	@TwitchyTeam	@TwitchyTeam	_	NNP	_	_	_	_	_
+3	Hillary	Hillary	_	NNP	_	_	_	_	_
+4	to	to	_	TO	_	_	_	_	_
+5	press	press	_	VB	_	_	_	_	_
+6	:	:	_	:	_	_	_	_	_
+7	"	"	_	``	_	_	_	_	_
+8	Curtsy	Curtsy	_	NNP	_	_	_	_	_
+9	while	while	_	IN	_	_	_	_	_
+10	you	you	_	PRP	_	_	_	_	_
+11	're	be	_	VBP	_	_	_	_	_
+12	thinking	think	_	VBG	_	_	_	_	_
+13	what	what	_	WP	_	_	_	_	_
+14	to	to	_	TO	_	_	_	_	_
+15	say	say	_	VB	_	_	_	_	_
+16	,	,	_	,	_	_	_	_	_
+17	it	it	_	PRP	_	_	_	_	_
+18	saves	save	_	VBZ	_	_	_	_	_
+19	time	time	_	NN	_	_	_	_	_
+20	"	"	_	''	_	_	_	_	_
+21	#throughthelookingglass	#throughthelookingglass	_	NN	_	_	_	_	_
 
 1	@GovtsTheProblem	@govtstheproblem	_	NFP	_	_	_	_	_
 2	This	this	_	DT	_	_	_	_	_
@@ -151,9 +153,8 @@
 8	filth	filth	_	NN	_	_	_	_	_
 9	!	!	_	.	_	_	_	_	_
 
-1	#NoHillary2016	#nohillary2016	_	NN	_	_	_	_	_
-2	#Benghazi	#benghazi	_	NN	_	_	_	_	_
-3	.	.	_	.	_	_	_	_	_
+1	#NoHillary2016	#NoHillary2016	_	NNP	_	_	_	_	_
+2	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
 
 1	@CNNSotu	@CNNSotu	_	NNP	_	_	_	_	_
 2	@jaketapper	@jaketapper	_	NNP	_	_	_	_	_
@@ -179,56 +180,59 @@
 
 1	Not	not	_	RB	_	_	_	_	_
 2	about	about	_	RB	_	_	_	_	_
-3	@nytimes	@nytimes	_	VBZ	_	_	_	_	_
-4	But	but	_	CC	_	_	_	_	_
-5	throws	throw	_	VBZ	_	_	_	_	_
-6	a	a	_	DT	_	_	_	_	_
-7	rope	rope	_	NN	_	_	_	_	_
-8	around	around	_	IN	_	_	_	_	_
-9	reporters	reporter	_	NNS	_	_	_	_	_
-10	and	and	_	CC	_	_	_	_	_
-11	free	free	_	JJ	_	_	_	_	_
-12	speech	speech	_	NN	_	_	_	_	_
-13	.	.	_	.	_	_	_	_	_
+
+1	@nytimes	@nytimes	_	NNS	_	_	_	_	_
+2	But	but	_	CC	_	_	_	_	_
+3	throws	throw	_	VBZ	_	_	_	_	_
+4	a	a	_	DT	_	_	_	_	_
+5	rope	rope	_	NN	_	_	_	_	_
+6	around	around	_	IN	_	_	_	_	_
+7	reporters	reporter	_	NNS	_	_	_	_	_
+8	and	and	_	CC	_	_	_	_	_
+9	free	free	_	JJ	_	_	_	_	_
+10	speech	speech	_	NN	_	_	_	_	_
+11	.	.	_	.	_	_	_	_	_
 
 1	#HillaryInNH	#HillaryInNH	_	NNP	_	_	_	_	_
-2	#IfIhadAdollarFor	#IfIhadAdollarFor	_	NNP	_	_	_	_	_
-3	wondering	wonder	_	VBG	_	_	_	_	_
-4	,	,	_	,	_	_	_	_	_
-5	was	be	_	VBD	_	_	_	_	_
-6	I	I	_	PRP	_	_	_	_	_
-7	that	that	_	DT	_	_	_	_	_
-8	stupid	stupid	_	JJ	_	_	_	_	_
-9	when	when	_	WRB	_	_	_	_	_
-10	I	I	_	PRP	_	_	_	_	_
-11	was	be	_	VBD	_	_	_	_	_
-12	a	a	_	DT	_	_	_	_	_
-13	#Democrats	#democrats	_	NNS	_	_	_	_	_
-14	?	?	_	.	_	_	_	_	_
+
+1	#IfIhadAdollarFor	#IfIhadAdollarFor	_	NNP	_	_	_	_	_
+2	wondering	wonder	_	VBG	_	_	_	_	_
+3	,	,	_	,	_	_	_	_	_
+4	was	be	_	VBD	_	_	_	_	_
+5	I	I	_	PRP	_	_	_	_	_
+6	that	that	_	DT	_	_	_	_	_
+7	stupid	stupid	_	JJ	_	_	_	_	_
+8	when	when	_	WRB	_	_	_	_	_
+9	I	I	_	PRP	_	_	_	_	_
+10	was	be	_	VBD	_	_	_	_	_
+11	a	a	_	DT	_	_	_	_	_
+12	#Democrats	#democrats	_	NNS	_	_	_	_	_
+13	?	?	_	.	_	_	_	_	_
 
 1	#Obama	#obama	_	NN	_	_	_	_	_
 2	#	#	_	NN	_	_	_	_	_
 3	2A	2a	_	NN	_	_	_	_	_
 4	#NoAmnesty	#noamnesty	_	NN	_	_	_	_	_
 5	#WakeUpAmerica	#WakeUpAmerica	_	NNP	_	_	_	_	_
-6	@BeladonnaRogers	@BeladonnaRogers	_	NNP	_	_	_	_	_
-7	@Chairmnoomowmow	@Chairmnoomowmow	_	NNP	_	_	_	_	_
-8	The	the	_	DT	_	_	_	_	_
-9	compliant	compliant	_	JJ	_	_	_	_	_
-10	media	media	_	NN	_	_	_	_	_
-11	allowed	allow	_	VBD	_	_	_	_	_
-12	themeselves	themeselve	_	NNS	_	_	_	_	_
-13	to	to	_	IN	_	_	_	_	_
-14	b	b	_	NN	_	_	_	_	_
-15	herded	herd	_	VBN	_	_	_	_	_
-16	by	by	_	IN	_	_	_	_	_
-17	a	a	_	DT	_	_	_	_	_
-18	couple	couple	_	NN	_	_	_	_	_
-19	of	of	_	IN	_	_	_	_	_
-20	strands	strand	_	NNS	_	_	_	_	_
-21	of	of	_	IN	_	_	_	_	_
-22	rope	rope	_	NN	_	_	_	_	_
-23	?	?	_	.	_	_	_	_	_
+
+1	@BeladonnaRogers	@BeladonnaRogers	_	NNP	_	_	_	_	_
+2	@Chairmnoomowmow	@Chairmnoomowmow	_	NNP	_	_	_	_	_
+3	The	the	_	DT	_	_	_	_	_
+4	compliant	compliant	_	JJ	_	_	_	_	_
+5	media	media	_	NN	_	_	_	_	_
+6	allowed	allow	_	VBD	_	_	_	_	_
+7	themeselves	themeselve	_	NNS	_	_	_	_	_
+8	to	to	_	IN	_	_	_	_	_
+9	b	b	_	NN	_	_	_	_	_
+10	herded	herd	_	VBN	_	_	_	_	_
+11	by	by	_	IN	_	_	_	_	_
+12	a	a	_	DT	_	_	_	_	_
+13	couple	couple	_	NN	_	_	_	_	_
+14	of	of	_	IN	_	_	_	_	_
+15	strands	strand	_	NNS	_	_	_	_	_
+16	of	of	_	IN	_	_	_	_	_
+17	rope	rope	_	NN	_	_	_	_	_
+18	?	?	_	.	_	_	_	_	_
 
 1	Good	good	_	JJ	_	_	_	_	_
 2	sheep	sheep	_	NN	_	_	_	_	_
@@ -268,12 +272,13 @@
 11	?	?	_	.	_	_	_	_	_
 
 1	#uppers	#uppers	_	NNS	_	_	_	_	_
-2	#uniteblue	#uniteblue	_	VBP	_	_	_	_	_
-3	.@mite72	.@mite72	_	CD	_	_	_	_	_
-4	@PatVPeters	@patvpeters	_	NNS	_	_	_	_	_
-5	NEITHER	neither	_	RB	_	_	_	_	_
-6	ONE	one	_	CD	_	_	_	_	_
-7	!!!!	!!!!	_	.	_	_	_	_	_
+2	#uniteblue	#uniteblue	_	ADD	_	_	_	_	_
+
+1	.@mite72	.@mite72	_	CD	_	_	_	_	_
+2	@PatVPeters	@patvpeters	_	NNS	_	_	_	_	_
+3	NEITHER	neither	_	RB	_	_	_	_	_
+4	ONE	one	_	CD	_	_	_	_	_
+5	!!!!	!!!!	_	.	_	_	_	_	_
 
 1	Just	just	_	RB	_	_	_	_	_
 2	making	make	_	VBG	_	_	_	_	_
@@ -298,7 +303,6 @@
 9	!	!	_	.	_	_	_	_	_
 
 1	#WhyImNotVotingForHillary	#WhyImNotVotingForHillary	_	NNP	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
 
 1	@WoodenThreat	@WoodenThreat	_	NNP	_	_	_	_	_
 2	@incessantpatrio	@incessantpatrio	_	NNP	_	_	_	_	_
@@ -318,7 +322,6 @@
 16	FAKE	fake	_	JJ	_	_	_	_	_
 17	#POTUS	#potus	_	NN	_	_	_	_	_
 18	#WhyImNotVotingForHillary	#WhyImNotVotingForHillary	_	NNP	_	_	_	_	_
-19	.	.	_	.	_	_	_	_	_
 
 1	Does	do	_	VBZ	_	_	_	_	_
 2	#hillaryclinton	#hillaryclinton	_	NNP	_	_	_	_	_
@@ -347,32 +350,34 @@
 
 1	#tcot	#tcot	_	JJ	_	_	_	_	_
 2	#uniteblue	#uniteblue	_	NN	_	_	_	_	_
-3	I	I	_	PRP	_	_	_	_	_
-4	find	find	_	VBP	_	_	_	_	_
-5	allowing	allow	_	VBG	_	_	_	_	_
-6	the	the	_	DT	_	_	_	_	_
-7	deaths	death	_	NNS	_	_	_	_	_
-8	of	of	_	IN	_	_	_	_	_
-9	Americans	Americans	_	NNPS	_	_	_	_	_
-10	in	in	_	IN	_	_	_	_	_
-11	Benghazi	Benghazi	_	NNP	_	_	_	_	_
-12	to	to	_	TO	_	_	_	_	_
-13	be	be	_	VB	_	_	_	_	_
-14	more	more	_	RBR	_	_	_	_	_
-15	offensive	offensive	_	JJ	_	_	_	_	_
-16	than	than	_	IN	_	_	_	_	_
-17	the	the	_	DT	_	_	_	_	_
-18	name	name	_	NN	_	_	_	_	_
-19	Redskins	Redskins	_	NNPS	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
+
+1	I	I	_	PRP	_	_	_	_	_
+2	find	find	_	VBP	_	_	_	_	_
+3	allowing	allow	_	VBG	_	_	_	_	_
+4	the	the	_	DT	_	_	_	_	_
+5	deaths	death	_	NNS	_	_	_	_	_
+6	of	of	_	IN	_	_	_	_	_
+7	Americans	Americans	_	NNPS	_	_	_	_	_
+8	in	in	_	IN	_	_	_	_	_
+9	Benghazi	Benghazi	_	NNP	_	_	_	_	_
+10	to	to	_	TO	_	_	_	_	_
+11	be	be	_	VB	_	_	_	_	_
+12	more	more	_	RBR	_	_	_	_	_
+13	offensive	offensive	_	JJ	_	_	_	_	_
+14	than	than	_	IN	_	_	_	_	_
+15	the	the	_	DT	_	_	_	_	_
+16	name	name	_	NN	_	_	_	_	_
+17	Redskins	Redskins	_	NNPS	_	_	_	_	_
+18	.	.	_	.	_	_	_	_	_
 
 1	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
 2	#redskins	#redskins	_	NNS	_	_	_	_	_
-3	@Conservativeind	@conservativeind	_	NN	_	_	_	_	_
-4	@cannoneerfour	@cannoneerfour	_	NN	_	_	_	_	_
-5	Lets	let	_	VBZ	_	_	_	_	_
-6	hope	hope	_	NN	_	_	_	_	_
-7	!	!	_	.	_	_	_	_	_
+
+1	@Conservativeind	@Conservativeind	_	NNP	_	_	_	_	_
+2	@cannoneerfour	@cannoneerfour	_	NNP	_	_	_	_	_
+3	Lets	let	_	VBZ	_	_	_	_	_
+4	hope	hope	_	NN	_	_	_	_	_
+5	!	!	_	.	_	_	_	_	_
 
 1	She	she	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
@@ -387,7 +392,6 @@
 
 1	#WakeUpAmerica	#WakeUpAmerica	_	NNP	_	_	_	_	_
 2	#MakeAmericaGreatAgain	#MakeAmericaGreatAgain	_	NNP	_	_	_	_	_
-3	.	.	_	.	_	_	_	_	_
 
 1	@DaGodfather907	@dagodfather907	_	NN	_	_	_	_	_
 2	@NahBabyNah	@NahBabyNah	_	NNP	_	_	_	_	_
@@ -410,46 +414,48 @@
 1	Penn	Penn	_	NNP	_	_	_	_	_
 2	Ave.	Ave.	_	NNP	_	_	_	_	_
 3	#WakeUpAmerica	#WakeUpAmerica	_	NNP	_	_	_	_	_
-4	The	the	_	DT	_	_	_	_	_
-5	ropes	rope	_	NNS	_	_	_	_	_
-6	might	might	_	MD	_	_	_	_	_
-7	keep	keep	_	VB	_	_	_	_	_
-8	people	people	_	NNS	_	_	_	_	_
-9	back	back	_	RB	_	_	_	_	_
-10	now	now	_	RB	_	_	_	_	_
-11	Hillary	Hillary	_	NNP	_	_	_	_	_
-12	but	but	_	CC	_	_	_	_	_
-13	You	you	_	PRP	_	_	_	_	_
-14	WILL	will	_	MD	_	_	_	_	_
-15	answer	answer	_	VB	_	_	_	_	_
-16	to	to	_	IN	_	_	_	_	_
-17	americans	americans	_	NNPS	_	_	_	_	_
-18	come	come	_	VBP	_	_	_	_	_
-19	debate	debate	_	NN	_	_	_	_	_
-20	time	time	_	NN	_	_	_	_	_
-21	you	you	_	PRP	_	_	_	_	_
-22	coward	coward	_	NN	_	_	_	_	_
-23	.	.	_	.	_	_	_	_	_
+
+1	The	the	_	DT	_	_	_	_	_
+2	ropes	rope	_	NNS	_	_	_	_	_
+3	might	might	_	MD	_	_	_	_	_
+4	keep	keep	_	VB	_	_	_	_	_
+5	people	people	_	NNS	_	_	_	_	_
+6	back	back	_	RB	_	_	_	_	_
+7	now	now	_	RB	_	_	_	_	_
+8	Hillary	Hillary	_	NNP	_	_	_	_	_
+9	but	but	_	CC	_	_	_	_	_
+10	You	you	_	PRP	_	_	_	_	_
+11	WILL	will	_	MD	_	_	_	_	_
+12	answer	answer	_	VB	_	_	_	_	_
+13	to	to	_	IN	_	_	_	_	_
+14	americans	americans	_	NNPS	_	_	_	_	_
+15	come	come	_	VBP	_	_	_	_	_
+16	debate	debate	_	NN	_	_	_	_	_
+17	time	time	_	NN	_	_	_	_	_
+18	you	you	_	PRP	_	_	_	_	_
+19	coward	coward	_	NN	_	_	_	_	_
+20	.	.	_	.	_	_	_	_	_
 
 1	#tcot	#tcot	_	JJ	_	_	_	_	_
-2	#RedNationRising	#rednationrising	_	VBG	_	_	_	_	_
-3	RT	rt	_	NN	_	_	_	_	_
-4	@harrisongolden	@harrisongolden	_	NN	_	_	_	_	_
-5	:	:	_	:	_	_	_	_	_
-6	"	"	_	``	_	_	_	_	_
-7	So	so	_	RB	_	_	_	_	_
-8	Clinton-esque	clinton-esque	_	JJ	_	_	_	_	_
-9	,	,	_	,	_	_	_	_	_
-10	"	"	_	''	_	_	_	_	_
-11	Brit	Brit	_	NNP	_	_	_	_	_
-12	Hume	Hume	_	NNP	_	_	_	_	_
-13	said	say	_	VBD	_	_	_	_	_
-14	of	of	_	IN	_	_	_	_	_
-15	Hillary	Hillary	_	NNP	_	_	_	_	_
-16	's	's	_	POS	_	_	_	_	_
-17	email	email	_	NN	_	_	_	_	_
-18	controversy	controversy	_	NN	_	_	_	_	_
-19	.	.	_	.	_	_	_	_	_
+2	#RedNationRising	#rednationrising	_	NN	_	_	_	_	_
+
+1	RT	rt	_	NN	_	_	_	_	_
+2	@harrisongolden	@harrisongolden	_	NN	_	_	_	_	_
+3	:	:	_	:	_	_	_	_	_
+4	"	"	_	``	_	_	_	_	_
+5	So	so	_	RB	_	_	_	_	_
+6	Clinton-esque	clinton-esque	_	JJ	_	_	_	_	_
+7	,	,	_	,	_	_	_	_	_
+8	"	"	_	''	_	_	_	_	_
+9	Brit	Brit	_	NNP	_	_	_	_	_
+10	Hume	Hume	_	NNP	_	_	_	_	_
+11	said	say	_	VBD	_	_	_	_	_
+12	of	of	_	IN	_	_	_	_	_
+13	Hillary	Hillary	_	NNP	_	_	_	_	_
+14	's	's	_	POS	_	_	_	_	_
+15	email	email	_	NN	_	_	_	_	_
+16	controversy	controversy	_	NN	_	_	_	_	_
+17	.	.	_	.	_	_	_	_	_
 
 1	"	"	_	``	_	_	_	_	_
 2	You	you	_	PRP	_	_	_	_	_
@@ -485,14 +491,15 @@
 2	@HillaryClinton	@hillaryclinton	_	NN	_	_	_	_	_
 3	#MarriageEquaility	#marriageequaility	_	NN	_	_	_	_	_
 4	#justsaying	#justsaying	_	VBG	_	_	_	_	_
-5	@HillaryClinton	@hillaryclinton	_	NN	_	_	_	_	_
-6	Pin	pin	_	NN	_	_	_	_	_
-7	the	the	_	DT	_	_	_	_	_
-8	tail	tail	_	NN	_	_	_	_	_
-9	on	on	_	IN	_	_	_	_	_
-10	the	the	_	DT	_	_	_	_	_
-11	DONKEY	donkey	_	NN	_	_	_	_	_
-12	!	!	_	.	_	_	_	_	_
+
+1	@HillaryClinton	@hillaryclinton	_	NN	_	_	_	_	_
+2	Pin	pin	_	NN	_	_	_	_	_
+3	the	the	_	DT	_	_	_	_	_
+4	tail	tail	_	NN	_	_	_	_	_
+5	on	on	_	IN	_	_	_	_	_
+6	the	the	_	DT	_	_	_	_	_
+7	DONKEY	donkey	_	NN	_	_	_	_	_
+8	!	!	_	.	_	_	_	_	_
 
 1	That	that	_	DT	_	_	_	_	_
 2	means	mean	_	VBZ	_	_	_	_	_
@@ -505,10 +512,11 @@
 3	#Cruz2016	#Cruz2016	_	NNP	_	_	_	_	_
 4	#Election2016	#Election2016	_	NNP	_	_	_	_	_
 5	#Rubio	#Rubio	_	NNP	_	_	_	_	_
-6	@HillarityPress	@HillarityPress	_	NNP	_	_	_	_	_
-7	@Amedicinewoman	@Amedicinewoman	_	NNP	_	_	_	_	_
-8	1	1	_	CD	_	_	_	_	_
-9	.	.	_	.	_	_	_	_	_
+
+1	@HillarityPress	@HillarityPress	_	NNP	_	_	_	_	_
+2	@Amedicinewoman	@Amedicinewoman	_	NNP	_	_	_	_	_
+3	1	1	_	CD	_	_	_	_	_
+4	.	.	_	.	_	_	_	_	_
 
 1	Food	food	_	NN	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
@@ -528,38 +536,38 @@
 1	Pets	Pets	_	NNPS	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
-4	4PetsMissThem	4petsmissthem	_	NN	_	_	_	_	_
-5	I	I	_	PRP	_	_	_	_	_
-6	'm	be	_	VBP	_	_	_	_	_
-7	72	72	_	CD	_	_	_	_	_
-8	yrs	yr	_	NNS	_	_	_	_	_
-9	old	old	_	JJ	_	_	_	_	_
-10	and	and	_	CC	_	_	_	_	_
-11	ever	ever	_	RB	_	_	_	_	_
-12	since	since	_	IN	_	_	_	_	_
-13	I	I	_	PRP	_	_	_	_	_
-14	was	be	_	VBD	_	_	_	_	_
-15	6	6	_	CD	_	_	_	_	_
-16	yrs	yr	_	NNS	_	_	_	_	_
-17	old	old	_	JJ	_	_	_	_	_
-18	I	I	_	PRP	_	_	_	_	_
-19	wanted	want	_	VBD	_	_	_	_	_
+4	4PetsMissThem	4petsmissthem	_	ADD	_	_	_	_	_
+
+1	I	I	_	PRP	_	_	_	_	_
+2	'm	be	_	VBP	_	_	_	_	_
+3	72	72	_	CD	_	_	_	_	_
+4	yrs	yr	_	NNS	_	_	_	_	_
+5	old	old	_	JJ	_	_	_	_	_
+6	and	and	_	CC	_	_	_	_	_
+7	ever	ever	_	RB	_	_	_	_	_
+8	since	since	_	IN	_	_	_	_	_
+9	I	I	_	PRP	_	_	_	_	_
+10	was	be	_	VBD	_	_	_	_	_
+11	6	6	_	CD	_	_	_	_	_
+12	yrs	yr	_	NNS	_	_	_	_	_
+13	old	old	_	JJ	_	_	_	_	_
+14	I	I	_	PRP	_	_	_	_	_
+15	wanted	want	_	VBD	_	_	_	_	_
+16	to	to	_	TO	_	_	_	_	_
+17	live	live	_	VB	_	_	_	_	_
+18	long	long	_	RB	_	_	_	_	_
+19	enough	enough	_	RB	_	_	_	_	_
 20	to	to	_	TO	_	_	_	_	_
-21	live	live	_	VB	_	_	_	_	_
-22	long	long	_	RB	_	_	_	_	_
-23	enough	enough	_	RB	_	_	_	_	_
-24	to	to	_	TO	_	_	_	_	_
-25	see	see	_	VB	_	_	_	_	_
-26	a	a	_	DT	_	_	_	_	_
-27	woman	woman	_	NN	_	_	_	_	_
-28	President	President	_	NNP	_	_	_	_	_
-29	-	-	_	HYPH	_	_	_	_	_
-30	Jim	Jim	_	NNP	_	_	_	_	_
-31	from	from	_	IN	_	_	_	_	_
-32	Monticello	Monticello	_	NNP	_	_	_	_	_
-33	,	,	_	,	_	_	_	_	_
-34	IA	IA	_	NNP	_	_	_	_	_
-35	.	.	_	.	_	_	_	_	_
+21	see	see	_	VB	_	_	_	_	_
+22	a	a	_	DT	_	_	_	_	_
+23	woman	woman	_	NN	_	_	_	_	_
+24	President	President	_	NNP	_	_	_	_	_
+25	-	-	_	HYPH	_	_	_	_	_
+26	Jim	Jim	_	NNP	_	_	_	_	_
+27	from	from	_	IN	_	_	_	_	_
+28	Monticello	Monticello	_	NNP	_	_	_	_	_
+29	,	,	_	,	_	_	_	_	_
+30	IA	IA	_	NNP	_	_	_	_	_
 
 1	What	what	_	WDT	_	_	_	_	_
 2	Are	be	_	VBP	_	_	_	_	_
@@ -576,40 +584,41 @@
 1	Go	go	_	VB	_	_	_	_	_
 2	for	for	_	IN	_	_	_	_	_
 3	#VICTORY2016	#victory2016	_	NN	_	_	_	_	_
-4	The	the	_	DT	_	_	_	_	_
-5	federal	federal	_	JJ	_	_	_	_	_
-6	government	government	_	NN	_	_	_	_	_
-7	did	do	_	VBD	_	_	_	_	_
-8	not	not	_	RB	_	_	_	_	_
-9	create	create	_	VB	_	_	_	_	_
+
+1	The	the	_	DT	_	_	_	_	_
+2	federal	federal	_	JJ	_	_	_	_	_
+3	government	government	_	NN	_	_	_	_	_
+4	did	do	_	VBD	_	_	_	_	_
+5	not	not	_	RB	_	_	_	_	_
+6	create	create	_	VB	_	_	_	_	_
+7	the	the	_	DT	_	_	_	_	_
+8	states	state	_	NNS	_	_	_	_	_
+9	,	,	_	,	_	_	_	_	_
 10	the	the	_	DT	_	_	_	_	_
 11	states	state	_	NNS	_	_	_	_	_
-12	,	,	_	,	_	_	_	_	_
+12	created	create	_	VBD	_	_	_	_	_
 13	the	the	_	DT	_	_	_	_	_
-14	states	state	_	NNS	_	_	_	_	_
-15	created	create	_	VBD	_	_	_	_	_
-16	the	the	_	DT	_	_	_	_	_
-17	federal	federal	_	JJ	_	_	_	_	_
-18	government	government	_	NN	_	_	_	_	_
-19	.	.	_	.	_	_	_	_	_
+14	federal	federal	_	JJ	_	_	_	_	_
+15	government	government	_	NN	_	_	_	_	_
+16	.	.	_	.	_	_	_	_	_
 
 1	Ronald	Ronald	_	NNP	_	_	_	_	_
 2	Reagan	Reagan	_	NNP	_	_	_	_	_
-3	#Federalism	#Federalism	_	NNP	_	_	_	_	_
-4	@tracieeeeee	@tracieeeeee	_	NNP	_	_	_	_	_
-5	@Irishsmiles1966	@Irishsmiles1966	_	NNP	_	_	_	_	_
-6	@Chloecat317	@Chloecat317	_	NNP	_	_	_	_	_
-7	@weknowwhatsbest	@weknowwhatsbest	_	NNP	_	_	_	_	_
-8	THINK	think	_	VB	_	_	_	_	_
-9	POSITIVELY	positively	_	RB	_	_	_	_	_
-10	!	!	_	.	_	_	_	_	_
+3	#Federalism	#federalism	_	NN	_	_	_	_	_
+
+1	@tracieeeeee	@tracieeeeee	_	NNP	_	_	_	_	_
+2	@Irishsmiles1966	@Irishsmiles1966	_	NNP	_	_	_	_	_
+3	@Chloecat317	@Chloecat317	_	NNP	_	_	_	_	_
+4	@weknowwhatsbest	@weknowwhatsbest	_	NNP	_	_	_	_	_
+5	THINK	think	_	VB	_	_	_	_	_
+6	POSITIVELY	positively	_	RB	_	_	_	_	_
+7	!	!	_	.	_	_	_	_	_
 
 1	#OiP	#OiP	_	NNP	_	_	_	_	_
 2	#Cruz2016	#Cruz2016	_	NNP	_	_	_	_	_
 3	#MakeDCListen	#MakeDCListen	_	NNP	_	_	_	_	_
 4	#NoRINOs	#NoRINOs	_	NNP	_	_	_	_	_
 5	#NoLibProgs	#NoLibProgs	_	NNP	_	_	_	_	_
-6	.	.	_	.	_	_	_	_	_
 
 1	Congratulations	congratulation	_	NNS	_	_	_	_	_
 2	to	to	_	IN	_	_	_	_	_
@@ -633,8 +642,7 @@
 20	rule	rule	_	NN	_	_	_	_	_
 21	!	!	_	.	_	_	_	_	_
 
-1	#freeallfour	#freeallfour	_	NN	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
+1	#freeallfour	#freeallfour	_	NNP	_	_	_	_	_
 
 1	Team	Team	_	NNP	_	_	_	_	_
 2	USA	USA	_	NNP	_	_	_	_	_
@@ -654,18 +662,19 @@
 3	next	next	_	JJ	_	_	_	_	_
 4	?	?	_	.	_	_	_	_	_
 
-1	#WWC2015	#WWC2015	_	NNP	_	_	_	_	_
-2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-3	:	:	_	:	_	_	_	_	_
-4	Here	here	_	RB	_	_	_	_	_
-5	's	be	_	VBZ	_	_	_	_	_
-6	to	to	_	IN	_	_	_	_	_
-7	fearless	fearless	_	JJ	_	_	_	_	_
-8	women	woman	_	NNS	_	_	_	_	_
-9	chasing	chase	_	VBG	_	_	_	_	_
-10	their	they	_	PRP$	_	_	_	_	_
-11	goals	goal	_	NNS	_	_	_	_	_
-12	.	.	_	.	_	_	_	_	_
+1	#WWC2015	#wwc2015	_	NN	_	_	_	_	_
+
+1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+2	:	:	_	:	_	_	_	_	_
+3	Here	here	_	RB	_	_	_	_	_
+4	's	be	_	VBZ	_	_	_	_	_
+5	to	to	_	IN	_	_	_	_	_
+6	fearless	fearless	_	JJ	_	_	_	_	_
+7	women	woman	_	NNS	_	_	_	_	_
+8	chasing	chase	_	VBG	_	_	_	_	_
+9	their	they	_	PRP$	_	_	_	_	_
+10	goals	goal	_	NNS	_	_	_	_	_
+11	.	.	_	.	_	_	_	_	_
 
 1	Congratulations	congratulation	_	NNS	_	_	_	_	_
 2	,	,	_	,	_	_	_	_	_
@@ -674,19 +683,20 @@
 5	!	!	_	.	_	_	_	_	_
 
 1	H	h	_	NN	_	_	_	_	_
-2	@deeceejazz	@deeceejazz	_	NN	_	_	_	_	_
-3	Do	do	_	VBP	_	_	_	_	_
-4	we	we	_	PRP	_	_	_	_	_
-5	really	really	_	RB	_	_	_	_	_
-6	want	want	_	VBP	_	_	_	_	_
-7	to	to	_	TO	_	_	_	_	_
-8	know	know	_	VB	_	_	_	_	_
-9	what	what	_	WP	_	_	_	_	_
-10	's	be	_	VBZ	_	_	_	_	_
-11	under	under	_	IN	_	_	_	_	_
-12	those	those	_	DT	_	_	_	_	_
-13	pantsuits	pantsuit	_	NNS	_	_	_	_	_
-14	?	?	_	.	_	_	_	_	_
+
+1	@deeceejazz	@deeceejazz	_	NNP	_	_	_	_	_
+2	Do	do	_	VBP	_	_	_	_	_
+3	we	we	_	PRP	_	_	_	_	_
+4	really	really	_	RB	_	_	_	_	_
+5	want	want	_	VBP	_	_	_	_	_
+6	to	to	_	TO	_	_	_	_	_
+7	know	know	_	VB	_	_	_	_	_
+8	what	what	_	WP	_	_	_	_	_
+9	's	be	_	VBZ	_	_	_	_	_
+10	under	under	_	IN	_	_	_	_	_
+11	those	those	_	DT	_	_	_	_	_
+12	pantsuits	pantsuit	_	NNS	_	_	_	_	_
+13	?	?	_	.	_	_	_	_	_
 
 1	Besides	besides	_	IN	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
@@ -713,9 +723,8 @@
 15	AND	and	_	CC	_	_	_	_	_
 16	RAPED	rape	_	VBN	_	_	_	_	_
 17	GIRLS	girl	_	NNS	_	_	_	_	_
-18	#HILLARYCLINTON	#hillaryclinton	_	JJ	_	_	_	_	_
-19	#USA	#usa	_	NN	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
+18	#HILLARYCLINTON	#HILLARYCLINTON	_	NNP	_	_	_	_	_
+19	#USA	#USA	_	NNP	_	_	_	_	_
 
 1	Beware	beware	_	VB	_	_	_	_	_
 2	of	of	_	IN	_	_	_	_	_
@@ -744,29 +753,29 @@
 10	.	.	_	.	_	_	_	_	_
 
 1	#Bernie2016	#bernie2016	_	NN	_	_	_	_	_
-2	@Breaking911	@breaking911	_	NN	_	_	_	_	_
-3	Probably	probably	_	RB	_	_	_	_	_
-4	she	she	_	PRP	_	_	_	_	_
-5	made	make	_	VBD	_	_	_	_	_
-6	a	a	_	DT	_	_	_	_	_
-7	promise	promise	_	NN	_	_	_	_	_
-8	to	to	_	TO	_	_	_	_	_
-9	support	support	_	VB	_	_	_	_	_
-10	gun	gun	_	NN	_	_	_	_	_
-11	rights	rights	_	NNS	_	_	_	_	_
-12	to	to	_	IN	_	_	_	_	_
-13	one	one	_	CD	_	_	_	_	_
-14	citizen	citizen	_	NN	_	_	_	_	_
-15	,	,	_	,	_	_	_	_	_
-16	while	while	_	IN	_	_	_	_	_
-17	promising	promise	_	VBG	_	_	_	_	_
-18	to	to	_	TO	_	_	_	_	_
-19	ban	ban	_	VB	_	_	_	_	_
-20	guns	gun	_	NNS	_	_	_	_	_
-21	to	to	_	IN	_	_	_	_	_
-22	the	the	_	DT	_	_	_	_	_
-23	other	other	_	JJ	_	_	_	_	_
-24	.	.	_	.	_	_	_	_	_
+
+1	@Breaking911	@breaking911	_	NN	_	_	_	_	_
+2	Probably	probably	_	RB	_	_	_	_	_
+3	she	she	_	PRP	_	_	_	_	_
+4	made	make	_	VBD	_	_	_	_	_
+5	a	a	_	DT	_	_	_	_	_
+6	promise	promise	_	NN	_	_	_	_	_
+7	to	to	_	TO	_	_	_	_	_
+8	support	support	_	VB	_	_	_	_	_
+9	gun	gun	_	NN	_	_	_	_	_
+10	rights	rights	_	NNS	_	_	_	_	_
+11	to	to	_	IN	_	_	_	_	_
+12	one	one	_	CD	_	_	_	_	_
+13	citizen	citizen	_	NN	_	_	_	_	_
+14	,	,	_	,	_	_	_	_	_
+15	while	while	_	IN	_	_	_	_	_
+16	promising	promise	_	VBG	_	_	_	_	_
+17	to	to	_	TO	_	_	_	_	_
+18	ban	ban	_	VB	_	_	_	_	_
+19	guns	gun	_	NNS	_	_	_	_	_
+20	to	to	_	IN	_	_	_	_	_
+21	the	the	_	DT	_	_	_	_	_
+22	other	other	_	JJ	_	_	_	_	_
 
 1	@nolyklibs	@nolyklibs	_	NNS	_	_	_	_	_
 2	Awww	Awww	_	NNP	_	_	_	_	_
@@ -790,80 +799,83 @@
 1	@jlconnell66	@jlconnell66	_	CD	_	_	_	_	_
 2	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
 3	#Shillary	#Shillary	_	NNP	_	_	_	_	_
-4	@danmericaCNN	@danmericaCNN	_	NNP	_	_	_	_	_
-5	@GenGSPatton	@GenGSPatton	_	NNP	_	_	_	_	_
-6	@danamericaIt	@danamericaIt	_	NNP	_	_	_	_	_
-7	looked	look	_	VBD	_	_	_	_	_
-8	like	like	_	IN	_	_	_	_	_
-9	they	they	_	PRP	_	_	_	_	_
-10	were	be	_	VBD	_	_	_	_	_
+
+1	@danmericaCNN	@danmericaCNN	_	NNP	_	_	_	_	_
+2	@GenGSPatton	@GenGSPatton	_	NNP	_	_	_	_	_
+3	@danamericaIt	@danamericaIt	_	NNP	_	_	_	_	_
+4	looked	look	_	VBD	_	_	_	_	_
+5	like	like	_	IN	_	_	_	_	_
+6	they	they	_	PRP	_	_	_	_	_
+7	were	be	_	VBD	_	_	_	_	_
+8	the	the	_	DT	_	_	_	_	_
+9	ones	one	_	NNS	_	_	_	_	_
+10	tying	tie	_	VBG	_	_	_	_	_
 11	the	the	_	DT	_	_	_	_	_
-12	ones	one	_	NNS	_	_	_	_	_
-13	tying	tie	_	VBG	_	_	_	_	_
-14	the	the	_	DT	_	_	_	_	_
-15	knots	knot	_	NNS	_	_	_	_	_
-16	.	.	_	.	_	_	_	_	_
+12	knots	knot	_	NNS	_	_	_	_	_
+13	.	.	_	.	_	_	_	_	_
 
 1	@jlconnell66	@jlconnell66	_	NN	_	_	_	_	_
 2	#Killary	#Killary	_	NNP	_	_	_	_	_
-3	RT	RT	_	NNP	_	_	_	_	_
-4	@hamackey	@hamackey	_	NN	_	_	_	_	_
-5	:	:	_	:	_	_	_	_	_
-6	RT	rt	_	NN	_	_	_	_	_
-7	@SlyDude3677	@slydude3677	_	NN	_	_	_	_	_
-8	:	:	_	:	_	_	_	_	_
-9	@msnbc	@msnbc	_	NNP	_	_	_	_	_
-10	Republican	Republican	_	NNP	_	_	_	_	_
-11	Menu	Menu	_	NNP	_	_	_	_	_
-12	...	...	_	:	_	_	_	_	_
-13	pic.twitter.com/z4PH6VTJFl	pic.twitter.com/z4ph6vtjfl	_	NN	_	_	_	_	_
-14	The	the	_	DT	_	_	_	_	_
-15	press	press	_	NN	_	_	_	_	_
-16	needs	need	_	VBZ	_	_	_	_	_
-17	to	to	_	TO	_	_	_	_	_
-18	get	get	_	VB	_	_	_	_	_
-19	out	out	_	IN	_	_	_	_	_
-20	of	of	_	IN	_	_	_	_	_
-21	the	the	_	DT	_	_	_	_	_
-22	way	way	_	NN	_	_	_	_	_
-23	so	so	_	IN	_	_	_	_	_
-24	the	the	_	DT	_	_	_	_	_
-25	peasants	peasant	_	NNS	_	_	_	_	_
-26	can	can	_	MD	_	_	_	_	_
-27	get	get	_	VB	_	_	_	_	_
-28	a	a	_	DT	_	_	_	_	_
-29	glimpse	glimpse	_	NN	_	_	_	_	_
-30	of	of	_	IN	_	_	_	_	_
-31	her	she	_	PRP$	_	_	_	_	_
-32	Highness	Highness	_	NNP	_	_	_	_	_
-33	.	.	_	.	_	_	_	_	_
+
+1	RT	rt	_	NN	_	_	_	_	_
+2	@hamackey	@hamackey	_	NN	_	_	_	_	_
+3	:	:	_	:	_	_	_	_	_
+4	RT	rt	_	NN	_	_	_	_	_
+5	@SlyDude3677	@slydude3677	_	NN	_	_	_	_	_
+6	:	:	_	:	_	_	_	_	_
+7	@msnbc	@msnbc	_	NNP	_	_	_	_	_
+8	Republican	Republican	_	NNP	_	_	_	_	_
+9	Menu	Menu	_	NNP	_	_	_	_	_
+10	...	...	_	:	_	_	_	_	_
+11	pic.twitter.com/z4PH6VTJFl	pic.twitter.com/z4ph6vtjfl	_	NN	_	_	_	_	_
+
+1	The	the	_	DT	_	_	_	_	_
+2	press	press	_	NN	_	_	_	_	_
+3	needs	need	_	VBZ	_	_	_	_	_
+4	to	to	_	TO	_	_	_	_	_
+5	get	get	_	VB	_	_	_	_	_
+6	out	out	_	IN	_	_	_	_	_
+7	of	of	_	IN	_	_	_	_	_
+8	the	the	_	DT	_	_	_	_	_
+9	way	way	_	NN	_	_	_	_	_
+10	so	so	_	IN	_	_	_	_	_
+11	the	the	_	DT	_	_	_	_	_
+12	peasants	peasant	_	NNS	_	_	_	_	_
+13	can	can	_	MD	_	_	_	_	_
+14	get	get	_	VB	_	_	_	_	_
+15	a	a	_	DT	_	_	_	_	_
+16	glimpse	glimpse	_	NN	_	_	_	_	_
+17	of	of	_	IN	_	_	_	_	_
+18	her	she	_	PRP$	_	_	_	_	_
+19	Highness	Highness	_	NNP	_	_	_	_	_
+20	.	.	_	.	_	_	_	_	_
 
 1	#morningjoe	#morningjoe	_	NNP	_	_	_	_	_
-2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-3	had	have	_	VBD	_	_	_	_	_
-4	a	a	_	DT	_	_	_	_	_
-5	duty	duty	_	NN	_	_	_	_	_
-6	to	to	_	TO	_	_	_	_	_
-7	preserve	preserve	_	VB	_	_	_	_	_
-8	ESI	ESI	_	NNP	_	_	_	_	_
-9	Now	now	_	RB	_	_	_	_	_
-10	it	it	_	PRP	_	_	_	_	_
-11	's	be	_	VBZ	_	_	_	_	_
-12	someone	someone	_	NN	_	_	_	_	_
-13	's	's	_	POS	_	_	_	_	_
-14	duty	duty	_	NN	_	_	_	_	_
-15	to	to	_	TO	_	_	_	_	_
-16	prosecute	prosecute	_	VB	_	_	_	_	_
-17	&	&	_	CC	_	_	_	_	_
-18	sanction	sanction	_	NN	_	_	_	_	_
-19	her	she	_	PRP$	_	_	_	_	_
-20	Apparently	apparently	_	RB	_	_	_	_	_
-21	"	"	_	``	_	_	_	_	_
-22	duty	duty	_	NN	_	_	_	_	_
-23	"	"	_	''	_	_	_	_	_
-24	is	be	_	VBZ	_	_	_	_	_
-25	irrelevant	irrelevant	_	JJ	_	_	_	_	_
-26	.	.	_	.	_	_	_	_	_
+
+1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+2	had	have	_	VBD	_	_	_	_	_
+3	a	a	_	DT	_	_	_	_	_
+4	duty	duty	_	NN	_	_	_	_	_
+5	to	to	_	TO	_	_	_	_	_
+6	preserve	preserve	_	VB	_	_	_	_	_
+7	ESI	ESI	_	NNP	_	_	_	_	_
+8	Now	now	_	RB	_	_	_	_	_
+9	it	it	_	PRP	_	_	_	_	_
+10	's	be	_	VBZ	_	_	_	_	_
+11	someone	someone	_	NN	_	_	_	_	_
+12	's	's	_	POS	_	_	_	_	_
+13	duty	duty	_	NN	_	_	_	_	_
+14	to	to	_	TO	_	_	_	_	_
+15	prosecute	prosecute	_	VB	_	_	_	_	_
+16	&	&	_	CC	_	_	_	_	_
+17	sanction	sanction	_	NN	_	_	_	_	_
+18	her	she	_	PRP$	_	_	_	_	_
+19	Apparently	apparently	_	RB	_	_	_	_	_
+20	"	"	_	``	_	_	_	_	_
+21	duty	duty	_	NN	_	_	_	_	_
+22	"	"	_	''	_	_	_	_	_
+23	is	be	_	VBZ	_	_	_	_	_
+24	irrelevant	irrelevant	_	JJ	_	_	_	_	_
 
 1	@dougshelton749	@dougshelton749	_	CD	_	_	_	_	_
 2	@realDonaldTrump	@realdonaldtrump	_	NN	_	_	_	_	_
@@ -881,27 +893,27 @@
 14	.	.	_	.	_	_	_	_	_
 
 1	#WakeUpAmerica	#WakeUpAmerica	_	NNP	_	_	_	_	_
-2	@AppSame	@AppSame	_	NNP	_	_	_	_	_
-3	:	:	_	:	_	_	_	_	_
-4	Queen	Queen	_	NNP	_	_	_	_	_
-5	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-6	Was	be	_	VBD	_	_	_	_	_
-7	asked	ask	_	VBD	_	_	_	_	_
-8	What	what	_	WP	_	_	_	_	_
-9	she	she	_	PRP	_	_	_	_	_
-10	thought	think	_	VBD	_	_	_	_	_
-11	about	about	_	IN	_	_	_	_	_
-12	@realDonaldTrump	@realdonaldtrump	_	NN	_	_	_	_	_
-13	comments	comment	_	NNS	_	_	_	_	_
-14	on	on	_	IN	_	_	_	_	_
-15	illegals	illegal	_	NNS	_	_	_	_	_
-16	She	she	_	PRP	_	_	_	_	_
-17	Said	say	_	VBD	_	_	_	_	_
-18	LET	let	_	VB	_	_	_	_	_
-19	ME	I	_	PRP	_	_	_	_	_
-20	EAT	eat	_	VB	_	_	_	_	_
-21	PIE	pie	_	NN	_	_	_	_	_
-22	.	.	_	.	_	_	_	_	_
+
+1	@AppSame	@AppSame	_	NNP	_	_	_	_	_
+2	:	:	_	:	_	_	_	_	_
+3	Queen	Queen	_	NNP	_	_	_	_	_
+4	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+5	Was	be	_	VBD	_	_	_	_	_
+6	asked	ask	_	VBD	_	_	_	_	_
+7	What	what	_	WP	_	_	_	_	_
+8	she	she	_	PRP	_	_	_	_	_
+9	thought	think	_	VBD	_	_	_	_	_
+10	about	about	_	IN	_	_	_	_	_
+11	@realDonaldTrump	@realdonaldtrump	_	NN	_	_	_	_	_
+12	comments	comment	_	NNS	_	_	_	_	_
+13	on	on	_	IN	_	_	_	_	_
+14	illegals	illegal	_	NNS	_	_	_	_	_
+15	She	she	_	PRP	_	_	_	_	_
+16	Said	say	_	VBD	_	_	_	_	_
+17	LET	let	_	VB	_	_	_	_	_
+18	ME	I	_	PRP	_	_	_	_	_
+19	EAT	eat	_	VB	_	_	_	_	_
+20	PIE	pie	_	NN	_	_	_	_	_
 
 1	@dougshelton749	@dougshelton749	_	CD	_	_	_	_	_
 2	Let	let	_	VB	_	_	_	_	_
@@ -961,19 +973,20 @@
 2	will	will	_	MD	_	_	_	_	_
 3	be	be	_	VB	_	_	_	_	_
 4	others	other	_	NNS	_	_	_	_	_
-5	...	...	_	NFP	_	_	_	_	_
-6	RT	rt	_	NN	_	_	_	_	_
-7	@CattyHipster	@cattyhipster	_	NN	_	_	_	_	_
-8	:	:	_	:	_	_	_	_	_
-9	Live	live	_	VB	_	_	_	_	_
-10	today	today	_	NN	_	_	_	_	_
-11	like	like	_	IN	_	_	_	_	_
-12	it	it	_	PRP	_	_	_	_	_
-13	's	be	_	VBZ	_	_	_	_	_
-14	your	you	_	PRP$	_	_	_	_	_
-15	last	last	_	JJ	_	_	_	_	_
-16	day	day	_	NN	_	_	_	_	_
-17	.	.	_	.	_	_	_	_	_
+5	...	...	_	.	_	_	_	_	_
+
+1	RT	rt	_	NN	_	_	_	_	_
+2	@CattyHipster	@cattyhipster	_	NN	_	_	_	_	_
+3	:	:	_	:	_	_	_	_	_
+4	Live	live	_	VB	_	_	_	_	_
+5	today	today	_	NN	_	_	_	_	_
+6	like	like	_	IN	_	_	_	_	_
+7	it	it	_	PRP	_	_	_	_	_
+8	's	be	_	VBZ	_	_	_	_	_
+9	your	you	_	PRP$	_	_	_	_	_
+10	last	last	_	JJ	_	_	_	_	_
+11	day	day	_	NN	_	_	_	_	_
+12	.	.	_	.	_	_	_	_	_
 
 1	But	but	_	CC	_	_	_	_	_
 2	pay	pay	_	VB	_	_	_	_	_
@@ -991,10 +1004,11 @@
 
 1	#	#	_	NN	_	_	_	_	_
 2	420	420	_	CD	_	_	_	_	_
-3	@TheJackOBrien	@thejackobrien	_	NN	_	_	_	_	_
-4	@instapundit	@instapundit	_	NN	_	_	_	_	_
-5	BOOM	boom	_	NN	_	_	_	_	_
-6	!	!	_	.	_	_	_	_	_
+
+1	@TheJackOBrien	@TheJackOBrien	_	NNP	_	_	_	_	_
+2	@instapundit	@instapundit	_	NNP	_	_	_	_	_
+3	BOOM	BOOM	_	NNP	_	_	_	_	_
+4	!	!	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	believe	believe	_	VBP	_	_	_	_	_
@@ -1013,81 +1027,83 @@
 15	.	.	_	.	_	_	_	_	_
 
 1	#MediaStiffArmed	#MediaStiffArmed	_	NNP	_	_	_	_	_
-2	That	that	_	DT	_	_	_	_	_
-3	's	be	_	VBZ	_	_	_	_	_
-4	true	true	_	JJ	_	_	_	_	_
-5	,	,	_	,	_	_	_	_	_
-6	as	as	_	RB	_	_	_	_	_
-7	long	long	_	RB	_	_	_	_	_
-8	as	as	_	IN	_	_	_	_	_
-9	one	one	_	CD	_	_	_	_	_
-10	works	work	_	VBZ	_	_	_	_	_
-11	hard	hard	_	RB	_	_	_	_	_
-12	,	,	_	,	_	_	_	_	_
-13	has	have	_	VBZ	_	_	_	_	_
-14	a	a	_	DT	_	_	_	_	_
-15	record	record	_	NN	_	_	_	_	_
-16	of	of	_	IN	_	_	_	_	_
-17	accomplishment	accomplishment	_	NN	_	_	_	_	_
-18	and	and	_	CC	_	_	_	_	_
-19	deserves	deserve	_	VBZ	_	_	_	_	_
-20	it	it	_	PRP	_	_	_	_	_
-21	.	.	_	.	_	_	_	_	_
+
+1	That	that	_	DT	_	_	_	_	_
+2	's	be	_	VBZ	_	_	_	_	_
+3	true	true	_	JJ	_	_	_	_	_
+4	,	,	_	,	_	_	_	_	_
+5	as	as	_	RB	_	_	_	_	_
+6	long	long	_	RB	_	_	_	_	_
+7	as	as	_	IN	_	_	_	_	_
+8	one	one	_	CD	_	_	_	_	_
+9	works	work	_	VBZ	_	_	_	_	_
+10	hard	hard	_	RB	_	_	_	_	_
+11	,	,	_	,	_	_	_	_	_
+12	has	have	_	VBZ	_	_	_	_	_
+13	a	a	_	DT	_	_	_	_	_
+14	record	record	_	NN	_	_	_	_	_
+15	of	of	_	IN	_	_	_	_	_
+16	accomplishment	accomplishment	_	NN	_	_	_	_	_
+17	and	and	_	CC	_	_	_	_	_
+18	deserves	deserve	_	VBZ	_	_	_	_	_
+19	it	it	_	PRP	_	_	_	_	_
+20	.	.	_	.	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	NOT	not	_	RB	_	_	_	_	_
-3	AKA	aka	_	RB	_	_	_	_	_
-4	Depends	depend	_	VBZ	_	_	_	_	_
-5	Day	day	_	NN	_	_	_	_	_
-6	"	"	_	``	_	_	_	_	_
-7	It	it	_	PRP	_	_	_	_	_
-8	all	all	_	DT	_	_	_	_	_
-9	depends	depend	_	VBZ	_	_	_	_	_
-10	"	"	_	''	_	_	_	_	_
-11	and	and	_	CC	_	_	_	_	_
-12	Owebama	Owebama	_	NNP	_	_	_	_	_
-13	's	's	_	POS	_	_	_	_	_
-14	positions	position	_	NNS	_	_	_	_	_
-15	make	make	_	VBP	_	_	_	_	_
-16	you	you	_	PRP	_	_	_	_	_
-17	fill	fill	_	VB	_	_	_	_	_
-18	your	you	_	PRP$	_	_	_	_	_
-19	Depends	Depends	_	NNP	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
+
+1	AKA	aka	_	RB	_	_	_	_	_
+2	Depends	depend	_	VBZ	_	_	_	_	_
+3	Day	day	_	NN	_	_	_	_	_
+4	"	"	_	``	_	_	_	_	_
+5	It	it	_	PRP	_	_	_	_	_
+6	all	all	_	DT	_	_	_	_	_
+7	depends	depend	_	VBZ	_	_	_	_	_
+8	"	"	_	''	_	_	_	_	_
+9	and	and	_	CC	_	_	_	_	_
+10	Owebama	Owebama	_	NNP	_	_	_	_	_
+11	's	's	_	POS	_	_	_	_	_
+12	positions	position	_	NNS	_	_	_	_	_
+13	make	make	_	VBP	_	_	_	_	_
+14	you	you	_	PRP	_	_	_	_	_
+15	fill	fill	_	VB	_	_	_	_	_
+16	your	you	_	PRP$	_	_	_	_	_
+17	Depends	Depends	_	NNP	_	_	_	_	_
+18	.	.	_	.	_	_	_	_	_
 
 1	@jjauthor	@jjauthor	_	NNP	_	_	_	_	_
 2	@weknowwhatsbest	@weknowwhatsbest	_	NNP	_	_	_	_	_
-3	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-4	wants	want	_	VBZ	_	_	_	_	_
-5	to	to	_	TO	_	_	_	_	_
-6	be	be	_	VB	_	_	_	_	_
-7	elected	elect	_	VBN	_	_	_	_	_
-8	(	(	_	-LRB-	_	_	_	_	_
-9	thinks	think	_	VBZ	_	_	_	_	_
-10	she	she	_	PRP	_	_	_	_	_
-11	's	be	_	VBZ	_	_	_	_	_
-12	entitled	entitle	_	VBN	_	_	_	_	_
-13	)	)	_	-RRB-	_	_	_	_	_
-14	to	to	_	TO	_	_	_	_	_
-15	WORK	work	_	VB	_	_	_	_	_
-16	4	4	_	CD	_	_	_	_	_
-17	the	the	_	DT	_	_	_	_	_
-18	PEOPLE	people	_	NNS	_	_	_	_	_
-19	,	,	_	,	_	_	_	_	_
-20	&	&	_	CC	_	_	_	_	_
-21	yet	yet	_	RB	_	_	_	_	_
-22	,	,	_	,	_	_	_	_	_
-23	she	she	_	PRP	_	_	_	_	_
-24	wants	want	_	VBZ	_	_	_	_	_
-25	nothing	nothing	_	NN	_	_	_	_	_
-26	to	to	_	TO	_	_	_	_	_
-27	do	do	_	VB	_	_	_	_	_
-28	with	with	_	IN	_	_	_	_	_
-29	them	they	_	PRP	_	_	_	_	_
-30	!	!	_	.	_	_	_	_	_
+
+1	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
+2	wants	want	_	VBZ	_	_	_	_	_
+3	to	to	_	TO	_	_	_	_	_
+4	be	be	_	VB	_	_	_	_	_
+5	elected	elect	_	VBN	_	_	_	_	_
+6	(	(	_	-LRB-	_	_	_	_	_
+7	thinks	think	_	VBZ	_	_	_	_	_
+8	she	she	_	PRP	_	_	_	_	_
+9	's	be	_	VBZ	_	_	_	_	_
+10	entitled	entitle	_	VBN	_	_	_	_	_
+11	)	)	_	-RRB-	_	_	_	_	_
+12	to	to	_	TO	_	_	_	_	_
+13	WORK	work	_	VB	_	_	_	_	_
+14	4	4	_	CD	_	_	_	_	_
+15	the	the	_	DT	_	_	_	_	_
+16	PEOPLE	people	_	NNS	_	_	_	_	_
+17	,	,	_	,	_	_	_	_	_
+18	&	&	_	CC	_	_	_	_	_
+19	yet	yet	_	RB	_	_	_	_	_
+20	,	,	_	,	_	_	_	_	_
+21	she	she	_	PRP	_	_	_	_	_
+22	wants	want	_	VBZ	_	_	_	_	_
+23	nothing	nothing	_	NN	_	_	_	_	_
+24	to	to	_	TO	_	_	_	_	_
+25	do	do	_	VB	_	_	_	_	_
+26	with	with	_	IN	_	_	_	_	_
+27	them	they	_	PRP	_	_	_	_	_
+28	!	!	_	.	_	_	_	_	_
 
 1	#peons	#peons	_	NNS	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
 
 1	@WashTimes	@washtimes	_	NNS	_	_	_	_	_
 2	This	this	_	DT	_	_	_	_	_
@@ -1140,15 +1156,16 @@
 9	.	.	_	.	_	_	_	_	_
 
 1	#smh	#smh	_	NNP	_	_	_	_	_
-2	@tiffiwestcott	@tiffiwestcott	_	NNP	_	_	_	_	_
-3	I	I	_	PRP	_	_	_	_	_
-4	got	get	_	VBD	_	_	_	_	_
-5	mine	mine	_	PRP	_	_	_	_	_
-6	and	and	_	CC	_	_	_	_	_
-7	I	I	_	PRP	_	_	_	_	_
-8	love	love	_	VBP	_	_	_	_	_
-9	it	it	_	PRP	_	_	_	_	_
-10	.	.	_	.	_	_	_	_	_
+
+1	@tiffiwestcott	@tiffiwestcott	_	IN	_	_	_	_	_
+2	I	I	_	PRP	_	_	_	_	_
+3	got	get	_	VBD	_	_	_	_	_
+4	mine	mine	_	PRP	_	_	_	_	_
+5	and	and	_	CC	_	_	_	_	_
+6	I	I	_	PRP	_	_	_	_	_
+7	love	love	_	VBP	_	_	_	_	_
+8	it	it	_	PRP	_	_	_	_	_
+9	.	.	_	.	_	_	_	_	_
 
 1	Education	education	_	NN	_	_	_	_	_
 2	should	should	_	MD	_	_	_	_	_
@@ -1166,7 +1183,6 @@
 5	Patricia	Patricia	_	NNP	_	_	_	_	_
 6	Harper	Harper	_	NNP	_	_	_	_	_
 7	#FellowsIA	#FellowsIA	_	NNP	_	_	_	_	_
-8	.	.	_	.	_	_	_	_	_
 
 1	Hillary	Hillary	_	NNP	_	_	_	_	_
 2	Clinton	Clinton	_	NNP	_	_	_	_	_
@@ -1234,7 +1250,6 @@
 19	n't	not	_	RB	_	_	_	_	_
 20	even	even	_	RB	_	_	_	_	_
 21	liberal	liberal	_	JJ	_	_	_	_	_
-22	.	.	_	.	_	_	_	_	_
 
 1	The	the	_	DT	_	_	_	_	_
 2	young	young	_	JJ	_	_	_	_	_
@@ -1260,31 +1275,32 @@
 2	exact	exact	_	JJ	_	_	_	_	_
 3	doctrine	doctrine	_	NN	_	_	_	_	_
 4	@msnbc	@msnbc	_	NN	_	_	_	_	_
-5	If	if	_	IN	_	_	_	_	_
-6	it	it	_	PRP	_	_	_	_	_
-7	's	be	_	VBZ	_	_	_	_	_
-8	been	be	_	VBN	_	_	_	_	_
-9	80	80	_	CD	_	_	_	_	_
-10	+	+	_	SYM	_	_	_	_	_
-11	days	day	_	NNS	_	_	_	_	_
-12	since	since	_	IN	_	_	_	_	_
-13	you	you	_	PRP	_	_	_	_	_
-14	've	have	_	VBP	_	_	_	_	_
-15	done	do	_	VBN	_	_	_	_	_
-16	an	a	_	DT	_	_	_	_	_
-17	interview	interview	_	NN	_	_	_	_	_
-18	,	,	_	,	_	_	_	_	_
-19	can	can	_	MD	_	_	_	_	_
-20	we	we	_	PRP	_	_	_	_	_
-21	assume	assume	_	VB	_	_	_	_	_
-22	you	you	_	PRP	_	_	_	_	_
-23	're	be	_	VBP	_	_	_	_	_
-24	not	not	_	RB	_	_	_	_	_
-25	really	really	_	RB	_	_	_	_	_
-26	running	run	_	VBG	_	_	_	_	_
-27	for	for	_	IN	_	_	_	_	_
-28	president	president	_	NN	_	_	_	_	_
-29	?	?	_	.	_	_	_	_	_
+
+1	If	if	_	IN	_	_	_	_	_
+2	it	it	_	PRP	_	_	_	_	_
+3	's	be	_	VBZ	_	_	_	_	_
+4	been	be	_	VBN	_	_	_	_	_
+5	80	80	_	CD	_	_	_	_	_
+6	+	+	_	SYM	_	_	_	_	_
+7	days	day	_	NNS	_	_	_	_	_
+8	since	since	_	IN	_	_	_	_	_
+9	you	you	_	PRP	_	_	_	_	_
+10	've	have	_	VBP	_	_	_	_	_
+11	done	do	_	VBN	_	_	_	_	_
+12	an	a	_	DT	_	_	_	_	_
+13	interview	interview	_	NN	_	_	_	_	_
+14	,	,	_	,	_	_	_	_	_
+15	can	can	_	MD	_	_	_	_	_
+16	we	we	_	PRP	_	_	_	_	_
+17	assume	assume	_	VB	_	_	_	_	_
+18	you	you	_	PRP	_	_	_	_	_
+19	're	be	_	VBP	_	_	_	_	_
+20	not	not	_	RB	_	_	_	_	_
+21	really	really	_	RB	_	_	_	_	_
+22	running	run	_	VBG	_	_	_	_	_
+23	for	for	_	IN	_	_	_	_	_
+24	president	president	_	NN	_	_	_	_	_
+25	?	?	_	.	_	_	_	_	_
 
 1	@peddoc63	@peddoc63	_	NN	_	_	_	_	_
 2	@Fr3333dom	@fr3333dom	_	NN	_	_	_	_	_
@@ -1310,17 +1326,18 @@
 12	they	they	_	PRP	_	_	_	_	_
 13	did	do	_	VBD	_	_	_	_	_
 14	O.	O.	_	NNP	_	_	_	_	_
-15	I	I	_	PRP	_	_	_	_	_
-16	dislike	dislike	_	VBP	_	_	_	_	_
-17	our	we	_	PRP$	_	_	_	_	_
-18	idiots	idiot	_	NNS	_	_	_	_	_
-19	as	as	_	RB	_	_	_	_	_
-20	much	much	_	RB	_	_	_	_	_
-21	as	as	_	IN	_	_	_	_	_
-22	I	I	_	PRP	_	_	_	_	_
-23	dislike	dislike	_	VBP	_	_	_	_	_
-24	theirs	theirs	_	PRP	_	_	_	_	_
-25	.	.	_	.	_	_	_	_	_
+
+1	I	I	_	PRP	_	_	_	_	_
+2	dislike	dislike	_	VBP	_	_	_	_	_
+3	our	we	_	PRP$	_	_	_	_	_
+4	idiots	idiot	_	NNS	_	_	_	_	_
+5	as	as	_	RB	_	_	_	_	_
+6	much	much	_	RB	_	_	_	_	_
+7	as	as	_	IN	_	_	_	_	_
+8	I	I	_	PRP	_	_	_	_	_
+9	dislike	dislike	_	VBP	_	_	_	_	_
+10	theirs	theirs	_	PRP	_	_	_	_	_
+11	.	.	_	.	_	_	_	_	_
 
 1	Take	take	_	VB	_	_	_	_	_
 2	care	care	_	NN	_	_	_	_	_
@@ -1351,12 +1368,13 @@
 3	.	.	_	.	_	_	_	_	_
 
 1	#Greece	#Greece	_	NNP	_	_	_	_	_
-2	@politicalmath	@politicalmath	_	NNP	_	_	_	_	_
-3	@BoboFromTexas	@BoboFromTexas	_	NNP	_	_	_	_	_
-4	does	do	_	VBZ	_	_	_	_	_
-5	n't	not	_	RB	_	_	_	_	_
-6	matter	matter	_	VB	_	_	_	_	_
-7	.	.	_	.	_	_	_	_	_
+
+1	@politicalmath	@politicalmath	_	JJ	_	_	_	_	_
+2	@BoboFromTexas	@bobofromtexas	_	NNS	_	_	_	_	_
+3	does	do	_	VBZ	_	_	_	_	_
+4	n't	not	_	RB	_	_	_	_	_
+5	matter	matter	_	VB	_	_	_	_	_
+6	.	.	_	.	_	_	_	_	_
 
 1	Nobody	nobody	_	NN	_	_	_	_	_
 2	cares	care	_	VBZ	_	_	_	_	_
@@ -1391,15 +1409,16 @@
 15	democrats	democrat	_	NNS	_	_	_	_	_
 16	.	.	_	.	_	_	_	_	_
 
-1	#BernieSanders	#BernieSanders	_	NNP	_	_	_	_	_
-2	@Slate	@Slate	_	NNP	_	_	_	_	_
-3	@pinkbunny70	@pinkbunny70	_	NN	_	_	_	_	_
-4	Buh	buh	_	NN	_	_	_	_	_
-5	-	-	_	HYPH	_	_	_	_	_
-6	bye	bye	_	NN	_	_	_	_	_
-7	,	,	_	,	_	_	_	_	_
-8	Bernie	Bernie	_	NNP	_	_	_	_	_
-9	.	.	_	.	_	_	_	_	_
+1	#BernieSanders	#berniesanders	_	NNS	_	_	_	_	_
+
+1	@Slate	@Slate	_	NNP	_	_	_	_	_
+2	@pinkbunny70	@pinkbunny70	_	NN	_	_	_	_	_
+3	Buh	buh	_	NN	_	_	_	_	_
+4	-	-	_	HYPH	_	_	_	_	_
+5	bye	bye	_	NN	_	_	_	_	_
+6	,	,	_	,	_	_	_	_	_
+7	Bernie	Bernie	_	NNP	_	_	_	_	_
+8	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	agree	agree	_	VBP	_	_	_	_	_
@@ -1419,16 +1438,17 @@
 16	.	.	_	.	_	_	_	_	_
 
 1	#ENDTHENRA	#ENDTHENRA	_	NNP	_	_	_	_	_
-2	Barrack	Barrack	_	NNP	_	_	_	_	_
-3	Obama	Obama	_	NNP	_	_	_	_	_
-4	does	do	_	VBZ	_	_	_	_	_
-5	n't	not	_	RB	_	_	_	_	_
-6	care	care	_	VB	_	_	_	_	_
-7	about	about	_	IN	_	_	_	_	_
-8	his	he	_	PRP$	_	_	_	_	_
-9	own	own	_	JJ	_	_	_	_	_
-10	town	town	_	NN	_	_	_	_	_
-11	!	!	_	.	_	_	_	_	_
+
+1	Barrack	Barrack	_	NNP	_	_	_	_	_
+2	Obama	Obama	_	NNP	_	_	_	_	_
+3	does	do	_	VBZ	_	_	_	_	_
+4	n't	not	_	RB	_	_	_	_	_
+5	care	care	_	VB	_	_	_	_	_
+6	about	about	_	IN	_	_	_	_	_
+7	his	he	_	PRP$	_	_	_	_	_
+8	own	own	_	JJ	_	_	_	_	_
+9	town	town	_	NN	_	_	_	_	_
+10	!	!	_	.	_	_	_	_	_
 
 1	Where	where	_	WRB	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
@@ -1447,18 +1467,19 @@
 2	#NoSanctuaryCities	#nosanctuarycities	_	NNS	_	_	_	_	_
 3	#	#	_	NN	_	_	_	_	_
 4	2A	2a	_	NN	_	_	_	_	_
-5	The	the	_	DT	_	_	_	_	_
-6	recent	recent	_	JJ	_	_	_	_	_
-7	comments	comment	_	NNS	_	_	_	_	_
-8	of	of	_	IN	_	_	_	_	_
-9	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-10	sounded	sound	_	VBD	_	_	_	_	_
-11	like	like	_	IN	_	_	_	_	_
-12	it	it	_	PRP	_	_	_	_	_
-13	was	be	_	VBD	_	_	_	_	_
-14	#Netanyahu	#Netanyahu	_	NNP	_	_	_	_	_
-15	speaking	speak	_	VBG	_	_	_	_	_
-16	.	.	_	.	_	_	_	_	_
+
+1	The	the	_	DT	_	_	_	_	_
+2	recent	recent	_	JJ	_	_	_	_	_
+3	comments	comment	_	NNS	_	_	_	_	_
+4	of	of	_	IN	_	_	_	_	_
+5	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
+6	sounded	sound	_	VBD	_	_	_	_	_
+7	like	like	_	IN	_	_	_	_	_
+8	it	it	_	PRP	_	_	_	_	_
+9	was	be	_	VBD	_	_	_	_	_
+10	#Netanyahu	#Netanyahu	_	NNP	_	_	_	_	_
+11	speaking	speak	_	VBG	_	_	_	_	_
+12	.	.	_	.	_	_	_	_	_
 
 1	Does	do	_	VBZ	_	_	_	_	_
 2	n't	not	_	RB	_	_	_	_	_
@@ -1489,36 +1510,37 @@
 21	.	.	_	.	_	_	_	_	_
 
 1	#Obama	#Obama	_	NNP	_	_	_	_	_
-2	@PantanoLaw	@PantanoLaw	_	NNP	_	_	_	_	_
-3	Thanks	thanks	_	NN	_	_	_	_	_
-4	for	for	_	IN	_	_	_	_	_
-5	the	the	_	DT	_	_	_	_	_
-6	follow	follow	_	NN	_	_	_	_	_
-7	,	,	_	,	_	_	_	_	_
-8	may	may	_	MD	_	_	_	_	_
-9	God	God	_	NNP	_	_	_	_	_
-10	bless	bless	_	VB	_	_	_	_	_
-11	you	you	_	PRP	_	_	_	_	_
-12	and	and	_	CC	_	_	_	_	_
-13	your	you	_	PRP$	_	_	_	_	_
-14	family	family	_	NN	_	_	_	_	_
-15	.	.	_	.	_	_	_	_	_
+
+1	@PantanoLaw	@PantanoLaw	_	NNP	_	_	_	_	_
+2	Thanks	thanks	_	NN	_	_	_	_	_
+3	for	for	_	IN	_	_	_	_	_
+4	the	the	_	DT	_	_	_	_	_
+5	follow	follow	_	NN	_	_	_	_	_
+6	,	,	_	,	_	_	_	_	_
+7	may	may	_	MD	_	_	_	_	_
+8	God	God	_	NNP	_	_	_	_	_
+9	bless	bless	_	VB	_	_	_	_	_
+10	you	you	_	PRP	_	_	_	_	_
+11	and	and	_	CC	_	_	_	_	_
+12	your	you	_	PRP$	_	_	_	_	_
+13	family	family	_	NN	_	_	_	_	_
+14	.	.	_	.	_	_	_	_	_
 
 1	#freeallfour	#freeallfour	_	NNP	_	_	_	_	_
-2	Dana	Dana	_	NNP	_	_	_	_	_
-3	made	make	_	VBD	_	_	_	_	_
-4	this	this	_	DT	_	_	_	_	_
-5	shirt	shirt	_	NN	_	_	_	_	_
-6	w	w	_	NN	_	_	_	_	_
-7	/	/	_	,	_	_	_	_	_
-8	lots	lot	_	NNS	_	_	_	_	_
-9	of	of	_	IN	_	_	_	_	_
-10	#glitter	#glitter	_	JJR	_	_	_	_	_
-11	!	!	_	.	_	_	_	_	_
+
+1	Dana	Dana	_	NNP	_	_	_	_	_
+2	made	make	_	VBD	_	_	_	_	_
+3	this	this	_	DT	_	_	_	_	_
+4	shirt	shirt	_	NN	_	_	_	_	_
+5	w	w	_	NN	_	_	_	_	_
+6	/	/	_	,	_	_	_	_	_
+7	lots	lot	_	NNS	_	_	_	_	_
+8	of	of	_	IN	_	_	_	_	_
+9	#glitter	#glitter	_	JJR	_	_	_	_	_
+10	!	!	_	.	_	_	_	_	_
 
 1	#awesome	#awesome	_	JJ	_	_	_	_	_
 2	#decoration	#decoration	_	NN	_	_	_	_	_
-3	.	.	_	.	_	_	_	_	_
 
 1	@Camilian1Sabel	@camilian1sabel	_	NN	_	_	_	_	_
 2	Amen	amen	_	UH	_	_	_	_	_
@@ -1538,9 +1560,10 @@
 16	.	.	_	.	_	_	_	_	_
 
 1	#freeallfour	#freeallfour	_	NNP	_	_	_	_	_
-2	Wait	wait	_	VB	_	_	_	_	_
-3	.....	.....	_	NFP	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
+
+1	Wait	wait	_	VB	_	_	_	_	_
+2	.....	.....	_	NFP	_	_	_	_	_
+3	.	.	_	.	_	_	_	_	_
 
 1	you	you	_	PRP	_	_	_	_	_
 2	said	say	_	VBD	_	_	_	_	_
@@ -1568,22 +1591,23 @@
 
 1	#uniteblue	#uniteblue	_	NNP	_	_	_	_	_
 2	#ReadyForHillary	#ReadyForHillary	_	NNP	_	_	_	_	_
-3	Rhodham	Rhodham	_	NNP	_	_	_	_	_
-4	Hood	Hood	_	NNP	_	_	_	_	_
-5	:	:	_	:	_	_	_	_	_
-6	It	it	_	PRP	_	_	_	_	_
-7	takes	take	_	VBZ	_	_	_	_	_
-8	a	a	_	DT	_	_	_	_	_
-9	village	village	_	NN	_	_	_	_	_
-10	to	to	_	IN	_	_	_	_	_
-11	community	community	_	NN	_	_	_	_	_
-12	organize	organize	_	VB	_	_	_	_	_
-13	wealth	wealth	_	NN	_	_	_	_	_
-14	redistribution	redistribution	_	NN	_	_	_	_	_
-15	Obama	obama	_	NN	_	_	_	_	_
-16	-	-	_	HYPH	_	_	_	_	_
-17	style	style	_	NN	_	_	_	_	_
-18	.	.	_	.	_	_	_	_	_
+
+1	Rhodham	Rhodham	_	NNP	_	_	_	_	_
+2	Hood	Hood	_	NNP	_	_	_	_	_
+3	:	:	_	:	_	_	_	_	_
+4	It	it	_	PRP	_	_	_	_	_
+5	takes	take	_	VBZ	_	_	_	_	_
+6	a	a	_	DT	_	_	_	_	_
+7	village	village	_	NN	_	_	_	_	_
+8	to	to	_	IN	_	_	_	_	_
+9	community	community	_	NN	_	_	_	_	_
+10	organize	organize	_	VB	_	_	_	_	_
+11	wealth	wealth	_	NN	_	_	_	_	_
+12	redistribution	redistribution	_	NN	_	_	_	_	_
+13	Obama	obama	_	NN	_	_	_	_	_
+14	-	-	_	HYPH	_	_	_	_	_
+15	style	style	_	NN	_	_	_	_	_
+16	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	just	just	_	RB	_	_	_	_	_
@@ -1609,13 +1633,14 @@
 
 1	voting	vote	_	VBG	_	_	_	_	_
 2	for	for	_	IN	_	_	_	_	_
-3	SO	so	_	RB	_	_	_	_	_
-4	ANYWAYS	anyways	_	JJ	_	_	_	_	_
-5	WHAT	what	_	WP	_	_	_	_	_
-6	DID	do	_	VBD	_	_	_	_	_
-7	HE	he	_	PRP	_	_	_	_	_
-8	SAY	say	_	VB	_	_	_	_	_
-9	?	?	_	.	_	_	_	_	_
+
+1	SO	so	_	RB	_	_	_	_	_
+2	ANYWAYS	anyways	_	RB	_	_	_	_	_
+3	WHAT	what	_	WP	_	_	_	_	_
+4	DID	do	_	VBD	_	_	_	_	_
+5	HE	he	_	PRP	_	_	_	_	_
+6	SAY	say	_	VB	_	_	_	_	_
+7	?	?	_	.	_	_	_	_	_
 
 1	ANYTHING	anything	_	NN	_	_	_	_	_
 2	ABOUT	about	_	NN	_	_	_	_	_
@@ -1627,32 +1652,34 @@
 1	#OBAMA	#OBAMA	_	NNP	_	_	_	_	_
 2	#ISIS	#ISIS	_	NNP	_	_	_	_	_
 3	#ISIL	#ISIL	_	NNP	_	_	_	_	_
-4	WHAT	what	_	WP	_	_	_	_	_
-5	IS	be	_	VBZ	_	_	_	_	_
-6	"	"	_	``	_	_	_	_	_
-7	THE	the	_	DT	_	_	_	_	_
-8	THREAD	thread	_	NN	_	_	_	_	_
-9	OF	of	_	IN	_	_	_	_	_
-10	VIOLIN	VIOLIN	_	NNP	_	_	_	_	_
-11	EXTREMISM	EXTREMISM	_	NNP	_	_	_	_	_
-12	?	?	_	.	_	_	_	_	_
-13	"	"	_	''	_	_	_	_	_
+
+1	WHAT	what	_	WP	_	_	_	_	_
+2	IS	be	_	VBZ	_	_	_	_	_
+3	"	"	_	``	_	_	_	_	_
+4	THE	the	_	DT	_	_	_	_	_
+5	THREAD	thread	_	NN	_	_	_	_	_
+6	OF	of	_	IN	_	_	_	_	_
+7	VIOLIN	VIOLIN	_	NNP	_	_	_	_	_
+8	EXTREMISM	EXTREMISM	_	NNP	_	_	_	_	_
+9	?	?	_	.	_	_	_	_	_
+10	"	"	_	''	_	_	_	_	_
 
 1	#OBAMA	#OBAMA	_	NNP	_	_	_	_	_
 2	#ISIS	#ISIS	_	NNP	_	_	_	_	_
 3	#ISIL	#ISIL	_	NNP	_	_	_	_	_
 4	#tcot	#tcot	_	NNP	_	_	_	_	_
 5	#Elocution	#Elocution	_	NNP	_	_	_	_	_
-6	Right	Right	_	NNP	_	_	_	_	_
-7	now	now	_	RB	_	_	_	_	_
-8	every	every	_	DT	_	_	_	_	_
-9	liberal	liberal	_	NN	_	_	_	_	_
-10	in	in	_	IN	_	_	_	_	_
-11	America	America	_	NNP	_	_	_	_	_
-12	is	be	_	VBZ	_	_	_	_	_
-13	feeling	feel	_	VBG	_	_	_	_	_
-14	hopeful	hopeful	_	JJ	_	_	_	_	_
-15	.	.	_	.	_	_	_	_	_
+
+1	Right	right	_	RB	_	_	_	_	_
+2	now	now	_	RB	_	_	_	_	_
+3	every	every	_	DT	_	_	_	_	_
+4	liberal	liberal	_	NN	_	_	_	_	_
+5	in	in	_	IN	_	_	_	_	_
+6	America	America	_	NNP	_	_	_	_	_
+7	is	be	_	VBZ	_	_	_	_	_
+8	feeling	feel	_	VBG	_	_	_	_	_
+9	hopeful	hopeful	_	JJ	_	_	_	_	_
+10	.	.	_	.	_	_	_	_	_
 
 1	We	we	_	PRP	_	_	_	_	_
 2	have	have	_	VBP	_	_	_	_	_
@@ -1663,12 +1690,13 @@
 
 1	#UniteBlue	#UniteBlue	_	NNP	_	_	_	_	_
 2	#FeelTheBern	#FeelTheBern	_	NNP	_	_	_	_	_
-3	@TGowdySC	@TGowdySC	_	NNP	_	_	_	_	_
-4	Your	you	_	PRP$	_	_	_	_	_
-5	committee	committee	_	NN	_	_	_	_	_
-6	has	have	_	VBZ	_	_	_	_	_
-7	NOTHING	nothing	_	NN	_	_	_	_	_
-8	!	!	_	.	_	_	_	_	_
+
+1	@TGowdySC	@tgowdysc	_	NN	_	_	_	_	_
+2	Your	you	_	PRP$	_	_	_	_	_
+3	committee	committee	_	NN	_	_	_	_	_
+4	has	have	_	VBZ	_	_	_	_	_
+5	NOTHING	nothing	_	NN	_	_	_	_	_
+6	!	!	_	.	_	_	_	_	_
 
 1	,	,	_	,	_	_	_	_	_
 2	4	4	_	CD	_	_	_	_	_
@@ -1689,12 +1717,13 @@
 9	.	.	_	.	_	_	_	_	_
 
 1	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-2	@Reince	@Reince	_	NNP	_	_	_	_	_
-3	This	this	_	DT	_	_	_	_	_
-4	is	be	_	VBZ	_	_	_	_	_
-5	very	very	_	RB	_	_	_	_	_
-6	credible	credible	_	JJ	_	_	_	_	_
-7	!	!	_	.	_	_	_	_	_
+
+1	@Reince	@reince	_	NFP	_	_	_	_	_
+2	This	this	_	DT	_	_	_	_	_
+3	is	be	_	VBZ	_	_	_	_	_
+4	very	very	_	RB	_	_	_	_	_
+5	credible	credible	_	JJ	_	_	_	_	_
+6	!	!	_	.	_	_	_	_	_
 
 1	Good	good	_	JJ	_	_	_	_	_
 2	work	work	_	NN	_	_	_	_	_
@@ -1712,10 +1741,11 @@
 
 1	#VoteGOP	#VoteGOP	_	NNP	_	_	_	_	_
 2	#NoHillary	#NoHillary	_	NNP	_	_	_	_	_
-3	@AdamSmith_USA	@AdamSmith_USA	_	NNP	_	_	_	_	_
-4	Nice	Nice	_	NNP	_	_	_	_	_
-5	video	video	_	NN	_	_	_	_	_
-6	.	.	_	.	_	_	_	_	_
+
+1	@AdamSmith_USA	@AdamSmith_USA	_	NNP	_	_	_	_	_
+2	Nice	Nice	_	NNP	_	_	_	_	_
+3	video	video	_	NN	_	_	_	_	_
+4	.	.	_	.	_	_	_	_	_
 
 1	GOOD	good	_	JJ	_	_	_	_	_
 2	Luck	luck	_	NN	_	_	_	_	_
@@ -1732,7 +1762,6 @@
 7	in	in	_	IN	_	_	_	_	_
 8	NC	nc	_	NN	_	_	_	_	_
 9	soon	soon	_	RB	_	_	_	_	_
-10	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	'm	be	_	VBP	_	_	_	_	_
@@ -1757,29 +1786,29 @@
 21	.	.	_	.	_	_	_	_	_
 
 1	Haha	Haha	_	NNP	_	_	_	_	_
-2	While	while	_	IN	_	_	_	_	_
-3	I	I	_	PRP	_	_	_	_	_
-4	like	like	_	VBP	_	_	_	_	_
-5	Bernie	Bernie	_	NNP	_	_	_	_	_
-6	as	as	_	RB	_	_	_	_	_
-7	much	much	_	RB	_	_	_	_	_
-8	as	as	_	IN	_	_	_	_	_
-9	the	the	_	DT	_	_	_	_	_
-10	next	next	_	JJ	_	_	_	_	_
-11	liberal	liberal	_	NN	_	_	_	_	_
-12	,	,	_	,	_	_	_	_	_
-13	if	if	_	IN	_	_	_	_	_
-14	we	we	_	PRP	_	_	_	_	_
-15	nominate	nominate	_	VBP	_	_	_	_	_
-16	him	he	_	PRP	_	_	_	_	_
-17	we	we	_	PRP	_	_	_	_	_
-18	could	could	_	MD	_	_	_	_	_
-19	actually	actually	_	RB	_	_	_	_	_
-20	lose	lose	_	VB	_	_	_	_	_
-21	to	to	_	IN	_	_	_	_	_
-22	some	some	_	DT	_	_	_	_	_
-23	RWNJ	RWNJ	_	NNP	_	_	_	_	_
-24	.	.	_	.	_	_	_	_	_
+
+1	While	while	_	IN	_	_	_	_	_
+2	I	I	_	PRP	_	_	_	_	_
+3	like	like	_	VBP	_	_	_	_	_
+4	Bernie	Bernie	_	NNP	_	_	_	_	_
+5	as	as	_	RB	_	_	_	_	_
+6	much	much	_	RB	_	_	_	_	_
+7	as	as	_	IN	_	_	_	_	_
+8	the	the	_	DT	_	_	_	_	_
+9	next	next	_	JJ	_	_	_	_	_
+10	liberal	liberal	_	NN	_	_	_	_	_
+11	,	,	_	,	_	_	_	_	_
+12	if	if	_	IN	_	_	_	_	_
+13	we	we	_	PRP	_	_	_	_	_
+14	nominate	nominate	_	VBP	_	_	_	_	_
+15	him	he	_	PRP	_	_	_	_	_
+16	we	we	_	PRP	_	_	_	_	_
+17	could	could	_	MD	_	_	_	_	_
+18	actually	actually	_	RB	_	_	_	_	_
+19	lose	lose	_	VB	_	_	_	_	_
+20	to	to	_	IN	_	_	_	_	_
+21	some	some	_	DT	_	_	_	_	_
+22	RWNJ	RWNJ	_	NNP	_	_	_	_	_
 
 1	Wondering	wonder	_	VBG	_	_	_	_	_
 2	if	if	_	IN	_	_	_	_	_
@@ -1797,17 +1826,18 @@
 14	range	range	_	NN	_	_	_	_	_
 15	...	...	_	:	_	_	_	_	_
 16	#firstdate	#firstdate	_	NN	_	_	_	_	_
-17	@AdamSmith_USA	@adamsmith_usa	_	NN	_	_	_	_	_
-18	because	because	_	IN	_	_	_	_	_
-19	clearly	clearly	_	RB	_	_	_	_	_
-20	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-21	is	be	_	VBZ	_	_	_	_	_
-22	a	a	_	DT	_	_	_	_	_
-23	champion	champion	_	NN	_	_	_	_	_
-24	for	for	_	IN	_	_	_	_	_
-25	us	we	_	PRP	_	_	_	_	_
-26	all	all	_	DT	_	_	_	_	_
-27	.	.	_	.	_	_	_	_	_
+
+1	@AdamSmith_USA	@AdamSmith_USA	_	NNP	_	_	_	_	_
+2	because	because	_	IN	_	_	_	_	_
+3	clearly	clearly	_	RB	_	_	_	_	_
+4	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+5	is	be	_	VBZ	_	_	_	_	_
+6	a	a	_	DT	_	_	_	_	_
+7	champion	champion	_	NN	_	_	_	_	_
+8	for	for	_	IN	_	_	_	_	_
+9	us	we	_	PRP	_	_	_	_	_
+10	all	all	_	DT	_	_	_	_	_
+11	.	.	_	.	_	_	_	_	_
 
 1	@SenSanders	@sensanders	_	NNS	_	_	_	_	_
 2	bashes	bash	_	NNS	_	_	_	_	_
@@ -1822,24 +1852,24 @@
 1	#istandwithPresidentObama	#istandwithPresidentObama	_	NNP	_	_	_	_	_
 2	#VoteBlue2016	#VoteBlue2016	_	NNP	_	_	_	_	_
 3	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-4	#Democrats	#democrats	_	NNS	_	_	_	_	_
-5	just	just	_	RB	_	_	_	_	_
-6	saw	see	_	VBD	_	_	_	_	_
-7	ad	ad	_	NN	_	_	_	_	_
-8	about	about	_	IN	_	_	_	_	_
-9	@marcorubio	@marcorubio	_	NNP	_	_	_	_	_
-10	being	be	_	VBG	_	_	_	_	_
-11	tough	tough	_	JJ	_	_	_	_	_
-12	on	on	_	IN	_	_	_	_	_
-13	#iran	#iran	_	JJ	_	_	_	_	_
-14	it	it	_	PRP	_	_	_	_	_
-15	made	make	_	VBD	_	_	_	_	_
-16	my	my	_	PRP$	_	_	_	_	_
-17	brain	brain	_	NN	_	_	_	_	_
-18	hurt	hurt	_	VBD	_	_	_	_	_
-19	#Election2016	#election2016	_	NN	_	_	_	_	_
-20	#politics	#politics	_	NNS	_	_	_	_	_
-21	.	.	_	.	_	_	_	_	_
+4	#Democrats	#Democrats	_	NNP	_	_	_	_	_
+
+1	just	just	_	RB	_	_	_	_	_
+2	saw	see	_	VBD	_	_	_	_	_
+3	ad	ad	_	NN	_	_	_	_	_
+4	about	about	_	IN	_	_	_	_	_
+5	@marcorubio	@marcorubio	_	NNP	_	_	_	_	_
+6	being	be	_	VBG	_	_	_	_	_
+7	tough	tough	_	JJ	_	_	_	_	_
+8	on	on	_	IN	_	_	_	_	_
+9	#iran	#iran	_	JJ	_	_	_	_	_
+10	it	it	_	PRP	_	_	_	_	_
+11	made	make	_	VBD	_	_	_	_	_
+12	my	my	_	PRP$	_	_	_	_	_
+13	brain	brain	_	NN	_	_	_	_	_
+14	hurt	hurt	_	VBD	_	_	_	_	_
+15	#Election2016	#election2016	_	NN	_	_	_	_	_
+16	#politics	#politics	_	NNS	_	_	_	_	_
 
 1	@MarkSoveign	@MarkSoveign	_	NNP	_	_	_	_	_
 2	wo	will	_	MD	_	_	_	_	_
@@ -1884,7 +1914,6 @@
 12	accomplishments	accomplishment	_	NNS	_	_	_	_	_
 13	#hillaryforprison2016	#hillaryforprison2016	_	NN	_	_	_	_	_
 14	#entertainment	#entertainment	_	NN	_	_	_	_	_
-15	.	.	_	.	_	_	_	_	_
 
 1	Tea	Tea	_	NNP	_	_	_	_	_
 2	Party	Party	_	NNP	_	_	_	_	_
@@ -1912,31 +1941,33 @@
 6	NEW	NEW	_	NNP	_	_	_	_	_
 7	Aryan	Aryan	_	NNP	_	_	_	_	_
 8	Nations	Nations	_	NNP	_	_	_	_	_
-9	It	it	_	PRP	_	_	_	_	_
-10	's	be	_	VBZ	_	_	_	_	_
-11	time	time	_	NN	_	_	_	_	_
-12	that	that	_	WDT	_	_	_	_	_
-13	we	we	_	PRP	_	_	_	_	_
-14	move	move	_	VBP	_	_	_	_	_
-15	from	from	_	IN	_	_	_	_	_
-16	good	good	_	JJ	_	_	_	_	_
-17	words	word	_	NNS	_	_	_	_	_
-18	to	to	_	TO	_	_	_	_	_
-19	good	good	_	JJ	_	_	_	_	_
-20	works	work	_	NNS	_	_	_	_	_
-21	,	,	_	,	_	_	_	_	_
-22	from	from	_	IN	_	_	_	_	_
-23	sound	sound	_	NN	_	_	_	_	_
-24	bites	bite	_	NNS	_	_	_	_	_
-25	to	to	_	IN	_	_	_	_	_
-26	sound	sound	_	JJ	_	_	_	_	_
-27	solutions.--@HillaryClinton	solutions.--@hillaryclinton	_	NN	_	_	_	_	_
-28	#ReadyForHillary	#ReadyForHillary	_	NNP	_	_	_	_	_
-29	.@politicoroger	.@politicoroger	_	NNP	_	_	_	_	_
-30	It	it	_	PRP	_	_	_	_	_
-31	is	be	_	VBZ	_	_	_	_	_
-32	2015	2015	_	CD	_	_	_	_	_
-33	.	.	_	.	_	_	_	_	_
+
+1	It	it	_	PRP	_	_	_	_	_
+2	's	be	_	VBZ	_	_	_	_	_
+3	time	time	_	NN	_	_	_	_	_
+4	that	that	_	WDT	_	_	_	_	_
+5	we	we	_	PRP	_	_	_	_	_
+6	move	move	_	VBP	_	_	_	_	_
+7	from	from	_	IN	_	_	_	_	_
+8	good	good	_	JJ	_	_	_	_	_
+9	words	word	_	NNS	_	_	_	_	_
+10	to	to	_	TO	_	_	_	_	_
+11	good	good	_	JJ	_	_	_	_	_
+12	works	work	_	NNS	_	_	_	_	_
+13	,	,	_	,	_	_	_	_	_
+14	from	from	_	IN	_	_	_	_	_
+15	sound	sound	_	NN	_	_	_	_	_
+16	bites	bite	_	NNS	_	_	_	_	_
+17	to	to	_	IN	_	_	_	_	_
+18	sound	sound	_	JJ	_	_	_	_	_
+19	solutions.--@HillaryClinton	solutions.--@hillaryclinton	_	NN	_	_	_	_	_
+20	#ReadyForHillary	#ReadyForHillary	_	NNP	_	_	_	_	_
+
+1	.@politicoroger	.@politicoroger	_	JJR	_	_	_	_	_
+2	It	it	_	PRP	_	_	_	_	_
+3	is	be	_	VBZ	_	_	_	_	_
+4	2015	2015	_	CD	_	_	_	_	_
+5	.	.	_	.	_	_	_	_	_
 
 1	You	you	_	PRP	_	_	_	_	_
 2	and	and	_	CC	_	_	_	_	_
@@ -2000,31 +2031,33 @@
 10	O'Reilly	O'Reilly	_	NNP	_	_	_	_	_
 11	and	and	_	CC	_	_	_	_	_
 12	Palin	Palin	_	NNP	_	_	_	_	_
-13	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-14	the	the	_	DT	_	_	_	_	_
-15	@DalaiLama	@DalaiLama	_	NNP	_	_	_	_	_
-16	speaks	speak	_	VBZ	_	_	_	_	_
-17	of	of	_	IN	_	_	_	_	_
-18	women	woman	_	NNS	_	_	_	_	_
-19	in	in	_	IN	_	_	_	_	_
-20	leadership	leadership	_	NN	_	_	_	_	_
-21	roles	role	_	NNS	_	_	_	_	_
-22	bringing	bring	_	VBG	_	_	_	_	_
-23	about	about	_	RB	_	_	_	_	_
-24	a	a	_	DT	_	_	_	_	_
-25	more	more	_	RBR	_	_	_	_	_
-26	compassionate	compassionate	_	JJ	_	_	_	_	_
-27	world	world	_	NN	_	_	_	_	_
-28	.	.	_	.	_	_	_	_	_
+
+1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+2	the	the	_	DT	_	_	_	_	_
+3	@DalaiLama	@DalaiLama	_	NNP	_	_	_	_	_
+4	speaks	speak	_	VBZ	_	_	_	_	_
+5	of	of	_	IN	_	_	_	_	_
+6	women	woman	_	NNS	_	_	_	_	_
+7	in	in	_	IN	_	_	_	_	_
+8	leadership	leadership	_	NN	_	_	_	_	_
+9	roles	role	_	NNS	_	_	_	_	_
+10	bringing	bring	_	VBG	_	_	_	_	_
+11	about	about	_	RB	_	_	_	_	_
+12	a	a	_	DT	_	_	_	_	_
+13	more	more	_	RBR	_	_	_	_	_
+14	compassionate	compassionate	_	JJ	_	_	_	_	_
+15	world	world	_	NN	_	_	_	_	_
+16	.	.	_	.	_	_	_	_	_
 
 1	#potus	#potus	_	NNP	_	_	_	_	_
-2	@HillaryforNV	@HillaryforNV	_	NNP	_	_	_	_	_
-3	Many	many	_	JJ	_	_	_	_	_
-4	thanks	thanks	_	NNS	_	_	_	_	_
-5	for	for	_	IN	_	_	_	_	_
-6	the	the	_	DT	_	_	_	_	_
-7	follow	follow	_	NN	_	_	_	_	_
-8	!	!	_	.	_	_	_	_	_
+
+1	@HillaryforNV	@HillaryforNV	_	NNP	_	_	_	_	_
+2	Many	many	_	JJ	_	_	_	_	_
+3	thanks	thanks	_	NNS	_	_	_	_	_
+4	for	for	_	IN	_	_	_	_	_
+5	the	the	_	DT	_	_	_	_	_
+6	follow	follow	_	NN	_	_	_	_	_
+7	!	!	_	.	_	_	_	_	_
 
 1	@gabriellahope_	@gabriellahope_	_	NNP	_	_	_	_	_
 2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
@@ -2069,7 +2102,6 @@
 21	!	!	_	.	_	_	_	_	_
 
 1	#ReadyForHillary	#ReadyForHillary	_	NNP	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	've	have	_	VBP	_	_	_	_	_
@@ -2091,7 +2123,6 @@
 18	Public	Public	_	NNP	_	_	_	_	_
 19	Library	Library	_	NNP	_	_	_	_	_
 20	#HillaryforIA	#HillaryforIA	_	NNP	_	_	_	_	_
-21	.	.	_	.	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	condemns	condemn	_	VBZ	_	_	_	_	_
@@ -2101,7 +2132,6 @@
 6	'	'	_	``	_	_	_	_	_
 7	counter-productive	counter-productive	_	JJ	_	_	_	_	_
 8	'	'	_	''	_	_	_	_	_
-9	.	.	_	.	_	_	_	_	_
 
 1	Have	have	_	VBP	_	_	_	_	_
 2	full	full	_	JJ	_	_	_	_	_
@@ -2114,19 +2144,20 @@
 
 1	#strategy	#strategy	_	JJ	_	_	_	_	_
 2	#politics	#politics	_	NNS	_	_	_	_	_
-3	Amazing	amazing	_	JJ	_	_	_	_	_
-4	,	,	_	,	_	_	_	_	_
-5	inspiring	inspiring	_	JJ	_	_	_	_	_
-6	speech	speech	_	NN	_	_	_	_	_
-7	&	&	_	CC	_	_	_	_	_
-8	question	question	_	NN	_	_	_	_	_
-9	session	session	_	NN	_	_	_	_	_
-10	in	in	_	IN	_	_	_	_	_
-11	Iowa	Iowa	_	NNP	_	_	_	_	_
-12	City	City	_	NNP	_	_	_	_	_
-13	from	from	_	IN	_	_	_	_	_
-14	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-15	.	.	_	.	_	_	_	_	_
+
+1	Amazing	amazing	_	JJ	_	_	_	_	_
+2	,	,	_	,	_	_	_	_	_
+3	inspiring	inspiring	_	JJ	_	_	_	_	_
+4	speech	speech	_	NN	_	_	_	_	_
+5	&	&	_	CC	_	_	_	_	_
+6	question	question	_	NN	_	_	_	_	_
+7	session	session	_	NN	_	_	_	_	_
+8	in	in	_	IN	_	_	_	_	_
+9	Iowa	Iowa	_	NNP	_	_	_	_	_
+10	City	City	_	NNP	_	_	_	_	_
+11	from	from	_	IN	_	_	_	_	_
+12	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+13	.	.	_	.	_	_	_	_	_
 
 1	Her	she	_	PRP$	_	_	_	_	_
 2	answers	answer	_	NNS	_	_	_	_	_
@@ -2176,7 +2207,6 @@
 17	anything	anything	_	NN	_	_	_	_	_
 18	morningjoe	morningjoe	_	JJ	_	_	_	_	_
 19	#UniteBIue	#unitebiue	_	NN	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
 
 1	@trayNTP	@trayNTP	_	NNP	_	_	_	_	_
 2	Why	why	_	WRB	_	_	_	_	_
@@ -2209,17 +2239,18 @@
 8	.	.	_	.	_	_	_	_	_
 
 1	#Bernie	#Bernie	_	NNP	_	_	_	_	_
-2	@OutnumberedFNC	@OutnumberedFNC	_	NNP	_	_	_	_	_
-3	:	:	_	:	_	_	_	_	_
-4	Hillary	Hillary	_	NNP	_	_	_	_	_
-5	chooses	choose	_	VBZ	_	_	_	_	_
-6	Brianna	Brianna	_	NNP	_	_	_	_	_
-7	Keilar	Keilar	_	NNP	_	_	_	_	_
-8	for	for	_	IN	_	_	_	_	_
-9	her	she	_	PRP$	_	_	_	_	_
-10	first	first	_	JJ	_	_	_	_	_
-11	interview	interview	_	NN	_	_	_	_	_
-12	.	.	_	.	_	_	_	_	_
+
+1	@OutnumberedFNC	@OutnumberedFNC	_	NNP	_	_	_	_	_
+2	:	:	_	:	_	_	_	_	_
+3	Hillary	Hillary	_	NNP	_	_	_	_	_
+4	chooses	choose	_	VBZ	_	_	_	_	_
+5	Brianna	Brianna	_	NNP	_	_	_	_	_
+6	Keilar	Keilar	_	NNP	_	_	_	_	_
+7	for	for	_	IN	_	_	_	_	_
+8	her	she	_	PRP$	_	_	_	_	_
+9	first	first	_	JJ	_	_	_	_	_
+10	interview	interview	_	NN	_	_	_	_	_
+11	.	.	_	.	_	_	_	_	_
 
 1	What	what	_	WP	_	_	_	_	_
 2	can	can	_	MD	_	_	_	_	_
@@ -2274,26 +2305,27 @@
 6	own	own	_	JJ	_	_	_	_	_
 7	!	!	_	.	_	_	_	_	_
 
-1	#pride	#pride	_	VB	_	_	_	_	_
-2	Hillary	Hillary	_	NNP	_	_	_	_	_
-3	Clinton	Clinton	_	NNP	_	_	_	_	_
-4	Accomplishment	accomplishment	_	NN	_	_	_	_	_
-5	of	of	_	IN	_	_	_	_	_
-6	the	the	_	DT	_	_	_	_	_
-7	Day	day	_	NN	_	_	_	_	_
-8	:	:	_	:	_	_	_	_	_
-9	extended	extend	_	VBN	_	_	_	_	_
-10	full	full	_	JJ	_	_	_	_	_
-11	military	military	_	JJ	_	_	_	_	_
-12	health	health	_	NN	_	_	_	_	_
-13	benefits	benefit	_	NNS	_	_	_	_	_
-14	to	to	_	IN	_	_	_	_	_
-15	reservists	reservist	_	NNS	_	_	_	_	_
-16	and	and	_	CC	_	_	_	_	_
-17	National	National	_	NNP	_	_	_	_	_
-18	Guard	Guard	_	NNP	_	_	_	_	_
-19	members	member	_	NNS	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
+1	#pride	#pride	_	NNP	_	_	_	_	_
+
+1	Hillary	Hillary	_	NNP	_	_	_	_	_
+2	Clinton	Clinton	_	NNP	_	_	_	_	_
+3	Accomplishment	accomplishment	_	NN	_	_	_	_	_
+4	of	of	_	IN	_	_	_	_	_
+5	the	the	_	DT	_	_	_	_	_
+6	Day	day	_	NN	_	_	_	_	_
+7	:	:	_	:	_	_	_	_	_
+8	extended	extend	_	VBN	_	_	_	_	_
+9	full	full	_	JJ	_	_	_	_	_
+10	military	military	_	JJ	_	_	_	_	_
+11	health	health	_	NN	_	_	_	_	_
+12	benefits	benefit	_	NNS	_	_	_	_	_
+13	to	to	_	IN	_	_	_	_	_
+14	reservists	reservist	_	NNS	_	_	_	_	_
+15	and	and	_	CC	_	_	_	_	_
+16	National	National	_	NNP	_	_	_	_	_
+17	Guard	Guard	_	NNP	_	_	_	_	_
+18	members	member	_	NNS	_	_	_	_	_
+19	.	.	_	.	_	_	_	_	_
 
 1	If	if	_	IN	_	_	_	_	_
 2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
@@ -2333,54 +2365,57 @@
 2	're	be	_	VBP	_	_	_	_	_
 3	up	up	_	IN	_	_	_	_	_
 4	#Election2016	#election2016	_	NN	_	_	_	_	_
-5	@kwrcrow	@kwrcrow	_	NN	_	_	_	_	_
-6	Probably	probably	_	RB	_	_	_	_	_
-7	for	for	_	IN	_	_	_	_	_
-8	the	the	_	DT	_	_	_	_	_
-9	same	same	_	JJ	_	_	_	_	_
-10	reason	reason	_	NN	_	_	_	_	_
-11	bho	bho	_	NN	_	_	_	_	_
-12	has	have	_	VBZ	_	_	_	_	_
-13	not	not	_	RB	_	_	_	_	_
-14	...	...	_	:	_	_	_	_	_
-15	&	&	_	CC	_	_	_	_	_
-16	@SpeakerBoehner	@speakerboehner	_	NN	_	_	_	_	_
-17	is	be	_	VBZ	_	_	_	_	_
-18	one	one	_	CD	_	_	_	_	_
-19	of	of	_	IN	_	_	_	_	_
-20	them	they	_	PRP	_	_	_	_	_
-21	@GOP	@GOP	_	NNP	_	_	_	_	_
-22	@HouseGOP	@HouseGOP	_	NNP	_	_	_	_	_
-23	@seanhannity	@seanhannity	_	NNP	_	_	_	_	_
-24	#StopBush	#StopBush	_	NNP	_	_	_	_	_
-25	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-26	just	just	_	RB	_	_	_	_	_
-27	can	can	_	MD	_	_	_	_	_
-28	not	not	_	RB	_	_	_	_	_
-29	accept	accept	_	VB	_	_	_	_	_
-30	the	the	_	DT	_	_	_	_	_
-31	fact	fact	_	NN	_	_	_	_	_
-32	that	that	_	IN	_	_	_	_	_
-33	#America	#America	_	NNP	_	_	_	_	_
-34	does	do	_	VBZ	_	_	_	_	_
-35	not	not	_	RB	_	_	_	_	_
-36	like	like	_	IN	_	_	_	_	_
-37	her	she	_	PRP	_	_	_	_	_
-38	.	.	_	.	_	_	_	_	_
+
+1	@kwrcrow	@kwrcrow	_	VB	_	_	_	_	_
+2	Probably	probably	_	RB	_	_	_	_	_
+3	for	for	_	IN	_	_	_	_	_
+4	the	the	_	DT	_	_	_	_	_
+5	same	same	_	JJ	_	_	_	_	_
+6	reason	reason	_	NN	_	_	_	_	_
+7	bho	bho	_	NN	_	_	_	_	_
+8	has	have	_	VBZ	_	_	_	_	_
+9	not	not	_	RB	_	_	_	_	_
+10	...	...	_	:	_	_	_	_	_
+11	&	&	_	CC	_	_	_	_	_
+12	@SpeakerBoehner	@speakerboehner	_	NN	_	_	_	_	_
+13	is	be	_	VBZ	_	_	_	_	_
+14	one	one	_	CD	_	_	_	_	_
+15	of	of	_	IN	_	_	_	_	_
+16	them	they	_	PRP	_	_	_	_	_
+17	@GOP	@gop	_	NN	_	_	_	_	_
+18	@HouseGOP	@housegop	_	NN	_	_	_	_	_
+19	@seanhannity	@seanhannity	_	NN	_	_	_	_	_
+20	#StopBush	#stopbush	_	NN	_	_	_	_	_
+
+1	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
+2	just	just	_	RB	_	_	_	_	_
+3	can	can	_	MD	_	_	_	_	_
+4	not	not	_	RB	_	_	_	_	_
+5	accept	accept	_	VB	_	_	_	_	_
+6	the	the	_	DT	_	_	_	_	_
+7	fact	fact	_	NN	_	_	_	_	_
+8	that	that	_	IN	_	_	_	_	_
+9	#America	#America	_	NNP	_	_	_	_	_
+10	does	do	_	VBZ	_	_	_	_	_
+11	not	not	_	RB	_	_	_	_	_
+12	like	like	_	IN	_	_	_	_	_
+13	her	she	_	PRP	_	_	_	_	_
+14	.	.	_	.	_	_	_	_	_
 
 1	#HillaryonCNN	#HillaryonCNN	_	NNP	_	_	_	_	_
 2	#BernieSanders	#BernieSanders	_	NNP	_	_	_	_	_
-3	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-4	is	be	_	VBZ	_	_	_	_	_
-5	plain	plain	_	JJ	_	_	_	_	_
-6	amazing	amazing	_	JJ	_	_	_	_	_
+
+1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+2	is	be	_	VBZ	_	_	_	_	_
+3	plain	plain	_	JJ	_	_	_	_	_
+4	amazing	amazing	_	JJ	_	_	_	_	_
+5	,	,	_	,	_	_	_	_	_
+6	humble	humble	_	JJ	_	_	_	_	_
 7	,	,	_	,	_	_	_	_	_
-8	humble	humble	_	JJ	_	_	_	_	_
-9	,	,	_	,	_	_	_	_	_
-10	smart	smart	_	JJ	_	_	_	_	_
-11	and	and	_	CC	_	_	_	_	_
-12	confident	confident	_	JJ	_	_	_	_	_
-13	!	!	_	.	_	_	_	_	_
+8	smart	smart	_	JJ	_	_	_	_	_
+9	and	and	_	CC	_	_	_	_	_
+10	confident	confident	_	JJ	_	_	_	_	_
+11	!	!	_	.	_	_	_	_	_
 
 1	Let	let	_	VB	_	_	_	_	_
 2	's	's	_	PRP	_	_	_	_	_
@@ -2391,24 +2426,24 @@
 7	!	!	_	.	_	_	_	_	_
 
 1	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-2	@thehill	@thehill	_	NNP	_	_	_	_	_
-3	Great	Great	_	NNP	_	_	_	_	_
-4	now	now	_	RB	_	_	_	_	_
-5	Hillary	Hillary	_	NNP	_	_	_	_	_
-6	knows	know	_	VBZ	_	_	_	_	_
-7	how	how	_	WRB	_	_	_	_	_
-8	the	the	_	DT	_	_	_	_	_
-9	american	american	_	JJ	_	_	_	_	_
-10	people	people	_	NNS	_	_	_	_	_
-11	feel	feel	_	VBP	_	_	_	_	_
-12	about	about	_	IN	_	_	_	_	_
-13	the	the	_	DT	_	_	_	_	_
-14	majority	majority	_	NN	_	_	_	_	_
-15	of	of	_	IN	_	_	_	_	_
-16	politicians	politician	_	NNS	_	_	_	_	_
-17	including	include	_	VBG	_	_	_	_	_
-18	her	she	_	PRP	_	_	_	_	_
-19	.	.	_	.	_	_	_	_	_
+
+1	@thehill	@thehill	_	NNP	_	_	_	_	_
+2	Great	Great	_	NNP	_	_	_	_	_
+3	now	now	_	RB	_	_	_	_	_
+4	Hillary	Hillary	_	NNP	_	_	_	_	_
+5	knows	know	_	VBZ	_	_	_	_	_
+6	how	how	_	WRB	_	_	_	_	_
+7	the	the	_	DT	_	_	_	_	_
+8	american	american	_	JJ	_	_	_	_	_
+9	people	people	_	NNS	_	_	_	_	_
+10	feel	feel	_	VBP	_	_	_	_	_
+11	about	about	_	IN	_	_	_	_	_
+12	the	the	_	DT	_	_	_	_	_
+13	majority	majority	_	NN	_	_	_	_	_
+14	of	of	_	IN	_	_	_	_	_
+15	politicians	politician	_	NNS	_	_	_	_	_
+16	including	include	_	VBG	_	_	_	_	_
+17	her	she	_	PRP	_	_	_	_	_
 
 1	She	she	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
@@ -2454,10 +2489,11 @@
 14	who	who	_	WP	_	_	_	_	_
 15	ride	ride	_	VBP	_	_	_	_	_
 16	trains	train	_	NNS	_	_	_	_	_
-17	@kasie	@kasie	_	IN	_	_	_	_	_
-18	I	I	_	PRP	_	_	_	_	_
-19	do	do	_	VBP	_	_	_	_	_
-20	!	!	_	.	_	_	_	_	_
+
+1	@kasie	@kasie	_	IN	_	_	_	_	_
+2	I	I	_	PRP	_	_	_	_	_
+3	do	do	_	VBP	_	_	_	_	_
+4	!	!	_	.	_	_	_	_	_
 
 1	And	and	_	CC	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
@@ -2476,14 +2512,15 @@
 15	.	.	_	.	_	_	_	_	_
 
 1	#HillaryLies	#hillarylies	_	NNS	_	_	_	_	_
-2	@CNN	@CNN	_	NNP	_	_	_	_	_
-3	@jimsciutto	@jimsciutto	_	NNP	_	_	_	_	_
-4	Good	Good	_	NNP	_	_	_	_	_
-5	i	i	_	PRP	_	_	_	_	_
-6	'	'	_	''	_	_	_	_	_
-7	view	view	_	NN	_	_	_	_	_
-8	#Brianna	#brianna	_	NN	_	_	_	_	_
-9	.	.	_	.	_	_	_	_	_
+
+1	@CNN	@CNN	_	NNP	_	_	_	_	_
+2	@jimsciutto	@jimsciutto	_	NNP	_	_	_	_	_
+3	Good	Good	_	NNP	_	_	_	_	_
+4	i	i	_	PRP	_	_	_	_	_
+5	'	'	_	''	_	_	_	_	_
+6	view	view	_	NN	_	_	_	_	_
+7	#Brianna	#brianna	_	NN	_	_	_	_	_
+8	.	.	_	.	_	_	_	_	_
 
 1	#Hillary	#Hillary	_	NNP	_	_	_	_	_
 2	NOT	not	_	RB	_	_	_	_	_
@@ -2548,26 +2585,26 @@
 
 1	#RopeLine	#RopeLine	_	NNP	_	_	_	_	_
 2	#SitUbuSitGoodDog	#SitUbuSitGoodDog	_	NNP	_	_	_	_	_
-3	Obama	Obama	_	NNP	_	_	_	_	_
-4	is	be	_	VBZ	_	_	_	_	_
-5	'	'	_	``	_	_	_	_	_
-6	opportunist	opportunist	_	NN	_	_	_	_	_
-7	,	,	_	,	_	_	_	_	_
-8	'	'	_	''	_	_	_	_	_
-9	Hillary	Hillary	_	NNP	_	_	_	_	_
-10	Clinton	Clinton	_	NNP	_	_	_	_	_
-11	no	no	_	RB	_	_	_	_	_
-12	different	different	_	JJ	_	_	_	_	_
-13	just	just	_	RB	_	_	_	_	_
-14	'	'	_	''	_	_	_	_	_
-15	more	more	_	RBR	_	_	_	_	_
-16	militant	militant	_	JJ	_	_	_	_	_
-17	'	'	_	''	_	_	_	_	_
-18	-	-	_	:	_	_	_	_	_
-19	Chomsky	Chomsky	_	NNP	_	_	_	_	_
-20	#TruthBeTold	#TruthBeTold	_	NNP	_	_	_	_	_
-21	#notmypresident	#notmypresident	_	NNP	_	_	_	_	_
-22	.	.	_	.	_	_	_	_	_
+
+1	Obama	Obama	_	NNP	_	_	_	_	_
+2	is	be	_	VBZ	_	_	_	_	_
+3	'	'	_	``	_	_	_	_	_
+4	opportunist	opportunist	_	NN	_	_	_	_	_
+5	,	,	_	,	_	_	_	_	_
+6	'	'	_	''	_	_	_	_	_
+7	Hillary	Hillary	_	NNP	_	_	_	_	_
+8	Clinton	Clinton	_	NNP	_	_	_	_	_
+9	no	no	_	RB	_	_	_	_	_
+10	different	different	_	JJ	_	_	_	_	_
+11	just	just	_	RB	_	_	_	_	_
+12	'	'	_	''	_	_	_	_	_
+13	more	more	_	RBR	_	_	_	_	_
+14	militant	militant	_	JJ	_	_	_	_	_
+15	'	'	_	''	_	_	_	_	_
+16	-	-	_	:	_	_	_	_	_
+17	Chomsky	Chomsky	_	NNP	_	_	_	_	_
+18	#TruthBeTold	#TruthBeTold	_	NNP	_	_	_	_	_
+19	#notmypresident	#notmypresident	_	NNP	_	_	_	_	_
 
 1	@USATODAY	@USATODAY	_	NNP	_	_	_	_	_
 2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
@@ -2585,14 +2622,15 @@
 14	more	more	_	JJR	_	_	_	_	_
 15	of	of	_	IN	_	_	_	_	_
 16	#WeThePeople	#WeThePeople	_	NNP	_	_	_	_	_
-17	s.	s.	_	NNP	_	_	_	_	_
-18	@AC360	@ac360	_	NN	_	_	_	_	_
-19	of	of	_	IN	_	_	_	_	_
-20	course	course	_	NN	_	_	_	_	_
-21	she	she	_	PRP	_	_	_	_	_
-22	is	be	_	VBZ	_	_	_	_	_
-23	disappointed	disappointed	_	JJ	_	_	_	_	_
-24	.	.	_	.	_	_	_	_	_
+17	s	s	_	POS	_	_	_	_	_
+
+1	@AC360	@ac360	_	NN	_	_	_	_	_
+2	of	of	_	IN	_	_	_	_	_
+3	course	course	_	NN	_	_	_	_	_
+4	she	she	_	PRP	_	_	_	_	_
+5	is	be	_	VBZ	_	_	_	_	_
+6	disappointed	disappointed	_	JJ	_	_	_	_	_
+7	.	.	_	.	_	_	_	_	_
 
 1	Hillary	Hillary	_	NNP	_	_	_	_	_
 2	only	only	_	RB	_	_	_	_	_
@@ -2605,33 +2643,35 @@
 
 1	#WakeUpAmerica	#WakeUpAmerica	_	NNP	_	_	_	_	_
 2	#pjnet	#pjnet	_	NNP	_	_	_	_	_
-3	Trying	try	_	VBG	_	_	_	_	_
-4	2	2	_	CD	_	_	_	_	_
-5	unfollow	unfollow	_	JJ	_	_	_	_	_
-6	every	every	_	DT	_	_	_	_	_
-7	twit	twit	_	NN	_	_	_	_	_
-8	who	who	_	WP	_	_	_	_	_
-9	is	be	_	VBZ	_	_	_	_	_
-10	n't	not	_	RB	_	_	_	_	_
-11	going	go	_	VBG	_	_	_	_	_
-12	2	2	_	CD	_	_	_	_	_
-13	vote	vote	_	NN	_	_	_	_	_
-14	if	if	_	IN	_	_	_	_	_
-15	their	they	_	PRP$	_	_	_	_	_
-16	candidate	candidate	_	NN	_	_	_	_	_
-17	does	do	_	VBZ	_	_	_	_	_
-18	n't	not	_	RB	_	_	_	_	_
-19	make	make	_	VB	_	_	_	_	_
-20	it	it	_	PRP	_	_	_	_	_
-21	to	to	_	IN	_	_	_	_	_
-22	the	the	_	DT	_	_	_	_	_
-23	general	general	_	JJ	_	_	_	_	_
-24	.	.	_	.	_	_	_	_	_
+
+1	Trying	try	_	VBG	_	_	_	_	_
+2	2	2	_	CD	_	_	_	_	_
+3	unfollow	unfollow	_	JJ	_	_	_	_	_
+4	every	every	_	DT	_	_	_	_	_
+5	twit	twit	_	NN	_	_	_	_	_
+6	who	who	_	WP	_	_	_	_	_
+7	is	be	_	VBZ	_	_	_	_	_
+8	n't	not	_	RB	_	_	_	_	_
+9	going	go	_	VBG	_	_	_	_	_
+10	2	2	_	CD	_	_	_	_	_
+11	vote	vote	_	NN	_	_	_	_	_
+12	if	if	_	IN	_	_	_	_	_
+13	their	they	_	PRP$	_	_	_	_	_
+14	candidate	candidate	_	NN	_	_	_	_	_
+15	does	do	_	VBZ	_	_	_	_	_
+16	n't	not	_	RB	_	_	_	_	_
+17	make	make	_	VB	_	_	_	_	_
+18	it	it	_	PRP	_	_	_	_	_
+19	to	to	_	IN	_	_	_	_	_
+20	the	the	_	DT	_	_	_	_	_
+21	general	general	_	JJ	_	_	_	_	_
+22	.	.	_	.	_	_	_	_	_
 
 1	#FeelTheBern	#FeelTheBern	_	NNP	_	_	_	_	_
 2	#SCOTUS	#SCOTUS	_	NNP	_	_	_	_	_
-3	ROFLMAO	ROFLMAO	_	NNP	_	_	_	_	_
-4	!	!	_	.	_	_	_	_	_
+
+1	ROFLMAO	roflmao	_	NN	_	_	_	_	_
+2	!	!	_	.	_	_	_	_	_
 
 1	2012	2012	_	CD	_	_	_	_	_
 2	@GOP	@gop	_	NN	_	_	_	_	_
@@ -2651,15 +2691,16 @@
 6	enough	enough	_	RB	_	_	_	_	_
 7	.	.	_	.	_	_	_	_	_
 
-1	#tcot	#tcot	_	NNP	_	_	_	_	_
-2	#uniteblue	#uniteblue	_	NNP	_	_	_	_	_
-3	#Bernie2016	#Bernie2016	_	NNP	_	_	_	_	_
-4	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-5	made	make	_	VBD	_	_	_	_	_
-6	me	I	_	PRP	_	_	_	_	_
-7	proud	proud	_	JJ	_	_	_	_	_
-8	today	today	_	NN	_	_	_	_	_
-9	!	!	_	.	_	_	_	_	_
+1	#tcot	#tcot	_	JJ	_	_	_	_	_
+2	#uniteblue	#uniteblue	_	NN	_	_	_	_	_
+3	#Bernie2016	#bernie2016	_	NN	_	_	_	_	_
+
+1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+2	made	make	_	VBD	_	_	_	_	_
+3	me	I	_	PRP	_	_	_	_	_
+4	proud	proud	_	JJ	_	_	_	_	_
+5	today	today	_	NN	_	_	_	_	_
+6	!	!	_	.	_	_	_	_	_
 
 1	Nothing	nothing	_	NN	_	_	_	_	_
 2	like	like	_	IN	_	_	_	_	_
@@ -2685,7 +2726,6 @@
 13	OUR	our	_	NN	_	_	_	_	_
 14	CHILDREN	child	_	NNS	_	_	_	_	_
 15	#tcot	#tcot	_	VBP	_	_	_	_	_
-16	.	.	_	.	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	great	great	_	JJ	_	_	_	_	_
@@ -2702,30 +2742,31 @@
 4	.	.	_	.	_	_	_	_	_
 
 1	Go	go	_	VB	_	_	_	_	_
-2	Hillary	Hillary	_	NNP	_	_	_	_	_
-3	upset	upset	_	JJ	_	_	_	_	_
-4	GOP	GOP	_	NNP	_	_	_	_	_
-5	candidates	candidate	_	NNS	_	_	_	_	_
-6	did	do	_	VBD	_	_	_	_	_
-7	n't	not	_	RB	_	_	_	_	_
-8	respond	respond	_	VB	_	_	_	_	_
-9	to	to	_	IN	_	_	_	_	_
-10	Trump	Trump	_	NNP	_	_	_	_	_
-11	's	's	_	POS	_	_	_	_	_
-12	illegal	illegal	_	JJ	_	_	_	_	_
-13	imm	imm	_	NN	_	_	_	_	_
-14	comments	comment	_	NNS	_	_	_	_	_
-15	immediately	immediately	_	RB	_	_	_	_	_
-16	-	-	_	:	_	_	_	_	_
-17	yet	yet	_	CC	_	_	_	_	_
-18	we	we	_	PRP	_	_	_	_	_
-19	're	be	_	VBP	_	_	_	_	_
-20	still	still	_	RB	_	_	_	_	_
-21	waiting	wait	_	VBG	_	_	_	_	_
-22	for	for	_	IN	_	_	_	_	_
-23	her	she	_	PRP$	_	_	_	_	_
-24	emails	email	_	NNS	_	_	_	_	_
-25	.	.	_	.	_	_	_	_	_
+
+1	Hillary	Hillary	_	NNP	_	_	_	_	_
+2	upset	upset	_	VBD	_	_	_	_	_
+3	GOP	GOP	_	NNP	_	_	_	_	_
+4	candidates	candidate	_	NNS	_	_	_	_	_
+5	did	do	_	VBD	_	_	_	_	_
+6	n't	not	_	RB	_	_	_	_	_
+7	respond	respond	_	VB	_	_	_	_	_
+8	to	to	_	IN	_	_	_	_	_
+9	Trump	Trump	_	NNP	_	_	_	_	_
+10	's	's	_	POS	_	_	_	_	_
+11	illegal	illegal	_	JJ	_	_	_	_	_
+12	imm	imm	_	NN	_	_	_	_	_
+13	comments	comment	_	NNS	_	_	_	_	_
+14	immediately	immediately	_	RB	_	_	_	_	_
+15	-	-	_	:	_	_	_	_	_
+16	yet	yet	_	CC	_	_	_	_	_
+17	we	we	_	PRP	_	_	_	_	_
+18	're	be	_	VBP	_	_	_	_	_
+19	still	still	_	RB	_	_	_	_	_
+20	waiting	wait	_	VBG	_	_	_	_	_
+21	for	for	_	IN	_	_	_	_	_
+22	her	she	_	PRP$	_	_	_	_	_
+23	emails	email	_	NNS	_	_	_	_	_
+24	.	.	_	.	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	Many	many	_	JJ	_	_	_	_	_
@@ -2739,7 +2780,6 @@
 1	#SaveTheMiddleClass	#SaveTheMiddleClass	_	NNP	_	_	_	_	_
 2	#PresidentHillaryClinton	#PresidentHillaryClinton	_	NNP	_	_	_	_	_
 3	#StopOutSourcing	#StopOutSourcing	_	NNP	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
 
 1	America	America	_	NNP	_	_	_	_	_
 2	has	have	_	VBZ	_	_	_	_	_
@@ -2758,38 +2798,39 @@
 1	#NoBillary	#NoBillary	_	NNP	_	_	_	_	_
 2	#Women4GOP	#Women4GOP	_	NNP	_	_	_	_	_
 3	#PresidentialElection2016	#PresidentialElection2016	_	NNP	_	_	_	_	_
-4	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-5	Will	Will	_	NNP	_	_	_	_	_
-6	#BillClinton	#BillClinton	_	NNP	_	_	_	_	_
-7	assault	assault	_	NN	_	_	_	_	_
-8	#MonicaLewinsky	#monicalewinsky	_	NN	_	_	_	_	_
-9	on	on	_	IN	_	_	_	_	_
-10	her	she	_	PRP$	_	_	_	_	_
-11	birthday	birthday	_	NN	_	_	_	_	_
-12	?	?	_	.	_	_	_	_	_
+
+1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+2	Will	Will	_	NNP	_	_	_	_	_
+3	#BillClinton	#BillClinton	_	NNP	_	_	_	_	_
+4	assault	assault	_	NN	_	_	_	_	_
+5	#MonicaLewinsky	#monicalewinsky	_	NN	_	_	_	_	_
+6	on	on	_	IN	_	_	_	_	_
+7	her	she	_	PRP$	_	_	_	_	_
+8	birthday	birthday	_	NN	_	_	_	_	_
+9	?	?	_	.	_	_	_	_	_
 
 1	#liberals	#liberals	_	NNS	_	_	_	_	_
-2	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-3	If	if	_	IN	_	_	_	_	_
-4	Hillary	Hillary	_	NNP	_	_	_	_	_
-5	wins	win	_	VBZ	_	_	_	_	_
-6	next	next	_	JJ	_	_	_	_	_
-7	year	year	_	NN	_	_	_	_	_
-8	it	it	_	PRP	_	_	_	_	_
-9	'll	will	_	MD	_	_	_	_	_
-10	be	be	_	VB	_	_	_	_	_
-11	the	the	_	DT	_	_	_	_	_
-12	first	first	_	JJ	_	_	_	_	_
-13	time	time	_	NN	_	_	_	_	_
-14	two	two	_	CD	_	_	_	_	_
-15	presidents	president	_	NNS	_	_	_	_	_
-16	have	have	_	VBP	_	_	_	_	_
-17	had	have	_	VBN	_	_	_	_	_
-18	sex	sex	_	NN	_	_	_	_	_
-19	with	with	_	IN	_	_	_	_	_
-20	each	each	_	DT	_	_	_	_	_
-21	other	other	_	JJ	_	_	_	_	_
-22	.	.	_	.	_	_	_	_	_
+2	#HillaryClinton	#hillaryclinton	_	ADD	_	_	_	_	_
+
+1	If	if	_	IN	_	_	_	_	_
+2	Hillary	Hillary	_	NNP	_	_	_	_	_
+3	wins	win	_	VBZ	_	_	_	_	_
+4	next	next	_	JJ	_	_	_	_	_
+5	year	year	_	NN	_	_	_	_	_
+6	it	it	_	PRP	_	_	_	_	_
+7	'll	will	_	MD	_	_	_	_	_
+8	be	be	_	VB	_	_	_	_	_
+9	the	the	_	DT	_	_	_	_	_
+10	first	first	_	JJ	_	_	_	_	_
+11	time	time	_	NN	_	_	_	_	_
+12	two	two	_	CD	_	_	_	_	_
+13	presidents	president	_	NNS	_	_	_	_	_
+14	have	have	_	VBP	_	_	_	_	_
+15	had	have	_	VBN	_	_	_	_	_
+16	sex	sex	_	NN	_	_	_	_	_
+17	with	with	_	IN	_	_	_	_	_
+18	each	each	_	DT	_	_	_	_	_
+19	other	other	_	JJ	_	_	_	_	_
 
 1	President	President	_	NNP	_	_	_	_	_
 2	Jimmy	Jimmy	_	NNP	_	_	_	_	_
@@ -2816,14 +2857,15 @@
 8	happy	happy	_	JJ	_	_	_	_	_
 9	to	to	_	TO	_	_	_	_	_
 10	support	support	_	VB	_	_	_	_	_
-11	her	she	_	PRP$	_	_	_	_	_
-12	@StarCoreOne02	@starcoreone02	_	NN	_	_	_	_	_
-13	@DrMartyFox	@drmartyfox	_	NN	_	_	_	_	_
-14	Is	be	_	VBZ	_	_	_	_	_
-15	it	it	_	PRP	_	_	_	_	_
-16	still	still	_	RB	_	_	_	_	_
-17	1992	1992	_	CD	_	_	_	_	_
-18	?	?	_	.	_	_	_	_	_
+11	her	she	_	PRP	_	_	_	_	_
+
+1	@StarCoreOne02	@starcoreone02	_	NN	_	_	_	_	_
+2	@DrMartyFox	@drmartyfox	_	NN	_	_	_	_	_
+3	Is	be	_	VBZ	_	_	_	_	_
+4	it	it	_	PRP	_	_	_	_	_
+5	still	still	_	RB	_	_	_	_	_
+6	1992	1992	_	CD	_	_	_	_	_
+7	?	?	_	.	_	_	_	_	_
 
 1	We	we	_	PRP	_	_	_	_	_
 2	must	must	_	MD	_	_	_	_	_
@@ -2834,9 +2876,10 @@
 7	The	the	_	DT	_	_	_	_	_
 8	Future	future	_	JJ	_	_	_	_	_
 9	10.0	10.0	_	CD	_	_	_	_	_
-10	.@thehill	.@thehill	_	NN	_	_	_	_	_
-11	umm	umm	_	NN	_	_	_	_	_
-12	.	.	_	.	_	_	_	_	_
+
+1	.@thehill	.@thehill	_	JJ	_	_	_	_	_
+2	umm	umm	_	NN	_	_	_	_	_
+3	.	.	_	.	_	_	_	_	_
 
 1	Yyyeaaaaah	Yyyeaaaaah	_	NNP	_	_	_	_	_
 2	.	.	_	.	_	_	_	_	_
@@ -2876,14 +2919,15 @@
 16	?	?	_	.	_	_	_	_	_
 
 1	#CNN	#CNN	_	NNP	_	_	_	_	_
-2	Free	Free	_	NNP	_	_	_	_	_
-3	and	and	_	CC	_	_	_	_	_
-4	Equal	Equal	_	NNP	_	_	_	_	_
-5	in	in	_	IN	_	_	_	_	_
-6	dignity	dignity	_	NN	_	_	_	_	_
-7	and	and	_	CC	_	_	_	_	_
-8	rights	rights	_	NNS	_	_	_	_	_
-9	.	.	_	.	_	_	_	_	_
+
+1	Free	free	_	JJ	_	_	_	_	_
+2	and	and	_	CC	_	_	_	_	_
+3	Equal	equal	_	JJ	_	_	_	_	_
+4	in	in	_	IN	_	_	_	_	_
+5	dignity	dignity	_	NN	_	_	_	_	_
+6	and	and	_	CC	_	_	_	_	_
+7	rights	rights	_	NNS	_	_	_	_	_
+8	.	.	_	.	_	_	_	_	_
 
 1	@CheerUpKaci	@CheerUpKaci	_	NNP	_	_	_	_	_
 2	@tmacGA70	@tmacGA70	_	NNP	_	_	_	_	_
@@ -2903,34 +2947,36 @@
 4	sex	sex	_	NN	_	_	_	_	_
 5	.	.	_	.	_	_	_	_	_
 
-1	#HillaryonCNN	#hillaryoncnn	_	NN	_	_	_	_	_
-2	Entire	entire	_	JJ	_	_	_	_	_
-3	campaign	campaign	_	NN	_	_	_	_	_
-4	platform	platform	_	NN	_	_	_	_	_
-5	for	for	_	IN	_	_	_	_	_
-6	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-7	seems	seem	_	VBZ	_	_	_	_	_
-8	to	to	_	TO	_	_	_	_	_
-9	be	be	_	VB	_	_	_	_	_
-10	...	...	_	,	_	_	_	_	_
-11	"	"	_	``	_	_	_	_	_
-12	I	I	_	PRP	_	_	_	_	_
-13	'm	be	_	VBP	_	_	_	_	_
-14	Hillary	Hillary	_	NNP	_	_	_	_	_
-15	Clinton	Clinton	_	NNP	_	_	_	_	_
-16	"	"	_	''	_	_	_	_	_
-17	.	.	_	.	_	_	_	_	_
+1	#HillaryonCNN	#HillaryonCNN	_	NNP	_	_	_	_	_
+
+1	Entire	entire	_	JJ	_	_	_	_	_
+2	campaign	campaign	_	NN	_	_	_	_	_
+3	platform	platform	_	NN	_	_	_	_	_
+4	for	for	_	IN	_	_	_	_	_
+5	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+6	seems	seem	_	VBZ	_	_	_	_	_
+7	to	to	_	TO	_	_	_	_	_
+8	be	be	_	VB	_	_	_	_	_
+9	...	...	_	,	_	_	_	_	_
+10	"	"	_	``	_	_	_	_	_
+11	I	I	_	PRP	_	_	_	_	_
+12	'm	be	_	VBP	_	_	_	_	_
+13	Hillary	Hillary	_	NNP	_	_	_	_	_
+14	Clinton	Clinton	_	NNP	_	_	_	_	_
+15	"	"	_	''	_	_	_	_	_
+16	.	.	_	.	_	_	_	_	_
 
 1	#norecord	#norecord	_	NNP	_	_	_	_	_
 2	#nosubstance	#nosubstance	_	NNP	_	_	_	_	_
 3	#tcot	#tcot	_	NNP	_	_	_	_	_
 4	#PJNET	#PJNET	_	NNP	_	_	_	_	_
-5	Imagine	imagine	_	VB	_	_	_	_	_
-6	@JoeBiden	@JoeBiden	_	NNP	_	_	_	_	_
-7	runs	run	_	VBZ	_	_	_	_	_
-8	for	for	_	IN	_	_	_	_	_
-9	POTUS	POTUS	_	NNP	_	_	_	_	_
-10	.	.	_	.	_	_	_	_	_
+
+1	Imagine	imagine	_	VB	_	_	_	_	_
+2	@JoeBiden	@JoeBiden	_	NNP	_	_	_	_	_
+3	runs	run	_	VBZ	_	_	_	_	_
+4	for	for	_	IN	_	_	_	_	_
+5	POTUS	POTUS	_	NNP	_	_	_	_	_
+6	.	.	_	.	_	_	_	_	_
 
 1	Without	without	_	IN	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
@@ -2946,26 +2992,26 @@
 12	Clinton	Clinton	_	NNP	_	_	_	_	_
 13	.	.	_	.	_	_	_	_	_
 
-1	-------	-------	_	SYM	_	_	_	_	_
-2	A	a	_	DT	_	_	_	_	_
-3	lot	lot	_	NN	_	_	_	_	_
-4	of	of	_	IN	_	_	_	_	_
-5	#GOPHaters	#gophaters	_	NNS	_	_	_	_	_
-6	for	for	_	IN	_	_	_	_	_
-7	#Hillary	#Hillary	_	NNP	_	_	_	_	_
-8	-	-	_	HYPH	_	_	_	_	_
-9	so	so	_	RB	_	_	_	_	_
-10	funny	funny	_	JJ	_	_	_	_	_
-11	because	because	_	IN	_	_	_	_	_
-12	she	she	_	PRP	_	_	_	_	_
-13	is	be	_	VBZ	_	_	_	_	_
-14	beating	beat	_	VBG	_	_	_	_	_
-15	them	they	_	PRP	_	_	_	_	_
-16	all	all	_	DT	_	_	_	_	_
-17	at	at	_	IN	_	_	_	_	_
-18	40	40	_	CD	_	_	_	_	_
-19	%	%	_	NN	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
+1	-------	-------	_	NFP	_	_	_	_	_
+
+1	A	a	_	DT	_	_	_	_	_
+2	lot	lot	_	NN	_	_	_	_	_
+3	of	of	_	IN	_	_	_	_	_
+4	#GOPHaters	#gophaters	_	NNS	_	_	_	_	_
+5	for	for	_	IN	_	_	_	_	_
+6	#Hillary	#Hillary	_	NNP	_	_	_	_	_
+7	-	-	_	HYPH	_	_	_	_	_
+8	so	so	_	RB	_	_	_	_	_
+9	funny	funny	_	JJ	_	_	_	_	_
+10	because	because	_	IN	_	_	_	_	_
+11	she	she	_	PRP	_	_	_	_	_
+12	is	be	_	VBZ	_	_	_	_	_
+13	beating	beat	_	VBG	_	_	_	_	_
+14	them	they	_	PRP	_	_	_	_	_
+15	all	all	_	DT	_	_	_	_	_
+16	at	at	_	IN	_	_	_	_	_
+17	40	40	_	CD	_	_	_	_	_
+18	%	%	_	NN	_	_	_	_	_
 
 1	SUCCESS	success	_	NN	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
@@ -3018,23 +3064,23 @@
 
 1	#inners	#inners	_	NNS	_	_	_	_	_
 2	#readyforhillary	#readyforhillary	_	JJ	_	_	_	_	_
-3	#Democrats	#democrats	_	NNS	_	_	_	_	_
-4	and	and	_	CC	_	_	_	_	_
-5	#Obama	#Obama	_	NNP	_	_	_	_	_
-6	reduce	reduce	_	VB	_	_	_	_	_
-7	OUR	OUR	_	NNP	_	_	_	_	_
-8	Army	Army	_	NNP	_	_	_	_	_
-9	by	by	_	IN	_	_	_	_	_
-10	40,000	40,000	_	CD	_	_	_	_	_
-11	MEANWHILE	meanwhile	_	RB	_	_	_	_	_
-12	Has	have	_	VBZ	_	_	_	_	_
-13	increased	increase	_	VBN	_	_	_	_	_
-14	IRS	IRS	_	NNP	_	_	_	_	_
-15	to	to	_	TO	_	_	_	_	_
-16	100,000	100,000	_	CD	_	_	_	_	_
-17	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-18	#Hillary	#Hillary	_	NNP	_	_	_	_	_
-19	.	.	_	.	_	_	_	_	_
+
+1	#Democrats	#democrats	_	NNS	_	_	_	_	_
+2	and	and	_	CC	_	_	_	_	_
+3	#Obama	#Obama	_	NNP	_	_	_	_	_
+4	reduce	reduce	_	VB	_	_	_	_	_
+5	OUR	OUR	_	NNP	_	_	_	_	_
+6	Army	Army	_	NNP	_	_	_	_	_
+7	by	by	_	IN	_	_	_	_	_
+8	40,000	40,000	_	CD	_	_	_	_	_
+9	MEANWHILE	meanwhile	_	RB	_	_	_	_	_
+10	Has	have	_	VBZ	_	_	_	_	_
+11	increased	increase	_	VBN	_	_	_	_	_
+12	IRS	IRS	_	NNP	_	_	_	_	_
+13	to	to	_	TO	_	_	_	_	_
+14	100,000	100,000	_	CD	_	_	_	_	_
+15	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
+16	#Hillary	#Hillary	_	NNP	_	_	_	_	_
 
 1	@CNNPolitics	@CNNPolitics	_	NNP	_	_	_	_	_
 2	@PoliticalAnt	@PoliticalAnt	_	NNP	_	_	_	_	_
@@ -3043,7 +3089,6 @@
 5	is	be	_	VBZ	_	_	_	_	_
 6	beautiful	beautiful	_	JJ	_	_	_	_	_
 7	#oops	#oops	_	NNS	_	_	_	_	_
-8	.	.	_	.	_	_	_	_	_
 
 1	#NoHillary2016	#nohillary2016	_	NN	_	_	_	_	_
 2	&	&	_	CC	_	_	_	_	_
@@ -3067,45 +3112,47 @@
 12	nationwide	nationwide	_	JJ	_	_	_	_	_
 13	!	!	_	.	_	_	_	_	_
 
-1	#tcot	#tcot	_	NNP	_	_	_	_	_
-2	#RedNationRising	#RedNationRising	_	NNP	_	_	_	_	_
-3	@forewit	@forewit	_	NNP	_	_	_	_	_
-4	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-5	is	be	_	VBZ	_	_	_	_	_
-6	a	a	_	DT	_	_	_	_	_
-7	degenerate	degenerate	_	JJ	_	_	_	_	_
-8	liar	liar	_	NN	_	_	_	_	_
-9	who	who	_	WP	_	_	_	_	_
-10	will	will	_	MD	_	_	_	_	_
-11	do	do	_	VB	_	_	_	_	_
+1	#tcot	#tcot	_	JJ	_	_	_	_	_
+2	#RedNationRising	#rednationrising	_	NN	_	_	_	_	_
+
+1	@forewit	@forewit	_	NNP	_	_	_	_	_
+2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+3	is	be	_	VBZ	_	_	_	_	_
+4	a	a	_	DT	_	_	_	_	_
+5	degenerate	degenerate	_	JJ	_	_	_	_	_
+6	liar	liar	_	NN	_	_	_	_	_
+7	who	who	_	WP	_	_	_	_	_
+8	will	will	_	MD	_	_	_	_	_
+9	do	do	_	VB	_	_	_	_	_
+10	,	,	_	,	_	_	_	_	_
+11	say	say	_	VB	_	_	_	_	_
 12	,	,	_	,	_	_	_	_	_
-13	say	say	_	VB	_	_	_	_	_
+13	cheat	cheat	_	VB	_	_	_	_	_
 14	,	,	_	,	_	_	_	_	_
-15	cheat	cheat	_	VB	_	_	_	_	_
+15	delete	delete	_	VB	_	_	_	_	_
 16	,	,	_	,	_	_	_	_	_
-17	delete	delete	_	VB	_	_	_	_	_
-18	,	,	_	,	_	_	_	_	_
-19	anything	anything	_	NN	_	_	_	_	_
-20	to	to	_	TO	_	_	_	_	_
-21	get	get	_	VB	_	_	_	_	_
-22	another	another	_	DT	_	_	_	_	_
-23	squat	squat	_	JJ	_	_	_	_	_
-24	at	at	_	IN	_	_	_	_	_
-25	1600	1600	_	CD	_	_	_	_	_
-26	Penn	Penn	_	NNP	_	_	_	_	_
-27	Ave.	Ave.	_	NNP	_	_	_	_	_
-28	@Reince	@Reince	_	NNP	_	_	_	_	_
-29	Hardly	hardly	_	RB	_	_	_	_	_
-30	a	a	_	DT	_	_	_	_	_
-31	hard	hard	_	JJ	_	_	_	_	_
-32	-	-	_	HYPH	_	_	_	_	_
-33	hitting	hit	_	VBG	_	_	_	_	_
-34	interview	interview	_	NN	_	_	_	_	_
-35	like	like	_	IN	_	_	_	_	_
-36	with	with	_	IN	_	_	_	_	_
-37	GOP	GOP	_	NNP	_	_	_	_	_
-38	candidates	candidate	_	NNS	_	_	_	_	_
-39	.	.	_	.	_	_	_	_	_
+17	anything	anything	_	NN	_	_	_	_	_
+18	to	to	_	TO	_	_	_	_	_
+19	get	get	_	VB	_	_	_	_	_
+20	another	another	_	DT	_	_	_	_	_
+21	squat	squat	_	JJ	_	_	_	_	_
+22	at	at	_	IN	_	_	_	_	_
+23	1600	1600	_	CD	_	_	_	_	_
+24	Penn	Penn	_	NNP	_	_	_	_	_
+25	Ave.	Ave.	_	NNP	_	_	_	_	_
+
+1	@Reince	@Reince	_	NNP	_	_	_	_	_
+2	Hardly	hardly	_	RB	_	_	_	_	_
+3	a	a	_	DT	_	_	_	_	_
+4	hard	hard	_	JJ	_	_	_	_	_
+5	-	-	_	HYPH	_	_	_	_	_
+6	hitting	hit	_	VBG	_	_	_	_	_
+7	interview	interview	_	NN	_	_	_	_	_
+8	like	like	_	IN	_	_	_	_	_
+9	with	with	_	IN	_	_	_	_	_
+10	GOP	GOP	_	NNP	_	_	_	_	_
+11	candidates	candidate	_	NNS	_	_	_	_	_
+12	.	.	_	.	_	_	_	_	_
 
 1	Did	do	_	VBD	_	_	_	_	_
 2	CNN	CNN	_	NNP	_	_	_	_	_
@@ -3134,23 +3181,23 @@
 6	power	power	_	NN	_	_	_	_	_
 7	!	!	_	.	_	_	_	_	_
 
-1	#Election2016	#Election2016	_	NNP	_	_	_	_	_
-2	Dad	Dad	_	NNP	_	_	_	_	_
-3	while	while	_	IN	_	_	_	_	_
-4	watching	watch	_	VBG	_	_	_	_	_
-5	the	the	_	DT	_	_	_	_	_
-6	news	news	_	NN	_	_	_	_	_
-7	:	:	_	:	_	_	_	_	_
-8	Politics	politics	_	NN	_	_	_	_	_
-9	is	be	_	VBZ	_	_	_	_	_
-10	just	just	_	RB	_	_	_	_	_
-11	show	show	_	VB	_	_	_	_	_
-12	business	business	_	NN	_	_	_	_	_
-13	for	for	_	IN	_	_	_	_	_
-14	ugly	ugly	_	JJ	_	_	_	_	_
-15	people	people	_	NNS	_	_	_	_	_
-16	#HowAboutNo	#HowAboutNo	_	NNP	_	_	_	_	_
-17	.	.	_	.	_	_	_	_	_
+1	#Election2016	#election2016	_	NN	_	_	_	_	_
+
+1	Dad	Dad	_	NNP	_	_	_	_	_
+2	while	while	_	IN	_	_	_	_	_
+3	watching	watch	_	VBG	_	_	_	_	_
+4	the	the	_	DT	_	_	_	_	_
+5	news	news	_	NN	_	_	_	_	_
+6	:	:	_	:	_	_	_	_	_
+7	Politics	politics	_	NN	_	_	_	_	_
+8	is	be	_	VBZ	_	_	_	_	_
+9	just	just	_	RB	_	_	_	_	_
+10	show	show	_	VB	_	_	_	_	_
+11	business	business	_	NN	_	_	_	_	_
+12	for	for	_	IN	_	_	_	_	_
+13	ugly	ugly	_	JJ	_	_	_	_	_
+14	people	people	_	NNS	_	_	_	_	_
+15	#HowAboutNo	#HowAboutNo	_	NNP	_	_	_	_	_
 
 1	.@thedailybeast	.@thedailybeast	_	VB	_	_	_	_	_
 2	such	such	_	PDT	_	_	_	_	_
@@ -3159,44 +3206,46 @@
 5	of	of	_	IN	_	_	_	_	_
 6	space	space	_	NN	_	_	_	_	_
 7	#CrackingCeilings	#crackingceilings	_	NNS	_	_	_	_	_
-8	@KrownRoyaleNY	@KrownRoyaleNY	_	NNP	_	_	_	_	_
-9	@jjauthor	@jjauthor	_	NNP	_	_	_	_	_
-10	Bad	Bad	_	NNP	_	_	_	_	_
-11	for	for	_	IN	_	_	_	_	_
-12	her	she	_	PRP$	_	_	_	_	_
-13	is	be	_	VBZ	_	_	_	_	_
-14	good	good	_	JJ	_	_	_	_	_
-15	for	for	_	IN	_	_	_	_	_
-16	the	the	_	DT	_	_	_	_	_
-17	U.S.	U.S.	_	NNP	_	_	_	_	_
-18	@jlconnell66	@jlconnell66	_	NN	_	_	_	_	_
-19	#Killary	#Killary	_	NNP	_	_	_	_	_
-20	RT	RT	_	NNP	_	_	_	_	_
-21	@JohnFugelsang	@JohnFugelsang	_	NNP	_	_	_	_	_
-22	:	:	_	:	_	_	_	_	_
-23	They	they	_	PRP	_	_	_	_	_
-24	should	should	_	MD	_	_	_	_	_
-25	just	just	_	RB	_	_	_	_	_
-26	make	make	_	VB	_	_	_	_	_
-27	the	the	_	DT	_	_	_	_	_
-28	GOP	GOP	_	NNP	_	_	_	_	_
-29	primaries	primary	_	NNS	_	_	_	_	_
-30	a	a	_	DT	_	_	_	_	_
-31	reality	reality	_	NN	_	_	_	_	_
-32	game	game	_	NN	_	_	_	_	_
-33	show	show	_	NN	_	_	_	_	_
-34	called	call	_	VBN	_	_	_	_	_
-35	"	"	_	``	_	_	_	_	_
-36	Who	who	_	WP	_	_	_	_	_
-37	Wants	want	_	VBZ	_	_	_	_	_
-38	To	to	_	TO	_	_	_	_	_
-39	Get	get	_	VB	_	_	_	_	_
-40	Beat	beat	_	NN	_	_	_	_	_
-41	Up	up	_	IN	_	_	_	_	_
-42	By	by	_	IN	_	_	_	_	_
-43	A	a	_	DT	_	_	_	_	_
-44	Girl	girl	_	NN	_	_	_	_	_
-45	?	?	_	.	_	_	_	_	_
+
+1	@KrownRoyaleNY	@KrownRoyaleNY	_	NNP	_	_	_	_	_
+2	@jjauthor	@jjauthor	_	NNP	_	_	_	_	_
+3	Bad	Bad	_	NNP	_	_	_	_	_
+4	for	for	_	IN	_	_	_	_	_
+5	her	she	_	PRP$	_	_	_	_	_
+6	is	be	_	VBZ	_	_	_	_	_
+7	good	good	_	JJ	_	_	_	_	_
+8	for	for	_	IN	_	_	_	_	_
+9	the	the	_	DT	_	_	_	_	_
+10	U.S.	U.S.	_	NNP	_	_	_	_	_
+11	@jlconnell66	@jlconnell66	_	NN	_	_	_	_	_
+12	#Killary	#Killary	_	NNP	_	_	_	_	_
+
+1	RT	rt	_	NN	_	_	_	_	_
+2	@JohnFugelsang	@johnfugelsang	_	NN	_	_	_	_	_
+3	:	:	_	:	_	_	_	_	_
+4	They	they	_	PRP	_	_	_	_	_
+5	should	should	_	MD	_	_	_	_	_
+6	just	just	_	RB	_	_	_	_	_
+7	make	make	_	VB	_	_	_	_	_
+8	the	the	_	DT	_	_	_	_	_
+9	GOP	GOP	_	NNP	_	_	_	_	_
+10	primaries	primary	_	NNS	_	_	_	_	_
+11	a	a	_	DT	_	_	_	_	_
+12	reality	reality	_	NN	_	_	_	_	_
+13	game	game	_	NN	_	_	_	_	_
+14	show	show	_	NN	_	_	_	_	_
+15	called	call	_	VBN	_	_	_	_	_
+16	"	"	_	``	_	_	_	_	_
+17	Who	who	_	WP	_	_	_	_	_
+18	Wants	want	_	VBZ	_	_	_	_	_
+19	To	to	_	TO	_	_	_	_	_
+20	Get	get	_	VB	_	_	_	_	_
+21	Beat	beat	_	NN	_	_	_	_	_
+22	Up	up	_	IN	_	_	_	_	_
+23	By	by	_	IN	_	_	_	_	_
+24	A	a	_	DT	_	_	_	_	_
+25	Girl	girl	_	NN	_	_	_	_	_
+26	?	?	_	.	_	_	_	_	_
 
 1	@csham21	@csham21	_	CD	_	_	_	_	_
 2	@EstadodeSats	@estadodesats	_	NNS	_	_	_	_	_
@@ -3213,7 +3262,6 @@
 1	#WakeUpAmerica	#WakeUpAmerica	_	NNP	_	_	_	_	_
 2	#Cuba	#Cuba	_	NNP	_	_	_	_	_
 3	#TodosMarchamos	#TodosMarchamos	_	NNP	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
 
 1	Ca	can	_	MD	_	_	_	_	_
 2	n't	not	_	RB	_	_	_	_	_
@@ -3240,21 +3288,22 @@
 23	Right	right	_	JJ	_	_	_	_	_
 24	#delusional	#delusional	_	JJ	_	_	_	_	_
 25	#WakeUpA	#wakeupa	_	NN	_	_	_	_	_
-26	...	...	_	:	_	_	_	_	_
-27	@M_E_Adams	@m_e_adams	_	NNS	_	_	_	_	_
-28	if	if	_	IN	_	_	_	_	_
-29	a	a	_	DT	_	_	_	_	_
-30	Demonrat	demonrat	_	NN	_	_	_	_	_
-31	were	be	_	VBD	_	_	_	_	_
-32	to	to	_	TO	_	_	_	_	_
-33	win	win	_	VB	_	_	_	_	_
-34	I	I	_	PRP	_	_	_	_	_
-35	'd	would	_	MD	_	_	_	_	_
-36	prefer	prefer	_	VB	_	_	_	_	_
-37	Sanders	Sanders	_	NNP	_	_	_	_	_
-38	over	over	_	IN	_	_	_	_	_
-39	Killary	Killary	_	NNP	_	_	_	_	_
-40	.	.	_	.	_	_	_	_	_
+26	...	...	_	.	_	_	_	_	_
+
+1	@M_E_Adams	@m_e_adams	_	NNS	_	_	_	_	_
+2	if	if	_	IN	_	_	_	_	_
+3	a	a	_	DT	_	_	_	_	_
+4	Demonrat	demonrat	_	NN	_	_	_	_	_
+5	were	be	_	VBD	_	_	_	_	_
+6	to	to	_	TO	_	_	_	_	_
+7	win	win	_	VB	_	_	_	_	_
+8	I	I	_	PRP	_	_	_	_	_
+9	'd	would	_	MD	_	_	_	_	_
+10	prefer	prefer	_	VB	_	_	_	_	_
+11	Sanders	Sanders	_	NNP	_	_	_	_	_
+12	over	over	_	IN	_	_	_	_	_
+13	Killary	Killary	_	NNP	_	_	_	_	_
+14	.	.	_	.	_	_	_	_	_
 
 1	@jschau11	@jschau11	_	NN	_	_	_	_	_
 2	wow	wow	_	UH	_	_	_	_	_
@@ -3278,24 +3327,24 @@
 10	#	#	_	NN	_	_	_	_	_
 11	(	(	_	-LRB-	_	_	_	_	_
 12	:)	:)	_	NFP	_	_	_	_	_
-13	#WhatILearnedToday	#whatilearnedtoday	_	NN	_	_	_	_	_
-14	@HillaryClinton	@hillaryclinton	_	NN	_	_	_	_	_
-15	already	already	_	RB	_	_	_	_	_
-16	admitted	admit	_	VBD	_	_	_	_	_
-17	to	to	_	IN	_	_	_	_	_
-18	having	have	_	VBG	_	_	_	_	_
-19	at	at	_	RB	_	_	_	_	_
-20	least	least	_	RBS	_	_	_	_	_
-21	2	2	_	CD	_	_	_	_	_
-22	devices	device	_	NNS	_	_	_	_	_
-23	,	,	_	,	_	_	_	_	_
-24	more	more	_	JJR	_	_	_	_	_
-25	lies	lie	_	NNS	_	_	_	_	_
-26	,	,	_	,	_	_	_	_	_
-27	it	it	_	PRP	_	_	_	_	_
-28	never	never	_	RB	_	_	_	_	_
-29	stops	stop	_	VBZ	_	_	_	_	_
-30	.	.	_	.	_	_	_	_	_
+
+1	#WhatILearnedToday	#WhatILearnedToday	_	NNP	_	_	_	_	_
+2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+3	already	already	_	RB	_	_	_	_	_
+4	admitted	admit	_	VBD	_	_	_	_	_
+5	to	to	_	IN	_	_	_	_	_
+6	having	have	_	VBG	_	_	_	_	_
+7	at	at	_	RB	_	_	_	_	_
+8	least	least	_	RBS	_	_	_	_	_
+9	2	2	_	CD	_	_	_	_	_
+10	devices	device	_	NNS	_	_	_	_	_
+11	,	,	_	,	_	_	_	_	_
+12	more	more	_	JJR	_	_	_	_	_
+13	lies	lie	_	NNS	_	_	_	_	_
+14	,	,	_	,	_	_	_	_	_
+15	it	it	_	PRP	_	_	_	_	_
+16	never	never	_	RB	_	_	_	_	_
+17	stops	stop	_	VBZ	_	_	_	_	_
 
 1	@DesireeAaron	@DesireeAaron	_	NNP	_	_	_	_	_
 2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
@@ -3308,7 +3357,6 @@
 9	it	it	_	PRP	_	_	_	_	_
 10	#HillaryonCNN	#HillaryonCNN	_	NNP	_	_	_	_	_
 11	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-12	.	.	_	.	_	_	_	_	_
 
 1	.@jaketapper	.@jaketapper	_	NFP	_	_	_	_	_
 2	The	the	_	DT	_	_	_	_	_
@@ -3330,23 +3378,24 @@
 
 1	#TCOT	#TCOT	_	NNP	_	_	_	_	_
 2	#WakeUpAmerica	#WakeUpAmerica	_	NNP	_	_	_	_	_
-3	It	it	_	PRP	_	_	_	_	_
-4	's	be	_	VBZ	_	_	_	_	_
-5	a	a	_	DT	_	_	_	_	_
-6	beautiful	beautiful	_	JJ	_	_	_	_	_
-7	day	day	_	NN	_	_	_	_	_
-8	for	for	_	IN	_	_	_	_	_
-9	phone	phone	_	NN	_	_	_	_	_
-10	banking	banking	_	NN	_	_	_	_	_
-11	at	at	_	IN	_	_	_	_	_
-12	the	the	_	DT	_	_	_	_	_
-13	Hill	Hill	_	NNP	_	_	_	_	_
-14	House	House	_	NNP	_	_	_	_	_
-15	on	on	_	IN	_	_	_	_	_
-16	1529	1529	_	CD	_	_	_	_	_
-17	Richland	Richland	_	NNP	_	_	_	_	_
-18	Street	Street	_	NNP	_	_	_	_	_
-19	!	!	_	.	_	_	_	_	_
+
+1	It	it	_	PRP	_	_	_	_	_
+2	's	be	_	VBZ	_	_	_	_	_
+3	a	a	_	DT	_	_	_	_	_
+4	beautiful	beautiful	_	JJ	_	_	_	_	_
+5	day	day	_	NN	_	_	_	_	_
+6	for	for	_	IN	_	_	_	_	_
+7	phone	phone	_	NN	_	_	_	_	_
+8	banking	banking	_	NN	_	_	_	_	_
+9	at	at	_	IN	_	_	_	_	_
+10	the	the	_	DT	_	_	_	_	_
+11	Hill	Hill	_	NNP	_	_	_	_	_
+12	House	House	_	NNP	_	_	_	_	_
+13	on	on	_	IN	_	_	_	_	_
+14	1529	1529	_	CD	_	_	_	_	_
+15	Richland	Richland	_	NNP	_	_	_	_	_
+16	Street	Street	_	NNP	_	_	_	_	_
+17	!	!	_	.	_	_	_	_	_
 
 1	Join	join	_	VB	_	_	_	_	_
 2	us	we	_	PRP	_	_	_	_	_
@@ -3355,8 +3404,7 @@
 5	6PM	6pm	_	NN	_	_	_	_	_
 6	!	!	_	.	_	_	_	_	_
 
-1	@HillaryforSC	@hillaryforsc	_	NN	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
+1	@HillaryforSC	@HillaryforSC	_	NNP	_	_	_	_	_
 
 1	@ahbrees	@ahbrees	_	NNS	_	_	_	_	_
 2	@TODAYshow	@todayshow	_	VBP	_	_	_	_	_
@@ -3415,7 +3463,6 @@
 1	;	;	_	:	_	_	_	_	_
 2	)	)	_	-RRB-	_	_	_	_	_
 3	#ITrustHillary	#ITrustHillary	_	NNP	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
 
 1	@pdg811	@pdg811	_	NN	_	_	_	_	_
 2	Did	do	_	VBD	_	_	_	_	_
@@ -3438,7 +3485,6 @@
 3	to	to	_	IN	_	_	_	_	_
 4	#Releasethetranscript	#Releasethetranscript	_	NNP	_	_	_	_	_
 5	#ITrustHillary	#ITrustHillary	_	NNP	_	_	_	_	_
-6	.	.	_	.	_	_	_	_	_
 
 1	Hillary	Hillary	_	NNP	_	_	_	_	_
 2	Clinton	Clinton	_	NNP	_	_	_	_	_
@@ -3467,21 +3513,21 @@
 25	)	)	_	-RRB-	_	_	_	_	_
 26	.	.	_	.	_	_	_	_	_
 
-1	#Bernie2016	#Bernie2016	_	NNP	_	_	_	_	_
-2	#HillaryonCNN	#HillaryonCNN	_	NNP	_	_	_	_	_
-3	The	the	_	DT	_	_	_	_	_
-4	wicked	wicked	_	JJ	_	_	_	_	_
-5	person	person	_	NN	_	_	_	_	_
-6	flees	flee	_	VBZ	_	_	_	_	_
-7	when	when	_	WRB	_	_	_	_	_
-8	no	no	_	DT	_	_	_	_	_
-9	one	one	_	NN	_	_	_	_	_
-10	is	be	_	VBZ	_	_	_	_	_
-11	chasing	chase	_	VBG	_	_	_	_	_
-12	them	them	_	RB	_	_	_	_	_
-13	-	-	_	HYPH	_	_	_	_	_
-14	Proverbs	proverb	_	NNS	_	_	_	_	_
-15	.	.	_	.	_	_	_	_	_
+1	#Bernie2016	#bernie2016	_	NN	_	_	_	_	_
+
+1	#HillaryonCNN	#HillaryonCNN	_	NNP	_	_	_	_	_
+2	The	the	_	DT	_	_	_	_	_
+3	wicked	wicked	_	JJ	_	_	_	_	_
+4	person	person	_	NN	_	_	_	_	_
+5	flees	flee	_	VBZ	_	_	_	_	_
+6	when	when	_	WRB	_	_	_	_	_
+7	no	no	_	DT	_	_	_	_	_
+8	one	one	_	NN	_	_	_	_	_
+9	is	be	_	VBZ	_	_	_	_	_
+10	chasing	chase	_	VBG	_	_	_	_	_
+11	them	them	_	RB	_	_	_	_	_
+12	-	-	_	HYPH	_	_	_	_	_
+13	Proverbs	proverb	_	NNS	_	_	_	_	_
 
 1	@Scott_R_Ellis	@Scott_R_Ellis	_	NNP	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
@@ -3518,19 +3564,20 @@
 9	!	!	_	.	_	_	_	_	_
 
 1	===	===	_	NFP	_	_	_	_	_
-2	>	>	_	SYM	_	_	_	_	_
-3	@CNNPolitics	@cnnpolitics	_	NNS	_	_	_	_	_
-4	@JDiamond1	@jdiamond1	_	NN	_	_	_	_	_
-5	that	that	_	WDT	_	_	_	_	_
-6	's	be	_	VBZ	_	_	_	_	_
-7	so	so	_	RB	_	_	_	_	_
-8	ridiculous	ridiculous	_	JJ	_	_	_	_	_
-9	to	to	_	TO	_	_	_	_	_
-10	treat	treat	_	VB	_	_	_	_	_
-11	people	people	_	NNS	_	_	_	_	_
-12	like	like	_	IN	_	_	_	_	_
-13	that	that	_	DT	_	_	_	_	_
-14	.	.	_	.	_	_	_	_	_
+2	>	>	_	-RRB-	_	_	_	_	_
+
+1	@CNNPolitics	@cnnpolitics	_	NNS	_	_	_	_	_
+2	@JDiamond1	@jdiamond1	_	NN	_	_	_	_	_
+3	that	that	_	WDT	_	_	_	_	_
+4	's	be	_	VBZ	_	_	_	_	_
+5	so	so	_	RB	_	_	_	_	_
+6	ridiculous	ridiculous	_	JJ	_	_	_	_	_
+7	to	to	_	TO	_	_	_	_	_
+8	treat	treat	_	VB	_	_	_	_	_
+9	people	people	_	NNS	_	_	_	_	_
+10	like	like	_	IN	_	_	_	_	_
+11	that	that	_	DT	_	_	_	_	_
+12	.	.	_	.	_	_	_	_	_
 
 1	They	they	_	PRP	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
@@ -3584,11 +3631,12 @@
 1	#liberals	#liberals	_	NNS	_	_	_	_	_
 2	#tlot	#tlot	_	VBP	_	_	_	_	_
 3	#Democrats	#democrats	_	NNS	_	_	_	_	_
-4	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-5	interview	interview	_	NN	_	_	_	_	_
-6	was	be	_	VBD	_	_	_	_	_
-7	ridiculous	ridiculous	_	JJ	_	_	_	_	_
-8	!!	!!	_	.	_	_	_	_	_
+
+1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+2	interview	interview	_	NN	_	_	_	_	_
+3	was	be	_	VBD	_	_	_	_	_
+4	ridiculous	ridiculous	_	JJ	_	_	_	_	_
+5	!!	!!	_	.	_	_	_	_	_
 
 1	She	she	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
@@ -3666,32 +3714,32 @@
 21	,	,	_	,	_	_	_	_	_
 22	,	,	_	,	_	_	_	_	_
 23	,	,	_	,	_	_	_	_	_
-24	@McSadie	@McSadie	_	NNP	_	_	_	_	_
-25	@thehill	@thehill	_	NNP	_	_	_	_	_
-26	:	:	_	:	_	_	_	_	_
-27	Women	woman	_	NNS	_	_	_	_	_
-28	deserve	deserve	_	VBP	_	_	_	_	_
-29	a	a	_	DT	_	_	_	_	_
-30	better	better	_	JJR	_	_	_	_	_
-31	candidate	candidate	_	NN	_	_	_	_	_
-32	for	for	_	IN	_	_	_	_	_
-33	the	the	_	DT	_	_	_	_	_
-34	HIGH	high	_	JJ	_	_	_	_	_
-35	HONOR	honor	_	NN	_	_	_	_	_
-36	if	if	_	IN	_	_	_	_	_
-37	first	first	_	JJ	_	_	_	_	_
-38	woman	woman	_	NN	_	_	_	_	_
-39	President	President	_	NNP	_	_	_	_	_
-40	:	:	_	:	_	_	_	_	_
-41	We	we	_	PRP	_	_	_	_	_
-42	ALL	all	_	DT	_	_	_	_	_
-43	do	do	_	VBP	_	_	_	_	_
-44	!	!	_	.	_	_	_	_	_
+24	@McSadie	@mcsadie	_	NN	_	_	_	_	_
+
+1	@thehill	@thehill	_	NNP	_	_	_	_	_
+2	:	:	_	:	_	_	_	_	_
+3	Women	woman	_	NNS	_	_	_	_	_
+4	deserve	deserve	_	VBP	_	_	_	_	_
+5	a	a	_	DT	_	_	_	_	_
+6	better	better	_	JJR	_	_	_	_	_
+7	candidate	candidate	_	NN	_	_	_	_	_
+8	for	for	_	IN	_	_	_	_	_
+9	the	the	_	DT	_	_	_	_	_
+10	HIGH	high	_	JJ	_	_	_	_	_
+11	HONOR	honor	_	NN	_	_	_	_	_
+12	if	if	_	IN	_	_	_	_	_
+13	first	first	_	JJ	_	_	_	_	_
+14	woman	woman	_	NN	_	_	_	_	_
+15	President	President	_	NNP	_	_	_	_	_
+16	:	:	_	:	_	_	_	_	_
+17	We	we	_	PRP	_	_	_	_	_
+18	ALL	all	_	DT	_	_	_	_	_
+19	do	do	_	VBP	_	_	_	_	_
+20	!	!	_	.	_	_	_	_	_
 
 1	#WhyI	#whyi	_	NN	_	_	_	_	_
 2	'	'	_	''	_	_	_	_	_
 3	mNotVotingForHillary	mnotvotingforhillary	_	NN	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
 
 1	A	a	_	DT	_	_	_	_	_
 2	circus	circus	_	NN	_	_	_	_	_
@@ -3728,8 +3776,7 @@
 14	family	family	_	NN	_	_	_	_	_
 15	!	!	_	.	_	_	_	_	_
 
-1	#freeallfour	#freeallfour	_	NN	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
+1	#freeallfour	#freeallfour	_	NNP	_	_	_	_	_
 
 1	@alison_rambles	@alison_rambles	_	NNS	_	_	_	_	_
 2	@RickCanton	@RickCanton	_	NNP	_	_	_	_	_
@@ -3769,10 +3816,11 @@
 2	@MangyLover	@mangylover	_	NN	_	_	_	_	_
 3	#HIllaryClinton	#HIllaryClinton	_	NNP	_	_	_	_	_
 4	#WeDontTrustYouHillary	#WeDontTrustYouHillary	_	NNP	_	_	_	_	_
-5	@TajMagruder	@TajMagruder	_	NNP	_	_	_	_	_
-6	Facetious	Facetious	_	NNP	_	_	_	_	_
-7	much	much	_	RB	_	_	_	_	_
-8	?	?	_	.	_	_	_	_	_
+
+1	@TajMagruder	@tajmagruder	_	NN	_	_	_	_	_
+2	Facetious	facetious	_	JJ	_	_	_	_	_
+3	much	much	_	JJ	_	_	_	_	_
+4	?	?	_	.	_	_	_	_	_
 
 1	Had	have	_	VBD	_	_	_	_	_
 2	me	I	_	PRP	_	_	_	_	_
@@ -3825,22 +3873,22 @@
 3	#hillaryforprison	#hillaryforprison	_	NN	_	_	_	_	_
 4	#uppers	#uppers	_	NNS	_	_	_	_	_
 5	#tcot	#tcot	_	VBP	_	_	_	_	_
-6	Republicans	Republicans	_	NNPS	_	_	_	_	_
-7	in	in	_	IN	_	_	_	_	_
-8	the	the	_	DT	_	_	_	_	_
-9	White	White	_	NNP	_	_	_	_	_
-10	House	House	_	NNP	_	_	_	_	_
-11	will	will	_	MD	_	_	_	_	_
-12	make	make	_	VB	_	_	_	_	_
-13	America	America	_	NNP	_	_	_	_	_
-14	great	great	_	JJ	_	_	_	_	_
-15	again	again	_	RB	_	_	_	_	_
-16	!	!	_	.	_	_	_	_	_
+
+1	Republicans	Republicans	_	NNPS	_	_	_	_	_
+2	in	in	_	IN	_	_	_	_	_
+3	the	the	_	DT	_	_	_	_	_
+4	White	White	_	NNP	_	_	_	_	_
+5	House	House	_	NNP	_	_	_	_	_
+6	will	will	_	MD	_	_	_	_	_
+7	make	make	_	VB	_	_	_	_	_
+8	America	America	_	NNP	_	_	_	_	_
+9	great	great	_	JJ	_	_	_	_	_
+10	again	again	_	RB	_	_	_	_	_
+11	!	!	_	.	_	_	_	_	_
 
 1	#Trump	#Trump	_	NNP	_	_	_	_	_
 2	#educateyourself	#educateyourself	_	NNP	_	_	_	_	_
 3	#boycottlibralmedia	#boycottlibralmedia	_	NNP	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
 
 1	@AndreaTantaros	@AndreaTantaros	_	NNP	_	_	_	_	_
 2	Clinton	Clinton	_	NNP	_	_	_	_	_
@@ -3899,7 +3947,6 @@
 1	#govote	#govote	_	JJ	_	_	_	_	_
 2	#girlpower	#girlpower	_	NN	_	_	_	_	_
 3	#lovewins	#lovewins	_	NNS	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
 
 1	Hey	hey	_	UH	_	_	_	_	_
 2	!!!	!!!	_	.	_	_	_	_	_
@@ -3925,7 +3972,6 @@
 1	#nc	#nc	_	NNP	_	_	_	_	_
 2	#pride	#pride	_	NNP	_	_	_	_	_
 3	#lgbt	#lgbt	_	NNP	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
 
 1	Are	be	_	VBP	_	_	_	_	_
 2	we	we	_	PRP	_	_	_	_	_
@@ -3982,19 +4028,20 @@
 17	.	.	_	.	_	_	_	_	_
 
 1	#HillaryonCNN	#HillaryonCNN	_	NNP	_	_	_	_	_
-2	#Nothanks	#Nothanks	_	NNPS	_	_	_	_	_
-3	It	it	_	PRP	_	_	_	_	_
-4	bugs	bug	_	NNS	_	_	_	_	_
-5	me	I	_	PRP	_	_	_	_	_
-6	when	when	_	WRB	_	_	_	_	_
-7	some	some	_	DT	_	_	_	_	_
-8	people	people	_	NNS	_	_	_	_	_
-9	seek	seek	_	VBP	_	_	_	_	_
-10	to	to	_	TO	_	_	_	_	_
-11	invalidate	invalidate	_	VB	_	_	_	_	_
-12	centrist	centrist	_	JJ	_	_	_	_	_
-13	Democrats	Democrats	_	NNPS	_	_	_	_	_
-14	.	.	_	.	_	_	_	_	_
+2	#Nothanks	#Nothanks	_	NNP	_	_	_	_	_
+
+1	It	it	_	PRP	_	_	_	_	_
+2	bugs	bug	_	NNS	_	_	_	_	_
+3	me	I	_	PRP	_	_	_	_	_
+4	when	when	_	WRB	_	_	_	_	_
+5	some	some	_	DT	_	_	_	_	_
+6	people	people	_	NNS	_	_	_	_	_
+7	seek	seek	_	VBP	_	_	_	_	_
+8	to	to	_	TO	_	_	_	_	_
+9	invalidate	invalidate	_	VB	_	_	_	_	_
+10	centrist	centrist	_	JJ	_	_	_	_	_
+11	Democrats	Democrats	_	NNPS	_	_	_	_	_
+12	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	prefer	prefer	_	VBP	_	_	_	_	_
@@ -4046,7 +4093,6 @@
 16	#RedNationRising	#RedNationRising	_	NNP	_	_	_	_	_
 17	#OperationBendOver	#OperationBendOver	_	NNP	_	_	_	_	_
 18	#NoSanctuary	#NoSanctuary	_	NNP	_	_	_	_	_
-19	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	wish	wish	_	VBP	_	_	_	_	_
@@ -4056,18 +4102,19 @@
 6	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 7	's	's	_	POS	_	_	_	_	_
 8	campaign	campaign	_	NN	_	_	_	_	_
-9	...	...	_	,	_	_	_	_	_
-10	#Scandal	#Scandal	_	NNP	_	_	_	_	_
-11	#livisreal	#livisreal	_	NNP	_	_	_	_	_
-12	Liberal	Liberal	_	NNP	_	_	_	_	_
-13	's	's	_	POS	_	_	_	_	_
-14	,	,	_	,	_	_	_	_	_
-15	why	why	_	WRB	_	_	_	_	_
-16	ARE	be	_	VBP	_	_	_	_	_
-17	you	you	_	PRP	_	_	_	_	_
-18	so	so	_	RB	_	_	_	_	_
-19	intolerant	intolerant	_	JJ	_	_	_	_	_
-20	?!?	?!?	_	.	_	_	_	_	_
+9	...	...	_	:	_	_	_	_	_
+10	#Scandal	#scandal	_	JJ	_	_	_	_	_
+11	#livisreal	#livisreal	_	JJ	_	_	_	_	_
+
+1	Liberal	Liberal	_	NNP	_	_	_	_	_
+2	's	's	_	POS	_	_	_	_	_
+3	,	,	_	,	_	_	_	_	_
+4	why	why	_	WRB	_	_	_	_	_
+5	ARE	be	_	VBP	_	_	_	_	_
+6	you	you	_	PRP	_	_	_	_	_
+7	so	so	_	RB	_	_	_	_	_
+8	intolerant	intolerant	_	JJ	_	_	_	_	_
+9	?!?	?!?	_	.	_	_	_	_	_
 
 1	Why	why	_	WRB	_	_	_	_	_
 2	were	be	_	VBD	_	_	_	_	_
@@ -4083,21 +4130,21 @@
 4	?	?	_	.	_	_	_	_	_
 
 1	#UniteBlue	#UniteBlue	_	NNP	_	_	_	_	_
-2	@CNN	@CNN	_	NNP	_	_	_	_	_
-3	One	One	_	NNP	_	_	_	_	_
-4	would	would	_	MD	_	_	_	_	_
-5	hope	hope	_	VB	_	_	_	_	_
-6	everyone	everyone	_	NN	_	_	_	_	_
-7	would	would	_	MD	_	_	_	_	_
-8	be	be	_	VB	_	_	_	_	_
-9	fired	fire	_	VBN	_	_	_	_	_
-10	up	up	_	RP	_	_	_	_	_
-11	over	over	_	IN	_	_	_	_	_
-12	such	such	_	PDT	_	_	_	_	_
-13	a	a	_	DT	_	_	_	_	_
-14	blatant	blatant	_	JJ	_	_	_	_	_
-15	lie	lie	_	NN	_	_	_	_	_
-16	.	.	_	.	_	_	_	_	_
+
+1	@CNN	@CNN	_	NNP	_	_	_	_	_
+2	One	One	_	NNP	_	_	_	_	_
+3	would	would	_	MD	_	_	_	_	_
+4	hope	hope	_	VB	_	_	_	_	_
+5	everyone	everyone	_	NN	_	_	_	_	_
+6	would	would	_	MD	_	_	_	_	_
+7	be	be	_	VB	_	_	_	_	_
+8	fired	fire	_	VBN	_	_	_	_	_
+9	up	up	_	RP	_	_	_	_	_
+10	over	over	_	IN	_	_	_	_	_
+11	such	such	_	PDT	_	_	_	_	_
+12	a	a	_	DT	_	_	_	_	_
+13	blatant	blatant	_	JJ	_	_	_	_	_
+14	lie	lie	_	NN	_	_	_	_	_
 
 1	Hillary	Hillary	_	NNP	_	_	_	_	_
 2	gave	give	_	VBD	_	_	_	_	_
@@ -4130,28 +4177,28 @@
 3	.	.	_	.	_	_	_	_	_
 
 1	#Bernie2016	#bernie2016	_	NN	_	_	_	_	_
-2	#Clintonemails	#clintonemails	_	NNS	_	_	_	_	_
-3	are	be	_	VBP	_	_	_	_	_
-4	just	just	_	RB	_	_	_	_	_
-5	a	a	_	DT	_	_	_	_	_
-6	prelude	prelude	_	NN	_	_	_	_	_
-7	of	of	_	IN	_	_	_	_	_
-8	what	what	_	WP	_	_	_	_	_
-9	her	she	_	PRP$	_	_	_	_	_
-10	presidency	presidency	_	NN	_	_	_	_	_
-11	could	could	_	MD	_	_	_	_	_
-12	be	be	_	VB	_	_	_	_	_
-13	if	if	_	IN	_	_	_	_	_
-14	elected	elect	_	VBN	_	_	_	_	_
-15	,	,	_	,	_	_	_	_	_
-16	a	a	_	DT	_	_	_	_	_
-17	myrad	myrad	_	NN	_	_	_	_	_
-18	of	of	_	IN	_	_	_	_	_
-19	scandals	scandal	_	NNS	_	_	_	_	_
-20	@GOP	@GOP	_	NNP	_	_	_	_	_
-21	@FloridaGOP	@FloridaGOP	_	NNP	_	_	_	_	_
-22	@marcorubio	@marcorubio	_	NNP	_	_	_	_	_
-23	.	.	_	.	_	_	_	_	_
+
+1	#Clintonemails	#clintonemails	_	NNS	_	_	_	_	_
+2	are	be	_	VBP	_	_	_	_	_
+3	just	just	_	RB	_	_	_	_	_
+4	a	a	_	DT	_	_	_	_	_
+5	prelude	prelude	_	NN	_	_	_	_	_
+6	of	of	_	IN	_	_	_	_	_
+7	what	what	_	WP	_	_	_	_	_
+8	her	she	_	PRP$	_	_	_	_	_
+9	presidency	presidency	_	NN	_	_	_	_	_
+10	could	could	_	MD	_	_	_	_	_
+11	be	be	_	VB	_	_	_	_	_
+12	if	if	_	IN	_	_	_	_	_
+13	elected	elect	_	VBN	_	_	_	_	_
+14	,	,	_	,	_	_	_	_	_
+15	a	a	_	DT	_	_	_	_	_
+16	myrad	myrad	_	NN	_	_	_	_	_
+17	of	of	_	IN	_	_	_	_	_
+18	scandals	scandal	_	NNS	_	_	_	_	_
+19	@GOP	@GOP	_	NNP	_	_	_	_	_
+20	@FloridaGOP	@FloridaGOP	_	NNP	_	_	_	_	_
+21	@marcorubio	@marcorubio	_	NNP	_	_	_	_	_
 
 1	@CNN	@CNN	_	NNP	_	_	_	_	_
 2	and	and	_	CC	_	_	_	_	_
@@ -4176,14 +4223,15 @@
 21	.	.	_	.	_	_	_	_	_
 
 1	#JournalismIsDead	#journalismisdead	_	NN	_	_	_	_	_
-2	We	we	_	PRP	_	_	_	_	_
-3	stand	stand	_	VBP	_	_	_	_	_
-4	with	with	_	IN	_	_	_	_	_
-5	the	the	_	DT	_	_	_	_	_
-6	great	great	_	JJ	_	_	_	_	_
-7	#Baltimore	#baltimore	_	JJ	_	_	_	_	_
-8	mayor	mayor	_	NN	_	_	_	_	_
-9	!	!	_	.	_	_	_	_	_
+
+1	We	we	_	PRP	_	_	_	_	_
+2	stand	stand	_	VBP	_	_	_	_	_
+3	with	with	_	IN	_	_	_	_	_
+4	the	the	_	DT	_	_	_	_	_
+5	great	great	_	JJ	_	_	_	_	_
+6	#Baltimore	#baltimore	_	JJ	_	_	_	_	_
+7	mayor	mayor	_	NN	_	_	_	_	_
+8	!	!	_	.	_	_	_	_	_
 
 1	Fire	fire	_	NN	_	_	_	_	_
 2	all	all	_	PDT	_	_	_	_	_
@@ -4198,7 +4246,6 @@
 3	#hannity	#hannity	_	NNP	_	_	_	_	_
 4	@donlemon	@donlemon	_	NNP	_	_	_	_	_
 5	#BlueWall	#BlueWall	_	NNP	_	_	_	_	_
-6	.	.	_	.	_	_	_	_	_
 
 1	HRC	HRC	_	NNP	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
@@ -4250,7 +4297,6 @@
 11	chance	chance	_	NN	_	_	_	_	_
 12	@realDonaldTrump	@realdonaldtrump	_	NN	_	_	_	_	_
 13	#carnivalbarker	#carnivalbarker	_	NN	_	_	_	_	_
-14	.	.	_	.	_	_	_	_	_
 
 1	If	if	_	IN	_	_	_	_	_
 2	Hillary	Hillary	_	NNP	_	_	_	_	_
@@ -4287,24 +4333,24 @@
 
 1	#WhyI	#whyi	_	NN	_	_	_	_	_
 2	'	'	_	''	_	_	_	_	_
-3	mNotVotingForHillary	mnotvotingforhillary	_	JJ	_	_	_	_	_
-4	Voting	Voting	_	NNP	_	_	_	_	_
-5	Republican	Republican	_	NNP	_	_	_	_	_
-6	in	in	_	IN	_	_	_	_	_
-7	2016	2016	_	CD	_	_	_	_	_
-8	gets	get	_	VBZ	_	_	_	_	_
-9	you	you	_	PRP	_	_	_	_	_
-10	so	so	_	RB	_	_	_	_	_
-11	much	much	_	RB	_	_	_	_	_
-12	more	more	_	JJR	_	_	_	_	_
-13	than	than	_	IN	_	_	_	_	_
-14	a	a	_	DT	_	_	_	_	_
-15	free	free	_	JJ	_	_	_	_	_
-16	cellphone	cellphone	_	NN	_	_	_	_	_
-17	!	!	_	.	_	_	_	_	_
+3	mNotVotingForHillary	mnotvotingforhillary	_	NN	_	_	_	_	_
+
+1	Voting	Voting	_	NNP	_	_	_	_	_
+2	Republican	Republican	_	NNP	_	_	_	_	_
+3	in	in	_	IN	_	_	_	_	_
+4	2016	2016	_	CD	_	_	_	_	_
+5	gets	get	_	VBZ	_	_	_	_	_
+6	you	you	_	PRP	_	_	_	_	_
+7	so	so	_	RB	_	_	_	_	_
+8	much	much	_	RB	_	_	_	_	_
+9	more	more	_	JJR	_	_	_	_	_
+10	than	than	_	IN	_	_	_	_	_
+11	a	a	_	DT	_	_	_	_	_
+12	free	free	_	JJ	_	_	_	_	_
+13	cellphone	cellphone	_	NN	_	_	_	_	_
+14	!	!	_	.	_	_	_	_	_
 
 1	#Election2016	#election2016	_	NN	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	had	have	_	VBD	_	_	_	_	_
@@ -4356,14 +4402,15 @@
 5	!!	!!	_	.	_	_	_	_	_
 
 1	#PJNET	#PJNET	_	NNP	_	_	_	_	_
-2	@Independent	@Independent	_	NNP	_	_	_	_	_
-3	Maybe	maybe	_	RB	_	_	_	_	_
-4	it	it	_	PRP	_	_	_	_	_
-5	's	be	_	VBZ	_	_	_	_	_
-6	his	he	_	PRP$	_	_	_	_	_
-7	last	last	_	JJ	_	_	_	_	_
-8	name	name	_	NN	_	_	_	_	_
-9	?	?	_	.	_	_	_	_	_
+
+1	@Independent	@Independent	_	NNP	_	_	_	_	_
+2	Maybe	maybe	_	RB	_	_	_	_	_
+3	it	it	_	PRP	_	_	_	_	_
+4	's	be	_	VBZ	_	_	_	_	_
+5	his	he	_	PRP$	_	_	_	_	_
+6	last	last	_	JJ	_	_	_	_	_
+7	name	name	_	NN	_	_	_	_	_
+8	?	?	_	.	_	_	_	_	_
 
 1	Or	or	_	CC	_	_	_	_	_
 2	maybe	maybe	_	RB	_	_	_	_	_
@@ -4381,28 +4428,29 @@
 1	Lol	lol	_	UH	_	_	_	_	_
 2	.	.	_	.	_	_	_	_	_
 
-1	#Tattoos	#Tattoos	_	NNP	_	_	_	_	_
-2	You	you	_	PRP	_	_	_	_	_
-3	know	know	_	VBP	_	_	_	_	_
-4	,	,	_	,	_	_	_	_	_
-5	when	when	_	WRB	_	_	_	_	_
-6	you	you	_	PRP	_	_	_	_	_
-7	talk	talk	_	VBP	_	_	_	_	_
-8	bad	bad	_	JJ	_	_	_	_	_
-9	about	about	_	IN	_	_	_	_	_
-10	Hillary	Hillary	_	NNP	_	_	_	_	_
-11	,	,	_	,	_	_	_	_	_
-12	in	in	_	IN	_	_	_	_	_
-13	a	a	_	DT	_	_	_	_	_
-14	sense	sense	_	NN	_	_	_	_	_
-15	,	,	_	,	_	_	_	_	_
-16	you	you	_	PRP	_	_	_	_	_
-17	're	be	_	VBP	_	_	_	_	_
-18	talking	talk	_	VBG	_	_	_	_	_
-19	bad	bad	_	JJ	_	_	_	_	_
-20	about	about	_	IN	_	_	_	_	_
-21	me	I	_	PRP	_	_	_	_	_
-22	.	.	_	.	_	_	_	_	_
+1	#Tattoos	#tattoos	_	NNS	_	_	_	_	_
+
+1	You	you	_	PRP	_	_	_	_	_
+2	know	know	_	VBP	_	_	_	_	_
+3	,	,	_	,	_	_	_	_	_
+4	when	when	_	WRB	_	_	_	_	_
+5	you	you	_	PRP	_	_	_	_	_
+6	talk	talk	_	VBP	_	_	_	_	_
+7	bad	bad	_	JJ	_	_	_	_	_
+8	about	about	_	IN	_	_	_	_	_
+9	Hillary	Hillary	_	NNP	_	_	_	_	_
+10	,	,	_	,	_	_	_	_	_
+11	in	in	_	IN	_	_	_	_	_
+12	a	a	_	DT	_	_	_	_	_
+13	sense	sense	_	NN	_	_	_	_	_
+14	,	,	_	,	_	_	_	_	_
+15	you	you	_	PRP	_	_	_	_	_
+16	're	be	_	VBP	_	_	_	_	_
+17	talking	talk	_	VBG	_	_	_	_	_
+18	bad	bad	_	JJ	_	_	_	_	_
+19	about	about	_	IN	_	_	_	_	_
+20	me	I	_	PRP	_	_	_	_	_
+21	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	will	will	_	MD	_	_	_	_	_
@@ -4430,16 +4478,17 @@
 24	it	it	_	PRP	_	_	_	_	_
 25	.	.	_	.	_	_	_	_	_
 
-1	-	-	_	,	_	_	_	_	_
-2	Why	why	_	WRB	_	_	_	_	_
-3	did	do	_	VBD	_	_	_	_	_
-4	you	you	_	PRP	_	_	_	_	_
-5	lie	lie	_	VB	_	_	_	_	_
-6	about	about	_	IN	_	_	_	_	_
-7	the	the	_	DT	_	_	_	_	_
-8	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
-9	subpoena	subpoena	_	NN	_	_	_	_	_
-10	?	?	_	.	_	_	_	_	_
+1	-	-	_	:	_	_	_	_	_
+
+1	Why	why	_	WRB	_	_	_	_	_
+2	did	do	_	VBD	_	_	_	_	_
+3	you	you	_	PRP	_	_	_	_	_
+4	lie	lie	_	VB	_	_	_	_	_
+5	about	about	_	IN	_	_	_	_	_
+6	the	the	_	DT	_	_	_	_	_
+7	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
+8	subpoena	subpoena	_	NN	_	_	_	_	_
+9	?	?	_	.	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	No	no	_	DT	_	_	_	_	_
@@ -4478,24 +4527,24 @@
 26	.	.	_	.	_	_	_	_	_
 
 1	#HillaryonCNN	#HillaryonCNN	_	NNP	_	_	_	_	_
-2	Controlling	Controlling	_	NNP	_	_	_	_	_
-3	#illegalimmigration	#illegalimmigration	_	NN	_	_	_	_	_
-4	is	be	_	VBZ	_	_	_	_	_
-5	Now	now	_	RB	_	_	_	_	_
-6	Racist	racist	_	JJ	_	_	_	_	_
-7	According	accord	_	VBG	_	_	_	_	_
-8	to	to	_	IN	_	_	_	_	_
-9	@ChrisCuomo	@ChrisCuomo	_	NNP	_	_	_	_	_
-10	#NewDayCNN	#NewDayCNN	_	NNP	_	_	_	_	_
-11	Let	let	_	VB	_	_	_	_	_
-12	's	's	_	PRP	_	_	_	_	_
-13	Bash	bash	_	VB	_	_	_	_	_
-14	#Trump	#trump	_	NN	_	_	_	_	_
-15	ALL	all	_	DT	_	_	_	_	_
-16	Day	day	_	NN	_	_	_	_	_
-17	AGAIN	again	_	RB	_	_	_	_	_
-18	#morningjoe	#morningjoe	_	RB	_	_	_	_	_
-19	.	.	_	.	_	_	_	_	_
+
+1	Controlling	Controlling	_	NNP	_	_	_	_	_
+2	#illegalimmigration	#illegalimmigration	_	NNP	_	_	_	_	_
+3	is	be	_	VBZ	_	_	_	_	_
+4	Now	now	_	RB	_	_	_	_	_
+5	Racist	racist	_	JJ	_	_	_	_	_
+6	According	accord	_	VBG	_	_	_	_	_
+7	to	to	_	IN	_	_	_	_	_
+8	@ChrisCuomo	@ChrisCuomo	_	NNP	_	_	_	_	_
+9	#NewDayCNN	#NewDayCNN	_	NNP	_	_	_	_	_
+10	Let	let	_	VB	_	_	_	_	_
+11	's	's	_	PRP	_	_	_	_	_
+12	Bash	bash	_	VB	_	_	_	_	_
+13	#Trump	#trump	_	NN	_	_	_	_	_
+14	ALL	all	_	DT	_	_	_	_	_
+15	Day	Day	_	NNP	_	_	_	_	_
+16	AGAIN	AGAIN	_	NNP	_	_	_	_	_
+17	#morningjoe	#morningjoe	_	NNP	_	_	_	_	_
 
 1	Vow	vow	_	NN	_	_	_	_	_
 2	today	today	_	NN	_	_	_	_	_
@@ -4513,34 +4562,36 @@
 14	office	office	_	NN	_	_	_	_	_
 15	#independents	#independents	_	NNS	_	_	_	_	_
 16	#tcot	#tcot	_	VBP	_	_	_	_	_
-17	During	during	_	IN	_	_	_	_	_
-18	ClintonNo	clintonno	_	NN	_	_	_	_	_
-19	.1	.1	_	CD	_	_	_	_	_
-20	prez	prez	_	NN	_	_	_	_	_
-21	stint	stint	_	NN	_	_	_	_	_
-22	all	all	_	DT	_	_	_	_	_
-23	we	we	_	PRP	_	_	_	_	_
-24	heard	hear	_	VBD	_	_	_	_	_
-25	was	be	_	VBD	_	_	_	_	_
-26	'	'	_	``	_	_	_	_	_
-27	right	right	_	JJ	_	_	_	_	_
-28	wing	wing	_	NN	_	_	_	_	_
-29	conspiracy	conspiracy	_	NN	_	_	_	_	_
-30	'	'	_	''	_	_	_	_	_
-31	-	-	_	:	_	_	_	_	_
-32	it	it	_	PRP	_	_	_	_	_
-33	's	be	_	VBZ	_	_	_	_	_
-34	starting	start	_	VBG	_	_	_	_	_
-35	again	again	_	RB	_	_	_	_	_
-36	Jeb	Jeb	_	NNP	_	_	_	_	_
-37	Bush	Bush	_	NNP	_	_	_	_	_
-38	says	say	_	VBZ	_	_	_	_	_
-39	Americans	Americans	_	NNPS	_	_	_	_	_
-40	should	should	_	MD	_	_	_	_	_
-41	work	work	_	VB	_	_	_	_	_
-42	longer	longer	_	JJR	_	_	_	_	_
-43	hours	hour	_	NNS	_	_	_	_	_
-44	.	.	_	.	_	_	_	_	_
+
+1	During	during	_	IN	_	_	_	_	_
+2	ClintonNo	ClintonNo	_	NNP	_	_	_	_	_
+3	.1	.1	_	CD	_	_	_	_	_
+4	prez	prez	_	JJ	_	_	_	_	_
+5	stint	stint	_	NN	_	_	_	_	_
+6	all	all	_	DT	_	_	_	_	_
+7	we	we	_	PRP	_	_	_	_	_
+8	heard	hear	_	VBD	_	_	_	_	_
+9	was	be	_	VBD	_	_	_	_	_
+10	'	'	_	``	_	_	_	_	_
+11	right	right	_	JJ	_	_	_	_	_
+12	wing	wing	_	NN	_	_	_	_	_
+13	conspiracy	conspiracy	_	NN	_	_	_	_	_
+14	'	'	_	''	_	_	_	_	_
+15	-	-	_	:	_	_	_	_	_
+16	it	it	_	PRP	_	_	_	_	_
+17	's	be	_	VBZ	_	_	_	_	_
+18	starting	start	_	VBG	_	_	_	_	_
+19	again	again	_	RB	_	_	_	_	_
+
+1	Jeb	Jeb	_	NNP	_	_	_	_	_
+2	Bush	Bush	_	NNP	_	_	_	_	_
+3	says	say	_	VBZ	_	_	_	_	_
+4	Americans	Americans	_	NNPS	_	_	_	_	_
+5	should	should	_	MD	_	_	_	_	_
+6	work	work	_	VB	_	_	_	_	_
+7	longer	longer	_	JJR	_	_	_	_	_
+8	hours	hour	_	NNS	_	_	_	_	_
+9	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	'll	will	_	MD	_	_	_	_	_
@@ -4613,7 +4664,6 @@
 3	#LGBT	#LGBT	_	NNP	_	_	_	_	_
 4	#GLAAD	#GLAAD	_	NNP	_	_	_	_	_
 5	#PFLAG	#PFLAG	_	NNP	_	_	_	_	_
-6	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	stand	stand	_	VBP	_	_	_	_	_
@@ -4667,22 +4717,22 @@
 14	.	.	_	.	_	_	_	_	_
 
 1	#tcot	#tcot	_	NNP	_	_	_	_	_
-2	#EpicLiberalFail	#EpicLiberalFail	_	NNP	_	_	_	_	_
-3	Hilary	Hilary	_	NNP	_	_	_	_	_
-4	lied	lie	_	VBD	_	_	_	_	_
-5	about	about	_	IN	_	_	_	_	_
-6	Banghazi	Banghazi	_	NNP	_	_	_	_	_
-7	and	and	_	CC	_	_	_	_	_
-8	is	be	_	VBZ	_	_	_	_	_
-9	caught	catch	_	VBN	_	_	_	_	_
-10	on	on	_	IN	_	_	_	_	_
-11	audio	audio	_	JJ	_	_	_	_	_
-12	biahahaha	biahahaha	_	NN	_	_	_	_	_
-13	#p2	#p2	_	NN	_	_	_	_	_
-14	#uniteblue	#uniteblue	_	NN	_	_	_	_	_
-15	#libcrib	#libcrib	_	NN	_	_	_	_	_
-16	#libtards	#libtards	_	NNS	_	_	_	_	_
-17	.	.	_	.	_	_	_	_	_
+
+1	#EpicLiberalFail	#EpicLiberalFail	_	NNP	_	_	_	_	_
+2	Hilary	Hilary	_	NNP	_	_	_	_	_
+3	lied	lie	_	VBD	_	_	_	_	_
+4	about	about	_	IN	_	_	_	_	_
+5	Banghazi	Banghazi	_	NNP	_	_	_	_	_
+6	and	and	_	CC	_	_	_	_	_
+7	is	be	_	VBZ	_	_	_	_	_
+8	caught	catch	_	VBN	_	_	_	_	_
+9	on	on	_	IN	_	_	_	_	_
+10	audio	audio	_	JJ	_	_	_	_	_
+11	biahahaha	biahahaha	_	NN	_	_	_	_	_
+12	#p2	#p2	_	NN	_	_	_	_	_
+13	#uniteblue	#uniteblue	_	NN	_	_	_	_	_
+14	#libcrib	#libcrib	_	NN	_	_	_	_	_
+15	#libtards	#libtards	_	NNS	_	_	_	_	_
 
 1	Enjoyed	enjoy	_	VBD	_	_	_	_	_
 2	@jamiaw	@jamiaw	_	NN	_	_	_	_	_
@@ -4704,22 +4754,23 @@
 9	an	a	_	DT	_	_	_	_	_
 10	intersectional	intersectional	_	JJ	_	_	_	_	_
 11	lens	lens	_	NN	_	_	_	_	_
-12	GW	GW	_	NNP	_	_	_	_	_
-13	Bush	Bush	_	NNP	_	_	_	_	_
-14	gives	give	_	VBZ	_	_	_	_	_
-15	$	$	_	$	_	_	_	_	_
-16	100K	100k	_	CD	_	_	_	_	_
-17	speech	speech	_	NN	_	_	_	_	_
-18	to	to	_	IN	_	_	_	_	_
-19	wounded	wounded	_	JJ	_	_	_	_	_
-20	vets	vet	_	NNS	_	_	_	_	_
-21	...	...	_	:	_	_	_	_	_
-22	then	then	_	RB	_	_	_	_	_
-23	sells	sell	_	VBZ	_	_	_	_	_
-24	uranium	uranium	_	NN	_	_	_	_	_
-25	to	to	_	IN	_	_	_	_	_
-26	Russia	Russia	_	NNP	_	_	_	_	_
-27	.	.	_	.	_	_	_	_	_
+
+1	GW	GW	_	NNP	_	_	_	_	_
+2	Bush	Bush	_	NNP	_	_	_	_	_
+3	gives	give	_	VBZ	_	_	_	_	_
+4	$	$	_	$	_	_	_	_	_
+5	100K	100k	_	CD	_	_	_	_	_
+6	speech	speech	_	NN	_	_	_	_	_
+7	to	to	_	IN	_	_	_	_	_
+8	wounded	wounded	_	JJ	_	_	_	_	_
+9	vets	vet	_	NNS	_	_	_	_	_
+10	...	...	_	:	_	_	_	_	_
+11	then	then	_	RB	_	_	_	_	_
+12	sells	sell	_	VBZ	_	_	_	_	_
+13	uranium	uranium	_	NN	_	_	_	_	_
+14	to	to	_	IN	_	_	_	_	_
+15	Russia	Russia	_	NNP	_	_	_	_	_
+16	.	.	_	.	_	_	_	_	_
 
 1	Oh	oh	_	UH	_	_	_	_	_
 2	wait	wait	_	VB	_	_	_	_	_
@@ -4746,25 +4797,25 @@
 5	support	support	_	NN	_	_	_	_	_
 6	to	to	_	IN	_	_	_	_	_
 7	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-8	GOP	GOP	_	NNP	_	_	_	_	_
-9	Busted	Busted	_	NNP	_	_	_	_	_
-10	Trey	Trey	_	NNP	_	_	_	_	_
-11	Gowdy	Gowdy	_	NNP	_	_	_	_	_
-12	proved	prove	_	VBD	_	_	_	_	_
-13	their	they	_	PRP$	_	_	_	_	_
-14	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
-15	hearings	hearing	_	NNS	_	_	_	_	_
-16	are	be	_	VBP	_	_	_	_	_
-17	politically	politically	_	RB	_	_	_	_	_
-18	motivated	motivated	_	JJ	_	_	_	_	_
-19	when	when	_	WRB	_	_	_	_	_
-20	he	he	_	PRP	_	_	_	_	_
-21	leaked	leak	_	VBD	_	_	_	_	_
-22	documents	document	_	NNS	_	_	_	_	_
-23	to	to	_	IN	_	_	_	_	_
-24	the	the	_	DT	_	_	_	_	_
-25	press	press	_	NN	_	_	_	_	_
-26	.	.	_	.	_	_	_	_	_
+
+1	GOP	GOP	_	NNP	_	_	_	_	_
+2	Busted	Busted	_	NNP	_	_	_	_	_
+3	Trey	Trey	_	NNP	_	_	_	_	_
+4	Gowdy	Gowdy	_	NNP	_	_	_	_	_
+5	proved	prove	_	VBD	_	_	_	_	_
+6	their	they	_	PRP$	_	_	_	_	_
+7	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
+8	hearings	hearing	_	NNS	_	_	_	_	_
+9	are	be	_	VBP	_	_	_	_	_
+10	politically	politically	_	RB	_	_	_	_	_
+11	motivated	motivated	_	JJ	_	_	_	_	_
+12	when	when	_	WRB	_	_	_	_	_
+13	he	he	_	PRP	_	_	_	_	_
+14	leaked	leak	_	VBD	_	_	_	_	_
+15	documents	document	_	NNS	_	_	_	_	_
+16	to	to	_	IN	_	_	_	_	_
+17	the	the	_	DT	_	_	_	_	_
+18	press	press	_	NN	_	_	_	_	_
 
 1	@Chairmnoomowmow	@Chairmnoomowmow	_	NNP	_	_	_	_	_
 2	@DrMartyFox	@DrMartyFox	_	NNP	_	_	_	_	_
@@ -4777,7 +4828,6 @@
 9	other	other	_	JJ	_	_	_	_	_
 10	than	than	_	IN	_	_	_	_	_
 11	Hillary	Hillary	_	NNP	_	_	_	_	_
-12	.	.	_	.	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	Are	be	_	VBP	_	_	_	_	_
@@ -4795,23 +4845,23 @@
 2	#WarOnWomen	#WarOnWomen	_	NNP	_	_	_	_	_
 3	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
 4	#tlot	#tlot	_	NNP	_	_	_	_	_
-5	Trey	Trey	_	NNP	_	_	_	_	_
-6	Gowdy	Gowdy	_	NNP	_	_	_	_	_
-7	proved	prove	_	VBD	_	_	_	_	_
-8	their	they	_	PRP$	_	_	_	_	_
-9	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
-10	hearings	hearing	_	NNS	_	_	_	_	_
-11	are	be	_	VBP	_	_	_	_	_
-12	politically	politically	_	RB	_	_	_	_	_
-13	motivated	motivated	_	JJ	_	_	_	_	_
-14	when	when	_	WRB	_	_	_	_	_
-15	he	he	_	PRP	_	_	_	_	_
-16	leaked	leak	_	VBD	_	_	_	_	_
-17	documents	document	_	NNS	_	_	_	_	_
-18	to	to	_	IN	_	_	_	_	_
-19	the	the	_	DT	_	_	_	_	_
-20	press	press	_	NN	_	_	_	_	_
-21	.	.	_	.	_	_	_	_	_
+
+1	Trey	Trey	_	NNP	_	_	_	_	_
+2	Gowdy	Gowdy	_	NNP	_	_	_	_	_
+3	proved	prove	_	VBD	_	_	_	_	_
+4	their	they	_	PRP$	_	_	_	_	_
+5	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
+6	hearings	hearing	_	NNS	_	_	_	_	_
+7	are	be	_	VBP	_	_	_	_	_
+8	politically	politically	_	RB	_	_	_	_	_
+9	motivated	motivated	_	JJ	_	_	_	_	_
+10	when	when	_	WRB	_	_	_	_	_
+11	he	he	_	PRP	_	_	_	_	_
+12	leaked	leak	_	VBD	_	_	_	_	_
+13	documents	document	_	NNS	_	_	_	_	_
+14	to	to	_	IN	_	_	_	_	_
+15	the	the	_	DT	_	_	_	_	_
+16	press	press	_	NN	_	_	_	_	_
 
 1	you	you	_	PRP	_	_	_	_	_
 2	ca	can	_	MD	_	_	_	_	_
@@ -4839,14 +4889,15 @@
 12	the	the	_	DT	_	_	_	_	_
 13	skids	skid	_	NNS	_	_	_	_	_
 14	#bribe	#bribe	_	VBP	_	_	_	_	_
-15	#paytoplay	#paytoplay	_	JJ	_	_	_	_	_
-16	People	people	_	NNS	_	_	_	_	_
-17	should	should	_	MD	_	_	_	_	_
-18	and	and	_	CC	_	_	_	_	_
-19	do	do	_	VB	_	_	_	_	_
-20	trust	trust	_	VB	_	_	_	_	_
-21	me	I	_	PRP	_	_	_	_	_
-22	.	.	_	.	_	_	_	_	_
+15	#paytoplay	#paytoplay	_	ADD	_	_	_	_	_
+
+1	People	people	_	NNS	_	_	_	_	_
+2	should	should	_	MD	_	_	_	_	_
+3	and	and	_	CC	_	_	_	_	_
+4	do	do	_	VB	_	_	_	_	_
+5	trust	trust	_	VB	_	_	_	_	_
+6	me	I	_	PRP	_	_	_	_	_
+7	.	.	_	.	_	_	_	_	_
 
 1	-	-	_	HYPH	_	_	_	_	_
 2	woman	woman	_	NN	_	_	_	_	_
@@ -4864,21 +4915,22 @@
 14	she	she	_	PRP	_	_	_	_	_
 15	deleted	delete	_	VBD	_	_	_	_	_
 16	emails	email	_	NNS	_	_	_	_	_
-17	@iaaronmitch	@iaaronmitch	_	NN	_	_	_	_	_
-18	Right	right	_	RB	_	_	_	_	_
-19	now	now	_	RB	_	_	_	_	_
-20	I	I	_	PRP	_	_	_	_	_
-21	think	think	_	VBP	_	_	_	_	_
-22	we	we	_	PRP	_	_	_	_	_
-23	're	be	_	VBP	_	_	_	_	_
-24	all	all	_	DT	_	_	_	_	_
-25	sending	send	_	VBG	_	_	_	_	_
-26	special	special	_	JJ	_	_	_	_	_
-27	thanks	thanks	_	NNS	_	_	_	_	_
-28	to	to	_	IN	_	_	_	_	_
-29	Donald	Donald	_	NNP	_	_	_	_	_
-30	Trump	Trump	_	NNP	_	_	_	_	_
-31	.	.	_	.	_	_	_	_	_
+
+1	@iaaronmitch	@iaaronmitch	_	NNP	_	_	_	_	_
+2	Right	right	_	RB	_	_	_	_	_
+3	now	now	_	RB	_	_	_	_	_
+4	I	I	_	PRP	_	_	_	_	_
+5	think	think	_	VBP	_	_	_	_	_
+6	we	we	_	PRP	_	_	_	_	_
+7	're	be	_	VBP	_	_	_	_	_
+8	all	all	_	DT	_	_	_	_	_
+9	sending	send	_	VBG	_	_	_	_	_
+10	special	special	_	JJ	_	_	_	_	_
+11	thanks	thanks	_	NNS	_	_	_	_	_
+12	to	to	_	IN	_	_	_	_	_
+13	Donald	Donald	_	NNP	_	_	_	_	_
+14	Trump	Trump	_	NNP	_	_	_	_	_
+15	.	.	_	.	_	_	_	_	_
 
 1	@peddoc63	@peddoc63	_	CD	_	_	_	_	_
 2	@steph93065	@steph93065	_	CD	_	_	_	_	_
@@ -4897,7 +4949,6 @@
 1	#hillaryforprison	#hillaryforprison	_	NNP	_	_	_	_	_
 2	#wakeupamerica	#wakeupamerica	_	NNP	_	_	_	_	_
 3	#pjnet	#pjnet	_	NNP	_	_	_	_	_
-4	.	.	_	.	_	_	_	_	_
 
 1	hey	hey	_	UH	_	_	_	_	_
 2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
@@ -4923,22 +4974,22 @@
 
 1	#LIAR	#LIAR	_	NNP	_	_	_	_	_
 2	#Corruptocrat	#Corruptocrat	_	NNP	_	_	_	_	_
-3	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-4	lies	lie	_	VBZ	_	_	_	_	_
-5	just	just	_	RB	_	_	_	_	_
-6	for	for	_	IN	_	_	_	_	_
-7	the	the	_	DT	_	_	_	_	_
-8	fun	fun	_	NN	_	_	_	_	_
-9	of	of	_	IN	_	_	_	_	_
-10	it	it	_	PRP	_	_	_	_	_
-11	,	,	_	,	_	_	_	_	_
-12	its	its	_	PRP$	_	_	_	_	_
-13	CRAZY	crazy	_	JJ	_	_	_	_	_
-14	!!!!!	!!!!!	_	.	_	_	_	_	_
+
+1	@HillaryClinton	@hillaryclinton	_	NN	_	_	_	_	_
+2	lies	lie	_	VBZ	_	_	_	_	_
+3	just	just	_	RB	_	_	_	_	_
+4	for	for	_	IN	_	_	_	_	_
+5	the	the	_	DT	_	_	_	_	_
+6	fun	fun	_	NN	_	_	_	_	_
+7	of	of	_	IN	_	_	_	_	_
+8	it	it	_	PRP	_	_	_	_	_
+9	,	,	_	,	_	_	_	_	_
+10	its	its	_	PRP$	_	_	_	_	_
+11	CRAZY	crazy	_	JJ	_	_	_	_	_
+12	!!!!!	!!!!!	_	.	_	_	_	_	_
 
 1	#NoHillary	#NoHillary	_	NNP	_	_	_	_	_
 2	#WhyImNotVotingForHillary	#WhyImNotVotingForHillary	_	NNP	_	_	_	_	_
-3	.	.	_	.	_	_	_	_	_
 
 1	@murphymike	@murphymike	_	NNP	_	_	_	_	_
 2	@blakehounshell	@blakehounshell	_	NNP	_	_	_	_	_
@@ -4959,7 +5010,6 @@
 17	steal	steal	_	VBP	_	_	_	_	_
 18	the	the	_	DT	_	_	_	_	_
 19	presidency	presidency	_	NN	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	BLOCKED	block	_	VBD	_	_	_	_	_
@@ -4985,21 +5035,22 @@
 5	#NRA	#nra	_	NN	_	_	_	_	_
 6	#ArticleV	#articlev	_	NN	_	_	_	_	_
 7	#NoMoreBushes	#nomorebushes	_	NNS	_	_	_	_	_
-8	@rhhhhh380	@rhhhhh380	_	VBP	_	_	_	_	_
-9	What	what	_	WP	_	_	_	_	_
-10	we	we	_	PRP	_	_	_	_	_
-11	need	need	_	VBP	_	_	_	_	_
-12	to	to	_	TO	_	_	_	_	_
-13	do	do	_	VB	_	_	_	_	_
-14	is	be	_	VBZ	_	_	_	_	_
-15	support	support	_	VB	_	_	_	_	_
-16	all	all	_	DT	_	_	_	_	_
-17	Republicans	Republicans	_	NNPS	_	_	_	_	_
-18	and	and	_	CC	_	_	_	_	_
-19	criticize	criticize	_	VBP	_	_	_	_	_
-20	the	the	_	DT	_	_	_	_	_
-21	opposition	opposition	_	NN	_	_	_	_	_
-22	.	.	_	.	_	_	_	_	_
+
+1	@rhhhhh380	@rhhhhh380	_	NN	_	_	_	_	_
+2	What	what	_	WP	_	_	_	_	_
+3	we	we	_	PRP	_	_	_	_	_
+4	need	need	_	VBP	_	_	_	_	_
+5	to	to	_	TO	_	_	_	_	_
+6	do	do	_	VB	_	_	_	_	_
+7	is	be	_	VBZ	_	_	_	_	_
+8	support	support	_	VB	_	_	_	_	_
+9	all	all	_	DT	_	_	_	_	_
+10	Republicans	Republicans	_	NNPS	_	_	_	_	_
+11	and	and	_	CC	_	_	_	_	_
+12	criticize	criticize	_	VBP	_	_	_	_	_
+13	the	the	_	DT	_	_	_	_	_
+14	opposition	opposition	_	NN	_	_	_	_	_
+15	.	.	_	.	_	_	_	_	_
 
 1	@JessicaAndSandr	@JessicaAndSandr	_	NNP	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
@@ -5024,18 +5075,18 @@
 4	should	should	_	MD	_	_	_	_	_
 5	demand	demand	_	VB	_	_	_	_	_
 6	better	better	_	JJR	_	_	_	_	_
-7	@Westxgal	@westxgal	_	JJ	_	_	_	_	_
-8	@irisflower33	@irisflower33	_	NN	_	_	_	_	_
-9	:	:	_	:	_	_	_	_	_
-10	This	this	_	DT	_	_	_	_	_
-11	money	money	_	NN	_	_	_	_	_
-12	will	will	_	MD	_	_	_	_	_
-13	buy	buy	_	VB	_	_	_	_	_
-14	the	the	_	DT	_	_	_	_	_
-15	Anti-American	anti-american	_	JJ	_	_	_	_	_
-16	Libs	Libs	_	NNP	_	_	_	_	_
-17	including	include	_	VBG	_	_	_	_	_
-18	.	.	_	.	_	_	_	_	_
+
+1	@Westxgal	@westxgal	_	JJ	_	_	_	_	_
+2	@irisflower33	@irisflower33	_	NN	_	_	_	_	_
+3	:	:	_	:	_	_	_	_	_
+4	This	this	_	DT	_	_	_	_	_
+5	money	money	_	NN	_	_	_	_	_
+6	will	will	_	MD	_	_	_	_	_
+7	buy	buy	_	VB	_	_	_	_	_
+8	the	the	_	DT	_	_	_	_	_
+9	Anti-American	anti-american	_	JJ	_	_	_	_	_
+10	Libs	Libs	_	NNP	_	_	_	_	_
+11	including	include	_	VBG	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	Hillary	Hillary	_	NNP	_	_	_	_	_
@@ -5077,7 +5128,6 @@
 16	#DonaldTrump	#donaldtrump	_	NN	_	_	_	_	_
 17	#Sanders2016	#sanders2016	_	NN	_	_	_	_	_
 18	#	#	_	NN	_	_	_	_	_
-19	.	.	_	.	_	_	_	_	_
 
 1	Only	only	_	RB	_	_	_	_	_
 2	@theDemocrats	@thedemocrats	_	NNS	_	_	_	_	_
@@ -5090,16 +5140,17 @@
 9	Cities	city	_	NNS	_	_	_	_	_
 10	.	.	_	.	_	_	_	_	_
 
-1	#CancerIsProgressive	#cancerisprogressive	_	JJ	_	_	_	_	_
-2	@LeahR77	@leahr77	_	NN	_	_	_	_	_
-3	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-4	the	the	_	DT	_	_	_	_	_
-5	unethical	unethical	_	JJ	_	_	_	_	_
-6	lying	lie	_	VBG	_	_	_	_	_
-7	granny	granny	_	NN	_	_	_	_	_
-8	strikes	strike	_	NNS	_	_	_	_	_
-9	again	again	_	RB	_	_	_	_	_
-10	.	.	_	.	_	_	_	_	_
+1	#CancerIsProgressive	#CancerIsProgressive	_	NNP	_	_	_	_	_
+
+1	@LeahR77	@LeahR77	_	NNP	_	_	_	_	_
+2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+3	the	the	_	DT	_	_	_	_	_
+4	unethical	unethical	_	JJ	_	_	_	_	_
+5	lying	lie	_	VBG	_	_	_	_	_
+6	granny	granny	_	NN	_	_	_	_	_
+7	strikes	strike	_	NNS	_	_	_	_	_
+8	again	again	_	RB	_	_	_	_	_
+9	.	.	_	.	_	_	_	_	_
 
 1	No	no	_	DT	_	_	_	_	_
 2	charisma	charisma	_	NN	_	_	_	_	_
@@ -5112,18 +5163,19 @@
 9	,	,	_	,	_	_	_	_	_
 10	no	no	_	DT	_	_	_	_	_
 11	warmth	warmth	_	NN	_	_	_	_	_
-12	Hey	hey	_	UH	_	_	_	_	_
-13	Hillary	Hillary	_	NNP	_	_	_	_	_
-14	Clinton	Clinton	_	NNP	_	_	_	_	_
-15	...	...	_	,	_	_	_	_	_
-16	How	how	_	WRB	_	_	_	_	_
-17	's	's	_	POS	_	_	_	_	_
-18	things	thing	_	NNS	_	_	_	_	_
-19	working	work	_	VBG	_	_	_	_	_
-20	out	out	_	RP	_	_	_	_	_
-21	on	on	_	IN	_	_	_	_	_
-22	#Servergate	#Servergate	_	NNP	_	_	_	_	_
-23	?	?	_	.	_	_	_	_	_
+
+1	Hey	hey	_	UH	_	_	_	_	_
+2	Hillary	Hillary	_	NNP	_	_	_	_	_
+3	Clinton	Clinton	_	NNP	_	_	_	_	_
+4	...	...	_	,	_	_	_	_	_
+5	How	how	_	WRB	_	_	_	_	_
+6	's	's	_	POS	_	_	_	_	_
+7	things	thing	_	NNS	_	_	_	_	_
+8	working	work	_	VBG	_	_	_	_	_
+9	out	out	_	RP	_	_	_	_	_
+10	on	on	_	IN	_	_	_	_	_
+11	#Servergate	#Servergate	_	NNP	_	_	_	_	_
+12	?	?	_	.	_	_	_	_	_
 
 1	Bury	bury	_	VB	_	_	_	_	_
 2	enough	enough	_	JJ	_	_	_	_	_
@@ -5131,42 +5183,43 @@
 4	yet	yet	_	RB	_	_	_	_	_
 5	?	?	_	.	_	_	_	_	_
 
-1	#tcot	#tcot	_	RB	_	_	_	_	_
-2	Did	do	_	VBD	_	_	_	_	_
-3	n't	not	_	RB	_	_	_	_	_
-4	take	take	_	VB	_	_	_	_	_
-5	long	long	_	JJ	_	_	_	_	_
-6	for	for	_	IN	_	_	_	_	_
-7	Clinton	Clinton	_	NNP	_	_	_	_	_
-8	lackey	lackey	_	NN	_	_	_	_	_
-9	@PaulBegala	@paulbegala	_	NN	_	_	_	_	_
-10	to	to	_	TO	_	_	_	_	_
-11	play	play	_	VB	_	_	_	_	_
-12	the	the	_	DT	_	_	_	_	_
-13	"	"	_	``	_	_	_	_	_
-14	crazy	crazy	_	JJ	_	_	_	_	_
-15	"	"	_	''	_	_	_	_	_
-16	card	card	_	NN	_	_	_	_	_
-17	.	.	_	.	_	_	_	_	_
+1	#tcot	#tcot	_	NNP	_	_	_	_	_
+
+1	Did	do	_	VBD	_	_	_	_	_
+2	n't	not	_	RB	_	_	_	_	_
+3	take	take	_	VB	_	_	_	_	_
+4	long	long	_	JJ	_	_	_	_	_
+5	for	for	_	IN	_	_	_	_	_
+6	Clinton	Clinton	_	NNP	_	_	_	_	_
+7	lackey	lackey	_	NN	_	_	_	_	_
+8	@PaulBegala	@paulbegala	_	NN	_	_	_	_	_
+9	to	to	_	TO	_	_	_	_	_
+10	play	play	_	VB	_	_	_	_	_
+11	the	the	_	DT	_	_	_	_	_
+12	"	"	_	``	_	_	_	_	_
+13	crazy	crazy	_	JJ	_	_	_	_	_
+14	"	"	_	''	_	_	_	_	_
+15	card	card	_	NN	_	_	_	_	_
+16	.	.	_	.	_	_	_	_	_
 
 1	So	so	_	RB	_	_	_	_	_
 2	predictable	predictable	_	JJ	_	_	_	_	_
-3	I	I	_	PRP	_	_	_	_	_
-4	do	do	_	VBP	_	_	_	_	_
-5	nt	nt	_	RB	_	_	_	_	_
-6	understand	understand	_	VB	_	_	_	_	_
-7	the	the	_	DT	_	_	_	_	_
-8	people	people	_	NNS	_	_	_	_	_
-9	that	that	_	WDT	_	_	_	_	_
-10	bash	bash	_	VBP	_	_	_	_	_
-11	Donald	Donald	_	NNP	_	_	_	_	_
-12	Trump	Trump	_	NNP	_	_	_	_	_
-13	but	but	_	CC	_	_	_	_	_
-14	take	take	_	VB	_	_	_	_	_
-15	Hillary	Hillary	_	NNP	_	_	_	_	_
-16	Clinton	Clinton	_	NNP	_	_	_	_	_
-17	seriously	seriously	_	RB	_	_	_	_	_
-18	.	.	_	.	_	_	_	_	_
+
+1	I	I	_	PRP	_	_	_	_	_
+2	do	do	_	VBP	_	_	_	_	_
+3	nt	nt	_	RB	_	_	_	_	_
+4	understand	understand	_	VB	_	_	_	_	_
+5	the	the	_	DT	_	_	_	_	_
+6	people	people	_	NNS	_	_	_	_	_
+7	that	that	_	WDT	_	_	_	_	_
+8	bash	bash	_	VBP	_	_	_	_	_
+9	Donald	Donald	_	NNP	_	_	_	_	_
+10	Trump	Trump	_	NNP	_	_	_	_	_
+11	but	but	_	CC	_	_	_	_	_
+12	take	take	_	VB	_	_	_	_	_
+13	Hillary	Hillary	_	NNP	_	_	_	_	_
+14	Clinton	Clinton	_	NNP	_	_	_	_	_
+15	seriously	seriously	_	RB	_	_	_	_	_
 
 1	Did	do	_	VBD	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
@@ -5188,36 +5241,38 @@
 1	Neither	neither	_	DT	_	_	_	_	_
 2	have	have	_	VBP	_	_	_	_	_
 3	I.	I.	_	NNP	_	_	_	_	_
-4	Hillarity	Hillarity	_	NNP	_	_	_	_	_
-5	claims	claim	_	VBZ	_	_	_	_	_
-6	no	no	_	DT	_	_	_	_	_
-7	subpoenas	subpoena	_	NNS	_	_	_	_	_
-8	,	,	_	,	_	_	_	_	_
-9	get	get	_	VB	_	_	_	_	_
-10	put	put	_	VBN	_	_	_	_	_
-11	in	in	_	IN	_	_	_	_	_
-12	her	she	_	PRP$	_	_	_	_	_
-13	place	place	_	NN	_	_	_	_	_
-14	with	with	_	IN	_	_	_	_	_
-15	photographic	photographic	_	JJ	_	_	_	_	_
-16	evidence	evidence	_	NN	_	_	_	_	_
-17	...	...	_	,	_	_	_	_	_
-18	So	so	_	RB	_	_	_	_	_
-19	trustworthy	trustworthy	_	JJ	_	_	_	_	_
-20	...	...	_	:	_	_	_	_	_
-21	#WhatILearnedToday	#whatilearnedtoday	_	NN	_	_	_	_	_
-22	Hillary	Hillary	_	NNP	_	_	_	_	_
-23	has	have	_	VBZ	_	_	_	_	_
-24	flipped	flip	_	VBN	_	_	_	_	_
-25	yet	yet	_	RB	_	_	_	_	_
-26	again	again	_	RB	_	_	_	_	_
-27	,	,	_	,	_	_	_	_	_
-28	and	and	_	CC	_	_	_	_	_
-29	is	be	_	VBZ	_	_	_	_	_
-30	now	now	_	RB	_	_	_	_	_
-31	pro-sanctuary	pro-sanctuary	_	JJ	_	_	_	_	_
-32	cities	city	_	NNS	_	_	_	_	_
-33	.	.	_	.	_	_	_	_	_
+
+1	Hillarity	Hillarity	_	NNP	_	_	_	_	_
+2	claims	claim	_	VBZ	_	_	_	_	_
+3	no	no	_	DT	_	_	_	_	_
+4	subpoenas	subpoena	_	NNS	_	_	_	_	_
+5	,	,	_	,	_	_	_	_	_
+6	get	get	_	VB	_	_	_	_	_
+7	put	put	_	VBN	_	_	_	_	_
+8	in	in	_	IN	_	_	_	_	_
+9	her	she	_	PRP$	_	_	_	_	_
+10	place	place	_	NN	_	_	_	_	_
+11	with	with	_	IN	_	_	_	_	_
+12	photographic	photographic	_	JJ	_	_	_	_	_
+13	evidence	evidence	_	NN	_	_	_	_	_
+14	...	...	_	,	_	_	_	_	_
+15	So	so	_	RB	_	_	_	_	_
+16	trustworthy	trustworthy	_	JJ	_	_	_	_	_
+17	...	...	_	:	_	_	_	_	_
+18	#WhatILearnedToday	#whatilearnedtoday	_	NN	_	_	_	_	_
+
+1	Hillary	Hillary	_	NNP	_	_	_	_	_
+2	has	have	_	VBZ	_	_	_	_	_
+3	flipped	flip	_	VBN	_	_	_	_	_
+4	yet	yet	_	RB	_	_	_	_	_
+5	again	again	_	RB	_	_	_	_	_
+6	,	,	_	,	_	_	_	_	_
+7	and	and	_	CC	_	_	_	_	_
+8	is	be	_	VBZ	_	_	_	_	_
+9	now	now	_	RB	_	_	_	_	_
+10	pro-sanctuary	pro-sanctuary	_	JJ	_	_	_	_	_
+11	cities	city	_	NNS	_	_	_	_	_
+12	.	.	_	.	_	_	_	_	_
 
 1	Hillary	Hillary	_	NNP	_	_	_	_	_
 2	says	say	_	VBZ	_	_	_	_	_
@@ -5260,25 +5315,26 @@
 16	.	.	_	.	_	_	_	_	_
 
 1	#ITrustHillary	#ITrustHillary	_	NNP	_	_	_	_	_
-2	Pondering	ponder	_	VBG	_	_	_	_	_
-3	why	why	_	WRB	_	_	_	_	_
-4	virtually	virtually	_	RB	_	_	_	_	_
-5	all	all	_	DT	_	_	_	_	_
-6	of	of	_	IN	_	_	_	_	_
-7	my	my	_	PRP$	_	_	_	_	_
-8	female	female	_	JJ	_	_	_	_	_
-9	friends	friend	_	NNS	_	_	_	_	_
-10	,	,	_	,	_	_	_	_	_
-11	regardless	regardless	_	RB	_	_	_	_	_
-12	of	of	_	IN	_	_	_	_	_
-13	party	party	_	NN	_	_	_	_	_
-14	,	,	_	,	_	_	_	_	_
-15	say	say	_	VBP	_	_	_	_	_
-16	they	they	_	PRP	_	_	_	_	_
-17	find	find	_	VB	_	_	_	_	_
-18	Hillary	Hillary	_	NNP	_	_	_	_	_
-19	annoying	annoying	_	JJ	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
+
+1	Pondering	ponder	_	VBG	_	_	_	_	_
+2	why	why	_	WRB	_	_	_	_	_
+3	virtually	virtually	_	RB	_	_	_	_	_
+4	all	all	_	DT	_	_	_	_	_
+5	of	of	_	IN	_	_	_	_	_
+6	my	my	_	PRP$	_	_	_	_	_
+7	female	female	_	JJ	_	_	_	_	_
+8	friends	friend	_	NNS	_	_	_	_	_
+9	,	,	_	,	_	_	_	_	_
+10	regardless	regardless	_	RB	_	_	_	_	_
+11	of	of	_	IN	_	_	_	_	_
+12	party	party	_	NN	_	_	_	_	_
+13	,	,	_	,	_	_	_	_	_
+14	say	say	_	VBP	_	_	_	_	_
+15	they	they	_	PRP	_	_	_	_	_
+16	find	find	_	VB	_	_	_	_	_
+17	Hillary	Hillary	_	NNP	_	_	_	_	_
+18	annoying	annoying	_	JJ	_	_	_	_	_
+19	.	.	_	.	_	_	_	_	_
 
 1	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
 2	@TheDemocrats	@TheDemocrats	_	NNP	_	_	_	_	_
@@ -5320,29 +5376,30 @@
 22	.	.	_	.	_	_	_	_	_
 
 1	#endsexism	#endsexism	_	NNP	_	_	_	_	_
-2	Republican	Republican	_	NNP	_	_	_	_	_
-3	on	on	_	IN	_	_	_	_	_
-4	facebook	facebook	_	NN	_	_	_	_	_
-5	said	say	_	VBD	_	_	_	_	_
-6	:	:	_	:	_	_	_	_	_
-7	If	if	_	IN	_	_	_	_	_
-8	it	it	_	PRP	_	_	_	_	_
-9	comes	come	_	VBZ	_	_	_	_	_
-10	down	down	_	RP	_	_	_	_	_
-11	to	to	_	IN	_	_	_	_	_
-12	a	a	_	DT	_	_	_	_	_
-13	choice	choice	_	NN	_	_	_	_	_
-14	between	between	_	IN	_	_	_	_	_
-15	Donald	Donald	_	NNP	_	_	_	_	_
-16	Trump	Trump	_	NNP	_	_	_	_	_
-17	and	and	_	CC	_	_	_	_	_
-18	Hillary	Hillary	_	NNP	_	_	_	_	_
-19	,	,	_	,	_	_	_	_	_
-20	I	I	_	PRP	_	_	_	_	_
-21	'm	be	_	VBP	_	_	_	_	_
-22	not	not	_	RB	_	_	_	_	_
-23	voting	vote	_	VBG	_	_	_	_	_
-24	!	!	_	.	_	_	_	_	_
+
+1	Republican	republican	_	JJ	_	_	_	_	_
+2	on	on	_	IN	_	_	_	_	_
+3	facebook	facebook	_	NN	_	_	_	_	_
+4	said	say	_	VBD	_	_	_	_	_
+5	:	:	_	:	_	_	_	_	_
+6	If	if	_	IN	_	_	_	_	_
+7	it	it	_	PRP	_	_	_	_	_
+8	comes	come	_	VBZ	_	_	_	_	_
+9	down	down	_	RP	_	_	_	_	_
+10	to	to	_	IN	_	_	_	_	_
+11	a	a	_	DT	_	_	_	_	_
+12	choice	choice	_	NN	_	_	_	_	_
+13	between	between	_	IN	_	_	_	_	_
+14	Donald	Donald	_	NNP	_	_	_	_	_
+15	Trump	Trump	_	NNP	_	_	_	_	_
+16	and	and	_	CC	_	_	_	_	_
+17	Hillary	Hillary	_	NNP	_	_	_	_	_
+18	,	,	_	,	_	_	_	_	_
+19	I	I	_	PRP	_	_	_	_	_
+20	'm	be	_	VBP	_	_	_	_	_
+21	not	not	_	RB	_	_	_	_	_
+22	voting	vote	_	VBG	_	_	_	_	_
+23	!	!	_	.	_	_	_	_	_
 
 1	At	at	_	IN	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
@@ -5372,17 +5429,17 @@
 5	.	.	_	.	_	_	_	_	_
 
 1	#UniteRight	#UniteRight	_	NNP	_	_	_	_	_
-2	@sgtis0905	@sgtis0905	_	NNP	_	_	_	_	_
-3	@UnPoliticalPrty	@UnPoliticalPrty	_	NNP	_	_	_	_	_
-4	Never	Never	_	NNP	_	_	_	_	_
-5	forget	forget	_	VB	_	_	_	_	_
-6	@emaleroland	@emaleroland	_	NNP	_	_	_	_	_
-7	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
-8	Shackle	Shackle	_	NNP	_	_	_	_	_
-9	the	the	_	DT	_	_	_	_	_
-10	criminal	criminal	_	JJ	_	_	_	_	_
-11	element	element	_	NN	_	_	_	_	_
-12	.	.	_	.	_	_	_	_	_
+
+1	@sgtis0905	@sgtis0905	_	NN	_	_	_	_	_
+2	@UnPoliticalPrty	@unpoliticalprty	_	NN	_	_	_	_	_
+3	Never	never	_	RB	_	_	_	_	_
+4	forget	forget	_	VB	_	_	_	_	_
+5	@emaleroland	@emaleroland	_	NNP	_	_	_	_	_
+6	#Benghazi	#Benghazi	_	NNP	_	_	_	_	_
+7	Shackle	Shackle	_	NNP	_	_	_	_	_
+8	the	the	_	DT	_	_	_	_	_
+9	criminal	criminal	_	JJ	_	_	_	_	_
+10	element	element	_	NN	_	_	_	_	_
 
 1	One	one	_	CD	_	_	_	_	_
 2	wonders	wonder	_	NNS	_	_	_	_	_
@@ -5406,27 +5463,29 @@
 1	Just	just	_	RB	_	_	_	_	_
 2	say	say	_	VB	_	_	_	_	_
 3	no	no	_	DT	_	_	_	_	_
-4	to	to	_	IN	_	_	_	_	_
-5	It	it	_	PRP	_	_	_	_	_
-6	just	just	_	RB	_	_	_	_	_
-7	depends	depend	_	VBZ	_	_	_	_	_
-8	on	on	_	IN	_	_	_	_	_
-9	what	what	_	WP	_	_	_	_	_
-10	the	the	_	DT	_	_	_	_	_
-11	definition	definition	_	NN	_	_	_	_	_
-12	of	of	_	IN	_	_	_	_	_
-13	the	the	_	DT	_	_	_	_	_
-14	word	word	_	NN	_	_	_	_	_
-15	"	"	_	``	_	_	_	_	_
-16	subponea	subponea	_	FW	_	_	_	_	_
-17	"	"	_	''	_	_	_	_	_
-18	is	be	_	VBZ	_	_	_	_	_
-19	...	...	_	:	_	_	_	_	_
-20	#subponea	#subponea	_	NN	_	_	_	_	_
-21	Spitting	spitting	_	NN	_	_	_	_	_
-22	on	on	_	IN	_	_	_	_	_
-23	clergy	clergy	_	NNS	_	_	_	_	_
-24	.	.	_	.	_	_	_	_	_
+4	to	to	_	TO	_	_	_	_	_
+
+1	It	it	_	PRP	_	_	_	_	_
+2	just	just	_	RB	_	_	_	_	_
+3	depends	depend	_	VBZ	_	_	_	_	_
+4	on	on	_	IN	_	_	_	_	_
+5	what	what	_	WP	_	_	_	_	_
+6	the	the	_	DT	_	_	_	_	_
+7	definition	definition	_	NN	_	_	_	_	_
+8	of	of	_	IN	_	_	_	_	_
+9	the	the	_	DT	_	_	_	_	_
+10	word	word	_	NN	_	_	_	_	_
+11	"	"	_	``	_	_	_	_	_
+12	subponea	subponea	_	FW	_	_	_	_	_
+13	"	"	_	''	_	_	_	_	_
+14	is	be	_	VBZ	_	_	_	_	_
+15	...	...	_	:	_	_	_	_	_
+16	#subponea	#subponea	_	NNS	_	_	_	_	_
+
+1	Spitting	spit	_	VBG	_	_	_	_	_
+2	on	on	_	IN	_	_	_	_	_
+3	clergy	clergy	_	NNS	_	_	_	_	_
+4	.	.	_	.	_	_	_	_	_
 
 1	Burning	burn	_	VBG	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
@@ -5479,45 +5538,46 @@
 14	n't	not	_	RB	_	_	_	_	_
 15	doubt	doubt	_	VB	_	_	_	_	_
 16	it	it	_	PRP	_	_	_	_	_
-17	@MarkBratlien	@markbratlien	_	JJ	_	_	_	_	_
-18	Hi	hi	_	UH	_	_	_	_	_
-19	Mark	Mark	_	NNP	_	_	_	_	_
-20	,	,	_	,	_	_	_	_	_
-21	thank	thank	_	VBP	_	_	_	_	_
-22	you	you	_	PRP	_	_	_	_	_
-23	so	so	_	RB	_	_	_	_	_
-24	much	much	_	RB	_	_	_	_	_
-25	for	for	_	IN	_	_	_	_	_
-26	your	you	_	PRP$	_	_	_	_	_
-27	follow	follow	_	NN	_	_	_	_	_
-28	,	,	_	,	_	_	_	_	_
-29	may	may	_	MD	_	_	_	_	_
-30	God	God	_	NNP	_	_	_	_	_
-31	bless	bless	_	VB	_	_	_	_	_
-32	you	you	_	PRP	_	_	_	_	_
-33	and	and	_	CC	_	_	_	_	_
-34	yours	yours	_	PRP	_	_	_	_	_
-35	.	.	_	.	_	_	_	_	_
+
+1	@MarkBratlien	@MarkBratlien	_	NNP	_	_	_	_	_
+2	Hi	Hi	_	NNP	_	_	_	_	_
+3	Mark	Mark	_	NNP	_	_	_	_	_
+4	,	,	_	,	_	_	_	_	_
+5	thank	thank	_	VBP	_	_	_	_	_
+6	you	you	_	PRP	_	_	_	_	_
+7	so	so	_	RB	_	_	_	_	_
+8	much	much	_	RB	_	_	_	_	_
+9	for	for	_	IN	_	_	_	_	_
+10	your	you	_	PRP$	_	_	_	_	_
+11	follow	follow	_	NN	_	_	_	_	_
+12	,	,	_	,	_	_	_	_	_
+13	may	may	_	MD	_	_	_	_	_
+14	God	God	_	NNP	_	_	_	_	_
+15	bless	bless	_	VB	_	_	_	_	_
+16	you	you	_	PRP	_	_	_	_	_
+17	and	and	_	CC	_	_	_	_	_
+18	yours	yours	_	PRP	_	_	_	_	_
+19	.	.	_	.	_	_	_	_	_
 
 1	#freeallfour	#freeallfour	_	NNP	_	_	_	_	_
-2	@szabosolicitors	@szabosolicitors	_	NNS	_	_	_	_	_
-3	Thanks	thanks	_	NNS	_	_	_	_	_
-4	for	for	_	IN	_	_	_	_	_
-5	the	the	_	DT	_	_	_	_	_
-6	follow	follow	_	NN	_	_	_	_	_
-7	counselor	counselor	_	NN	_	_	_	_	_
-8	,	,	_	,	_	_	_	_	_
-9	may	may	_	MD	_	_	_	_	_
-10	God	God	_	NNP	_	_	_	_	_
-11	bless	bless	_	VB	_	_	_	_	_
-12	you	you	_	PRP	_	_	_	_	_
-13	and	and	_	CC	_	_	_	_	_
-14	your	you	_	PRP$	_	_	_	_	_
-15	family	family	_	NN	_	_	_	_	_
-16	!	!	_	.	_	_	_	_	_
 
-1	#freeallfour	#freeallfour	_	NN	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
+1	@szabosolicitors	@szabosolicitors	_	NNS	_	_	_	_	_
+2	Thanks	thanks	_	NNS	_	_	_	_	_
+3	for	for	_	IN	_	_	_	_	_
+4	the	the	_	DT	_	_	_	_	_
+5	follow	follow	_	NN	_	_	_	_	_
+6	counselor	counselor	_	NN	_	_	_	_	_
+7	,	,	_	,	_	_	_	_	_
+8	may	may	_	MD	_	_	_	_	_
+9	God	God	_	NNP	_	_	_	_	_
+10	bless	bless	_	VB	_	_	_	_	_
+11	you	you	_	PRP	_	_	_	_	_
+12	and	and	_	CC	_	_	_	_	_
+13	your	you	_	PRP$	_	_	_	_	_
+14	family	family	_	NN	_	_	_	_	_
+15	!	!	_	.	_	_	_	_	_
+
+1	#freeallfour	#freeallfour	_	NNP	_	_	_	_	_
 
 1	@jjauthor	@jjauthor	_	NNP	_	_	_	_	_
 2	Janie	Janie	_	NNP	_	_	_	_	_
@@ -5540,22 +5600,22 @@
 19	.	.	_	.	_	_	_	_	_
 
 1	#freeallfour	#freeallfour	_	NNP	_	_	_	_	_
-2	@FaithWarJournal	@FaithWarJournal	_	NNP	_	_	_	_	_
-3	Thank	thank	_	VBP	_	_	_	_	_
-4	You	you	_	PRP	_	_	_	_	_
-5	for	for	_	IN	_	_	_	_	_
-6	the	the	_	DT	_	_	_	_	_
-7	follow	follow	_	NN	_	_	_	_	_
-8	,	,	_	,	_	_	_	_	_
-9	may	may	_	MD	_	_	_	_	_
-10	God	God	_	NNP	_	_	_	_	_
-11	bless	bless	_	VB	_	_	_	_	_
-12	you	you	_	PRP	_	_	_	_	_
-13	all	all	_	DT	_	_	_	_	_
-14	!	!	_	.	_	_	_	_	_
 
-1	#freeallfour	#freeallfour	_	NN	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
+1	@FaithWarJournal	@faithwarjournal	_	JJ	_	_	_	_	_
+2	Thank	thank	_	VBP	_	_	_	_	_
+3	You	you	_	PRP	_	_	_	_	_
+4	for	for	_	IN	_	_	_	_	_
+5	the	the	_	DT	_	_	_	_	_
+6	follow	follow	_	NN	_	_	_	_	_
+7	,	,	_	,	_	_	_	_	_
+8	may	may	_	MD	_	_	_	_	_
+9	God	God	_	NNP	_	_	_	_	_
+10	bless	bless	_	VB	_	_	_	_	_
+11	you	you	_	PRP	_	_	_	_	_
+12	all	all	_	DT	_	_	_	_	_
+13	!	!	_	.	_	_	_	_	_
+
+1	#freeallfour	#freeallfour	_	NNP	_	_	_	_	_
 
 1	@lylafmills	@lylafmills	_	NNS	_	_	_	_	_
 2	Simple	simple	_	JJ	_	_	_	_	_
@@ -5576,18 +5636,19 @@
 2	2ndamendment	2ndamendment	_	NN	_	_	_	_	_
 3	#REMEMBERBENGHAZI2016	#rememberbenghazi2016	_	NN	_	_	_	_	_
 4	#PATRIOTSWILLRISE	#patriotswillrise	_	NN	_	_	_	_	_
-5	So	so	_	RB	_	_	_	_	_
-6	over	over	_	IN	_	_	_	_	_
-7	20	20	_	CD	_	_	_	_	_
-8	million	million	_	CD	_	_	_	_	_
-9	government	government	_	NN	_	_	_	_	_
-10	employees	employee	_	NNS	_	_	_	_	_
-11	got	get	_	VBD	_	_	_	_	_
-12	their	they	_	PRP$	_	_	_	_	_
-13	private	private	_	JJ	_	_	_	_	_
-14	info	info	_	NN	_	_	_	_	_
-15	stolen	steal	_	VBN	_	_	_	_	_
-16	.	.	_	.	_	_	_	_	_
+
+1	So	so	_	RB	_	_	_	_	_
+2	over	over	_	IN	_	_	_	_	_
+3	20	20	_	CD	_	_	_	_	_
+4	million	million	_	CD	_	_	_	_	_
+5	government	government	_	NN	_	_	_	_	_
+6	employees	employee	_	NNS	_	_	_	_	_
+7	got	get	_	VBD	_	_	_	_	_
+8	their	they	_	PRP$	_	_	_	_	_
+9	private	private	_	JJ	_	_	_	_	_
+10	info	info	_	NN	_	_	_	_	_
+11	stolen	steal	_	VBN	_	_	_	_	_
+12	.	.	_	.	_	_	_	_	_
 
 1	Has	have	_	VBZ	_	_	_	_	_
 2	anyone	anyone	_	NN	_	_	_	_	_
@@ -5599,30 +5660,30 @@
 1	#	#	_	NN	_	_	_	_	_
 2	2016	2016	_	CD	_	_	_	_	_
 3	#Fail	#Fail	_	NNP	_	_	_	_	_
-4	The	the	_	DT	_	_	_	_	_
-5	rebel	rebel	_	JJ	_	_	_	_	_
-6	flag	flag	_	NN	_	_	_	_	_
-7	flew	fly	_	VBD	_	_	_	_	_
-8	off	off	_	IN	_	_	_	_	_
-9	the	the	_	DT	_	_	_	_	_
-10	pole	pole	_	NN	_	_	_	_	_
-11	&	&	_	CC	_	_	_	_	_
-12	pulled	pull	_	VBD	_	_	_	_	_
-13	trigger	trigger	_	NN	_	_	_	_	_
-14	on	on	_	IN	_	_	_	_	_
-15	gun	gun	_	NN	_	_	_	_	_
-16	that	that	_	WDT	_	_	_	_	_
-17	fired	fire	_	VBD	_	_	_	_	_
-18	by	by	_	IN	_	_	_	_	_
-19	itself	itself	_	PRP	_	_	_	_	_
-20	liberal	liberal	_	JJ	_	_	_	_	_
-21	dementia	dementia	_	NN	_	_	_	_	_
-22	growing	grow	_	VBG	_	_	_	_	_
-23	daily	daily	_	JJ	_	_	_	_	_
-24	#	#	_	NN	_	_	_	_	_
-25	2a	2a	_	NN	_	_	_	_	_
-26	#rebelflag	#rebelflag	_	NN	_	_	_	_	_
-27	.	.	_	.	_	_	_	_	_
+
+1	The	the	_	DT	_	_	_	_	_
+2	rebel	rebel	_	JJ	_	_	_	_	_
+3	flag	flag	_	NN	_	_	_	_	_
+4	flew	fly	_	VBD	_	_	_	_	_
+5	off	off	_	IN	_	_	_	_	_
+6	the	the	_	DT	_	_	_	_	_
+7	pole	pole	_	NN	_	_	_	_	_
+8	&	&	_	CC	_	_	_	_	_
+9	pulled	pull	_	VBD	_	_	_	_	_
+10	trigger	trigger	_	NN	_	_	_	_	_
+11	on	on	_	IN	_	_	_	_	_
+12	gun	gun	_	NN	_	_	_	_	_
+13	that	that	_	WDT	_	_	_	_	_
+14	fired	fire	_	VBD	_	_	_	_	_
+15	by	by	_	IN	_	_	_	_	_
+16	itself	itself	_	PRP	_	_	_	_	_
+17	liberal	liberal	_	JJ	_	_	_	_	_
+18	dementia	dementia	_	NN	_	_	_	_	_
+19	growing	grow	_	VBG	_	_	_	_	_
+20	daily	daily	_	JJ	_	_	_	_	_
+21	#	#	_	NN	_	_	_	_	_
+22	2a	2a	_	NN	_	_	_	_	_
+23	#rebelflag	#rebelflag	_	NN	_	_	_	_	_
 
 1	@TheAtlantic	@theatlantic	_	JJ	_	_	_	_	_
 2	cause	cause	_	NN	_	_	_	_	_
@@ -5633,7 +5694,6 @@
 7	LYING	lying	_	NN	_	_	_	_	_
 8	THEIVING	theiving	_	NN	_	_	_	_	_
 9	CUNT	cunt	_	NN	_	_	_	_	_
-10	.	.	_	.	_	_	_	_	_
 
 1	@billodoux	@billodoux	_	NNP	_	_	_	_	_
 2	Thanks	thanks	_	NN	_	_	_	_	_
@@ -5658,8 +5718,7 @@
 21	all	all	_	DT	_	_	_	_	_
 22	!	!	_	.	_	_	_	_	_
 
-1	#freealfour	#freealfour	_	NN	_	_	_	_	_
-2	.	.	_	.	_	_	_	_	_
+1	#freealfour	#freealfour	_	NNP	_	_	_	_	_
 
 1	Proud	proud	_	JJ	_	_	_	_	_
 2	of	of	_	IN	_	_	_	_	_
@@ -5673,18 +5732,19 @@
 10	.	.	_	.	_	_	_	_	_
 
 1	#ReadyForHillary	#ReadyForHillary	_	NNP	_	_	_	_	_
-2	So	so	_	RB	_	_	_	_	_
-3	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
-4	received	receive	_	VBD	_	_	_	_	_
-5	a	a	_	DT	_	_	_	_	_
-6	Subpoena	subpoena	_	NN	_	_	_	_	_
-7	to	to	_	IN	_	_	_	_	_
-8	Testify	Testify	_	NNP	_	_	_	_	_
-9	&	&	_	CC	_	_	_	_	_
-10	She	she	_	PRP	_	_	_	_	_
-11	ignored	ignore	_	VBD	_	_	_	_	_
-12	it	it	_	PRP	_	_	_	_	_
-13	!	!	_	.	_	_	_	_	_
+
+1	So	so	_	RB	_	_	_	_	_
+2	@HillaryClinton	@HillaryClinton	_	NNP	_	_	_	_	_
+3	received	receive	_	VBD	_	_	_	_	_
+4	a	a	_	DT	_	_	_	_	_
+5	Subpoena	subpoena	_	NN	_	_	_	_	_
+6	to	to	_	IN	_	_	_	_	_
+7	Testify	Testify	_	NNP	_	_	_	_	_
+8	&	&	_	CC	_	_	_	_	_
+9	She	she	_	PRP	_	_	_	_	_
+10	ignored	ignore	_	VBD	_	_	_	_	_
+11	it	it	_	PRP	_	_	_	_	_
+12	!	!	_	.	_	_	_	_	_
 
 1	Is	be	_	VBZ	_	_	_	_	_
 2	Hillary	Hillary	_	NNP	_	_	_	_	_
@@ -5715,16 +5775,17 @@
 
 1	#stillvotingGOP	#stillvotingGOP	_	NNP	_	_	_	_	_
 2	#politics	#politics	_	NNS	_	_	_	_	_
-3	@Braidleigh	@Braidleigh	_	NNP	_	_	_	_	_
-4	2016	2016	_	CD	_	_	_	_	_
-5	is	be	_	VBZ	_	_	_	_	_
-6	the	the	_	DT	_	_	_	_	_
-7	due	due	_	JJ	_	_	_	_	_
-8	year	year	_	NN	_	_	_	_	_
-9	for	for	_	IN	_	_	_	_	_
-10	possible	possible	_	JJ	_	_	_	_	_
-11	revolution	revolution	_	NN	_	_	_	_	_
-12	.	.	_	.	_	_	_	_	_
+
+1	@Braidleigh	@Braidleigh	_	NNP	_	_	_	_	_
+2	2016	2016	_	CD	_	_	_	_	_
+3	is	be	_	VBZ	_	_	_	_	_
+4	the	the	_	DT	_	_	_	_	_
+5	due	due	_	JJ	_	_	_	_	_
+6	year	year	_	NN	_	_	_	_	_
+7	for	for	_	IN	_	_	_	_	_
+8	possible	possible	_	JJ	_	_	_	_	_
+9	revolution	revolution	_	NN	_	_	_	_	_
+10	.	.	_	.	_	_	_	_	_
 
 1	The	the	_	DT	_	_	_	_	_
 2	water	water	_	NN	_	_	_	_	_
@@ -5737,15 +5798,16 @@
 
 1	#BetOnRed	#BetOnRed	_	NNP	_	_	_	_	_
 2	#PatriotsWillRise	#PatriotsWillRise	_	NNP	_	_	_	_	_
-3	@SaysMissy	@SaysMissy	_	NNP	_	_	_	_	_
-4	HRC	HRC	_	NNP	_	_	_	_	_
-5	takes	take	_	VBZ	_	_	_	_	_
-6	us	we	_	PRP	_	_	_	_	_
-7	Americans	Americans	_	NNPS	_	_	_	_	_
-8	for	for	_	IN	_	_	_	_	_
-9	mindless	mindless	_	JJ	_	_	_	_	_
-10	fools	fool	_	NNS	_	_	_	_	_
-11	!!	!!	_	.	_	_	_	_	_
+
+1	@SaysMissy	@saysmissy	_	JJ	_	_	_	_	_
+2	HRC	hrc	_	NN	_	_	_	_	_
+3	takes	take	_	VBZ	_	_	_	_	_
+4	us	we	_	PRP	_	_	_	_	_
+5	Americans	Americans	_	NNPS	_	_	_	_	_
+6	for	for	_	IN	_	_	_	_	_
+7	mindless	mindless	_	JJ	_	_	_	_	_
+8	fools	fool	_	NNS	_	_	_	_	_
+9	!!	!!	_	.	_	_	_	_	_
 
 1	How	how	_	WRB	_	_	_	_	_
 2	insulting	insulting	_	JJ	_	_	_	_	_
@@ -5753,7 +5815,6 @@
 
 1	#PJNET	#PJNET	_	NNP	_	_	_	_	_
 2	#OiP	#OiP	_	NNP	_	_	_	_	_
-3	.	.	_	.	_	_	_	_	_
 
 1	@BadgerGeno	@BadgerGeno	_	NNP	_	_	_	_	_
 2	@kreichert27	@kreichert27	_	NNP	_	_	_	_	_
@@ -5764,7 +5825,6 @@
 7	:)	:)	_	NFP	_	_	_	_	_
 8	#LoveForAll	#loveforall	_	NN	_	_	_	_	_
 9	#BackdoorBadgers	#backdoorbadgers	_	NNS	_	_	_	_	_
-10	.	.	_	.	_	_	_	_	_
 
 1	Chelsea	Chelsea	_	NNP	_	_	_	_	_
 2	and	and	_	CC	_	_	_	_	_
@@ -5785,7 +5845,6 @@
 17	hideous	hideous	_	JJ	_	_	_	_	_
 18	pasty	pasty	_	JJ	_	_	_	_	_
 19	face	face	_	NN	_	_	_	_	_
-20	.	.	_	.	_	_	_	_	_
 
 1	Would	would	_	MD	_	_	_	_	_
 2	n't	not	_	RB	_	_	_	_	_
@@ -5806,41 +5865,43 @@
 17	.	.	_	.	_	_	_	_	_
 
 1	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-2	Would	would	_	MD	_	_	_	_	_
-3	n't	not	_	RB	_	_	_	_	_
-4	be	be	_	VB	_	_	_	_	_
-5	surprise	surprise	_	NN	_	_	_	_	_
-6	that	that	_	IN	_	_	_	_	_
-7	it	it	_	PRP	_	_	_	_	_
-8	comes	come	_	VBZ	_	_	_	_	_
-9	to	to	_	IN	_	_	_	_	_
-10	light	light	_	NN	_	_	_	_	_
-11	that	that	_	WDT	_	_	_	_	_
-12	Chelsea	Chelsea	_	NNP	_	_	_	_	_
-13	's	's	_	POS	_	_	_	_	_
-14	husband	husband	_	NN	_	_	_	_	_
-15	cheats	cheat	_	VBZ	_	_	_	_	_
-16	on	on	_	IN	_	_	_	_	_
-17	her	she	_	PRP$	_	_	_	_	_
-18	like	like	_	IN	_	_	_	_	_
-19	her	she	_	PRP$	_	_	_	_	_
-20	Bill	Bill	_	NNP	_	_	_	_	_
-21	did	do	_	VBD	_	_	_	_	_
-22	on	on	_	IN	_	_	_	_	_
-23	Hillary	Hillary	_	NNP	_	_	_	_	_
-24	.	.	_	.	_	_	_	_	_
+
+1	Would	would	_	MD	_	_	_	_	_
+2	n't	not	_	RB	_	_	_	_	_
+3	be	be	_	VB	_	_	_	_	_
+4	surprise	surprise	_	NN	_	_	_	_	_
+5	that	that	_	IN	_	_	_	_	_
+6	it	it	_	PRP	_	_	_	_	_
+7	comes	come	_	VBZ	_	_	_	_	_
+8	to	to	_	IN	_	_	_	_	_
+9	light	light	_	NN	_	_	_	_	_
+10	that	that	_	WDT	_	_	_	_	_
+11	Chelsea	Chelsea	_	NNP	_	_	_	_	_
+12	's	's	_	POS	_	_	_	_	_
+13	husband	husband	_	NN	_	_	_	_	_
+14	cheats	cheat	_	VBZ	_	_	_	_	_
+15	on	on	_	IN	_	_	_	_	_
+16	her	she	_	PRP$	_	_	_	_	_
+17	like	like	_	IN	_	_	_	_	_
+18	her	she	_	PRP$	_	_	_	_	_
+19	Bill	Bill	_	NNP	_	_	_	_	_
+20	did	do	_	VBD	_	_	_	_	_
+21	on	on	_	IN	_	_	_	_	_
+22	Hillary	Hillary	_	NNP	_	_	_	_	_
+23	.	.	_	.	_	_	_	_	_
 
 1	#HillaryClinton	#HillaryClinton	_	NNP	_	_	_	_	_
-2	The	the	_	DT	_	_	_	_	_
-3	blacks	black	_	NNS	_	_	_	_	_
-4	cant	cant	_	NN	_	_	_	_	_
-5	admit	admit	_	VBP	_	_	_	_	_
-6	that	that	_	IN	_	_	_	_	_
-7	O	o	_	NN	_	_	_	_	_
-8	is	be	_	VBZ	_	_	_	_	_
-9	a	a	_	DT	_	_	_	_	_
-10	failure	failure	_	NN	_	_	_	_	_
-11	.	.	_	.	_	_	_	_	_
+
+1	The	the	_	DT	_	_	_	_	_
+2	blacks	black	_	NNS	_	_	_	_	_
+3	cant	cant	_	NN	_	_	_	_	_
+4	admit	admit	_	VBP	_	_	_	_	_
+5	that	that	_	IN	_	_	_	_	_
+6	O	o	_	NN	_	_	_	_	_
+7	is	be	_	VBZ	_	_	_	_	_
+8	a	a	_	DT	_	_	_	_	_
+9	failure	failure	_	NN	_	_	_	_	_
+10	.	.	_	.	_	_	_	_	_
 
 1	No	no	_	UH	_	_	_	_	_
 2	,	,	_	,	_	_	_	_	_
@@ -5854,37 +5915,37 @@
 10	president	president	_	NN	_	_	_	_	_
 11	#Obama	#Obama	_	NNP	_	_	_	_	_
 12	#communism	#communism	_	NNP	_	_	_	_	_
-13	<<	<<	_	-LRB-	_	_	_	_	_
-14	I	I	_	PRP	_	_	_	_	_
-15	'm	be	_	VBP	_	_	_	_	_
-16	just	just	_	RB	_	_	_	_	_
-17	going	go	_	VBG	_	_	_	_	_
-18	to	to	_	TO	_	_	_	_	_
-19	be	be	_	VB	_	_	_	_	_
-20	my	my	_	PRP$	_	_	_	_	_
-21	own	own	_	JJ	_	_	_	_	_
-22	little	little	_	JJ	_	_	_	_	_
-23	self	self	_	NN	_	_	_	_	_
-24	and	and	_	CC	_	_	_	_	_
-25	kind	kind	_	NN	_	_	_	_	_
-26	of	of	_	RB	_	_	_	_	_
-27	keep	keep	_	VBP	_	_	_	_	_
-28	going	go	_	VBG	_	_	_	_	_
-29	along	along	_	RB	_	_	_	_	_
-30	and	and	_	CC	_	_	_	_	_
-31	saying	say	_	VBG	_	_	_	_	_
-32	what	what	_	WP	_	_	_	_	_
-33	I	I	_	PRP	_	_	_	_	_
-34	believe	believe	_	VBP	_	_	_	_	_
-35	in	in	_	IN	_	_	_	_	_
-36	!!	!!	_	.	_	_	_	_	_
+
+1	<<	<<	_	-LRB-	_	_	_	_	_
+2	I	I	_	PRP	_	_	_	_	_
+3	'm	be	_	VBP	_	_	_	_	_
+4	just	just	_	RB	_	_	_	_	_
+5	going	go	_	VBG	_	_	_	_	_
+6	to	to	_	TO	_	_	_	_	_
+7	be	be	_	VB	_	_	_	_	_
+8	my	my	_	PRP$	_	_	_	_	_
+9	own	own	_	JJ	_	_	_	_	_
+10	little	little	_	JJ	_	_	_	_	_
+11	self	self	_	NN	_	_	_	_	_
+12	and	and	_	CC	_	_	_	_	_
+13	kind	kind	_	NN	_	_	_	_	_
+14	of	of	_	RB	_	_	_	_	_
+15	keep	keep	_	VBP	_	_	_	_	_
+16	going	go	_	VBG	_	_	_	_	_
+17	along	along	_	RB	_	_	_	_	_
+18	and	and	_	CC	_	_	_	_	_
+19	saying	say	_	VBG	_	_	_	_	_
+20	what	what	_	WP	_	_	_	_	_
+21	I	I	_	PRP	_	_	_	_	_
+22	believe	believe	_	VBP	_	_	_	_	_
+23	in	in	_	IN	_	_	_	_	_
+24	!!	!!	_	.	_	_	_	_	_
 
 1	1	1	_	CD	_	_	_	_	_
 2	!!	!!	_	.	_	_	_	_	_
 
 1	>>	>>	_	NFP	_	_	_	_	_
 2	#tcot	#tcot	_	NN	_	_	_	_	_
-3	.	.	_	.	_	_	_	_	_
 
 1	I	I	_	PRP	_	_	_	_	_
 2	think	think	_	VBP	_	_	_	_	_
@@ -5914,18 +5975,19 @@
 10	.	.	_	.	_	_	_	_	_
 
 1	#WakeUpAmerica	#WakeUpAmerica	_	NNP	_	_	_	_	_
-2	.@HillaryClinton	.@HillaryClinton	_	NNP	_	_	_	_	_
-3	Looking	look	_	VBG	_	_	_	_	_
-4	4ward	4ward	_	CD	_	_	_	_	_
-5	2	2	_	CD	_	_	_	_	_
-6	hearing	hear	_	VBG	_	_	_	_	_
-7	your	you	_	PRP$	_	_	_	_	_
-8	Economic	economic	_	JJ	_	_	_	_	_
-9	Agenda	agenda	_	NN	_	_	_	_	_
-10	on	on	_	IN	_	_	_	_	_
-11	Monday	Monday	_	NNP	_	_	_	_	_
-12	July13	july13	_	NN	_	_	_	_	_
-13	.	.	_	.	_	_	_	_	_
+
+1	.@HillaryClinton	.@HillaryClinton	_	NNP	_	_	_	_	_
+2	Looking	look	_	VBG	_	_	_	_	_
+3	4ward	4ward	_	CD	_	_	_	_	_
+4	2	2	_	CD	_	_	_	_	_
+5	hearing	hear	_	VBG	_	_	_	_	_
+6	your	you	_	PRP$	_	_	_	_	_
+7	Economic	economic	_	JJ	_	_	_	_	_
+8	Agenda	agenda	_	NN	_	_	_	_	_
+9	on	on	_	IN	_	_	_	_	_
+10	Monday	Monday	_	NNP	_	_	_	_	_
+11	July13	july13	_	NN	_	_	_	_	_
+12	.	.	_	.	_	_	_	_	_
 
 1	WOW	wow	_	UH	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
