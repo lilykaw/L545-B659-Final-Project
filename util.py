@@ -20,7 +20,7 @@ class TweetsData(object):
         self.df = df
         # check the input dataframe
         assert 'Tweet' in df.columns and 'Target' in df.columns and 'Stance' in df.columns
-        assert mode=='AllWords' or mode == 'Bow' or mode == 'SubLexicon' or mode == 'ArgLexicon'
+        assert mode=='AllWords' or mode == 'Bow' or mode == 'SubLexicon' or mode == 'ArgLexicon' or mode == 'MaltParser'
         # preprocess the tweets
         self.df['CleanTweet'] = self.preprocess()
 
@@ -55,6 +55,12 @@ class TweetsData(object):
             regex_patterns = args
             # added column: the count of arguing lexicons
             self.df['CntArgLex'] = self.gen_lexicon_feature_redict(regex_patterns)
+
+        # Part C - parsing
+        elif mode == 'MaltParser':
+            dep_triples = args
+            # added column: the triples of parser, which will be used as tockens
+            self.gen_parser_feature(dep_triples) # it is a inplace function
         
 
     def preprocess(self): 
@@ -127,6 +133,14 @@ class TweetsData(object):
                 count_lexicons_each.append(sum([len(re.findall(lex, tweet)) for lex in lex_list]))
             count_lexicons.append(count_lexicons_each)
         return count_lexicons # shape: (n, 17)
+
+    def gen_parser_feature(self, dep_triples): 
+        targets = self.get_targets()
+        for t in targets: 
+            print(len(self.df[self.df['Target']==t]), len(dep_triples[t]))
+            self.df[self.df['Target']==t]['ParserTriples'] = dep_triples[t]
+        return
+
 
 
     # Please put the "get" functions here ================================
