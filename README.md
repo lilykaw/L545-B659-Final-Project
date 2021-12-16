@@ -105,10 +105,10 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 
 *Note: You will have to use TF-IDF vectorizer for feature selection in this part*
 
-| Target                           | Default_Unigram | Default_Uni-Bigram | Default_Uni-Bi-Trigram |
-| -------------------------------- | --------------- | ------------------ | ---------------------- |
-| Hillary Clinton                  | 0.5898          | 0.5831             | 0.5831                 |
-| Climate Change is a Real Concern | 0.6982          | 0.7337             | 0.7396                 |
-| Legalization of Abortion         | 0.7036          | 0.6750             | 0.6786                 |
-| Atheism                          | 0.7273          | 0.7273             | 0.7273                 |
-| Feminist Movement                | 0.6351          | 0.6561             | 0.6491                 |
+| Target                           | Default_Unigram | Opt_Unigram | Default_Uni-Bigram | Opt_Uni-Bigram | Default_Uni-Bi-Trigram | Opt_Uni-Bi-Trigram |
+| -------------------------------- | --------------- | ----------- | ------------------ | -------------- | ---------------------- | ------------------ |
+| Hillary Clinton                  | 0.5898          | 0.5864		 | 0.5831       | 0.6034	 | 0.5831                 | 0.6		       |
+| Climate Change is a Real Concern | 0.6982          | 0.6864		 | 0.7337       | 0.5621	 | 0.7396                 | 0.7101	       |
+| Legalization of Abortion         | 0.7036          | 0.6464		 | 0.6750       | 0.6536    	 | 0.6786                 | 0.6679             |
+| Atheism                          | 0.7273          | 0.7409		 | 0.7273       | 0.7136	 | 0.7273                 | 0.7227	       |
+| Feminist Movement                | 0.6351          | 0.5509		 | 0.6561       | 0.5860	 | 0.6491                 | 0.6035 	       |
