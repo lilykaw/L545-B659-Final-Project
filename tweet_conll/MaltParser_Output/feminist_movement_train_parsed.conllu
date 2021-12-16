@@ -1,3 +1,4 @@
+#Tweet
 1	Always	always	_	RB	_	3	advmod	_	_
 2	a	a	_	DT	_	3	det	_	_
 3	delight	delight	_	NN	_	0	null	_	_
@@ -25,6 +26,7 @@
 
 1	#manly	#manly	_	RB	_	0	null	_	_
 
+#Tweet
 1	Sometimes	sometimes	_	RB	_	3	advmod	_	_
 2	I	I	_	PRP	_	3	nsubj	_	_
 3	overheat	overheat	_	VBP	_	0	null	_	_
@@ -52,6 +54,7 @@
 2	n	n	_	NN	_	0	null	_	_
 3	;	;	_	:	_	2	punct	_	_
 
+#Tweet
 1	If	if	_	IN	_	3	mark	_	_
 2	feminists	feminist	_	NNS	_	3	nsubj	_	_
 3	spent	spend	_	VBD	_	0	null	_	_
@@ -77,6 +80,7 @@
 23	bigots	bigot	_	NNS	_	3	dobj	_	_
 24	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	Stupid	stupid	_	JJ	_	2	amod	_	_
 2	Feminists	feminist	_	NNS	_	11	nsubjpass	_	_
 3	,	,	_	,	_	11	punct	_	_
@@ -100,6 +104,7 @@
 21	men	man	_	NNS	_	20	pobj	_	_
 22	.	.	_	.	_	11	punct	_	_
 
+#Tweet
 1	YOU	you	_	PRP	_	2	nsubj	_	_
 2	'RE	be	_	VBP	_	0	null	_	_
 3	A	a	_	DT	_	4	det	_	_
@@ -120,6 +125,7 @@
 
 1	#feminist	#feminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Suns	Suns	_	NNPS	_	0	null	_	_
 2	out	out	_	RB	_	1	prt	_	_
 3	...	...	_	:	_	1	punct	_	_
@@ -140,6 +146,7 @@
 13	#YesAllWomen	#YesAllWomen	_	NNP	_	14	nn	_	_
 14	@EverydaySexism	@EverydaySexism	_	NNP	_	6	null	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	3	poss	_	_
 2	's	's	_	POS	_	1	possessive	_	_
 3	rights	rights	_	NNS	_	5	nsubj	_	_
@@ -163,6 +170,7 @@
 
 1	#CPD48	#cpd48	_	NN	_	0	null	_	_
 
+#Tweet
 1	So	so	_	RB	_	3	advmod	_	_
 2	you	you	_	PRP	_	3	nsubj	_	_
 3	support	support	_	VBP	_	0	null	_	_
@@ -185,6 +193,7 @@
 
 1	#EqualPayDay	#EqualPayDay	_	NNP	_	0	null	_	_
 
+#Tweet
 1	These	these	_	DT	_	2	det	_	_
 2	pics	pic	_	NNS	_	0	null	_	_
 3	of	of	_	IN	_	2	prep	_	_
@@ -209,6 +218,7 @@
 12	pretty	pretty	_	RB	_	11	advmod	_	_
 13	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	#YesAllWomen	#yesallwomen	_	NNS	_	3	nsubj	_	_
 2	should	should	_	MD	_	3	aux	_	_
 3	know	know	_	VB	_	0	null	_	_
@@ -229,6 +239,7 @@
 
 1	#republicanvalues	#republicanvalues	_	NNS	_	0	null	_	_
 
+#Tweet
 1	links	link	_	NNS	_	0	null	_	_
 2	in	in	_	IN	_	1	prep	_	_
 3	sauga	sauga	_	NN	_	2	pobj	_	_
@@ -246,6 +257,7 @@
 15	#iknowyoudoit	#iknowyoudoit	_	JJ	_	16	amod	_	_
 16	#equality	#equality	_	NN	_	14	dep	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	0	null	_	_
 2	@isocynic	@isocynic	_	JJ	_	1	amod	_	_
 3	:	:	_	:	_	1	punct	_	_
@@ -259,6 +271,7 @@
 11	#socceroos	#socceroos	_	NNS	_	12	nsubj	_	_
 12	#bodypositive	#bodypositive	_	JJ	_	9	xcomp	_	_
 
+#Tweet
 1	tired	tired	_	JJ	_	0	null	_	_
 2	of	of	_	IN	_	1	prep	_	_
 3	anti-womanist	anti-womanist	_	JJ	_	5	amod	_	_
@@ -285,6 +298,7 @@
 17	an	a	_	DT	_	18	det	_	_
 18	interview	interview	_	NN	_	16	pobj	_	_
 
+#Tweet
 1	If	if	_	IN	_	5	mark	_	_
 2	you	you	_	PRP	_	5	nsubj	_	_
 3	're	be	_	VBP	_	5	cop	_	_
@@ -300,6 +314,7 @@
 13	yourself	yourself	_	PRP	_	12	dobj	_	_
 14	.	.	_	.	_	12	punct	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -334,6 +349,7 @@
 
 1	#EqualPayDay	#EqualPayDay	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@lucyblakeman12	@lucyblakeman12	_	CD	_	0	null	_	_
 2	You	you	_	PRP	_	3	nsubj	_	_
 3	need	need	_	VBP	_	1	rcmod	_	_
@@ -361,6 +377,7 @@
 10	it	it	_	PRP	_	9	pobj	_	_
 11	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	MRAs	mra	_	NNS	_	3	nsubj	_	_
 2	just	just	_	RB	_	3	advmod	_	_
 3	tried	try	_	VBD	_	0	null	_	_
@@ -383,6 +400,7 @@
 20	Hindenburg	Hindenburg	_	NNP	_	18	pobj	_	_
 21	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	Why	why	_	WRB	_	3	dep	_	_
 2	do	do	_	VBP	_	3	aux	_	_
 3	girls	girl	_	NNS	_	6	nsubj	_	_
@@ -410,6 +428,7 @@
 25	symbol	symbol	_	NN	_	22	pobj	_	_
 26	?	?	_	.	_	17	punct	_	_
 
+#Tweet
 1	@randomtweetor	@randomtweetor	_	NNP	_	3	advmod	_	_
 2	i	i	_	PRP	_	3	nsubj	_	_
 3	hate	hate	_	VBP	_	0	null	_	_
@@ -437,6 +456,7 @@
 7	women	woman	_	NNS	_	8	nn	_	_
 8	#feminist	#feminist	_	NN	_	5	dobj	_	_
 
+#Tweet
 1	Job	job	_	NN	_	4	nsubj	_	_
 2	should	should	_	MD	_	4	aux	_	_
 3	always	always	_	RB	_	4	advmod	_	_
@@ -464,6 +484,7 @@
 
 1	#PaulHenry	#PaulHenry	_	NNP	_	0	null	_	_
 
+#Tweet
 1	What	what	_	WP	_	4	dobj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	you	you	_	PRP	_	4	nsubj	_	_
@@ -487,6 +508,7 @@
 8	twice	twice	_	RB	_	7	advmod	_	_
 9	.	.	_	.	_	7	punct	_	_
 
+#Tweet
 1	Did	do	_	VBD	_	3	aux	_	_
 2	you	you	_	PRP	_	3	nsubj	_	_
 3	know	know	_	VB	_	0	null	_	_
@@ -511,6 +533,7 @@
 
 1	#gender	#gender	_	NNP	_	0	null	_	_
 
+#Tweet
 1	the	the	_	DT	_	2	det	_	_
 2	time	time	_	NN	_	0	null	_	_
 3	for	for	_	IN	_	6	mark	_	_
@@ -520,6 +543,7 @@
 7	NOW	now	_	RB	_	6	advmod	_	_
 8	!	!	_	.	_	2	punct	_	_
 
+#Tweet
 1	As	as	_	IN	_	4	mark	_	_
 2	Chip	Chip	_	NNP	_	3	nn	_	_
 3	Kidd	Kidd	_	NNP	_	4	nsubj	_	_
@@ -544,6 +568,7 @@
 22	@GloriaSteinem	@GloriaSteinem	_	NNP	_	23	nn	_	_
 23	#poetry	#poetry	_	NNP	_	21	pobj	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	3	nsubjpass	_	_
 2	get	get	_	VBP	_	3	auxpass	_	_
 3	paid	pay	_	VBN	_	0	null	_	_
@@ -571,6 +596,7 @@
 
 1	@amazingatheist	@amazingatheist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	You	you	_	PRP	_	2	nsubj	_	_
 2	know	know	_	VBP	_	0	null	_	_
 3	you	you	_	PRP	_	4	nsubj	_	_
@@ -591,6 +617,7 @@
 18	#whatisjustice	#whatisjustice	_	NN	_	19	nn	_	_
 19	#inequality	#inequality	_	NN	_	16	pobj	_	_
 
+#Tweet
 1	When	when	_	WRB	_	4	advmod	_	_
 2	is	be	_	VBZ	_	4	cop	_	_
 3	it	it	_	PRP	_	4	nsubj	_	_
@@ -623,6 +650,7 @@
 
 1	#AskHillary	#AskHillary	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	love	love	_	VBP	_	0	null	_	_
 3	that	that	_	DT	_	5	det	_	_
@@ -644,6 +672,7 @@
 6	soccer	soccer	_	NN	_	7	nn	_	_
 7	#USWNT	#uswnt	_	NN	_	3	dobj	_	_
 
+#Tweet
 1	Men	man	_	NNS	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -673,6 +702,7 @@
 27	be	be	_	VB	_	28	auxpass	_	_
 28	silenced	silence	_	VBN	_	25	xcomp	_	_
 
+#Tweet
 1	FINALLY	finally	_	RB	_	3	advmod	_	_
 2	A	a	_	DT	_	3	det	_	_
 3	WOMEN	women	_	NN	_	0	null	_	_
@@ -680,6 +710,7 @@
 5	FOR	for	_	IN	_	4	prep	_	_
 6	PRESIDENT	PRESIDENT	_	NNP	_	5	pobj	_	_
 
+#Tweet
 1	Pissed	pissed	_	JJ	_	0	null	_	_
 2	that	that	_	IN	_	4	complm	_	_
 3	I	I	_	PRP	_	4	nsubj	_	_
@@ -693,6 +724,7 @@
 11	did	do	_	VBD	_	10	null	_	_
 12	n't	not	_	RB	_	11	neg	_	_
 
+#Tweet
 1	@SirWilliamValen	@sirwilliamvalen	_	RB	_	2	advmod	_	_
 2	insulting	insulting	_	JJ	_	0	null	_	_
 3	,	,	_	,	_	2	punct	_	_
@@ -720,6 +752,7 @@
 12	for	for	_	IN	_	10	prep	_	_
 13	us	we	_	PRP	_	12	pobj	_	_
 
+#Tweet
 1	@Yaahnemba	@Yaahnemba	_	NNP	_	2	nsubj	_	_
 2	Have	have	_	VBP	_	0	null	_	_
 3	you	you	_	PRP	_	5	nsubj	_	_
@@ -747,6 +780,7 @@
 10	other	other	_	JJ	_	8	pobj	_	_
 11	.	.	_	.	_	7	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	believe	believe	_	VBP	_	0	null	_	_
 3	that	that	_	IN	_	7	complm	_	_
@@ -759,6 +793,7 @@
 10	rights	rights	_	NNS	_	7	dobj	_	_
 11	!!	!!	_	.	_	2	punct	_	_
 
+#Tweet
 1	@TheRuIes	@theruies	_	NNS	_	2	nsubj	_	_
 2	@xDirtyDianna	@xdirtydianna	_	ADD	_	0	null	_	_
 3	why	why	_	WRB	_	16	advmod	_	_
@@ -785,6 +820,7 @@
 24	a	a	_	DT	_	25	det	_	_
 25	hoe	hoe	_	NN	_	23	pobj	_	_
 
+#Tweet
 1	It	it	_	PRP	_	2	nsubj	_	_
 2	upsets	upset	_	NNS	_	0	null	_	_
 3	me	I	_	PRP	_	2	dobj	_	_
@@ -808,6 +844,7 @@
 4	NOT	not	_	RB	_	3	advmod	_	_
 5	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubjpass	_	_
 2	am	be	_	VBP	_	3	auxpass	_	_
 3	obsessed	obsess	_	VBN	_	0	null	_	_
@@ -826,6 +863,7 @@
 3	#latinx	#latinx	_	NNP	_	4	nn	_	_
 4	#woc	#woc	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubj	_	_
 2	just	just	_	RB	_	3	advmod	_	_
 3	yelled	yell	_	VBD	_	0	null	_	_
@@ -843,6 +881,7 @@
 15	Kombat	Kombat	_	NNP	_	16	nn	_	_
 16	X.	X.	_	NNP	_	13	pobj	_	_
 
+#Tweet
 1	Extinction	extinction	_	NN	_	6	dep	_	_
 2	of	of	_	IN	_	1	prep	_	_
 3	insects	insect	_	NNS	_	2	pobj	_	_
@@ -867,6 +906,7 @@
 22	FAIL2discuss	fail2discuss	_	NNS	_	6	appos	_	_
 23	?	?	_	.	_	6	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@WGSndsu	@wgsndsu	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -887,6 +927,7 @@
 3	#cats	#cats	_	NNS	_	4	nsubj	_	_
 4	#DogsCanComeToo	#dogscancometoo	_	ADD	_	0	null	_	_
 
+#Tweet
 1	Anyone	anyone	_	NN	_	2	nsubj	_	_
 2	find	find	_	VB	_	0	null	_	_
 3	it	it	_	PRP	_	2	dobj	_	_
@@ -910,6 +951,7 @@
 21	one	one	_	CD	_	18	xcomp	_	_
 22	?	?	_	.	_	2	punct	_	_
 
+#Tweet
 1	.@MyRainbowNinja	.@MyRainbowNinja	_	NNP	_	2	nn	_	_
 2	@NotAllBhas	@NotAllBhas	_	NNP	_	7	dep	_	_
 3	This	this	_	DT	_	4	det	_	_
@@ -919,6 +961,7 @@
 7	disgusting	disgusting	_	JJ	_	0	null	_	_
 8	.	.	_	.	_	7	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@rossansguil	@rossansguil	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -935,6 +978,7 @@
 14	face	face	_	NN	_	12	pobj	_	_
 15	...	...	_	.	_	2	punct	_	_
 
+#Tweet
 1	All	all	_	DT	_	4	dobj	_	_
 2	I	I	_	PRP	_	4	nsubj	_	_
 3	'm	be	_	VBP	_	4	aux	_	_
@@ -961,6 +1005,7 @@
 
 1	#FeminismIsAwfullyGreat	#FeminismIsAwfullyGreat	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@FudgieeBuddiee	@FudgieeBuddiee	_	NNP	_	2	nsubj	_	_
 2	ARE	be	_	VBP	_	0	null	_	_
 3	YOU	you	_	PRP	_	4	nsubj	_	_
@@ -979,6 +1024,7 @@
 2	SEXIST	sexist	_	VBP	_	0	null	_	_
 3	SWINE	swine	_	NNS	_	2	dobj	_	_
 
+#Tweet
 1	@DaniBChristen	@DaniBChristen	_	NNP	_	2	nsubj	_	_
 2	Yes	yes	_	UH	_	0	null	_	_
 3	,	,	_	,	_	2	punct	_	_
@@ -999,6 +1045,7 @@
 18	LOL	LOL	_	NNP	_	19	nn	_	_
 19	#IDontNeedFeminism	#IDontNeedFeminism	_	NNP	_	17	dep	_	_
 
+#Tweet
 1	WHO	who	_	WP	_	0	null	_	_
 2	DO	do	_	VBP	_	1	dep	_	_
 3	I	I	_	PRP	_	6	nsubj	_	_
@@ -1016,6 +1063,7 @@
 15	SOMEBODY	SOMEBODY	_	NNP	_	12	dobj	_	_
 16	?	?	_	.	_	1	punct	_	_
 
+#Tweet
 1	when	when	_	WRB	_	20	advmod	_	_
 2	they	they	_	PRP	_	3	nsubj	_	_
 3	say	say	_	VBP	_	20	dep	_	_
@@ -1045,6 +1093,7 @@
 
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Starting	start	_	VBG	_	0	null	_	_
 2	to	to	_	IN	_	1	prep	_	_
 3	compile	compile	_	VB	_	2	pcomp	_	_
@@ -1066,6 +1115,7 @@
 19	propaganda	propaganda	_	NN	_	20	nn	_	_
 20	#antifeminism	#antifeminism	_	NN	_	16	pobj	_	_
 
+#Tweet
 1	Why	why	_	WRB	_	5	advmod	_	_
 2	do	do	_	VBP	_	5	aux	_	_
 3	n't	not	_	RB	_	5	neg	_	_
@@ -1074,6 +1124,7 @@
 6	me	I	_	PRP	_	5	dobj	_	_
 7	Twitter	Twitter	_	NNP	_	5	tmod	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	HOPE	hope	_	VBP	_	10	nsubj	_	_
 3	YOU	you	_	PRP	_	5	nsubjpass	_	_
@@ -1098,6 +1149,7 @@
 
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	How	how	_	WRB	_	5	advmod	_	_
 2	much	much	_	JJ	_	4	amod	_	_
 3	radical	radical	_	JJ	_	4	amod	_	_
@@ -1117,6 +1169,7 @@
 17	feminism	feminism	_	NN	_	16	pobj	_	_
 18	?	?	_	.	_	7	punct	_	_
 
+#Tweet
 1	Honoured	honour	_	VBN	_	0	null	_	_
 2	to	to	_	TO	_	4	aux	_	_
 3	be	be	_	VB	_	4	auxpass	_	_
@@ -1132,6 +1185,7 @@
 13	#realaustralianssaywelcome	#realaustralianssaywelcome	_	NN	_	14	nn	_	_
 14	#thethingsthatmatter	#thethingsthatmatter	_	NN	_	11	pobj	_	_
 
+#Tweet
 1	Feminists	feminist	_	NNS	_	5	nsubj	_	_
 2	do	do	_	VBP	_	5	aux	_	_
 3	n't	not	_	RB	_	5	neg	_	_
@@ -1142,6 +1196,7 @@
 8	is	be	_	VBZ	_	5	ccomp	_	_
 9	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	Thanks	thanks	_	NN	_	0	null	_	_
 2	to	to	_	IN	_	1	prep	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -1163,6 +1218,7 @@
 19	of	of	_	IN	_	18	prep	_	_
 20	society	society	_	NN	_	19	pobj	_	_
 
+#Tweet
 1	If	if	_	IN	_	3	mark	_	_
 2	you	you	_	PRP	_	3	nsubj	_	_
 3	wan	wan	_	VBP	_	14	advcl	_	_
@@ -1190,6 +1246,7 @@
 9	's	's	_	POS	_	7	possessive	_	_
 10	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	@suicidaljac3	@suicidaljac3	_	CD	_	2	nsubj	_	_
 2	eat	eat	_	VBP	_	0	null	_	_
 3	a	a	_	DT	_	7	det	_	_
@@ -1198,6 +1255,7 @@
 6	somethin	somethin	_	NN	_	4	conj	_	_
 7	lozer	lozer	_	NN	_	2	dobj	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	3	nsubj	_	_
 2	are	be	_	VBP	_	3	cop	_	_
 3	superior	superior	_	JJ	_	0	null	_	_
@@ -1208,6 +1266,7 @@
 8	aspect	aspect	_	NN	_	9	nn	_	_
 9	#feminist	#feminist	_	NN	_	6	pobj	_	_
 
+#Tweet
 1	@BruiseAurora	@bruiseaurora	_	NNS	_	0	null	_	_
 2	i	i	_	PRP	_	4	nsubj	_	_
 3	'm	be	_	VBP	_	4	aux	_	_
@@ -1228,6 +1287,7 @@
 
 1	#everydaysexism	#everydaysexism	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	NEED	need	_	VBP	_	15	csubj	_	_
 3	FEMINISM	FEMINISM	_	NNP	_	2	dobj	_	_
@@ -1257,6 +1317,7 @@
 10	terrified	terrified	_	JJ	_	0	null	_	_
 11	.	.	_	.	_	10	punct	_	_
 
+#Tweet
 1	Why	why	_	WRB	_	2	advmod	_	_
 2	is	be	_	VBZ	_	0	null	_	_
 3	Paul	Paul	_	NNP	_	4	nn	_	_
@@ -1275,6 +1336,7 @@
 
 1	#feminist	#feminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Yes	yes	_	UH	_	2	dep	_	_
 2	women	woman	_	NNS	_	13	nsubjpass	_	_
 3	it	it	_	PRP	_	6	nsubj	_	_
@@ -1299,6 +1361,7 @@
 5	additudes	additude	_	NNS	_	3	dobj	_	_
 6	#everydaysexism	#everydaysexism	_	ADD	_	3	punct	_	_
 
+#Tweet
 1	Watching	watch	_	VBG	_	0	null	_	_
 2	#missrepresentation	#missrepresentation	_	NN	_	1	dobj	_	_
 3	.	.	_	.	_	1	punct	_	_
@@ -1316,6 +1379,7 @@
 2	#change	#change	_	NNP	_	3	nn	_	_
 3	#beauty	#beauty	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	wo	will	_	MD	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -1351,6 +1415,7 @@
 
 1	#gaming	#gaming	_	VBG	_	0	null	_	_
 
+#Tweet
 1	A	a	_	DT	_	2	det	_	_
 2	woman	woman	_	NN	_	7	nsubj	_	_
 3	is	be	_	VBZ	_	7	cop	_	_
@@ -1375,6 +1440,7 @@
 7	#love	#love	_	GW	_	1	null	_	_
 8	#society	#society	_	GW	_	7	dep	_	_
 
+#Tweet
 1	Umrao	Umrao	_	NNP	_	3	nn	_	_
 2	Jaan	Jaan	_	NNP	_	3	nn	_	_
 3	Ada	Ada	_	NNP	_	4	nsubj	_	_
@@ -1397,6 +1463,7 @@
 
 1	#WOMANPOWER	#WOMANPOWER	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Lol	lol	_	UH	_	0	null	_	_
 2	what	what	_	WP	_	5	nsubj	_	_
 3	's	be	_	VBZ	_	5	cop	_	_
@@ -1409,6 +1476,7 @@
 10	equal	equal	_	JJ	_	7	xcomp	_	_
 11	?	?	_	.	_	1	punct	_	_
 
+#Tweet
 1	You	you	_	PRP	_	2	nsubj	_	_
 2	want	want	_	VBP	_	16	nsubjpass	_	_
 3	to	to	_	TO	_	4	aux	_	_
@@ -1432,6 +1500,7 @@
 21	college	college	_	NN	_	20	pobj	_	_
 22	#MisogynyIsUgly	#misogynyisugly	_	RB	_	16	advmod	_	_
 
+#Tweet
 1	@amin86660132	@amin86660132	_	CD	_	5	num	_	_
 2	@justsoshelby	@justsoshelby	_	JJ	_	5	amod	_	_
 3	Very	very	_	RB	_	4	advmod	_	_
@@ -1455,6 +1524,7 @@
 14	this	this	_	DT	_	15	det	_	_
 15	way	way	_	NN	_	12	tmod	_	_
 
+#Tweet
 1	WTF	WTF	_	NNP	_	4	nn	_	_
 2	LITEraL	LITEraL	_	NNP	_	4	nn	_	_
 3	FUCK	FUCK	_	NNP	_	4	nn	_	_
@@ -1467,6 +1537,7 @@
 10	ABOUT	about	_	NN	_	7	dobj	_	_
 11	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	Radios	radio	_	NNS	_	3	nsubjpass	_	_
 2	r	be	_	VBP	_	3	auxpass	_	_
 3	filled	fill	_	VBN	_	0	null	_	_
@@ -1495,6 +1566,7 @@
 7	silence	silence	_	VB	_	0	null	_	_
 8	me	I	_	PRP	_	7	dobj	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	take	take	_	VBP	_	0	null	_	_
 3	some	some	_	DT	_	4	det	_	_
@@ -1520,6 +1592,7 @@
 23	...	...	_	,	_	24	punct	_	_
 24	@thehiredmind	@thehiredmind	_	NN	_	17	ccomp	_	_
 
+#Tweet
 1	No	no	_	UH	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
@@ -1547,6 +1620,7 @@
 
 1	#FeministsAreBeautiful	#FeministsAreBeautiful	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Meredith	Meredith	_	NNP	_	4	nn	_	_
 2	giving	give	_	VBG	_	4	amod	_	_
 3	Don	Don	_	NNP	_	4	nn	_	_
@@ -1575,6 +1649,7 @@
 1	#Peggy	#Peggy	_	NNP	_	2	nn	_	_
 2	#MadMen	#MadMen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	so	so	_	RB	_	3	advmod	_	_
 2	i	i	_	PRP	_	3	nsubj	_	_
 3	guess	guess	_	VBP	_	0	null	_	_
@@ -1595,6 +1670,7 @@
 18	UGLY	UGLY	_	NNP	_	17	dobj	_	_
 19	THEN	then	_	RB	_	17	advmod	_	_
 
+#Tweet
 1	Strict	strict	_	JJ	_	3	amod	_	_
 2	gender	gender	_	NN	_	3	nn	_	_
 3	roles	role	_	NNS	_	19	nsubj	_	_
@@ -1622,6 +1698,7 @@
 
 1	#tcot	#tcot	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Ok	ok	_	UH	_	3	dep	_	_
 2	armchair	armchair	_	NN	_	3	nn	_	_
 3	feminists	feminist	_	NNS	_	4	nsubj	_	_
@@ -1650,6 +1727,7 @@
 3	tumblr	tumblr	_	NN	_	1	dobj	_	_
 4	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	ca	can	_	MD	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -1679,6 +1757,7 @@
 
 1	#antifeminist	#antifeminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@StarSThomas	@starsthomas	_	NNS	_	3	nn	_	_
 2	Dear	dear	_	JJ	_	3	amod	_	_
 3	god	god	_	NN	_	7	nsubj	_	_
@@ -1688,6 +1767,7 @@
 7	fat	fat	_	JJ	_	0	null	_	_
 8	.	.	_	.	_	7	punct	_	_
 
+#Tweet
 1	If	if	_	IN	_	4	mark	_	_
 2	feminists	feminist	_	NNS	_	4	nsubj	_	_
 3	are	be	_	VBP	_	4	cop	_	_
@@ -1704,6 +1784,7 @@
 14	be	be	_	VB	_	15	cop	_	_
 15	vile	vile	_	JJ	_	4	dep	_	_
 
+#Tweet
 1	Im	Im	_	NNP	_	2	nsubj	_	_
 2	sorry	sorry	_	JJ	_	0	null	_	_
 3	if	if	_	IN	_	5	mark	_	_
@@ -1732,6 +1813,7 @@
 26	the	the	_	DT	_	27	det	_	_
 27	door	door	_	NN	_	24	dobj	_	_
 
+#Tweet
 1	Me	I	_	PRP	_	2	nsubj	_	_
 2	(	(	_	-LRB-	_	0	null	_	_
 3	in	in	_	IN	_	2	prep	_	_
@@ -1760,6 +1842,7 @@
 9	then	then	_	RB	_	5	advmod	_	_
 10	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	.@Awyee707	.@awyee707	_	NN	_	0	null	_	_
 2	I	I	_	PRP	_	3	nsubj	_	_
 3	respect	respect	_	VBP	_	1	rcmod	_	_
@@ -1784,6 +1867,7 @@
 13	love	love	_	NN	_	8	conj	_	_
 14	?	?	_	.	_	5	punct	_	_
 
+#Tweet
 1	@Awyee707	@awyee707	_	NN	_	2	nn	_	_
 2	@TigerClaud	@TigerClaud	_	NNP	_	0	null	_	_
 3	You	you	_	PRP	_	4	nsubj	_	_
@@ -1805,6 +1889,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@optimist216	@optimist216	_	NN	_	0	null	_	_
 2	What	what	_	WDT	_	1	dep	_	_
 3	a	a	_	DT	_	4	det	_	_
@@ -1830,6 +1915,7 @@
 
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	'm	be	_	VBP	_	4	cop	_	_
 3	not	not	_	RB	_	4	neg	_	_
@@ -1846,6 +1932,7 @@
 1	@MT8_9	@mt8_9	_	NN	_	2	nsubj	_	_
 2	@prettysing	@prettysing	_	VBG	_	0	null	_	_
 
+#Tweet
 1	.@diistantecho	.@diistantecho	_	RB	_	5	advmod	_	_
 2	Your	you	_	PRP$	_	4	poss	_	_
 3	wee	wee	_	JJ	_	4	amod	_	_
@@ -1867,6 +1954,7 @@
 6	means	mean	_	VBZ	_	3	pcomp	_	_
 7	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	@dancerlwt	@dancerlwt	_	NNP	_	2	nsubj	_	_
 2	Have	have	_	VBP	_	0	null	_	_
 3	you	you	_	PRP	_	2	dobj	_	_
@@ -1880,6 +1968,7 @@
 11	monologue	monologue	_	NN	_	10	dobj	_	_
 12	?	?	_	.	_	2	punct	_	_
 
+#Tweet
 1	Just	just	_	RB	_	2	advmod	_	_
 2	give	give	_	VB	_	0	null	_	_
 3	me	I	_	PRP	_	2	iobj	_	_
@@ -1897,6 +1986,7 @@
 3	#FreddieGray	#FreddieGray	_	NNP	_	4	nn	_	_
 4	#RHOAReunion	#RHOAReunion	_	NNP	_	0	null	_	_
 
+#Tweet
 1	.@nycinterlude	.@nycinterlude	_	NN	_	4	nsubj	_	_
 2	Do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -1922,6 +2012,7 @@
 2	be	be	_	VB	_	1	xcomp	_	_
 3	!	!	_	.	_	1	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	am	be	_	VBP	_	4	cop	_	_
 3	a	a	_	DT	_	4	det	_	_
@@ -1952,6 +2043,7 @@
 28	#feminist	#feminist	_	NNP	_	29	nn	_	_
 29	#humanist	#humanist	_	NNP	_	27	null	_	_
 
+#Tweet
 1	.@feminismvibes	.@feminismvibes	_	NNS	_	2	nn	_	_
 2	Men	man	_	NNS	_	5	nsubj	_	_
 3	do	do	_	VBP	_	5	aux	_	_
@@ -1975,6 +2067,7 @@
 6	bullshit	bullshit	_	NN	_	0	null	_	_
 7	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	@vote4pedro___	@vote4pedro___	_	NN	_	3	tmod	_	_
 2	she	she	_	PRP	_	3	nsubj	_	_
 3	lied	lie	_	VBD	_	10	ccomp	_	_
@@ -2001,6 +2094,7 @@
 24	reason	reason	_	NN	_	0	null	_	_
 25	why	why	_	WRB	_	24	dep	_	_
 
+#Tweet
 1	@AnandDaranand	@AnandDaranand	_	NNP	_	4	nsubj	_	_
 2	am	be	_	VBP	_	4	aux	_	_
 3	not	not	_	RB	_	4	neg	_	_
@@ -2031,6 +2125,7 @@
 28	TL	TL	_	NNP	_	29	nn	_	_
 29	#VAW	#VAW	_	NNP	_	26	pobj	_	_
 
+#Tweet
 1	Courting	court	_	VBG	_	4	csubj	_	_
 2	patriarchal	patriarchal	_	JJ	_	3	amod	_	_
 3	approval	approval	_	NN	_	1	dobj	_	_
@@ -2045,6 +2140,7 @@
 12	appearance	appearance	_	NN	_	9	pobj	_	_
 13	#patriarchyisugly	#patriarchyisugly	_	RB	_	4	advmod	_	_
 
+#Tweet
 1	@SkyNews	@skynews	_	NNS	_	4	nn	_	_
 2	@EamonnHolmes	@eamonnholmes	_	NNS	_	4	nn	_	_
 3	@SkyJacquie	@skyjacquie	_	NN	_	4	nn	_	_
@@ -2064,6 +2160,7 @@
 17	chauvinist	chauvinist	_	NN	_	18	nn	_	_
 18	idiot	idiot	_	NN	_	14	dep	_	_
 
+#Tweet
 1	@rsiereilly	@rsiereilly	_	RB	_	6	advmod	_	_
 2	I	I	_	PRP	_	6	nsubj	_	_
 3	've	have	_	VBP	_	6	aux	_	_
@@ -2077,6 +2174,7 @@
 3	response	response	_	NN	_	1	dobj	_	_
 4	to	to	_	IN	_	3	dep	_	_
 
+#Tweet
 1	Contempo	Contempo	_	NNP	_	2	nn	_	_
 2	Qiwaamah	Qiwaamah	_	NNP	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -2100,6 +2198,7 @@
 21	equal	equal	_	JJ	_	22	amod	_	_
 22	pay	pay	_	NN	_	19	conj	_	_
 
+#Tweet
 1	@MrMikeCalta	@MrMikeCalta	_	NNP	_	2	nn	_	_
 2	Proud	Proud	_	NNP	_	4	nsubj	_	_
 3	to	to	_	TO	_	4	aux	_	_
@@ -2114,6 +2213,7 @@
 12	eyed	eyed	_	JJ	_	13	amod	_	_
 13	MJ	MJ	_	NNP	_	11	dobj	_	_
 
+#Tweet
 1	The	the	_	DT	_	3	det	_	_
 2	only	only	_	JJ	_	3	amod	_	_
 3	reason	reason	_	NN	_	6	nsubj	_	_
@@ -2133,6 +2233,7 @@
 17	#viewpoint	#viewpoint	_	NN	_	14	dobj	_	_
 18	#dailydevotional	#dailydevotional	_	JJ	_	17	amod	_	_
 
+#Tweet
 1	@rimmedlarry	@rimmedlarry	_	VB	_	7	ccomp	_	_
 2	Actually	actually	_	RB	_	1	advmod	_	_
 3	,	,	_	,	_	7	punct	_	_
@@ -2156,6 +2257,7 @@
 21	ugly	ugly	_	JJ	_	17	ccomp	_	_
 22	.	.	_	.	_	7	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubj	_	_
 2	have	have	_	VBP	_	3	aux	_	_
 3	noticed	notice	_	VBN	_	0	null	_	_
@@ -2174,6 +2276,7 @@
 3	why	why	_	WRB	_	2	dep	_	_
 4	?	?	_	.	_	2	punct	_	_
 
+#Tweet
 1	@james_WTF	@james_wtf	_	NN	_	5	nsubj	_	_
 2	do	do	_	VBP	_	5	aux	_	_
 3	n't	not	_	RB	_	5	neg	_	_
@@ -2191,6 +2294,7 @@
 5	narrative	narrative	_	NN	_	3	dobj	_	_
 6	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	@draumkunta	@draumkunta	_	NNS	_	8	tmod	_	_
 2	also	also	_	RB	_	1	advmod	_	_
 3	,	,	_	,	_	8	punct	_	_
@@ -2212,6 +2316,7 @@
 19	beauty	beauty	_	NN	_	20	nn	_	_
 20	standards	standard	_	NNS	_	17	pobj	_	_
 
+#Tweet
 1	@bethany_jayneW	@bethany_jayneW	_	NNP	_	0	null	_	_
 2	its	its	_	PRP$	_	3	poss	_	_
 3	cool	cool	_	JJ	_	1	dep	_	_
@@ -2226,6 +2331,7 @@
 12	ur	ur	_	PRP$	_	13	poss	_	_
 13	side	side	_	NN	_	11	pobj	_	_
 
+#Tweet
 1	@_sarcasmspasm	@_sarcasmspasm	_	NNP	_	2	nn	_	_
 2	@MT8_9	@MT8_9	_	NNP	_	0	null	_	_
 3	Then	then	_	RB	_	5	advmod	_	_
@@ -2250,6 +2356,7 @@
 22	amirite	amirite	_	NN	_	14	dep	_	_
 23	?	?	_	.	_	2	punct	_	_
 
+#Tweet
 1	Your	you	_	PRP$	_	3	poss	_	_
 2	physical	physical	_	JJ	_	3	amod	_	_
 3	appearance	appearance	_	NN	_	6	nsubj	_	_
@@ -2270,6 +2377,7 @@
 18	not	not	_	RB	_	16	conj	_	_
 19	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	All	all	_	PDT	_	4	predet	_	_
 2	the	the	_	DT	_	4	det	_	_
 3	feminist	feminist	_	JJ	_	4	amod	_	_
@@ -2281,6 +2389,7 @@
 9	true	true	_	JJ	_	8	acomp	_	_
 10	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubj	_	_
 2	'm	be	_	VBP	_	3	aux	_	_
 3	going	go	_	VBG	_	0	null	_	_
@@ -2304,6 +2413,7 @@
 21	...	...	_	:	_	3	punct	_	_
 22	@BristolBen	@bristolben	_	ADD	_	3	punct	_	_
 
+#Tweet
 1	@MsLuuna	@msluuna	_	NN	_	2	nn	_	_
 2	women	woman	_	NNS	_	5	nsubj	_	_
 3	do	do	_	VBP	_	5	aux	_	_
@@ -2313,6 +2423,7 @@
 7	shave	shave	_	VB	_	5	xcomp	_	_
 8	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	The	the	_	DT	_	3	det	_	_
 2	only	only	_	JJ	_	3	amod	_	_
 3	thing	thing	_	NN	_	4	nsubj	_	_
@@ -2331,6 +2442,7 @@
 16	this	this	_	DT	_	17	det	_	_
 17	tag	tag	_	NN	_	15	dobj	_	_
 
+#Tweet
 1	Wives	wife	_	NNS	_	0	null	_	_
 2	who	who	_	WP	_	3	nsubj	_	_
 3	dislike	dislike	_	VBP	_	1	rcmod	_	_
@@ -2354,6 +2466,7 @@
 21	MCP	MCP	_	NNP	_	22	nn	_	_
 22	#WomensProgress2015	#womensprogress2015	_	NN	_	20	null	_	_
 
+#Tweet
 1	These	these	_	DT	_	2	det	_	_
 2	SJWs	sjw	_	NNS	_	5	nsubj	_	_
 3	are	be	_	VBP	_	5	cop	_	_
@@ -2378,6 +2491,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	#Feminists	#feminists	_	NNS	_	4	nsubj	_	_
 2	can	can	_	MD	_	4	aux	_	_
 3	now	now	_	RB	_	4	advmod	_	_
@@ -2403,6 +2517,7 @@
 23	exist	exist	_	VB	_	12	advcl	_	_
 24	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	Feminists	feminist	_	NNS	_	4	nsubj	_	_
 2	are	be	_	VBP	_	4	cop	_	_
 3	not	not	_	RB	_	4	neg	_	_
@@ -2426,6 +2541,7 @@
 8	the	the	_	DT	_	9	det	_	_
 9	planet	planet	_	NN	_	7	pobj	_	_
 
+#Tweet
 1	Wonder	wonder	_	NN	_	0	null	_	_
 2	what	what	_	WP	_	5	dobj	_	_
 3	it	it	_	PRP	_	5	nsubj	_	_
@@ -2447,6 +2563,7 @@
 
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Lehi	Lehi	_	NNP	_	3	nn	_	_
 2	high	high	_	JJ	_	3	amod	_	_
 3	school	school	_	NN	_	7	nsubj	_	_
@@ -2466,6 +2583,7 @@
 17	#MondayMotivation	#MondayMotivation	_	NNP	_	18	nn	_	_
 18	#WhatAreYouAfraidOf	#WhatAreYouAfraidOf	_	NNP	_	14	dobj	_	_
 
+#Tweet
 1	If	if	_	IN	_	3	mark	_	_
 2	you	you	_	PRP	_	3	nsubj	_	_
 3	want	want	_	VBP	_	9	advcl	_	_
@@ -2491,6 +2609,7 @@
 8	#peace	#peace	_	NNP	_	9	nn	_	_
 9	#war	#war	_	NNP	_	3	pobj	_	_
 
+#Tweet
 1	hey	hey	_	UH	_	3	dep	_	_
 2	@JCDFitness	@JCDFitness	_	NNP	_	3	nsubj	_	_
 3	stop	stop	_	VB	_	0	null	_	_
@@ -2517,6 +2636,7 @@
 1	ty	ty	_	UH	_	2	dep	_	_
 2	#Equality2015	#Equality2015	_	NNP	_	0	null	_	_
 
+#Tweet
 1	What	what	_	WP	_	2	attr	_	_
 2	is	be	_	VBZ	_	0	null	_	_
 3	wrong	wrong	_	JJ	_	2	dep	_	_
@@ -2545,6 +2665,7 @@
 9	Rush	rush	_	NN	_	6	pobj	_	_
 10	?	?	_	.	_	5	punct	_	_
 
+#Tweet
 1	Hey	hey	_	UH	_	8	dep	_	_
 2	first	first	_	RB	_	8	advmod	_	_
 3	-	-	_	HYPH	_	8	nn	_	_
@@ -2565,6 +2686,7 @@
 18	fine	fine	_	JJ	_	19	amod	_	_
 19	#killallmen	#killallmen	_	NNS	_	15	xcomp	_	_
 
+#Tweet
 1	Hey	hey	_	UH	_	19	dep	_	_
 2	,	,	_	,	_	19	punct	_	_
 3	all	all	_	DT	_	19	nsubj	_	_
@@ -2594,6 +2716,7 @@
 27	murderer	murderer	_	NN	_	0	null	_	_
 28	?	?	_	.	_	27	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@WeNeedFeminism	@weneedfeminism	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -2612,6 +2735,7 @@
 16	a	a	_	DT	_	17	det	_	_
 17	career	career	_	NN	_	15	dobj	_	_
 
+#Tweet
 1	@EmWallbank	@emwallbank	_	RB	_	2	advmod	_	_
 2	listen	listen	_	VB	_	0	null	_	_
 3	well	well	_	RB	_	2	advmod	_	_
@@ -2630,6 +2754,7 @@
 16	deny	deny	_	VB	_	11	rcmod	_	_
 17	#hsmsong	#hsmsong	_	NN	_	16	dobj	_	_
 
+#Tweet
 1	@evelynlns	@evelynlns	_	NNS	_	2	nsubj	_	_
 2	@jes_chastain	@jes_chastain	_	VBP	_	0	null	_	_
 3	Agree	agree	_	VB	_	5	dep	_	_
@@ -2653,6 +2778,7 @@
 5	for	for	_	IN	_	4	prep	_	_
 6	all	all	_	DT	_	5	pobj	_	_
 
+#Tweet
 1	Anyone	anyone	_	NN	_	0	null	_	_
 2	else	else	_	RB	_	1	advmod	_	_
 3	starting	start	_	VBG	_	1	partmod	_	_
@@ -2671,6 +2797,7 @@
 16	schoolers	schooler	_	NNS	_	12	pobj	_	_
 17	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	Sexism	sexism	_	NN	_	3	nsubj	_	_
 2	is	be	_	VBZ	_	3	cop	_	_
 3	power	power	_	NN	_	0	null	_	_
@@ -2695,6 +2822,7 @@
 15	time	time	_	NN	_	14	pobj	_	_
 16	#Anitasarkeesian	#anitasarkeesian	_	JJ	_	13	dep	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	3	nsubj	_	_
 2	are	be	_	VBP	_	3	cop	_	_
 3	strong	strong	_	JJ	_	11	ccomp	_	_
@@ -2710,6 +2838,7 @@
 
 1	#FeministsAreBeautifulisalovemovement	#feministsarebeautifulisalovemovement	_	NN	_	0	null	_	_
 
+#Tweet
 1	Want	want	_	VBP	_	0	null	_	_
 2	revenge	revenge	_	NN	_	1	dobj	_	_
 3	for	for	_	IN	_	1	prep	_	_
@@ -2738,6 +2867,7 @@
 1	#rape	#rape	_	JJ	_	2	amod	_	_
 2	#UglyFeminist	#uglyfeminist	_	NN	_	0	null	_	_
 
+#Tweet
 1	people	people	_	NNS	_	3	nsubj	_	_
 2	actually	actually	_	RB	_	3	advmod	_	_
 3	brag	brag	_	VBP	_	0	null	_	_
@@ -2760,6 +2890,7 @@
 20	#	#	_	NN	_	19	dobj	_	_
 21	420	420	_	CD	_	19	num	_	_
 
+#Tweet
 1	Got	get	_	VBN	_	0	null	_	_
 2	ta	ta	_	TO	_	3	aux	_	_
 3	love	love	_	VB	_	1	dep	_	_
@@ -2784,6 +2915,7 @@
 22	)	)	_	-RRB-	_	21	prep	_	_
 23	#IDontNeedFeminism	#idontneedfeminism	_	NN	_	22	dep	_	_
 
+#Tweet
 1	@KrewellaJahan	@krewellajahan	_	JJ	_	2	amod	_	_
 2	feminism	feminism	_	NN	_	6	nsubj	_	_
 3	does	do	_	VBZ	_	6	aux	_	_
@@ -2807,6 +2939,7 @@
 11	equality	equality	_	NN	_	4	dobj	_	_
 12	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	guess	guess	_	VBP	_	0	null	_	_
 3	wanting	want	_	VBG	_	2	dep	_	_
@@ -2828,6 +2961,7 @@
 
 1	#feminist	#feminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Because	because	_	IN	_	2	dep	_	_
 2	heckling	heckle	_	VBG	_	0	null	_	_
 3	#YesAllWomen	#YesAllWomen	_	NNP	_	2	dobj	_	_
@@ -2855,6 +2989,7 @@
 13	serious	serious	_	JJ	_	14	amod	_	_
 14	individual	individual	_	NN	_	8	dep	_	_
 
+#Tweet
 1	feminist	feminist	_	NN	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	*	*	_	NFP	_	4	nsubj	_	_
@@ -2881,6 +3016,7 @@
 24	okay	okay	_	JJ	_	25	amod	_	_
 25	lmao	lmao	_	NN	_	21	dep	_	_
 
+#Tweet
 1	.@Rod	.@Rod	_	NNP	_	7	nn	_	_
 2	_	_	_	NFP	_	7	nn	_	_
 3	McCallum	McCallum	_	NNP	_	7	nn	_	_
@@ -2916,6 +3052,7 @@
 
 1	Bye	bye	_	UH	_	0	null	_	_
 
+#Tweet
 1	@EverydaySexism	@EverydaySexism	_	NNP	_	2	nn	_	_
 2	.@Rod	.@Rod	_	NNP	_	0	null	_	_
 3	_	_	_	NFP	_	8	punct	_	_
@@ -2939,6 +3076,7 @@
 
 1	Bye	bye	_	UH	_	0	null	_	_
 
+#Tweet
 1	@foreigncorrespo	@foreigncorrespo	_	RB	_	5	advmod	_	_
 2	I	I	_	PRP	_	5	nsubjpass	_	_
 3	'm	be	_	VBP	_	5	aux	_	_
@@ -2972,6 +3110,7 @@
 7	out	out	_	RP	_	5	prt	_	_
 8	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	@foreigncorrespo	@foreigncorrespo	_	JJ	_	0	null	_	_
 2	And	and	_	CC	_	1	cc	_	_
 3	just	just	_	RB	_	7	advmod	_	_
@@ -2997,6 +3136,7 @@
 7	whining	whine	_	VBG	_	0	null	_	_
 8	.	.	_	.	_	7	punct	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	length	length	_	NN	_	11	nsubj	_	_
 3	of	of	_	IN	_	2	prep	_	_
@@ -3017,6 +3157,7 @@
 18	#MondayMotivation	#MondayMotivation	_	NNP	_	19	nn	_	_
 19	#Worlds2015	#Worlds2015	_	NNP	_	16	pobj	_	_
 
+#Tweet
 1	All	all	_	DT	_	3	advmod	_	_
 2	I	I	_	PRP	_	3	nsubj	_	_
 3	need	need	_	VBP	_	0	null	_	_
@@ -3031,6 +3172,7 @@
 12	my	my	_	PRP$	_	13	poss	_	_
 13	girlfriend	girlfriend	_	NN	_	10	conj	_	_
 
+#Tweet
 1	the	the	_	DT	_	2	det	_	_
 2	fact	fact	_	NN	_	20	nsubj	_	_
 3	that	that	_	IN	_	5	complm	_	_
@@ -3056,6 +3198,7 @@
 23	need	need	_	VBP	_	20	advcl	_	_
 24	feminism	feminism	_	NN	_	23	dobj	_	_
 
+#Tweet
 1	They	they	_	PRP	_	2	nsubj	_	_
 2	want	want	_	VBP	_	0	null	_	_
 3	equality	equality	_	NN	_	2	dobj	_	_
@@ -3071,6 +3214,7 @@
 
 1	#feminazi	#feminazi	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Saying	say	_	VBG	_	6	csubj	_	_
 2	#AllLivesMatter	#alllivesmatter	_	NN	_	1	dobj	_	_
 3	instead	instead	_	RB	_	4	dep	_	_
@@ -3086,6 +3230,7 @@
 13	instead	instead	_	RB	_	12	prep	_	_
 14	of	of	_	IN	_	13	dep	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	met	meet	_	VBD	_	0	null	_	_
 3	my	my	_	PRP$	_	6	poss	_	_
@@ -3110,6 +3255,7 @@
 9	brain	brain	_	NN	_	10	nn	_	_
 10	#wtf	#wtf	_	NN	_	7	pobj	_	_
 
+#Tweet
 1	@thefemaleboook	@thefemaleboook	_	NNP	_	3	nn	_	_
 2	@MeninistTweet	@MeninistTweet	_	NNP	_	3	nn	_	_
 3	lmao	lmao	_	NN	_	0	null	_	_
@@ -3126,6 +3272,7 @@
 14	ass	ass	_	NN	_	15	nn	_	_
 15	celebrities	celebrity	_	NNS	_	11	pobj	_	_
 
+#Tweet
 1	.@cooImemegirl	.@cooimemegirl	_	NN	_	2	nn	_	_
 2	Feminists	feminist	_	NNS	_	3	nsubj	_	_
 3	reject	reject	_	VBP	_	0	null	_	_
@@ -3152,6 +3299,7 @@
 6	duh	duh	_	UH	_	4	appos	_	_
 7	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	.@cooImemegirl	.@cooImemegirl	_	NNP	_	2	nn	_	_
 2	Damn	Damn	_	NNP	_	0	null	_	_
 3	that	that	_	IN	_	5	dep	_	_
@@ -3174,6 +3322,7 @@
 13	it	it	_	PRP	_	12	pobj	_	_
 14	!	!	_	.	_	3	punct	_	_
 
+#Tweet
 1	.@cooImemegirl	.@cooimemegirl	_	NN	_	2	nn	_	_
 2	Feminists	feminist	_	NNS	_	3	nsubj	_	_
 3	believe	believe	_	VBP	_	0	null	_	_
@@ -3196,6 +3345,7 @@
 20	money	money	_	NN	_	3	conj	_	_
 21	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	you	you	_	PRP	_	2	nsubj	_	_
 2	know	know	_	VBP	_	0	null	_	_
 3	what	what	_	WP	_	5	nsubj	_	_
@@ -3215,6 +3365,7 @@
 10	being	be	_	VBG	_	11	auxpass	_	_
 11	judged	judge	_	VBN	_	9	pcomp	_	_
 
+#Tweet
 1	.@johnny	.@johnny	_	JJ	_	0	null	_	_
 2	_	_	_	NFP	_	1	dep	_	_
 3	nimble	nimble	_	JJ	_	5	amod	_	_
@@ -3236,6 +3387,7 @@
 19	agendas	agenda	_	NNS	_	17	dobj	_	_
 20	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	This	this	_	DT	_	2	det	_	_
 2	feminist	feminist	_	NN	_	3	nsubj	_	_
 3	supports	support	_	VBZ	_	0	null	_	_
@@ -3256,6 +3408,7 @@
 18	beauty	beauty	_	NN	_	15	pobj	_	_
 19	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	If	if	_	IN	_	3	mark	_	_
 2	you	you	_	PRP	_	3	nsubj	_	_
 3	claim	claim	_	VBP	_	14	advcl	_	_
@@ -3283,6 +3436,7 @@
 25	problem	problem	_	NN	_	14	conj	_	_
 26	.	.	_	.	_	14	punct	_	_
 
+#Tweet
 1	Elizabeth	Elizabeth	_	NNP	_	3	nn	_	_
 2	Cady	Cady	_	NNP	_	3	nn	_	_
 3	Stanton	Stanton	_	NNP	_	6	nsubj	_	_
@@ -3302,6 +3456,7 @@
 17	text	text	_	VB	_	13	rcmod	_	_
 18	back	back	_	RB	_	17	advmod	_	_
 
+#Tweet
 1	@Piddy_X	@Piddy_X	_	NNP	_	3	nn	_	_
 2	@Nero	@Nero	_	NNP	_	3	nn	_	_
 3	@CYBERSTALIN	@CYBERSTALIN	_	NNP	_	0	null	_	_
@@ -3319,6 +3474,7 @@
 2	#BaltimoreRiots	#BaltimoreRiots	_	NNP	_	3	nn	_	_
 3	#socialism	#socialism	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	7	nsubjpass	_	_
 2	in	in	_	IN	_	1	prep	_	_
 3	Hollywood	Hollywood	_	NNP	_	2	pobj	_	_
@@ -3334,6 +3490,7 @@
 3	2015	2015	_	CD	_	0	null	_	_
 4	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	@mit5_anders	@mit5_anders	_	NNS	_	3	nsubj	_	_
 2	To	to	_	TO	_	3	aux	_	_
 3	paraphrase	paraphrase	_	VB	_	0	null	_	_
@@ -3363,6 +3520,7 @@
 1	#	#	_	NN	_	2	nn	_	_
 2	1960s	1960	_	NNS	_	0	null	_	_
 
+#Tweet
 1	watching	watch	_	VBG	_	0	null	_	_
 2	#BaltimoreRiots	#baltimoreriots	_	NNS	_	1	dobj	_	_
 3	on	on	_	IN	_	2	prep	_	_
@@ -3382,6 +3540,7 @@
 17	for	for	_	IN	_	15	prep	_	_
 18	attention	attention	_	NN	_	17	pobj	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubj	_	_
 2	've	have	_	VBP	_	3	aux	_	_
 3	removed	remove	_	VBN	_	0	null	_	_
@@ -3406,6 +3565,7 @@
 22	everyone	everyone	_	NN	_	21	pobj	_	_
 23	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	@beeeatles	@beeeatles	_	NNS	_	4	nsubj	_	_
 2	is	be	_	VBZ	_	4	cop	_	_
 3	this	this	_	DT	_	4	det	_	_
@@ -3438,6 +3598,7 @@
 
 1	#pissed	#pissed	_	VBN	_	0	null	_	_
 
+#Tweet
 1	Now	now	_	RB	_	4	advmod	_	_
 2	Harry	Harry	_	NNP	_	4	nsubj	_	_
 3	is	be	_	VBZ	_	4	aux	_	_
@@ -3461,6 +3622,7 @@
 
 1	#Horns	#horns	_	NNS	_	0	null	_	_
 
+#Tweet
 1	@sammikluber	@sammikluber	_	IN	_	5	mark	_	_
 2	I	I	_	PRP	_	5	nsubj	_	_
 3	'm	be	_	VBP	_	5	aux	_	_
@@ -3469,6 +3631,7 @@
 6	the	the	_	DT	_	7	det	_	_
 7	facts	fact	_	NNS	_	5	dobj	_	_
 
+#Tweet
 1	How	how	_	WRB	_	4	advmod	_	_
 2	can	can	_	MD	_	4	aux	_	_
 3	you	you	_	PRP	_	4	nsubj	_	_
@@ -3496,6 +3659,7 @@
 13	what	what	_	WP	_	11	conj	_	_
 14	?	?	_	.	_	5	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	wonder	wonder	_	VBP	_	0	null	_	_
 3	what	what	_	WP	_	5	nsubj	_	_
@@ -3521,6 +3685,7 @@
 23	men	man	_	NNS	_	21	pobj	_	_
 24	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@WeNeedFeminism	@weneedfeminism	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -3533,6 +3698,7 @@
 10	a	a	_	DT	_	11	det	_	_
 11	compliment	compliment	_	NN	_	2	dep	_	_
 
+#Tweet
 1	.@cooImemegirl	.@cooImemegirl	_	NNP	_	3	nn	_	_
 2	@TC_Stompa	@TC_Stompa	_	NNP	_	3	nn	_	_
 3	Women	Women	_	NNPS	_	6	nsubj	_	_
@@ -3556,6 +3722,7 @@
 21	consent	consent	_	NN	_	20	pobj	_	_
 22	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	.@cooImemegirl	.@cooImemegirl	_	NNP	_	2	nn	_	_
 2	@TC_Stompa	@TC_Stompa	_	NNP	_	4	nsubj	_	_
 3	So	so	_	RB	_	4	advmod	_	_
@@ -3578,6 +3745,7 @@
 14	children	child	_	NNS	_	12	dobj	_	_
 15	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	.@cooImemegirl	.@cooImemegirl	_	NNP	_	2	nn	_	_
 2	@TC_Stompa	@TC_Stompa	_	NNP	_	4	dobj	_	_
 3	You	you	_	PRP	_	4	nsubj	_	_
@@ -3597,6 +3765,7 @@
 17	it	it	_	PRP	_	16	dobj	_	_
 18	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	OH	OH	_	NNP	_	3	nsubj	_	_
 2	NO	no	_	DT	_	3	det	_	_
 3	EQUALITY	EQUALITY	_	NNP	_	0	null	_	_
@@ -3612,6 +3781,7 @@
 2	FEMINIST	feminist	_	RB	_	3	advmod	_	_
 3	ASAP	asap	_	RB	_	0	null	_	_
 
+#Tweet
 1	.@TheActualSarah	.@TheActualSarah	_	NNP	_	3	nn	_	_
 2	The	the	_	DT	_	3	det	_	_
 3	UK	UK	_	NNP	_	5	nsubj	_	_
@@ -3631,6 +3801,7 @@
 17	fault	fault	_	NN	_	10	dep	_	_
 18	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	@Vivvyyy	@Vivvyyy	_	NNP	_	0	null	_	_
 2	what	what	_	WP	_	5	nsubj	_	_
 3	's	be	_	VBZ	_	5	cop	_	_
@@ -3657,6 +3828,7 @@
 1	YOU	you	_	PRP	_	0	null	_	_
 2	SEXIST	sexist	_	RB	_	1	null	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	moment	moment	_	NN	_	0	null	_	_
 3	you	you	_	PRP	_	4	nsubj	_	_
@@ -3688,6 +3860,7 @@
 3	#funny	#funny	_	IN	_	1	prep	_	_
 4	#joke	#joke	_	NN	_	3	pobj	_	_
 
+#Tweet
 1	You	you	_	PRP	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -3706,6 +3879,7 @@
 4	#women	#women	_	NNP	_	5	nn	_	_
 5	#men	#men	_	NNP	_	1	null	_	_
 
+#Tweet
 1	@JahMMARastafari	@JahMMARastafari	_	NNP	_	2	nn	_	_
 2	@Vosnic	@Vosnic	_	NNP	_	0	null	_	_
 3	you	you	_	PRP	_	6	nsubj	_	_
@@ -3722,6 +3896,7 @@
 
 1	#mensrights	#mensrights	_	NNS	_	0	null	_	_
 
+#Tweet
 1	Full	full	_	JJ	_	0	null	_	_
 2	of	of	_	IN	_	1	prep	_	_
 3	#narcissism	#narcissism	_	NN	_	7	nn	_	_
@@ -3750,6 +3925,7 @@
 8	#WrightStuff	#WrightStuff	_	NNP	_	9	nn	_	_
 9	#WolfWhistling	#WolfWhistling	_	NNP	_	7	pobj	_	_
 
+#Tweet
 1	@Demias20	@demias20	_	NN	_	11	nn	_	_
 2	Misogynist	misogynist	_	NN	_	11	nn	_	_
 3	Patriarchy	patriarchy	_	NN	_	11	nn	_	_
@@ -3768,6 +3944,7 @@
 16	Etc	etc	_	NN	_	17	nn	_	_
 17	Etc	etc	_	NN	_	12	dobj	_	_
 
+#Tweet
 1	.@brigadam	.@brigadam	_	NNP	_	3	nn	_	_
 2	@KlaraJoelsson	@KlaraJoelsson	_	NNP	_	3	nn	_	_
 3	Abortion	Abortion	_	NNP	_	6	nsubj	_	_
@@ -3793,6 +3970,7 @@
 6	feminist	feminist	_	JJ	_	3	dep	_	_
 7	?	?	_	.	_	3	punct	_	_
 
+#Tweet
 1	It	it	_	PRP	_	7	nsubj	_	_
 2	is	be	_	VBZ	_	7	cop	_	_
 3	not	not	_	RB	_	7	neg	_	_
@@ -3814,6 +3992,7 @@
 
 1	#PoppySmart	#PoppySmart	_	NNP	_	0	null	_	_
 
+#Tweet
 1	.@brigadam	.@brigadam	_	NNP	_	2	nn	_	_
 2	@KlaraJoelsson	@KlaraJoelsson	_	NNP	_	7	nsubjpass	_	_
 3	The	the	_	DT	_	4	det	_	_
@@ -3837,6 +4016,7 @@
 21	$	$	_	$	_	20	num	_	_
 22	.	.	_	.	_	7	punct	_	_
 
+#Tweet
 1	.@brigadam	.@brigadam	_	NNP	_	2	nn	_	_
 2	@KlaraJoelsson	@KlaraJoelsson	_	NNP	_	0	null	_	_
 3	You	you	_	PRP	_	5	nsubj	_	_
@@ -3857,6 +4037,7 @@
 2	feminism	feminism	_	NN	_	1	dobj	_	_
 3	!	!	_	.	_	1	punct	_	_
 
+#Tweet
 1	So	so	_	RB	_	5	advmod	_	_
 2	,	,	_	,	_	5	punct	_	_
 3	I	I	_	PRP	_	5	nsubj	_	_
@@ -3883,6 +4064,7 @@
 9	learning	learn	_	VBG	_	2	conj	_	_
 10	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	Just	just	_	RB	_	2	advmod	_	_
 2	read	read	_	VB	_	0	null	_	_
 3	a	a	_	DT	_	6	det	_	_
@@ -3906,6 +4088,7 @@
 21	work	work	_	NN	_	22	nn	_	_
 22	place	place	_	NN	_	14	conj	_	_
 
+#Tweet
 1	to	to	_	IN	_	0	null	_	_
 2	the	the	_	DT	_	3	det	_	_
 3	people	people	_	NNS	_	1	pobj	_	_
@@ -3938,6 +4121,7 @@
 30	can	can	_	MD	_	27	rcmod	_	_
 31	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	Every	every	_	DT	_	2	det	_	_
 2	time	time	_	NN	_	0	null	_	_
 3	I	I	_	PRP	_	5	nsubjpass	_	_
@@ -3957,6 +4141,7 @@
 17	compliment	compliment	_	NN	_	15	pobj	_	_
 18	,	,	_	,	_	2	punct	_	_
 
+#Tweet
 1	The	the	_	DT	_	3	det	_	_
 2	most	most	_	RBS	_	3	advmod	_	_
 3	upsetting	upsetting	_	JJ	_	14	nsubjpass	_	_
@@ -3983,6 +4168,7 @@
 24	ambition	ambition	_	NN	_	23	dobj	_	_
 25	and	and	_	CC	_	14	cc	_	_
 
+#Tweet
 1	wanted	want	_	VBD	_	0	null	_	_
 2	to	to	_	TO	_	3	aux	_	_
 3	pursue	pursue	_	VB	_	1	xcomp	_	_
@@ -4013,6 +4199,7 @@
 10	ticking	tick	_	VBG	_	0	null	_	_
 11	&	&	_	CC	_	10	cc	_	_
 
+#Tweet
 1	This	this	_	DT	_	3	nsubj	_	_
 2	always	always	_	RB	_	3	advmod	_	_
 3	infuriates	infuriate	_	VBZ	_	0	null	_	_
@@ -4047,6 +4234,7 @@
 14	'	'	_	''	_	13	punct	_	_
 15	or	or	_	CC	_	13	cc	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	refuse	refuse	_	VBP	_	0	null	_	_
 3	to	to	_	TO	_	4	aux	_	_
@@ -4072,6 +4260,7 @@
 23	shatter	shatter	_	VB	_	17	dep	_	_
 24	#glassceiling	#glassceiling	_	VBG	_	23	xcomp	_	_
 
+#Tweet
 1	@carly_senatore	@carly_senatore	_	VB	_	0	null	_	_
 2	Also	also	_	RB	_	1	advmod	_	_
 3	im	im	_	JJ	_	2	advmod	_	_
@@ -4101,6 +4290,7 @@
 1	Nice	Nice	_	NNP	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	@VirginRadioTO	@VirginRadioTO	_	NNP	_	2	nn	_	_
 2	@MauraGrierson	@MauraGrierson	_	NNP	_	0	null	_	_
 3	how	how	_	WRB	_	2	dep	_	_
@@ -4116,6 +4306,7 @@
 13	#equality	#equality	_	NN	_	14	nn	_	_
 14	#seniority	#seniority	_	NN	_	9	pobj	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -4146,6 +4337,7 @@
 
 1	#feminist	#feminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@Mike_Charmander	@Mike_Charmander	_	NNP	_	2	nn	_	_
 2	@MsLatina	@MsLatina	_	NNP	_	7	nsubj	_	_
 3	a	a	_	DT	_	4	det	_	_
@@ -4169,6 +4361,7 @@
 7	equal	equal	_	JJ	_	8	amod	_	_
 8	laws	law	_	NNS	_	5	dep	_	_
 
+#Tweet
 1	Today	today	_	NN	_	3	tmod	_	_
 2	we	we	_	PRP	_	3	nsubj	_	_
 3	watch	watch	_	VBP	_	0	null	_	_
@@ -4179,6 +4372,7 @@
 8	Court	Court	_	NNP	_	3	dobj	_	_
 9	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	We	we	_	PRP	_	2	nsubj	_	_
 2	live	live	_	VBP	_	0	null	_	_
 3	in	in	_	IN	_	2	prep	_	_
@@ -4194,6 +4388,7 @@
 13	a	a	_	DT	_	14	det	_	_
 14	doormat	doormat	_	NN	_	11	conj	_	_
 
+#Tweet
 1	@jowilliams293	@jowilliams293	_	CD	_	2	num	_	_
 2	Feminists	feminist	_	NNS	_	4	nsubj	_	_
 3	,	,	_	,	_	2	punct	_	_
@@ -4213,6 +4408,7 @@
 17	for	for	_	IN	_	15	prep	_	_
 18	everything	everything	_	NN	_	17	pobj	_	_
 
+#Tweet
 1	@spectator	@spectator	_	NN	_	3	nn	_	_
 2	exactly	exactly	_	RB	_	3	advmod	_	_
 3	women	woman	_	NNS	_	6	nsubj	_	_
@@ -4238,6 +4434,7 @@
 23	the	the	_	DT	_	24	det	_	_
 24	vapours	vapours	_	NNS	_	22	pobj	_	_
 
+#Tweet
 1	Men	man	_	NNS	_	0	null	_	_
 2	that	that	_	WDT	_	3	nsubj	_	_
 3	want	want	_	VBP	_	1	rcmod	_	_
@@ -4266,6 +4463,7 @@
 8	#vaw	#vaw	_	VBP	_	0	null	_	_
 9	#p2	#p2	_	NN	_	8	dobj	_	_
 
+#Tweet
 1	@oakleyftgaga	@oakleyftgaga	_	NFP	_	0	null	_	_
 2	you	you	_	PRP	_	5	nsubj	_	_
 3	should	should	_	MD	_	5	aux	_	_
@@ -4276,6 +4474,7 @@
 8	anyways	anyways	_	RB	_	5	advmod	_	_
 9	#NicerInternet	#NicerInternet	_	NNP	_	5	tmod	_	_
 
+#Tweet
 1	We	we	_	PRP	_	4	nsubj	_	_
 2	are	be	_	VBP	_	4	aux	_	_
 3	actually	actually	_	RB	_	4	advmod	_	_
@@ -4296,6 +4495,7 @@
 18	ever	ever	_	RB	_	19	advmod	_	_
 19	seen	see	_	VBN	_	0	null	_	_
 
+#Tweet
 1	they	they	_	PRP	_	2	nsubj	_	_
 2	opened	open	_	VBD	_	0	null	_	_
 3	a	a	_	DT	_	4	det	_	_
@@ -4310,6 +4510,7 @@
 
 1	#TheMoreYouKnow	#TheMoreYouKnow	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Thought	think	_	VBD	_	0	null	_	_
 2	that	that	_	DT	_	3	nsubj	_	_
 3	goes	go	_	VBZ	_	1	dep	_	_
@@ -4335,6 +4536,7 @@
 23	man	man	_	NN	_	15	ccomp	_	_
 24	?	?	_	.	_	1	punct	_	_
 
+#Tweet
 1	When	when	_	WRB	_	5	advmod	_	_
 2	real	real	_	JJ	_	3	amod	_	_
 3	life	life	_	NN	_	5	nsubj	_	_
@@ -4351,6 +4553,7 @@
 2	#NepalEarthquake	#NepalEarthquake	_	NNP	_	3	nn	_	_
 3	#kyliejennerchallenge	#kyliejennerchallenge	_	NNP	_	0	null	_	_
 
+#Tweet
 1	People	people	_	NNS	_	0	null	_	_
 2	who	who	_	WP	_	3	nsubj	_	_
 3	call	call	_	VBP	_	1	rcmod	_	_
@@ -4368,6 +4571,7 @@
 4	#BaltimoreRiots	#baltimoreriots	_	NNS	_	5	nsubj	_	_
 5	#Baltimore	#baltimore	_	ADD	_	0	null	_	_
 
+#Tweet
 1	For	for	_	IN	_	9	prep	_	_
 2	Us	we	_	PRP	_	1	pobj	_	_
 3	,	,	_	,	_	9	punct	_	_
@@ -4391,6 +4595,7 @@
 21	/	/	_	HYPH	_	22	cop	_	_
 22	1HHhM18	1hhhm18	_	NN	_	11	dobj	_	_
 
+#Tweet
 1	Hey	hey	_	UH	_	2	dep	_	_
 2	guyz	guyz	_	NN	_	0	null	_	_
 3	I	I	_	PRP	_	5	nsubj	_	_
@@ -4408,6 +4613,7 @@
 15	current	current	_	JJ	_	16	amod	_	_
 16	events	event	_	NNS	_	11	null	_	_
 
+#Tweet
 1	Just	just	_	RB	_	2	advmod	_	_
 2	been	be	_	VBN	_	0	null	_	_
 3	putting	put	_	VBG	_	2	xcomp	_	_
@@ -4427,6 +4633,7 @@
 
 1	#crosswords	#crosswords	_	NNS	_	0	null	_	_
 
+#Tweet
 1	@MrRamsbottom	@MrRamsbottom	_	NNP	_	5	nn	_	_
 2	@instruct	@instruct	_	NNP	_	5	nn	_	_
 3	@madebyreformat	@madebyreformat	_	NNP	_	5	nn	_	_
@@ -4446,6 +4653,7 @@
 17	making	making	_	NN	_	14	dobj	_	_
 18	.	.	_	.	_	14	punct	_	_
 
+#Tweet
 1	@POWSIMIAN	@POWSIMIAN	_	NNP	_	5	nsubj	_	_
 2	does	do	_	VBZ	_	5	cop	_	_
 3	a	a	_	DT	_	5	det	_	_
@@ -4465,6 +4673,7 @@
 7	na	na	_	TO	_	6	xcomp	_	_
 8	die	die	_	VB	_	7	dep	_	_
 
+#Tweet
 1	@moonsmuke	@moonsmuke	_	JJ	_	0	null	_	_
 2	Wow	wow	_	UH	_	1	dep	_	_
 3	.	.	_	.	_	1	punct	_	_
@@ -4492,6 +4701,7 @@
 4	this	this	_	DT	_	5	det	_	_
 5	. . .	. . .	_	NN	_	3	dobj	_	_
 
+#Tweet
 1	Walking	walk	_	VBG	_	6	dep	_	_
 2	through	through	_	IN	_	1	prep	_	_
 3	my	my	_	PRP$	_	4	poss	_	_
@@ -4512,6 +4722,7 @@
 18	nearby	nearby	_	JJ	_	19	amod	_	_
 19	#househusband	#househusband	_	NN	_	17	dep	_	_
 
+#Tweet
 1	@foxtrotjames	@foxtrotjames	_	NNS	_	6	dobj	_	_
 2	I	I	_	PRP	_	6	nsubj	_	_
 3	can	can	_	MD	_	6	aux	_	_
@@ -4527,6 +4738,7 @@
 13	#Femalepower	#femalepower	_	NN	_	14	nn	_	_
 14	#yolo	#yolo	_	NN	_	12	dobj	_	_
 
+#Tweet
 1	@OliviaJeniferx	@oliviajeniferx	_	VB	_	8	dep	_	_
 2	it	it	_	PRP	_	8	nsubj	_	_
 3	's	be	_	VBZ	_	8	cop	_	_
@@ -4539,6 +4751,7 @@
 
 1	#equality	#equality	_	NN	_	0	null	_	_
 
+#Tweet
 1	Eating	eat	_	VBG	_	6	csubj	_	_
 2	a	a	_	DT	_	3	det	_	_
 3	bagel	bagel	_	NN	_	1	dobj	_	_
@@ -4562,6 +4775,7 @@
 2	#ponytail	#ponytail	_	NN	_	3	nn	_	_
 3	#freedom	#freedom	_	NN	_	1	null	_	_
 
+#Tweet
 1	Well	well	_	UH	_	2	dep	_	_
 2	maybe	maybe	_	RB	_	19	advmod	_	_
 3	if	if	_	IN	_	6	mark	_	_
@@ -4587,6 +4801,7 @@
 23	much	much	_	JJ	_	24	amod	_	_
 24	#fnm231	#fnm231	_	NN	_	21	ccomp	_	_
 
+#Tweet
 1	#WeNeedFeminism	#weneedfeminism	_	NN	_	0	null	_	_
 2	because	because	_	IN	_	7	mark	_	_
 3	#YesAllWomen	#YesAllWomen	_	NNP	_	7	nsubj	_	_
@@ -4609,6 +4824,7 @@
 
 1	#HeForShe	#HeForShe	_	NNP	_	0	null	_	_
 
+#Tweet
 1	#FSURHET	#FSURHET	_	NNP	_	2	nn	_	_
 2	protip	protip	_	NN	_	0	null	_	_
 3	.	.	_	.	_	2	punct	_	_
@@ -4625,6 +4841,7 @@
 10	#BlackLivesMatter	#blacklivesmatter	_	NN	_	11	nn	_	_
 11	#BaltimoreRiots	#baltimoreriots	_	NNS	_	7	conj	_	_
 
+#Tweet
 1	@__florencesmith	@__florencesmith	_	JJ	_	3	nsubj	_	_
 2	Not	not	_	RB	_	3	neg	_	_
 3	"	"	_	``	_	0	null	_	_
@@ -4653,6 +4870,7 @@
 4	Animal	Animal	_	NNP	_	5	nn	_	_
 5	Farm	Farm	_	NNP	_	2	null	_	_
 
+#Tweet
 1	Some	some	_	DT	_	2	det	_	_
 2	guy	guy	_	NN	_	4	nsubj	_	_
 3	just	just	_	RB	_	4	advmod	_	_
@@ -4683,6 +4901,7 @@
 12	gentlewoman	gentlewoman	_	NN	_	6	nsubj	_	_
 13	!	!	_	.	_	3	punct	_	_
 
+#Tweet
 1	Excited	excited	_	JJ	_	0	null	_	_
 2	to	to	_	TO	_	3	aux	_	_
 3	hear	hear	_	VB	_	1	xcomp	_	_
@@ -4698,6 +4917,7 @@
 13	Internet	Internet	_	NNP	_	9	pobj	_	_
 14	#slutshaming	#slutshaming	_	VBG	_	3	xcomp	_	_
 
+#Tweet
 1	do	do	_	VB	_	3	aux	_	_
 2	n't	not	_	RB	_	3	neg	_	_
 3	let	let	_	VB	_	0	null	_	_
@@ -4725,6 +4945,7 @@
 25	own	own	_	JJ	_	26	amod	_	_
 26	worth	worth	_	NN	_	23	dobj	_	_
 
+#Tweet
 1	U	u	_	PRP	_	6	nsubj	_	_
 2	can	can	_	MD	_	6	aux	_	_
 3	be	be	_	VB	_	6	cop	_	_
@@ -4752,6 +4973,7 @@
 25	#EmpowerAllBodies	#empowerallbodies	_	NNS	_	26	nn	_	_
 26	#empoweringwomen	#empoweringwomen	_	NNS	_	22	dobj	_	_
 
+#Tweet
 1	It	it	_	PRP	_	4	nsubj	_	_
 2	does	do	_	VBZ	_	4	aux	_	_
 3	nt	nt	_	RB	_	4	advmod	_	_
@@ -4776,6 +4998,7 @@
 22	women	woman	_	NNS	_	20	dep	_	_
 23	#MaryJaneLives	#maryjanelives	_	NNS	_	22	dep	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	take	take	_	VBP	_	0	null	_	_
 3	it	it	_	PRP	_	7	nsubj	_	_
@@ -4796,6 +5019,7 @@
 5	name	name	_	NN	_	0	null	_	_
 6	too	too	_	RB	_	5	advmod	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	queen	queen	_	NN	_	3	nsubj	_	_
 3	won	win	_	VBD	_	0	null	_	_
@@ -4808,6 +5032,7 @@
 10	or	or	_	CC	_	9	cc	_	_
 11	prince	prince	_	NN	_	9	conj	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	nailed	nail	_	VBD	_	0	null	_	_
 3	another	another	_	DT	_	5	det	_	_
@@ -4838,6 +5063,7 @@
 
 1	#BaltimoreRiots	#baltimoreriots	_	NNS	_	0	null	_	_
 
+#Tweet
 1	We	we	_	PRP	_	2	nsubj	_	_
 2	teach	teach	_	VBP	_	0	null	_	_
 3	the	the	_	DT	_	6	det	_	_
@@ -4861,6 +5087,7 @@
 21	wrong	wrong	_	JJ	_	22	amod	_	_
 22	#teamnocondom	#teamnocondom	_	NN	_	13	advcl	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@PatsyMaureen	@patsymaureen	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -4883,6 +5110,7 @@
 20	's	's	_	POS	_	19	possessive	_	_
 21	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	Let	let	_	VB	_	0	null	_	_
 2	's	's	_	PRP	_	3	nsubj	_	_
 3	fight	fight	_	VB	_	1	ccomp	_	_
@@ -4911,6 +5139,7 @@
 17	all	all	_	DT	_	16	pobj	_	_
 18	!!	!!	_	.	_	1	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@WeAreFemstrong	@wearefemstrong	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -4935,6 +5164,7 @@
 
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@ENews	@enews	_	NNS	_	2	nsubj	_	_
 2	Tell	tell	_	VB	_	13	csubj	_	_
 3	@TerrenceJ	@TerrenceJ	_	NNP	_	2	dobj	_	_
@@ -4961,6 +5191,7 @@
 1	#Equality	#Equality	_	NNP	_	2	nn	_	_
 2	#asshole	#asshole	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Whether	whether	_	IN	_	3	complm	_	_
 2	you	you	_	PRP	_	3	nsubj	_	_
 3	label	label	_	VBP	_	0	null	_	_
@@ -4984,6 +5215,7 @@
 21	Swift	Swift	_	NNP	_	16	dobj	_	_
 22	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	#WeNeedFeminism	#weneedfeminism	_	NN	_	0	null	_	_
 2	because	because	_	IN	_	7	mark	_	_
 3	#NoMeansNo	#NoMeansNo	_	NNP	_	7	advmod	_	_
@@ -5005,6 +5237,7 @@
 2	@yesallwomen	@yesallwomen	_	NNP	_	3	nn	_	_
 3	#RT	#RT	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Thanks	thanks	_	NN	_	0	null	_	_
 2	for	for	_	IN	_	1	prep	_	_
 3	all	all	_	PDT	_	6	predet	_	_
@@ -5027,6 +5260,7 @@
 10	#equalpay	#equalpay	_	JJ	_	11	amod	_	_
 11	#girlyoudontneedmakeup	#girlyoudontneedmakeup	_	NN	_	9	dep	_	_
 
+#Tweet
 1	V	v	_	NN	_	0	null	_	_
 2	!	!	_	.	_	1	punct	_	_
 
@@ -5040,6 +5274,7 @@
 
 1	#	#	_	NN	_	0	null	_	_
 
+#Tweet
 1	@victoriacoren	@victoriacoren	_	NNS	_	2	nsubj	_	_
 2	has	have	_	VBZ	_	18	aux	_	_
 3	an	a	_	DT	_	4	det	_	_
@@ -5064,6 +5299,7 @@
 2	#politics	#politics	_	GW	_	1	null	_	_
 3	#women	#women	_	GW	_	2	null	_	_
 
+#Tweet
 1	What	what	_	WDT	_	4	det	_	_
 2	a	a	_	DT	_	4	det	_	_
 3	wonderful	wonderful	_	JJ	_	4	amod	_	_
@@ -5079,6 +5315,7 @@
 3	feminist	feminist	_	JJ	_	4	amod	_	_
 4	views	view	_	NNS	_	0	null	_	_
 
+#Tweet
 1	@Daily_Feminism	@daily_feminism	_	NN	_	0	null	_	_
 2	--	--	_	:	_	3	punct	_	_
 3	give	give	_	VB	_	1	dep	_	_
@@ -5090,6 +5327,7 @@
 
 1	#feminist	#feminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Contrary	contrary	_	JJ	_	0	null	_	_
 2	to	to	_	IN	_	5	prep	_	_
 3	stereotype	stereotype	_	NN	_	2	pobj	_	_
@@ -5110,6 +5348,7 @@
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	2	nn	_	_
 2	#HeForShe	#HeForShe	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Time	time	_	NN	_	17	dep	_	_
 2	to	to	_	TO	_	3	aux	_	_
 3	go	go	_	VB	_	1	infmod	_	_
@@ -5128,6 +5367,7 @@
 16	#Multicultural	#Multicultural	_	NNP	_	17	nn	_	_
 17	#Folk	#Folk	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@UKIP	@UKIP	_	NNP	_	0	null	_	_
 2	Also	also	_	RB	_	1	advmod	_	_
 3	a	a	_	DT	_	4	det	_	_
@@ -5150,6 +5390,7 @@
 6	this	this	_	DT	_	7	det	_	_
 7	#VoteUKIP	#voteukip	_	NN	_	5	pobj	_	_
 
+#Tweet
 1	M	m	_	NN	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	FEMINISTS	feminist	_	NNS	_	4	nsubj	_	_
@@ -5181,6 +5422,7 @@
 1	MISANDREEEEEEEEEEE	MISANDREEEEEEEEEEE	_	NNP	_	2	nn	_	_
 2	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	those	those	_	DT	_	14	nsubjpass	_	_
 2	who	who	_	WP	_	3	nsubj	_	_
 3	resist	resist	_	VBP	_	1	rcmod	_	_
@@ -5206,6 +5448,7 @@
 7	...	...	_	:	_	4	punct	_	_
 8	#USElections	#uselections	_	NNS	_	4	dobj	_	_
 
+#Tweet
 1	Feminism	feminism	_	NN	_	2	nsubj	_	_
 2	is	be	_	VBZ	_	0	null	_	_
 3	not	not	_	RB	_	2	neg	_	_
@@ -5226,6 +5469,7 @@
 18	@JaneFonda	@janefonda	_	NN	_	19	nn	_	_
 19	#life	#life	_	NN	_	17	dep	_	_
 
+#Tweet
 1	So	so	_	RB	_	0	null	_	_
 2	if	if	_	IN	_	4	mark	_	_
 3	I	I	_	PRP	_	4	nsubj	_	_
@@ -5254,6 +5498,7 @@
 12	pig	pig	_	NN	_	7	ccomp	_	_
 13	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	@Agratha	@Agratha	_	NNP	_	3	nn	_	_
 2	Feminist	Feminist	_	NNP	_	3	nn	_	_
 3	logic	logic	_	NN	_	0	null	_	_
@@ -5285,6 +5530,7 @@
 9	shit	shit	_	NN	_	3	dobj	_	_
 10	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	wonder	wonder	_	VBP	_	0	null	_	_
 3	when	when	_	WRB	_	8	advmod	_	_
@@ -5312,6 +5558,7 @@
 11	studying	study	_	VBG	_	10	pcomp	_	_
 12	#collegelife	#collegelife	_	NNP	_	11	dobj	_	_
 
+#Tweet
 1	Pope	Pope	_	NNP	_	2	nn	_	_
 2	Francis	Francis	_	NNP	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -5328,6 +5575,7 @@
 14	#society	#society	_	JJ	_	15	amod	_	_
 15	#women	#women	_	NNS	_	13	dep	_	_
 
+#Tweet
 1	@whenindoubtdo	@whenindoubtdo	_	RB	_	4	advmod	_	_
 2	the	the	_	DT	_	4	det	_	_
 3	trigger	trigger	_	NN	_	4	nn	_	_
@@ -5336,6 +5584,7 @@
 6	over	over	_	IN	_	5	dep	_	_
 7	9000	9000	_	CD	_	6	pobj	_	_
 
+#Tweet
 1	@andybud_o	@andybud_o	_	RB	_	8	advmod	_	_
 2	The	the	_	DT	_	5	det	_	_
 3	Mito	Mito	_	NNP	_	5	nn	_	_
@@ -5360,6 +5609,7 @@
 22	degree	degree	_	NN	_	20	pobj	_	_
 23	...	...	_	.	_	14	punct	_	_
 
+#Tweet
 1	Kristen	Kristen	_	NNP	_	2	nn	_	_
 2	Stewart	Stewart	_	NNP	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -5374,6 +5624,7 @@
 12	#culture	#culture	_	NN	_	13	nn	_	_
 13	#women	#women	_	NNS	_	2	dep	_	_
 
+#Tweet
 1	hooks	hook	_	NNS	_	2	nsubj	_	_
 2	says	say	_	VBZ	_	0	null	_	_
 3	that	that	_	IN	_	5	complm	_	_
@@ -5400,6 +5651,7 @@
 24	#bellhooks	#bellhooks	_	NNS	_	22	pobj	_	_
 25	#love	#love	_	VBP	_	5	dep	_	_
 
+#Tweet
 1	Male	male	_	JJ	_	2	amod	_	_
 2	rape	rape	_	NN	_	4	nsubj	_	_
 3	is	be	_	VBZ	_	4	cop	_	_
@@ -5426,6 +5678,7 @@
 24	victims	victim	_	NNS	_	20	pobj	_	_
 25	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	statistics	statistics	_	NNS	_	3	nsubj	_	_
 3	show	show	_	VBP	_	0	null	_	_
@@ -5444,6 +5697,7 @@
 16	gay	gay	_	NN	_	15	pobj	_	_
 17	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	This	this	_	DT	_	3	det	_	_
 2	#MaritalRape	#maritalrape	_	NN	_	3	nn	_	_
 3	law	law	_	NN	_	0	null	_	_
@@ -5469,6 +5723,7 @@
 23	slaughtered	slaughter	_	VBN	_	21	conj	_	_
 24	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@WeNeedFeminism	@weneedfeminism	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -5485,6 +5740,7 @@
 14	the	the	_	DT	_	15	det	_	_
 15	clitoris	clitoris	_	NN	_	13	dobj	_	_
 
+#Tweet
 1	If	if	_	IN	_	5	mark	_	_
 2	you	you	_	PRP	_	5	nsubj	_	_
 3	're	be	_	VBP	_	5	cop	_	_
@@ -5517,6 +5773,7 @@
 3	done	do	_	VBN	_	2	partmod	_	_
 4	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	@ProteinWorld	@ProteinWorld	_	NNP	_	4	nsubj	_	_
 2	Do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -5544,6 +5801,7 @@
 1	soon	soon	_	RB	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	@Body_in_Mind	@body_in_mind	_	NN	_	2	nn	_	_
 2	SJWs	sjw	_	NNS	_	3	nsubj	_	_
 3	prove	prove	_	VBP	_	0	null	_	_
@@ -5562,6 +5820,7 @@
 
 1	#gamergate	#gamergate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@Fashionopolis	@Fashionopolis	_	NNP	_	4	advmod	_	_
 2	You	you	_	PRP	_	4	nsubj	_	_
 3	just	just	_	RB	_	4	advmod	_	_
@@ -5581,6 +5840,7 @@
 8	outraged	outraged	_	JJ	_	6	dep	_	_
 9	!	!	_	.	_	6	punct	_	_
 
+#Tweet
 1	@fxckyoustagram	@fxckyoustagram	_	NNP	_	3	dobj	_	_
 2	u	u	_	PRP	_	3	nsubj	_	_
 3	have	have	_	VBP	_	14	csubj	_	_
@@ -5607,6 +5867,7 @@
 8	victimhood	victimhood	_	NN	_	7	pobj	_	_
 9	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	@thomas_RAL	@thomas_RAL	_	NNP	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	Most	most	_	JJS	_	4	amod	_	_
@@ -5637,6 +5898,7 @@
 
 1	#c4news	#c4news	_	NNS	_	0	null	_	_
 
+#Tweet
 1	Upload	upload	_	VB	_	4	dep	_	_
 2	sexually	sexually	_	RB	_	4	advmod	_	_
 3	provocative	provocative	_	JJ	_	4	amod	_	_
@@ -5664,6 +5926,7 @@
 
 1	Right	right	_	UH	_	0	null	_	_
 
+#Tweet
 1	One	one	_	CD	_	2	num	_	_
 2	time	time	_	NN	_	0	null	_	_
 3	I	I	_	PRP	_	4	nsubj	_	_
@@ -5689,6 +5952,7 @@
 23	for	for	_	IN	_	22	prep	_	_
 24	everyone	everyone	_	NN	_	23	pobj	_	_
 
+#Tweet
 1	All	all	_	DT	_	2	det	_	_
 2	men	man	_	NNS	_	9	nsubjpass	_	_
 3	accused	accuse	_	VBN	_	2	partmod	_	_
@@ -5707,6 +5971,7 @@
 1	#RapeCulture	#rapeculture	_	NN	_	2	nn	_	_
 2	#HeForShe	#heforshe	_	NN	_	0	null	_	_
 
+#Tweet
 1	@RiotChildArmy	@riotchildarmy	_	NN	_	6	nsubj	_	_
 2	Even	even	_	RB	_	6	advmod	_	_
 3	though	though	_	IN	_	6	dep	_	_
@@ -5721,6 +5986,7 @@
 
 1	=)	=)	_	NFP	_	0	null	_	_
 
+#Tweet
 1	DEAR	dear	_	JJ	_	2	amod	_	_
 2	FEMINISTS	feminist	_	NNS	_	0	null	_	_
 3	Why	why	_	WRB	_	7	advmod	_	_
@@ -5747,6 +6013,7 @@
 2	#NotY	#NotY	_	NNP	_	0	null	_	_
 3	...	...	_	.	_	2	punct	_	_
 
+#Tweet
 1	@brandileighhhhh	@brandileighhhhh	_	VB	_	0	null	_	_
 2	its	its	_	PRP$	_	1	dobj	_	_
 3	called	call	_	VBN	_	2	partmod	_	_
@@ -5764,6 +6031,7 @@
 
 1	#RapeCulture	#rapeculture	_	NN	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	am	be	_	VBP	_	4	cop	_	_
 3	not	not	_	RB	_	4	neg	_	_
@@ -5788,6 +6056,7 @@
 22	Lorde	Lorde	_	NNP	_	23	nn	_	_
 23	#feminist	#feminist	_	NN	_	18	pobj	_	_
 
+#Tweet
 1	Wan	Wan	_	NNP	_	3	nsubj	_	_
 2	na	na	_	TO	_	3	aux	_	_
 3	hear	hear	_	VB	_	0	null	_	_
@@ -5817,6 +6086,7 @@
 5	ship	ship	_	NN	_	1	appos	_	_
 6	?	?	_	.	_	1	punct	_	_
 
+#Tweet
 1	This	this	_	DT	_	0	null	_	_
 2	just	just	_	RB	_	1	dep	_	_
 3	in	in	_	IN	_	2	dep	_	_
@@ -5828,6 +6098,7 @@
 9	women	woman	_	NNS	_	8	dobj	_	_
 10	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	Because	because	_	IN	_	5	mark	_	_
 2	young	young	_	JJ	_	3	amod	_	_
 3	girls	girl	_	NNS	_	5	nsubjpass	_	_
@@ -5845,6 +6116,7 @@
 15	to	to	_	TO	_	16	aux	_	_
 16	rape	rape	_	VB	_	11	pcomp	_	_
 
+#Tweet
 1	Because	because	_	IN	_	6	mark	_	_
 2	the	the	_	DT	_	4	det	_	_
 3	United	United	_	NNP	_	4	nn	_	_
@@ -5863,6 +6135,7 @@
 16	maternity	maternity	_	NN	_	17	nn	_	_
 17	leave	leave	_	NN	_	15	dobj	_	_
 
+#Tweet
 1	Because	because	_	IN	_	4	mark	_	_
 2	women	woman	_	NNS	_	4	nsubjpass	_	_
 3	are	be	_	VBP	_	4	auxpass	_	_
@@ -5887,6 +6160,7 @@
 22	male	male	_	JJ	_	23	amod	_	_
 23	politicians	politician	_	NNS	_	21	pobj	_	_
 
+#Tweet
 1	Because	because	_	IN	_	6	mark	_	_
 2	all	all	_	DT	_	4	det	_	_
 3	human	human	_	JJ	_	4	amod	_	_
@@ -5898,6 +6172,7 @@
 9	nature	nature	_	NN	_	8	pobj	_	_
 10	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	@UN_Women	@UN_Women	_	NNP	_	3	nn	_	_
 2	@WomenUndrSiege	@WomenUndrSiege	_	NNP	_	3	nn	_	_
 3	@OSCE_RFoM	@OSCE_RFoM	_	NNP	_	0	null	_	_
@@ -5918,6 +6193,7 @@
 18	woman	woman	_	NN	_	16	pobj	_	_
 19	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	0	null	_	_
 2	who	who	_	WP	_	4	nsubj	_	_
 3	falsely	falsely	_	RB	_	4	advmod	_	_
@@ -5940,6 +6216,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	If	if	_	IN	_	4	mark	_	_
 2	the	the	_	DT	_	3	det	_	_
 3	Olympics	Olympics	_	NNPS	_	4	nsubj	_	_
@@ -5961,6 +6238,7 @@
 19	"	"	_	''	_	20	punct	_	_
 20	#GamerGate	#gamergate	_	NN	_	16	pobj	_	_
 
+#Tweet
 1	Woman	woman	_	NN	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	you	you	_	PRP	_	4	nsubj	_	_
@@ -5982,6 +6260,7 @@
 8	atm	atm	_	NN	_	6	pobj	_	_
 9	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	@njaniboy99	@njaniboy99	_	CD	_	2	number	_	_
 2	@omercayir1	@omercayir1	_	CD	_	3	num	_	_
 3	@Sahil_Handa_	@sahil_handa_	_	NN	_	0	null	_	_
@@ -5994,6 +6273,7 @@
 10	man	man	_	NN	_	8	dobj	_	_
 11	#YesAllWomen	#YesAllWomen	_	NNP	_	10	dep	_	_
 
+#Tweet
 1	DateOffCampus	DateOffCampus	_	NNP	_	4	dep	_	_
 2	:	:	_	:	_	4	punct	_	_
 3	Now	now	_	RB	_	4	advmod	_	_
@@ -6008,6 +6288,7 @@
 12	#Fak	#Fak	_	NNP	_	8	dep	_	_
 13	...	...	_	.	_	4	punct	_	_
 
+#Tweet
 1	Kwink884	kwink884	_	NN	_	3	nn	_	_
 2	thewtfmagazine	thewtfmagazine	_	NN	_	3	nn	_	_
 3	gamers	gamer	_	NNS	_	5	nsubj	_	_
@@ -6032,6 +6313,7 @@
 2	#Not	#Not	_	NNP	_	0	null	_	_
 3	...	...	_	.	_	2	punct	_	_
 
+#Tweet
 1	@toasterhead	@toasterhead	_	NNP	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	@blueeyedgagal	@blueeyedgagal	_	JJ	_	5	amod	_	_
@@ -6054,6 +6336,7 @@
 7	die	die	_	VB	_	0	null	_	_
 8	?	?	_	.	_	7	punct	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	3	nsubj	_	_
 2	should	should	_	MD	_	3	aux	_	_
 3	come	come	_	VB	_	0	null	_	_
@@ -6085,6 +6368,7 @@
 18	back	back	_	RB	_	15	advmod	_	_
 19	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	Petition	petition	_	NN	_	0	null	_	_
 2	for	for	_	IN	_	1	prep	_	_
 3	journalists	journalist	_	NNS	_	2	pobj	_	_
@@ -6105,6 +6389,7 @@
 18	mental	mental	_	JJ	_	19	amod	_	_
 19	toughness	toughness	_	NN	_	16	conj	_	_
 
+#Tweet
 1	It	it	_	PRP	_	3	nsubj	_	_
 2	's	be	_	VBZ	_	3	cop	_	_
 3	frustrating	frustrating	_	JJ	_	0	null	_	_
@@ -6130,6 +6415,7 @@
 1	#ConfederateFlag	#ConfederateFlag	_	NNP	_	2	nn	_	_
 2	#race	#race	_	NNP	_	0	null	_	_
 
+#Tweet
 1	pls	pls	_	UH	_	4	dep	_	_
 2	do	do	_	VB	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -6145,6 +6431,7 @@
 13	#luv	#luv	_	NN	_	14	nn	_	_
 14	#rightsforall	#rightsforall	_	NN	_	4	dobj	_	_
 
+#Tweet
 1	were	be	_	VBD	_	3	cop	_	_
 2	even	even	_	RB	_	3	advmod	_	_
 3	is	be	_	VBZ	_	0	null	_	_
@@ -6157,6 +6444,7 @@
 
 1	#stophidingit	#stophidingit	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@jordanelliott_	@jordanelliott_	_	NNP	_	2	nn	_	_
 2	Slut	Slut	_	NNP	_	5	nsubj	_	_
 3	is	be	_	VBZ	_	5	cop	_	_
@@ -6185,6 +6473,7 @@
 26	they	they	_	PRP	_	27	nsubj	_	_
 27	like	like	_	VBP	_	24	ccomp	_	_
 
+#Tweet
 1	@luisaomielan	@luisaomielan	_	JJ	_	3	amod	_	_
 2	amazing	amazing	_	JJ	_	3	amod	_	_
 3	show	show	_	NN	_	10	nsubj	_	_
@@ -6205,6 +6494,7 @@
 
 1	#upgradeyourself	#upgradeyourself	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	'd	would	_	MD	_	4	aux	_	_
 3	rather	rather	_	RB	_	4	advmod	_	_
@@ -6236,6 +6526,7 @@
 
 1	#Equality	#equality	_	NN	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	like	like	_	VBP	_	0	null	_	_
 3	how	how	_	WRB	_	6	advmod	_	_
@@ -6264,6 +6555,7 @@
 2	hey	hey	_	UH	_	0	null	_	_
 3	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	'll	will	_	MD	_	4	aux	_	_
 3	gladly	gladly	_	RB	_	4	advmod	_	_
@@ -6283,6 +6575,7 @@
 17	"	"	_	''	_	11	punct	_	_
 18	#NeverSatisfied	#neversatisfied	_	ADD	_	11	dep	_	_
 
+#Tweet
 1	i	i	_	PRP	_	2	nsubj	_	_
 2	wish	wish	_	VBP	_	0	null	_	_
 3	people	people	_	NNS	_	5	nsubj	_	_
@@ -6304,6 +6597,7 @@
 19	girls	girl	_	NNS	_	11	pobj	_	_
 20	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	If	if	_	IN	_	5	mark	_	_
 2	the	the	_	DT	_	4	det	_	_
 3	confederate	confederate	_	JJ	_	4	amod	_	_
@@ -6319,6 +6613,7 @@
 3	things	thing	_	NNS	_	2	dobj	_	_
 4	#politicallycorrect	#politicallycorrect	_	ADD	_	2	dep	_	_
 
+#Tweet
 1	It	it	_	PRP	_	6	nsubj	_	_
 2	's	be	_	VBZ	_	6	cop	_	_
 3	not	not	_	RB	_	6	neg	_	_
@@ -6343,6 +6638,7 @@
 22	and	and	_	CC	_	21	cc	_	_
 23	freedoms	freedom	_	NNS	_	21	conj	_	_
 
+#Tweet
 1	stop	stop	_	VB	_	0	null	_	_
 2	with	with	_	IN	_	1	prep	_	_
 3	the	the	_	DT	_	5	det	_	_
@@ -6353,6 +6649,7 @@
 8	female	female	_	JJ	_	9	amod	_	_
 9	animators	animator	_	NNS	_	7	dobj	_	_
 
+#Tweet
 1	#feminists	#feminists	_	NNS	_	2	nsubj	_	_
 2	gave	give	_	VBD	_	0	null	_	_
 3	women	woman	_	NNS	_	2	iobj	_	_
@@ -6376,6 +6673,7 @@
 12	right	right	_	NN	_	9	dobj	_	_
 13	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	VivienneDenue	VivienneDenue	_	NNP	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -6405,6 +6703,7 @@
 3	#cybe	#cybe	_	NNP	_	0	null	_	_
 4	...	...	_	.	_	3	punct	_	_
 
+#Tweet
 1	Done	do	_	VBN	_	0	null	_	_
 2	with	with	_	IN	_	1	prep	_	_
 3	crime	crime	_	NN	_	2	pobj	_	_
@@ -6419,6 +6718,7 @@
 12	the	the	_	DT	_	13	det	_	_
 13	victim	victim	_	NN	_	11	pobj	_	_
 
+#Tweet
 1	and	and	_	CC	_	0	null	_	_
 2	when	when	_	WRB	_	6	advmod	_	_
 3	men	man	_	NNS	_	6	nsubj	_	_
@@ -6437,6 +6737,7 @@
 16	thing	thing	_	NN	_	13	pobj	_	_
 17	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	@MrRepzion	@MrRepzion	_	NNP	_	7	nsubj	_	_
 2	This	this	_	DT	_	3	det	_	_
 3	lady	lady	_	NN	_	1	dep	_	_
@@ -6461,6 +6762,7 @@
 22	outspoken	outspoken	_	JJ	_	11	dep	_	_
 23	.	.	_	.	_	7	punct	_	_
 
+#Tweet
 1	@equalforwomen	@equalforwomen	_	NNS	_	7	nsubj	_	_
 2	why	why	_	WRB	_	3	advmod	_	_
 3	r	be	_	VBP	_	1	rcmod	_	_
@@ -6477,6 +6779,7 @@
 14	#powertowomen	#powertowomen	_	NNS	_	15	nn	_	_
 15	#Equality	#equality	_	NN	_	9	pobj	_	_
 
+#Tweet
 1	Everfetching	Everfetching	_	NNP	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	i	i	_	PRP	_	4	nsubj	_	_
@@ -6507,6 +6810,7 @@
 1	#feminist	#feminist	_	JJ	_	2	amod	_	_
 2	#feminazi	#feminazi	_	NNS	_	0	null	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@LZats	@lzats	_	NNS	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -6539,6 +6843,7 @@
 11	old	old	_	JJ	_	6	dep	_	_
 12	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	DEAR	dear	_	JJ	_	2	amod	_	_
 2	FEMINISTS	feminist	_	NNS	_	4	nsubj	_	_
 3	The	the	_	DT	_	4	det	_	_
@@ -6561,6 +6866,7 @@
 20	condoms	condom	_	NNS	_	19	pobj	_	_
 21	#GamerGate	#gamergate	_	ADD	_	17	dep	_	_
 
+#Tweet
 1	Multiple	multiple	_	JJ	_	2	amod	_	_
 2	abortions	abortion	_	NNS	_	3	nsubj	_	_
 3	means	mean	_	VBZ	_	0	null	_	_
@@ -6577,6 +6883,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Multiple	multiple	_	JJ	_	2	amod	_	_
 2	abortions	abortion	_	NNS	_	3	attr	_	_
 3	is	be	_	VBZ	_	0	null	_	_
@@ -6601,6 +6908,7 @@
 3	feminism	feminism	_	NN	_	2	pobj	_	_
 4	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	IF	if	_	IN	_	3	mark	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	3	nsubj	_	_
 3	WERE	be	_	VBD	_	15	advcl	_	_
@@ -6627,6 +6935,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	It	it	_	PRP	_	2	nsubj	_	_
 2	is	be	_	VBZ	_	14	ccomp	_	_
 3	not	not	_	RB	_	2	neg	_	_
@@ -6647,6 +6956,7 @@
 18	@MGTOWKnight	@mgtowknight	_	NN	_	19	nn	_	_
 19	#GamerGate	#gamergate	_	NN	_	16	dobj	_	_
 
+#Tweet
 1	Gender	gender	_	NN	_	2	nn	_	_
 2	research	research	_	NN	_	3	nsubj	_	_
 3	helps	help	_	VBZ	_	0	null	_	_
@@ -6665,6 +6975,7 @@
 1	@genderanded	@genderanded	_	VBN	_	2	amod	_	_
 2	#research	#research	_	NN	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	only	only	_	RB	_	3	advmod	_	_
 3	ever	ever	_	RB	_	4	advmod	_	_
@@ -6697,6 +7008,7 @@
 1	Hmm	hmm	_	UH	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	With	with	_	IN	_	0	null	_	_
 2	Hillary	Hillary	_	NNP	_	4	poss	_	_
 3	's	's	_	POS	_	2	possessive	_	_
@@ -6717,6 +7029,7 @@
 
 1	#tcot	#tcot	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@THOSEGOODVlBES	@THOSEGOODVlBES	_	NNP	_	2	nn	_	_
 2	wtf	wtf	_	NNP	_	0	null	_	_
 3	what	what	_	WP	_	2	dep	_	_
@@ -6724,6 +7037,7 @@
 5	single	single	_	JJ	_	6	amod	_	_
 6	fathers	father	_	NNS	_	4	pobj	_	_
 
+#Tweet
 1	Meritocracy	meritocracy	_	NN	_	4	nsubj	_	_
 2	is	be	_	VBZ	_	4	cop	_	_
 3	only	only	_	RB	_	4	advmod	_	_
@@ -6746,6 +7060,7 @@
 20	one	one	_	CD	_	21	num	_	_
 21	#therealkind	#therealkind	_	NN	_	4	ccomp	_	_
 
+#Tweet
 1	It	it	_	PRP	_	5	nsubj	_	_
 2	's	be	_	VBZ	_	5	cop	_	_
 3	not	not	_	RB	_	5	neg	_	_
@@ -6773,6 +7088,7 @@
 25	all	all	_	DT	_	26	det	_	_
 26	women	woman	_	NNS	_	5	conj	_	_
 
+#Tweet
 1	Hate	hate	_	VB	_	0	null	_	_
 2	when	when	_	WRB	_	4	advmod	_	_
 3	girls	girl	_	NNS	_	4	nsubj	_	_
@@ -6796,6 +7112,7 @@
 21	COMPLIMENT	compliment	_	NN	_	19	pobj	_	_
 22	?!!??!????	?!!??!????	_	NFP	_	13	punct	_	_
 
+#Tweet
 1	@_aimless	@_aimless	_	VB	_	11	dep	_	_
 2	the	the	_	DT	_	3	det	_	_
 3	friend	friend	_	NN	_	11	nsubj	_	_
@@ -6812,6 +7129,7 @@
 1	#vegans	#vegans	_	NNS	_	2	nsubj	_	_
 2	#blessed	#blessed	_	VBD	_	0	null	_	_
 
+#Tweet
 1	Anti-	anti-	_	JJ	_	3	amod	_	_
 2	#gamergate	#gamergate	_	JJ	_	3	amod	_	_
 3	people	people	_	NNS	_	0	null	_	_
@@ -6834,6 +7152,7 @@
 2	#WomenAgainstFeminis	#WomenAgainstFeminis	_	NNP	_	0	null	_	_
 3	...	...	_	.	_	2	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubj	_	_
 2	'm	be	_	VBP	_	3	cop	_	_
 3	glad	glad	_	JJ	_	0	null	_	_
@@ -6862,6 +7181,7 @@
 
 1	#nonvaxxerhere	#nonvaxxerhere	_	NNP	_	0	null	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	problem	problem	_	NN	_	7	nsubj	_	_
 3	with	with	_	IN	_	2	prep	_	_
@@ -6882,6 +7202,7 @@
 18	them	they	_	PRP	_	17	pobj	_	_
 19	#tcot	#tcot	_	RB	_	14	dep	_	_
 
+#Tweet
 1	Feminists	feminist	_	NNS	_	2	nsubj	_	_
 2	spread	spread	_	VBD	_	0	null	_	_
 3	misandry	misandry	_	NN	_	2	dobj	_	_
@@ -6898,6 +7219,7 @@
 1	#FeminismIsCruelty	#FeminismIsCruelty	_	NNP	_	2	nn	_	_
 2	#dontmancriminate	#dontmancriminate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	meaning	meaning	_	NN	_	7	nsubj	_	_
 3	of	of	_	IN	_	2	prep	_	_
@@ -6913,6 +7235,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Recenter	recenter	_	VB	_	0	null	_	_
 2	your	you	_	PRP$	_	3	poss	_	_
 3	world	world	_	NN	_	1	dobj	_	_
@@ -6934,6 +7257,7 @@
 6	story	story	_	NN	_	3	pobj	_	_
 7	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	should	should	_	MD	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -6958,6 +7282,7 @@
 2	#streetharassment	#streetharassment	_	NN	_	3	nn	_	_
 3	#equality	#equality	_	NN	_	1	dobj	_	_
 
+#Tweet
 1	Keep	keep	_	VB	_	0	null	_	_
 2	the	the	_	DT	_	3	det	_	_
 3	fight	fight	_	NN	_	1	dobj	_	_
@@ -6973,6 +7298,7 @@
 13	#JusticeForMuslims	#justiceformuslims	_	NNS	_	7	pobj	_	_
 14	#HispanicGirlsUnited	#hispanicgirlsunited	_	VBN	_	13	partmod	_	_
 
+#Tweet
 1	@Ricky_Vaughn99	@ricky_vaughn99	_	NN	_	0	null	_	_
 2	Why	why	_	WRB	_	5	advmod	_	_
 3	is	be	_	VBZ	_	5	auxpass	_	_
@@ -6984,6 +7310,7 @@
 9	HERstory	herstory	_	JJ	_	5	conj	_	_
 10	?!	?!	_	.	_	1	punct	_	_
 
+#Tweet
 1	It	it	_	PRP	_	3	nsubj	_	_
 2	's	be	_	VBZ	_	3	cop	_	_
 3	funny	funny	_	JJ	_	0	null	_	_
@@ -7004,6 +7331,7 @@
 18	people	people	_	NNS	_	19	nsubj	_	_
 19	problems	problem	_	NNS	_	14	null	_	_
 
+#Tweet
 1	Mother	Mother	_	NNP	_	5	nsubjpass	_	_
 2	and	and	_	CC	_	1	cc	_	_
 3	I	I	_	PRP	_	1	conj	_	_
@@ -7029,6 +7357,7 @@
 23	away	away	_	RB	_	24	advmod	_	_
 24	#strongwomen	#strongwomen	_	VBN	_	12	conj	_	_
 
+#Tweet
 1	.@GloriaSteinem	.@GloriaSteinem	_	NNP	_	2	nsubj	_	_
 2	said	say	_	VBD	_	0	null	_	_
 3	,	,	_	,	_	2	punct	_	_
@@ -7059,6 +7388,7 @@
 
 1	#antifeminism	#antifeminism	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@Natee909	@Natee909	_	NNP	_	2	nn	_	_
 2	@victoria_abii	@victoria_abii	_	NNP	_	3	nsubj	_	_
 3	nah	nah	_	UH	_	0	null	_	_
@@ -7086,6 +7416,7 @@
 25	're	be	_	VBP	_	26	cop	_	_
 26	divorced	divorced	_	JJ	_	15	advcl	_	_
 
+#Tweet
 1	@camerongreen22	@camerongreen22	_	CD	_	3	num	_	_
 2	Young	young	_	JJ	_	3	amod	_	_
 3	man	man	_	NN	_	5	tmod	_	_
@@ -7107,6 +7438,7 @@
 
 1	#SpankAFeminist	#SpankAFeminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	now	now	_	RB	_	2	advmod	_	_
 2	let	let	_	VB	_	0	null	_	_
 3	's	's	_	PRP	_	4	nsubj	_	_
@@ -7126,6 +7458,7 @@
 17	payed	pay	_	VBN	_	13	pcomp	_	_
 18	#EAQUALITY	#EAQUALITY	_	NNP	_	17	dobj	_	_
 
+#Tweet
 1	@CB_Printer	@CB_Printer	_	NNP	_	4	nn	_	_
 2	@adamnick_nick	@adamnick_nick	_	NNP	_	4	nn	_	_
 3	@victorymonk	@victorymonk	_	NNP	_	4	nn	_	_
@@ -7145,6 +7478,7 @@
 5	feminist	feminist	_	JJ	_	6	amod	_	_
 6	#feministcruelty	#feministcruelty	_	NN	_	0	null	_	_
 
+#Tweet
 1	@ProLifeAction	@ProLifeAction	_	NNP	_	0	null	_	_
 2	nope	nope	_	UH	_	1	dep	_	_
 3	,	,	_	,	_	1	punct	_	_
@@ -7173,6 +7507,7 @@
 
 1	#prochoice	#prochoice	_	RB	_	0	null	_	_
 
+#Tweet
 1	@CurlyChloe_	@CurlyChloe_	_	NNP	_	2	nn	_	_
 2	psst	psst	_	NN	_	9	nsubj	_	_
 3	,	,	_	,	_	7	punct	_	_
@@ -7195,6 +7530,7 @@
 2	#dontmancriminate	#dontmancriminate	_	NNP	_	3	nn	_	_
 3	#feminist	#feminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@OccupyCourt	@OccupyCourt	_	NNP	_	3	nn	_	_
 2	Family	Family	_	NNP	_	3	nn	_	_
 3	Court	Court	_	NNP	_	7	nsubj	_	_
@@ -7211,6 +7547,7 @@
 
 1	#FEMINAZIS	#FEMINAZIS	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@MeninistTweet	@meninisttweet	_	NN	_	11	nsubj	_	_
 2	why	why	_	WRB	_	3	advmod	_	_
 3	do	do	_	VBP	_	1	rcmod	_	_
@@ -7234,6 +7571,7 @@
 21	hospital	hospital	_	NN	_	18	pobj	_	_
 22	?	?	_	.	_	11	punct	_	_
 
+#Tweet
 1	After	after	_	IN	_	10	prep	_	_
 2	a	a	_	DT	_	4	det	_	_
 3	gr8	gr8	_	NN	_	4	nn	_	_
@@ -7260,6 +7598,7 @@
 24	yr	yr	_	NN	_	25	nn	_	_
 25	#gaymarriage	#gaymarriage	_	NN	_	22	dep	_	_
 
+#Tweet
 1	@arristotlee	@arristotlee	_	NNP	_	2	nsubj	_	_
 2	Thank	thank	_	VBP	_	0	null	_	_
 3	you	you	_	PRP	_	2	dobj	_	_
@@ -7278,6 +7617,7 @@
 1	#Democrats	#democrats	_	NNS	_	2	nn	_	_
 2	#Liberals	#liberals	_	NNS	_	0	null	_	_
 
+#Tweet
 1	im	im	_	NNP	_	6	nsubj	_	_
 2	a	a	_	DT	_	6	det	_	_
 3	strong	strong	_	JJ	_	6	amod	_	_
@@ -7293,6 +7633,7 @@
 13	#lol	#lol	_	NN	_	14	nn	_	_
 14	#girlpower	#girlpower	_	NN	_	10	dobj	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	think	think	_	VBP	_	0	null	_	_
 3	if	if	_	IN	_	5	mark	_	_
@@ -7313,6 +7654,7 @@
 18	now	now	_	RB	_	16	advmod	_	_
 19	#auspol	#auspol	_	NNP	_	16	tmod	_	_
 
+#Tweet
 1	Charlotte	Charlotte	_	NNP	_	2	nn	_	_
 2	Church	Church	_	NNP	_	0	null	_	_
 3	interviewing	interview	_	VBG	_	2	dep	_	_
@@ -7322,6 +7664,7 @@
 7	#Glasto2015	#Glasto2015	_	NNP	_	8	nn	_	_
 8	#fuckyeahglasto	#fuckyeahglasto	_	NNP	_	6	pobj	_	_
 
+#Tweet
 1	Congratulations	congratulation	_	NNS	_	0	null	_	_
 2	to	to	_	IN	_	1	prep	_	_
 3	America	America	_	NNP	_	2	pobj	_	_
@@ -7345,6 +7688,7 @@
 10	equally	equally	_	RB	_	11	advmod	_	_
 11	#AllLivesMatter	#AllLivesMatter	_	NNP	_	9	tmod	_	_
 
+#Tweet
 1	@lucypalmreports	@lucypalmreports	_	NNS	_	5	dobj	_	_
 2	I	I	_	PRP	_	5	nsubj	_	_
 3	do	do	_	VBP	_	5	aux	_	_
@@ -7356,6 +7700,7 @@
 9	am	be	_	VBP	_	10	cop	_	_
 10	pretty	pretty	_	RB	_	5	advcl	_	_
 
+#Tweet
 1	Ca	can	_	MD	_	3	aux	_	_
 2	n't	not	_	RB	_	3	neg	_	_
 3	win	win	_	VB	_	0	null	_	_
@@ -7390,6 +7735,7 @@
 4	off	off	_	RP	_	3	prt	_	_
 5	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	need	need	_	VBP	_	0	null	_	_
 3	feminism	feminism	_	NN	_	2	dobj	_	_
@@ -7416,6 +7762,7 @@
 24	car	car	_	NN	_	22	pobj	_	_
 25	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	WOW	wow	_	UH	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
@@ -7439,6 +7786,7 @@
 6	THIS	this	_	DT	_	7	det	_	_
 7	NOW	now	_	NN	_	0	null	_	_
 
+#Tweet
 1	Feminism	feminism	_	NN	_	3	nsubjpass	_	_
 2	is	be	_	VBZ	_	3	auxpass	_	_
 3	built	build	_	VBN	_	0	null	_	_
@@ -7460,6 +7808,7 @@
 12	'	'	_	POS	_	11	possessive	_	_
 13	tMancriminate	tmancriminate	_	NN	_	10	dep	_	_
 
+#Tweet
 1	@	@	_	IN	_	0	null	_	_
 2	70kha	70kha	_	CD	_	3	num	_	_
 3	@scroll_in	@scroll_in	_	NN	_	1	pobj	_	_
@@ -7484,6 +7833,7 @@
 22	cultures	culture	_	NNS	_	20	pobj	_	_
 23	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	#Feminists	#feminists	_	NNS	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	calling	call	_	VBG	_	1	dep	_	_
@@ -7508,6 +7858,7 @@
 1	#sexism	#sexism	_	NNP	_	2	nn	_	_
 2	#antiSJW	#antiSJW	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Friendly	friendly	_	JJ	_	2	amod	_	_
 2	reminder	reminder	_	NN	_	0	null	_	_
 3	that	that	_	IN	_	12	complm	_	_
@@ -7522,6 +7873,7 @@
 12	myth	myth	_	NN	_	2	ccomp	_	_
 13	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	Ruth_Blane	ruth_blane	_	NN	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	_	_	_	NFP	_	1	dep	_	_
@@ -7550,6 +7902,7 @@
 2	#sc	#sc	_	NNP	_	0	null	_	_
 3	...	...	_	.	_	2	punct	_	_
 
+#Tweet
 1	_	_	_	NFP	_	0	null	_	_
 2	AnAvgJoe	AnAvgJoe	_	NNP	_	3	nn	_	_
 3	_	_	_	NFP	_	1	dep	_	_
@@ -7577,6 +7930,7 @@
 2	#scrap498a	#scrap498a	_	NN	_	0	null	_	_
 3	...	...	_	.	_	2	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@KennyWarner	@kennywarner	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -7601,6 +7955,7 @@
 
 1	#womensrights	#womensrights	_	NNS	_	0	null	_	_
 
+#Tweet
 1	@gelijkis	@gelijkis	_	VB	_	0	null	_	_
 2	my	my	_	PRP$	_	3	poss	_	_
 3	hat	hat	_	NN	_	1	dobj	_	_
@@ -7629,6 +7984,7 @@
 
 1	#womensrights	#womensrights	_	NNS	_	0	null	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@mrkrusader	@mrkrusader	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -7650,6 +8006,7 @@
 19	#fakecases	#fakecases	_	NNS	_	13	pobj	_	_
 20	...	...	_	.	_	2	punct	_	_
 
+#Tweet
 1	It	it	_	PRP	_	2	nsubj	_	_
 2	's	be	_	VBZ	_	0	null	_	_
 3	not	not	_	RB	_	2	neg	_	_
@@ -7678,6 +8035,7 @@
 11	strength	strength	_	NN	_	9	dobj	_	_
 12	!	!	_	.	_	4	punct	_	_
 
+#Tweet
 1	Even	even	_	RB	_	6	advmod	_	_
 2	if	if	_	IN	_	6	dep	_	_
 3	I	I	_	PRP	_	6	nsubj	_	_
@@ -7704,6 +8062,7 @@
 6	woman	woman	_	NN	_	0	null	_	_
 7	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	The	the	_	DT	_	4	det	_	_
 2	single	single	_	JJ	_	4	amod	_	_
 3	biggest	biggest	_	JJS	_	2	dep	_	_
@@ -7722,6 +8081,7 @@
 3	Steinem	Steinem	_	NNP	_	4	nn	_	_
 4	#alaac15	#alaac15	_	NN	_	1	null	_	_
 
+#Tweet
 1	Pop	pop	_	NN	_	2	nn	_	_
 2	quiz	quiz	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -7737,6 +8097,7 @@
 1	#humanrights	#humanrights	_	NNS	_	2	nsubj	_	_
 2	#BlackLivesMatter	#blacklivesmatter	_	ADD	_	0	null	_	_
 
+#Tweet
 1	@JayAlessandra	@JayAlessandra	_	NNP	_	0	null	_	_
 2	yeah	yeah	_	UH	_	1	dep	_	_
 3	!	!	_	.	_	1	punct	_	_
@@ -7763,6 +8124,7 @@
 20	too	too	_	RB	_	21	advmod	_	_
 21	pretty.obvs	pretty.obvs	_	JJ	_	13	rcmod	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -7783,6 +8145,7 @@
 18	own	own	_	JJ	_	16	pobj	_	_
 19	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	@DFoxtrot15	@dfoxtrot15	_	NN	_	2	nn	_	_
 2	@FeminismIsLies	@feminismislies	_	NNS	_	0	null	_	_
 3	so	so	_	RB	_	4	advmod	_	_
@@ -7809,6 +8172,7 @@
 9	so	so	_	RB	_	5	advmod	_	_
 10	...	...	_	.	_	5	punct	_	_
 
+#Tweet
 1	Men	man	_	NNS	_	2	nsubj	_	_
 2	want	want	_	VBP	_	0	null	_	_
 3	women	woman	_	NNS	_	5	nsubj	_	_
@@ -7833,6 +8197,7 @@
 
 1	#genderequality	#genderequality	_	NN	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	think	think	_	VBP	_	0	null	_	_
 3	it	it	_	PRP	_	5	nsubj	_	_
@@ -7854,6 +8219,7 @@
 
 1	#genderequality	#genderequality	_	NN	_	0	null	_	_
 
+#Tweet
 1	If	if	_	IN	_	3	mark	_	_
 2	we	we	_	PRP	_	3	nsubj	_	_
 3	have	have	_	VBP	_	9	advcl	_	_
@@ -7876,6 +8242,7 @@
 
 1	#genderequality	#genderequality	_	NN	_	0	null	_	_
 
+#Tweet
 1	Watch	watch	_	VB	_	0	null	_	_
 2	colors	color	_	NNS	_	4	nn	_	_
 3	code	code	_	NN	_	4	nn	_	_
@@ -7904,6 +8271,7 @@
 6	#colors	#colors	_	VBZ	_	0	null	_	_
 7	#scrap498a	#scrap498a	_	NN	_	6	nsubj	_	_
 
+#Tweet
 1	Downvoting	downvote	_	VBG	_	6	csubj	_	_
 2	my	my	_	PRP$	_	4	poss	_	_
 3	youtube	youtube	_	NNP	_	4	nn	_	_
@@ -7920,6 +8288,7 @@
 4	#videogame	#videogame	_	VBP	_	0	null	_	_
 5	#gaming	#gaming	_	VBG	_	4	xcomp	_	_
 
+#Tweet
 1	Tumblr	Tumblr	_	NNP	_	2	nsubj	_	_
 2	made	make	_	VBD	_	0	null	_	_
 3	me	I	_	PRP	_	5	nsubj	_	_
@@ -7931,6 +8300,7 @@
 
 1	#Tumblr	#Tumblr	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@WomensPowerHub	@WomensPowerHub	_	NNP	_	2	nn	_	_
 2	@AlessandroCynic	@AlessandroCynic	_	NNP	_	0	null	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -7948,6 +8318,7 @@
 15	.....	.....	_	,	_	16	punct	_	_
 16	#SpankAFeminist	#spankafeminist	_	ADD	_	9	ccomp	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	nt	nt	_	RB	_	4	advmod	_	_
@@ -7970,6 +8341,7 @@
 20	#furry	#furry	_	NN	_	21	nn	_	_
 21	#Feminist	#feminist	_	NN	_	8	xcomp	_	_
 
+#Tweet
 1	@Tesco	@Tesco	_	NNP	_	3	nn	_	_
 2	@TescoMedia	@TescoMedia	_	NNP	_	3	nn	_	_
 3	@TescoFood	@TescoFood	_	NNP	_	4	nsubj	_	_
@@ -7992,6 +8364,7 @@
 20	Road	Road	_	NNP	_	21	nn	_	_
 21	branch	branch	_	NN	_	17	pobj	_	_
 
+#Tweet
 1	@sass_unicorn	@sass_unicorn	_	JJ	_	0	null	_	_
 2	lol	lol	_	UH	_	1	dep	_	_
 3	!	!	_	.	_	1	punct	_	_
@@ -8001,6 +8374,7 @@
 3	children	child	_	NNS	_	0	null	_	_
 4	for	for	_	IN	_	3	dep	_	_
 
+#Tweet
 1	Communists	Communists	_	NNPS	_	3	nsubj	_	_
 2	can	can	_	MD	_	3	aux	_	_
 3	relate	relate	_	VB	_	0	null	_	_
@@ -8014,6 +8388,7 @@
 2	#faith	#faith	_	JJ	_	3	amod	_	_
 3	#karlmarx	#karlmarx	_	NN	_	0	null	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@LeexxxW	@leexxxw	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -8036,6 +8411,7 @@
 5	is	be	_	VBZ	_	2	ccomp	_	_
 6	!!	!!	_	.	_	2	punct	_	_
 
+#Tweet
 1	Last	last	_	JJ	_	2	amod	_	_
 2	week	week	_	NN	_	5	tmod	_	_
 3	a	a	_	DT	_	4	det	_	_
@@ -8065,6 +8441,7 @@
 1	#catcalling	#catcalling	_	VBG	_	0	null	_	_
 2	#streetharassment	#streetharassment	_	NN	_	1	dobj	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	brace	brace	_	VBP	_	0	null	_	_
 3	myself	myself	_	PRP	_	2	dobj	_	_
@@ -8087,6 +8464,7 @@
 3	#equality	#equality	_	NN	_	4	nn	_	_
 4	#sexism	#sexism	_	NN	_	1	dobj	_	_
 
+#Tweet
 1	Sehri	Sehri	_	NNP	_	2	nn	_	_
 2	time	time	_	NN	_	3	nsubj	_	_
 3	seems	seem	_	VBZ	_	0	null	_	_
@@ -8106,6 +8484,7 @@
 2	#ableism	#ableism	_	NN	_	3	nn	_	_
 3	#Ramadan	#ramadan	_	NN	_	0	null	_	_
 
+#Tweet
 1	One	one	_	CD	_	2	num	_	_
 2	gay	gay	_	NN	_	3	nsubj	_	_
 3	one	one	_	CD	_	0	null	_	_
@@ -8125,6 +8504,7 @@
 1	#Equality	#equality	_	NN	_	2	nn	_	_
 2	#Friends	#friends	_	NNS	_	0	null	_	_
 
+#Tweet
 1	What	what	_	WDT	_	11	dep	_	_
 2	a	a	_	DT	_	5	det	_	_
 3	great	great	_	JJ	_	5	amod	_	_
@@ -8149,6 +8529,7 @@
 1	#racism	#racism	_	NNP	_	2	nn	_	_
 2	#truthbomb	#truthbomb	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@fdGhtP54	@fdghtp54	_	NN	_	3	nn	_	_
 2	@_Lemaign	@_lemaign	_	NN	_	3	nn	_	_
 3	@kungfuman316	@kungfuman316	_	NN	_	0	null	_	_
@@ -8175,6 +8556,7 @@
 24	,	,	_	,	_	9	punct	_	_
 25	FOR	for	_	IN	_	9	dep	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	need	need	_	VBP	_	0	null	_	_
 3	feminism	feminism	_	NN	_	2	dobj	_	_
@@ -8194,6 +8576,7 @@
 1	#cryingalready	#cryingalready	_	JJ	_	2	amod	_	_
 2	#DeathNote	#deathnote	_	NN	_	0	null	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	cutting	cutting	_	NN	_	14	nsubj	_	_
 3	and	and	_	CC	_	2	cc	_	_
@@ -8211,6 +8594,7 @@
 15	of	of	_	IN	_	14	prep	_	_
 16	my	my	_	PRP$	_	15	pobj	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	VivienneDenue	VivienneDenue	_	NNP	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -8236,6 +8620,7 @@
 3	#in	#in	_	NN	_	0	null	_	_
 4	...	...	_	.	_	3	punct	_	_
 
+#Tweet
 1	son	son	_	NN	_	6	dep	_	_
 2	,	,	_	,	_	6	punct	_	_
 3	you	you	_	PRP	_	6	nsubj	_	_
@@ -8267,6 +8652,7 @@
 
 1	#smh	#smh	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	hate	hate	_	VBP	_	0	null	_	_
 3	feminism	feminism	_	NN	_	2	dobj	_	_
@@ -8285,6 +8671,7 @@
 2	#notallmen	#notallmen	_	NNS	_	3	nsubj	_	_
 3	#HeForShe	#heforshe	_	ADD	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	not	not	_	RB	_	4	neg	_	_
@@ -8306,6 +8693,7 @@
 3	#PAK_Army	#PAK_Army	_	NNP	_	4	nn	_	_
 4	#PTIFamily	#PTIFamily	_	NNP	_	0	null	_	_
 
+#Tweet
 1	So	so	_	RB	_	2	advmod	_	_
 2	now	now	_	RB	_	5	advmod	_	_
 3	I	I	_	PRP	_	5	nsubj	_	_
@@ -8336,6 +8724,7 @@
 28	adv	adv	_	NN	_	29	nn	_	_
 29	maths	math	_	NNS	_	27	pobj	_	_
 
+#Tweet
 1	Great	great	_	JJ	_	0	null	_	_
 2	to	to	_	TO	_	3	aux	_	_
 3	see	see	_	VB	_	1	xcomp	_	_
@@ -8353,6 +8742,7 @@
 15	#glasto	#glasto	_	NN	_	16	nn	_	_
 16	#charlottechurch	#charlottechurch	_	NN	_	12	dobj	_	_
 
+#Tweet
 1	Staying	stay	_	VBG	_	0	null	_	_
 2	silent	silent	_	JJ	_	1	dobj	_	_
 3	after	after	_	IN	_	1	prep	_	_
@@ -8372,6 +8762,7 @@
 17	of	of	_	IN	_	16	prep	_	_
 18	my	my	_	PRP$	_	17	pobj	_	_
 
+#Tweet
 1	Those	those	_	DT	_	3	det	_	_
 2	fucking	fucking	_	JJ	_	3	amod	_	_
 3	feminists	feminist	_	NNS	_	9	nsubjpass	_	_
@@ -8396,6 +8787,7 @@
 9	science	science	_	NN	_	8	pobj	_	_
 10	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	DEAR	dear	_	JJ	_	4	amod	_	_
 2	FEMINIST	feminist	_	JJ	_	4	amod	_	_
 3	SUPPORTERS	supporter	_	NNS	_	4	nn	_	_
@@ -8414,6 +8806,7 @@
 16	accountability	accountability	_	NN	_	14	dobj	_	_
 17	.	.	_	.	_	14	punct	_	_
 
+#Tweet
 1	DEAR	dear	_	JJ	_	2	amod	_	_
 2	FEMINISTS	feminist	_	NNS	_	0	null	_	_
 3	The	the	_	DT	_	4	det	_	_
@@ -8436,6 +8829,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Feminism	feminism	_	NN	_	5	nsubj	_	_
 2	is	be	_	VBZ	_	5	cop	_	_
 3	a	a	_	DT	_	5	det	_	_
@@ -8455,6 +8849,7 @@
 17	feminists	feminist	_	NNS	_	16	dobj	_	_
 18	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	DEAR	dear	_	JJ	_	2	amod	_	_
 2	FEMINISTS	feminist	_	NNS	_	3	nsubj	_	_
 3	Give	give	_	VB	_	0	null	_	_
@@ -8482,6 +8877,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	responsibilities	responsibility	_	NNS	_	5	nsubj	_	_
 3	Feminism	Feminism	_	NNP	_	4	nsubj	_	_
@@ -8500,6 +8896,7 @@
 
 1	#OnlyRights	#onlyrights	_	NNS	_	0	null	_	_
 
+#Tweet
 1	A	a	_	DT	_	4	det	_	_
 2	"	"	_	``	_	4	punct	_	_
 3	Strong	strong	_	JJ	_	4	amod	_	_
@@ -8526,6 +8923,7 @@
 4	)	)	_	-RRB-	_	3	prep	_	_
 5	#GamerGate	#gamergate	_	NN	_	4	null	_	_
 
+#Tweet
 1	The	the	_	DT	_	3	det	_	_
 2	best	best	_	JJS	_	3	amod	_	_
 3	way	way	_	NN	_	7	nsubj	_	_
@@ -8552,6 +8950,7 @@
 4	high	high	_	JJ	_	2	acomp	_	_
 5	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	IF	if	_	IN	_	3	mark	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	3	nsubj	_	_
 3	WERE	be	_	VBD	_	0	null	_	_
@@ -8573,6 +8972,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	CEOs	ceo	_	NNS	_	0	null	_	_
 2	apologizing	apologize	_	VBG	_	1	partmod	_	_
 3	to	to	_	IN	_	2	prep	_	_
@@ -8592,6 +8992,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	You	you	_	PRP	_	4	nsubj	_	_
 2	are	be	_	VBP	_	4	aux	_	_
 3	not	not	_	RB	_	4	neg	_	_
@@ -8610,6 +9011,7 @@
 
 1	#insideamyschumer	#insideamyschumer	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Old	Old	_	NNP	_	4	nn	_	_
 2	,	,	_	,	_	4	punct	_	_
 3	insecure	insecure	_	JJ	_	4	amod	_	_
@@ -8625,6 +9027,7 @@
 13	of	of	_	IN	_	12	prep	_	_
 14	women	woman	_	NNS	_	13	pobj	_	_
 
+#Tweet
 1	@E__Strobel	@E__Strobel	_	NNP	_	8	nn	_	_
 2	@rsmccain	@rsmccain	_	NNP	_	8	nn	_	_
 3	@instapundit	@instapundit	_	NN	_	8	nn	_	_
@@ -8644,6 +9047,7 @@
 4	rape	rape	_	NN	_	0	null	_	_
 5	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	Like	like	_	UH	_	4	dep	_	_
 2	,	,	_	,	_	4	punct	_	_
 3	feminism	feminism	_	NN	_	4	nsubj	_	_
@@ -8667,6 +9071,7 @@
 21	toad	toad	_	NN	_	17	pobj	_	_
 22	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	@FaZeNikan	@fazenikan	_	JJ	_	2	amod	_	_
 2	@dznCosta	@dzncosta	_	NN	_	0	null	_	_
 3	why	why	_	WRB	_	2	dep	_	_
@@ -8681,6 +9086,7 @@
 12	misogynistic	misogynistic	_	JJ	_	13	amod	_	_
 13	pig	pig	_	NN	_	11	null	_	_
 
+#Tweet
 1	Just	just	_	RB	_	2	advmod	_	_
 2	watched	watch	_	VBN	_	0	null	_	_
 3	Mad	Mad	_	NNP	_	4	nn	_	_
@@ -8709,6 +9115,7 @@
 
 1	#MadMaxFuryRoad	#madmaxfuryroad	_	NN	_	0	null	_	_
 
+#Tweet
 1	Video	video	_	NN	_	2	nn	_	_
 2	games	game	_	NNS	_	5	nsubj	_	_
 3	are	be	_	VBP	_	5	cop	_	_
@@ -8733,6 +9140,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	My	my	_	PRP$	_	3	poss	_	_
 2	feminist	feminist	_	JJ	_	3	amod	_	_
 3	heart	heart	_	NN	_	6	nsubj	_	_
@@ -8762,6 +9170,7 @@
 6	lungs	lung	_	NNS	_	4	pobj	_	_
 7	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	And	and	_	CC	_	0	null	_	_
 2	no	no	_	DT	_	3	det	_	_
 3	femaskanks	femaskank	_	NNS	_	1	dep	_	_
@@ -8780,6 +9189,7 @@
 16	degree	degree	_	NN	_	13	pobj	_	_
 17	....	....	_	.	_	1	punct	_	_
 
+#Tweet
 1	@SilviuMajor	@silviumajor	_	VB	_	5	nsubj	_	_
 2	your	you	_	PRP$	_	3	poss	_	_
 3	tweet	tweet	_	NN	_	1	dobj	_	_
@@ -8793,6 +9203,7 @@
 11	towie	towie	_	NN	_	12	nn	_	_
 12	mate	mate	_	NN	_	10	pobj	_	_
 
+#Tweet
 1	Wow	wow	_	UH	_	2	dep	_	_
 2	@fernemccann	@fernemccann	_	VB	_	0	null	_	_
 3	you	you	_	PRP	_	5	nsubj	_	_
@@ -8806,6 +9217,7 @@
 
 1	#girlpower	#girlpower	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@CosmopolitanUK	@cosmopolitanuk	_	NN	_	0	null	_	_
 2	why	why	_	WRB	_	6	advmod	_	_
 3	does	do	_	VBZ	_	6	aux	_	_
@@ -8831,6 +9243,7 @@
 2	#music	#music	_	JJ	_	3	amod	_	_
 3	#history	#history	_	NN	_	0	null	_	_
 
+#Tweet
 1	i	i	_	PRP	_	2	nsubj	_	_
 2	have	have	_	VBP	_	0	null	_	_
 3	autocorrect	autocorrect	_	NN	_	4	nsubj	_	_
@@ -8844,6 +9257,7 @@
 11	im	im	_	VB	_	8	ccomp	_	_
 12	independent	independent	_	JJ	_	11	dep	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	gamergatenews	gamergatenew	_	NNS	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -8867,6 +9281,7 @@
 10	#game	#game	_	VBP	_	0	null	_	_
 11	...	...	_	.	_	10	punct	_	_
 
+#Tweet
 1	Towie	Towie	_	NNP	_	2	nn	_	_
 2	catchup	catchup	_	NN	_	5	nsubj	_	_
 3	,	,	_	,	_	2	punct	_	_
@@ -8876,6 +9291,7 @@
 7	ferne	ferne	_	NN	_	8	nn	_	_
 8	#TOWIE	#TOWIE	_	NNP	_	6	pobj	_	_
 
+#Tweet
 1	@TrapLordAlec	@TrapLordAlec	_	NNP	_	2	nn	_	_
 2	@Bold_Radicals	@Bold_Radicals	_	NNPS	_	3	nsubj	_	_
 3	10	10	_	CD	_	0	null	_	_
@@ -8889,6 +9305,7 @@
 11	symbol	symbol	_	NN	_	5	ccomp	_	_
 12	for	for	_	IN	_	11	prep	_	_
 
+#Tweet
 1	If	if	_	IN	_	3	mark	_	_
 2	I	I	_	PRP	_	3	nsubj	_	_
 3	had	have	_	VBD	_	20	advcl	_	_
@@ -8917,6 +9334,7 @@
 26	day	day	_	NN	_	22	tmod	_	_
 27	.	.	_	.	_	20	punct	_	_
 
+#Tweet
 1	@marieclaire	@marieclaire	_	VB	_	0	null	_	_
 2	Or	or	_	CC	_	1	cc	_	_
 3	...	...	_	NFP	_	1	conj	_	_
@@ -8943,6 +9361,7 @@
 6	body	body	_	NN	_	4	conj	_	_
 7	!	!	_	.	_	1	punct	_	_
 
+#Tweet
 1	What	what	_	WP	_	4	attr	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	feminists	feminist	_	NNS	_	4	nsubj	_	_
@@ -8969,6 +9388,7 @@
 1	Equality	Equality	_	NNP	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	4	nsubj	_	_
 2	are	be	_	VBP	_	4	aux	_	_
 3	not	not	_	RB	_	4	neg	_	_
@@ -8991,6 +9411,7 @@
 20	#women	#women	_	NNP	_	21	nn	_	_
 21	#men	#men	_	NNP	_	4	dobj	_	_
 
+#Tweet
 1	Of	of	_	RB	_	5	advmod	_	_
 2	course	course	_	RB	_	4	advmod	_	_
 3	ugly	ugly	_	JJ	_	4	amod	_	_
@@ -9015,6 +9436,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@FCKH8	@fckh8	_	NN	_	5	nsubj	_	_
 2	is	be	_	VBZ	_	5	cop	_	_
 3	the	the	_	DT	_	5	det	_	_
@@ -9027,6 +9449,7 @@
 10	suck	suck	_	VBP	_	6	pcomp	_	_
 11	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	DEAR	dear	_	RB	_	3	advmod	_	_
 2	ANTI-PORN	anti-porn	_	JJ	_	3	amod	_	_
 3	FEMINISTS	feminist	_	NNS	_	0	null	_	_
@@ -9048,6 +9471,7 @@
 19	...	...	_	,	_	20	punct	_	_
 20	#GamerGate	#gamergate	_	NN	_	8	advcl	_	_
 
+#Tweet
 1	People	people	_	NNS	_	2	nsubj	_	_
 2	say	say	_	VBP	_	0	null	_	_
 3	I	I	_	PRP	_	7	nsubj	_	_
@@ -9077,6 +9501,7 @@
 1	#MarriageEquaility	#MarriageEquaility	_	NNP	_	2	nn	_	_
 2	#coexist	#coexist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	History	history	_	NN	_	5	nsubj	_	_
 2	is	be	_	VBZ	_	5	cop	_	_
 3	"	"	_	``	_	5	punct	_	_
@@ -9093,6 +9518,7 @@
 14	too	too	_	RB	_	9	advmod	_	_
 15	!	!	_	.	_	5	punct	_	_
 
+#Tweet
 1	Feminists	feminist	_	NNS	_	2	nsubj	_	_
 2	tend	tend	_	VBP	_	0	null	_	_
 3	to	to	_	TO	_	4	aux	_	_
@@ -9115,6 +9541,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	To	to	_	IN	_	0	null	_	_
 2	men	man	_	NNS	_	1	pobj	_	_
 3	who	who	_	WP	_	4	nsubj	_	_
@@ -9130,6 +9557,7 @@
 13	response	response	_	NN	_	14	nn	_	_
 14	#patriarchy	#patriarchy	_	NN	_	11	dobj	_	_
 
+#Tweet
 1	Shhhh	Shhhh	_	NNP	_	0	null	_	_
 2	!	!	_	.	_	1	punct	_	_
 
@@ -9154,6 +9582,7 @@
 9	...	...	_	NFP	_	10	cop	_	_
 10	#GamerGate	#gamergate	_	NN	_	5	dep	_	_
 
+#Tweet
 1	@PennyRed	@pennyred	_	VBN	_	3	nsubj	_	_
 2	Do	do	_	VBP	_	3	aux	_	_
 3	realise	realise	_	VB	_	0	null	_	_
@@ -9184,6 +9613,7 @@
 11	you	you	_	PRP	_	12	nsubj	_	_
 12	#fail	#fail	_	VB	_	10	ccomp	_	_
 
+#Tweet
 1	@PennyRed	@pennyred	_	VBD	_	3	aux	_	_
 2	you	you	_	PRP	_	3	nsubj	_	_
 3	realise	realise	_	VB	_	0	null	_	_
@@ -9214,6 +9644,7 @@
 
 1	#fail	#fail	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@staacy_weedy	@staacy_weedy	_	JJ	_	3	amod	_	_
 2	@levithekid2	@levithekid2	_	NN	_	3	nn	_	_
 3	@alexaa_Mccune	@alexaa_mccune	_	NN	_	0	null	_	_
@@ -9227,6 +9658,7 @@
 11	with	with	_	IN	_	10	prep	_	_
 12	you	you	_	PRP	_	11	pobj	_	_
 
+#Tweet
 1	Someone	someone	_	NN	_	3	nsubj	_	_
 2	should	should	_	MD	_	3	aux	_	_
 3	do	do	_	VB	_	0	null	_	_
@@ -9246,6 +9678,7 @@
 17	games	game	_	NNS	_	15	pobj	_	_
 18	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	Funny	funny	_	JJ	_	0	null	_	_
 2	how	how	_	WRB	_	6	advmod	_	_
 3	it	it	_	PRP	_	6	nsubj	_	_
@@ -9268,6 +9701,7 @@
 
 1	@IroynA	@IroynA	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@AymieLouise1995	@aymielouise1995	_	NN	_	3	nn	_	_
 2	'	'	_	''	_	3	punct	_	_
 3	look	look	_	NN	_	0	null	_	_
@@ -9285,6 +9719,7 @@
 15	'	'	_	''	_	13	punct	_	_
 16	#jurassicworld	#jurassicworld	_	NN	_	6	tmod	_	_
 
+#Tweet
 1	Dear	dear	_	JJ	_	3	amod	_	_
 2	80	80	_	CD	_	3	num	_	_
 3	percent	percent	_	NN	_	0	null	_	_
@@ -9309,6 +9744,7 @@
 4	@Jezebel	@jezebel	_	NN	_	5	nn	_	_
 5	#GamerGate	#gamergate	_	NN	_	2	conj	_	_
 
+#Tweet
 1	@ParnassusBooks1	@parnassusbooks1	_	NN	_	6	tmod	_	_
 2	any	any	_	DT	_	4	det	_	_
 3	chance	chance	_	NN	_	4	nn	_	_
@@ -9332,6 +9768,7 @@
 
 1	#plum	#plum	_	NNP	_	0	null	_	_
 
+#Tweet
 1	At	at	_	IN	_	0	null	_	_
 2	the	the	_	DT	_	5	det	_	_
 3	WGSS	wgss	_	NN	_	5	nn	_	_
@@ -9348,6 +9785,7 @@
 
 1	#fuckyeahlibrarians	#fuckyeahlibrarians	_	NNS	_	0	null	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	EmilAaslund	EmilAaslund	_	NNP	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -9375,6 +9813,7 @@
 3	#NotYo	#NotYo	_	NNP	_	0	null	_	_
 4	...	...	_	.	_	3	punct	_	_
 
+#Tweet
 1	Goldstein	Goldstein	_	NNP	_	6	nsubj	_	_
 2	is	be	_	VBZ	_	6	cop	_	_
 3	the	the	_	DT	_	6	det	_	_
@@ -9401,6 +9840,7 @@
 1	#alaac15	#alaac15	_	CD	_	2	num	_	_
 2	#archives	#archives	_	NNS	_	0	null	_	_
 
+#Tweet
 1	Staying	stay	_	VBG	_	3	auxpass	_	_
 2	well	well	_	RB	_	3	advmod	_	_
 3	informed	inform	_	VBN	_	11	csubj	_	_
@@ -9423,6 +9863,7 @@
 
 1	#rapeculture	#rapeculture	_	NN	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	wish	wish	_	VBP	_	0	null	_	_
 3	Laura	Laura	_	NNP	_	4	nn	_	_
@@ -9440,6 +9881,7 @@
 
 1	#FemFreq	#FemFreq	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubj	_	_
 2	have	have	_	VBP	_	3	aux	_	_
 3	seen	see	_	VBN	_	0	null	_	_
@@ -9470,6 +9912,7 @@
 2	@lizfurl	@lizfurl	_	NN	_	0	null	_	_
 3	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	Feminist	Feminist	_	NNP	_	2	nn	_	_
 2	outrage	outrage	_	NN	_	0	null	_	_
 3	over	over	_	IN	_	2	prep	_	_
@@ -9484,6 +9927,7 @@
 1	Zero	Zero	_	NNP	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	Or	or	_	CC	_	6	cc	_	_
 2	maybe	maybe	_	RB	_	6	advmod	_	_
 3	I	I	_	PRP	_	6	nsubj	_	_
@@ -9497,6 +9941,7 @@
 11	...	...	_	NFP	_	10	dep	_	_
 12	hmmmm	hmmmm	_	UH	_	11	dep	_	_
 
+#Tweet
 1	@it_is_cancer	@it_is_cancer	_	NNP	_	4	nn	_	_
 2	@fat_tush	@fat_tush	_	NNP	_	4	nn	_	_
 3	categorizing	categorize	_	VBG	_	4	amod	_	_
@@ -9508,6 +9953,7 @@
 9	"	"	_	''	_	8	punct	_	_
 10	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	#SignsYoureInTheUSA	#SignsYoureInTheUSA	_	NNP	_	4	advmod	_	_
 2	You	you	_	PRP	_	4	nsubjpass	_	_
 3	are	be	_	VBP	_	4	auxpass	_	_
@@ -9526,6 +9972,7 @@
 16	up	up	_	IN	_	13	advmod	_	_
 17	eggs	egg	_	NNS	_	13	dobj	_	_
 
+#Tweet
 1	feminists	feminist	_	NNS	_	3	dep	_	_
 2	be	be	_	VB	_	3	cop	_	_
 3	like	like	_	IN	_	0	null	_	_
@@ -9550,6 +9997,7 @@
 8	male	male	_	NN	_	0	null	_	_
 9	.	.	_	.	_	8	punct	_	_
 
+#Tweet
 1	How	how	_	WRB	_	8	advmod	_	_
 2	can	can	_	MD	_	8	aux	_	_
 3	I	I	_	PRP	_	8	nsubj	_	_
@@ -9573,6 +10021,7 @@
 1	#HeForShe	#HeForShe	_	NNP	_	2	nn	_	_
 2	#Feminist	#Feminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Just	just	_	RB	_	2	advmod	_	_
 2	heard	hear	_	VBD	_	0	null	_	_
 3	the	the	_	DT	_	6	det	_	_
@@ -9591,6 +10040,7 @@
 16	#islam	#islam	_	IN	_	15	prep	_	_
 17	#revolution	#revolution	_	NN	_	16	pobj	_	_
 
+#Tweet
 1	They	they	_	PRP	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -9603,6 +10053,7 @@
 10	no	no	_	DT	_	11	det	_	_
 11	reason	reason	_	NN	_	9	pobj	_	_
 
+#Tweet
 1	@Yohanzor	@Yohanzor	_	NNP	_	3	nn	_	_
 2	@kittylight	@kittylight	_	NNP	_	3	nn	_	_
 3	@OccupyWomen	@OccupyWomen	_	NNP	_	5	nsubj	_	_
@@ -9625,6 +10076,7 @@
 9	delusions	delusion	_	NNS	_	6	tmod	_	_
 10	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	@DrEmilyGrossman	@DrEmilyGrossman	_	NNP	_	7	nn	_	_
 2	@LiquideousSnake	@LiquideousSnake	_	NNP	_	7	nn	_	_
 3	@FredvonsydowTW	@FredvonsydowTW	_	NNP	_	7	nn	_	_
@@ -9638,6 +10090,7 @@
 11	support	support	_	NN	_	10	dobj	_	_
 12	.	.	_	.	_	8	punct	_	_
 
+#Tweet
 1	when	when	_	WRB	_	5	advmod	_	_
 2	you	you	_	PRP	_	5	nsubjpass	_	_
 3	get	get	_	VBP	_	5	auxpass	_	_
@@ -9645,6 +10098,7 @@
 5	harassed	harass	_	VBN	_	0	null	_	_
 6	twice	twice	_	RB	_	5	advmod	_	_
 
+#Tweet
 1	@YMFROMTHEBLOCK	@YMFROMTHEBLOCK	_	NNP	_	0	null	_	_
 2	YES	yes	_	UH	_	3	dep	_	_
 3	girl	girl	_	NN	_	1	null	_	_
@@ -9658,6 +10112,7 @@
 11	joint	joint	_	JJ	_	12	amod	_	_
 12	#Islam	#islam	_	NN	_	9	pobj	_	_
 
+#Tweet
 1	We	we	_	PRP	_	4	nsubj	_	_
 2	are	be	_	VBP	_	4	cop	_	_
 3	51	51	_	CD	_	4	num	_	_
@@ -9688,6 +10143,7 @@
 4	America	America	_	NNP	_	0	null	_	_
 5	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	#WhoIsBurningBlackChurches	#whoisburningblackchurches	_	NNS	_	8	nsubj	_	_
 2	is	be	_	VBZ	_	8	cop	_	_
 3	the	the	_	DT	_	8	det	_	_
@@ -9709,6 +10165,7 @@
 
 1	#SJWLogic	#sjwlogic	_	JJ	_	0	null	_	_
 
+#Tweet
 1	*	*	_	NFP	_	15	advmod	_	_
 2	watching	watch	_	VBG	_	15	dep	_	_
 3	house	house	_	NN	_	2	dobj	_	_
@@ -9748,6 +10205,7 @@
 
 1	"	"	_	``	_	0	null	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	3	nsubjpass	_	_
 2	are	be	_	VBP	_	3	auxpass	_	_
 3	shamed	shame	_	VBN	_	0	null	_	_
@@ -9777,6 +10235,7 @@
 27	all	all	_	DT	_	26	pobj	_	_
 28	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	@Noin007	@noin007	_	NN	_	0	null	_	_
 2	though	though	_	IN	_	7	mark	_	_
 3	I	I	_	PRP	_	7	nsubj	_	_
@@ -9800,6 +10259,7 @@
 21	according	accord	_	VBG	_	1	prep	_	_
 22	to	to	_	IN	_	21	dep	_	_
 
+#Tweet
 1	@Not_Jaewon_Kang	@Not_Jaewon_Kang	_	NNP	_	3	nsubj	_	_
 2	lol	lol	_	UH	_	1	dep	_	_
 3	Jaewon	Jaewon	_	NNP	_	0	null	_	_
@@ -9820,6 +10280,7 @@
 6	pressing	press	_	VBG	_	5	pcomp	_	_
 7	issues	issue	_	NNS	_	6	dobj	_	_
 
+#Tweet
 1	Selective	selective	_	JJ	_	0	null	_	_
 2	listening	listen	_	VBG	_	1	xcomp	_	_
 3	a	a	_	DT	_	5	det	_	_
@@ -9829,6 +10290,7 @@
 7	convenience	convenience	_	NN	_	8	nn	_	_
 8	#feminists	#feminists	_	NNS	_	6	pobj	_	_
 
+#Tweet
 1	#narcissism	#narcissism	_	NN	_	0	null	_	_
 2	another	another	_	DT	_	4	det	_	_
 3	character	character	_	NN	_	4	nn	_	_
@@ -9838,6 +10300,7 @@
 7	#feminist	#feminist	_	JJ	_	8	amod	_	_
 8	convenience	convenience	_	NN	_	5	pobj	_	_
 
+#Tweet
 1	Reading	read	_	VBG	_	0	null	_	_
 2	a	a	_	DT	_	3	det	_	_
 3	mag	mag	_	NN	_	1	dobj	_	_
@@ -9869,6 +10332,7 @@
 4	point	point	_	NN	_	0	null	_	_
 5	!	!	_	.	_	4	punct	_	_
 
+#Tweet
 1	Pussy	Pussy	_	NNP	_	2	nn	_	_
 2	Riot	Riot	_	NNP	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -9889,6 +10353,7 @@
 4	documentary	documentary	_	NN	_	0	null	_	_
 5	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	Pushing	push	_	VBG	_	9	csubj	_	_
 2	misinformation	misinformation	_	NN	_	1	dobj	_	_
 3	about	about	_	IN	_	2	prep	_	_
@@ -9900,6 +10365,7 @@
 9	vaccination	vaccination	_	NN	_	0	null	_	_
 10	.	.	_	.	_	9	punct	_	_
 
+#Tweet
 1	Australia	Australia	_	NNP	_	3	nsubj	_	_
 2	even	even	_	RB	_	3	advmod	_	_
 3	has	have	_	VBZ	_	0	null	_	_
@@ -9912,6 +10378,7 @@
 10	fucks	fuck	_	NNS	_	9	pobj	_	_
 11	sake!IsAwful	sake!isawful	_	ADD	_	3	punct	_	_
 
+#Tweet
 1	Here	here	_	RB	_	4	advmod	_	_
 2	we	we	_	PRP	_	4	nsubj	_	_
 3	are	be	_	VBP	_	4	aux	_	_
@@ -9937,6 +10404,7 @@
 6	too	too	_	RB	_	5	advmod	_	_
 7	?	?	_	.	_	1	punct	_	_
 
+#Tweet
 1	Men	man	_	NNS	_	3	nsubj	_	_
 2	are	be	_	VBP	_	3	cop	_	_
 3	dirty	dirty	_	JJ	_	0	null	_	_
@@ -9961,6 +10429,7 @@
 22	prostitution	prostitution	_	NN	_	20	pobj	_	_
 23	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	GETTING	get	_	VBG	_	9	csubj	_	_
 2	OFFENDED	offended	_	NN	_	1	dobj	_	_
 3	Is	be	_	VBZ	_	9	cop	_	_
@@ -9984,6 +10453,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	#SharkRocket	#SharkRocket	_	NNP	_	7	nn	_	_
 2	"	"	_	``	_	7	punct	_	_
 3	Real	Real	_	NNP	_	4	nn	_	_
@@ -10007,6 +10477,7 @@
 
 1	#NotBuyingIt	#NotBuyingIt	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@KatTimpf	@KatTimpf	_	NNP	_	3	nn	_	_
 2	@BMC1181	@BMC1181	_	NNP	_	3	nn	_	_
 3	@Jezebel	@Jezebel	_	NNP	_	0	null	_	_
@@ -10022,6 +10493,7 @@
 
 1	#SJWLogic	#sjwlogic	_	JJ	_	0	null	_	_
 
+#Tweet
 1	@BizerBizer	@BizerBizer	_	NNP	_	2	nn	_	_
 2	@GiftofGodsFavor	@GiftofGodsFavor	_	NNP	_	0	null	_	_
 3	It	it	_	PRP	_	2	dep	_	_
@@ -10036,6 +10508,7 @@
 12	victimhood	victimhood	_	NN	_	11	pobj	_	_
 13	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	What	what	_	WP	_	3	dobj	_	_
 2	the	the	_	DT	_	3	dep	_	_
 3	fuck	fuck	_	VB	_	7	dobj	_	_
@@ -10060,6 +10533,7 @@
 1	#womensrights	#womensrights	_	NNS	_	2	nsubj	_	_
 2	#Feminist	#feminist	_	ADD	_	0	null	_	_
 
+#Tweet
 1	Ignoring	ignore	_	VBG	_	13	csubj	_	_
 2	peer	peer	_	NN	_	5	nn	_	_
 3	-	-	_	HYPH	_	5	punct	_	_
@@ -10080,6 +10554,7 @@
 1	#GamerGate	#GamerGate	_	NNP	_	2	nn	_	_
 2	#NotYourShield	#NotYourShield	_	NNP	_	0	null	_	_
 
+#Tweet
 1	What	what	_	WDT	_	7	det	_	_
 2	a	a	_	DT	_	4	det	_	_
 3	real	real	_	JJ	_	4	amod	_	_
@@ -10094,6 +10569,7 @@
 2	#pjnet	#pjnet	_	NNP	_	3	nn	_	_
 3	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	if	if	_	IN	_	12	mark	_	_
 2	your	you	_	PRP$	_	3	poss	_	_
 3	feminism	feminism	_	NN	_	12	nsubj	_	_
@@ -10114,6 +10590,7 @@
 
 1	#intersectionality	#intersectionality	_	NN	_	0	null	_	_
 
+#Tweet
 1	Cat	cat	_	NN	_	2	nn	_	_
 2	Pt.	pt.	_	NN	_	0	null	_	_
 3	2	2	_	CD	_	2	num	_	_
@@ -10133,6 +10610,7 @@
 3	#kindofanokstory	#kindofanokstory	_	NNP	_	4	nn	_	_
 4	#life	#life	_	NNP	_	0	null	_	_
 
+#Tweet
 1	What	what	_	WP	_	0	null	_	_
 2	about	about	_	IN	_	1	dep	_	_
 3	how	how	_	WRB	_	15	advmod	_	_
@@ -10159,6 +10637,7 @@
 24	n't	not	_	RB	_	25	neg	_	_
 25	flower	flower	_	NN	_	20	conj	_	_
 
+#Tweet
 1	@virtuadad	@virtuadad	_	JJ	_	2	amod	_	_
 2	@TakedownMRAs	@takedownmras	_	NNS	_	0	null	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -10179,6 +10658,7 @@
 18	u	u	_	PRP	_	19	nsubj	_	_
 19	do	do	_	VBP	_	17	rcmod	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	'm	be	_	VBP	_	4	cop	_	_
 3	honestly	honestly	_	RB	_	4	advmod	_	_
@@ -10201,6 +10681,7 @@
 3	men	man	_	NNS	_	1	pobj	_	_
 4	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	@moderncomments	@moderncomments	_	NNS	_	4	nsubj	_	_
 2	Oh	oh	_	UH	_	1	dep	_	_
 3	,	,	_	,	_	1	punct	_	_
@@ -10228,6 +10709,7 @@
 18	advantageous	advantageous	_	JJ	_	14	advcl	_	_
 19	!	!	_	.	_	3	punct	_	_
 
+#Tweet
 1	@_toekey	@_toekey	_	NN	_	7	nsubjpass	_	_
 2	and	and	_	CC	_	1	cc	_	_
 3	the	the	_	DT	_	5	det	_	_
@@ -10242,6 +10724,7 @@
 12	...	...	_	:	_	7	punct	_	_
 13	#SpankAFeminist	#spankafeminist	_	NN	_	7	dep	_	_
 
+#Tweet
 1	@Martin_chris4	@martin_chris4	_	NN	_	3	nn	_	_
 2	Car	car	_	NN	_	3	nn	_	_
 3	women	woman	_	NNS	_	6	nsubj	_	_
@@ -10250,6 +10733,7 @@
 6	well	well	_	RB	_	0	null	_	_
 7	.	.	_	.	_	6	punct	_	_
 
+#Tweet
 1	Feminism	feminism	_	NN	_	0	null	_	_
 2	then	then	_	RB	_	1	advmod	_	_
 3	:	:	_	:	_	1	dep	_	_
@@ -10273,6 +10757,7 @@
 21	about	about	_	RB	_	19	dep	_	_
 22	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	am	be	_	VBP	_	4	cop	_	_
 3	#NotAFeminist	#notafeminist	_	JJ	_	4	amod	_	_
@@ -10296,6 +10781,7 @@
 1	#antifeminism	#antifeminism	_	NNP	_	2	nn	_	_
 2	#antifeminist	#antifeminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Omfg	Omfg	_	NNP	_	3	nn	_	_
 2	...	...	_	NFP	_	3	amod	_	_
 3	definition	definition	_	NN	_	0	null	_	_
@@ -10307,6 +10793,7 @@
 
 1	#FuckFeminism	#FuckFeminism	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Some	some	_	DT	_	2	det	_	_
 2	feminist	feminist	_	NN	_	5	nsubj	_	_
 3	's	's	_	POS	_	2	possessive	_	_
@@ -10330,6 +10817,7 @@
 21	even	even	_	RB	_	22	advmod	_	_
 22	care	care	_	VB	_	5	conj	_	_
 
+#Tweet
 1	A	a	_	DT	_	2	det	_	_
 2	quote	quote	_	NN	_	0	null	_	_
 3	from	from	_	IN	_	2	prep	_	_
@@ -10364,6 +10852,7 @@
 1	#	#	_	NN	_	2	nn	_	_
 2	4thwavefeminism	4thwavefeminism	_	NN	_	0	null	_	_
 
+#Tweet
 1	men	man	_	NNS	_	2	nsubj	_	_
 2	suck	suck	_	VBP	_	0	null	_	_
 3	.	.	_	.	_	2	punct	_	_
@@ -10375,6 +10864,7 @@
 1	everybody	everybody	_	NN	_	2	nsubj	_	_
 2	sucks	suck	_	VBZ	_	0	null	_	_
 
+#Tweet
 1	For	for	_	IN	_	18	prep	_	_
 2	all	all	_	DT	_	3	dep	_	_
 3	y'	y'	_	PRP	_	1	pobj	_	_
@@ -10400,6 +10890,7 @@
 23	's	's	_	POS	_	22	possessive	_	_
 24	soccer	soccer	_	NN	_	20	pobj	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@FemMagKPFK	@femmagkpfk	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -10422,6 +10913,7 @@
 20	#chicanaherstory	#chicanaherstory	_	JJ	_	21	amod	_	_
 21	#kpfk	#kpfk	_	NN	_	2	dep	_	_
 
+#Tweet
 1	usa	usa	_	NN	_	4	nsubj	_	_
 2	is	be	_	VBZ	_	4	cop	_	_
 3	only	only	_	RB	_	4	advmod	_	_
@@ -10433,6 +10925,7 @@
 9	are	be	_	VBP	_	10	aux	_	_
 10	playing	play	_	VBG	_	4	advcl	_	_
 
+#Tweet
 1	So	so	_	RB	_	3	advmod	_	_
 2	you	you	_	PRP	_	3	nsubj	_	_
 3	want	want	_	VBP	_	0	null	_	_
@@ -10462,6 +10955,7 @@
 1	Makes	make	_	VBZ	_	0	null	_	_
 2	sense	sense	_	NN	_	1	dobj	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nsubj	_	_
 2	@rapebombing	@rapebombing	_	VBG	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -10482,6 +10976,7 @@
 18	afterwards	afterwards	_	RB	_	8	advmod	_	_
 19	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	Heads	head	_	VBZ	_	0	null	_	_
 2	up	up	_	RP	_	1	prt	_	_
 3	,	,	_	,	_	1	punct	_	_
@@ -10491,6 +10986,7 @@
 7	benfits	benfit	_	NNS	_	5	pobj	_	_
 8	from	from	_	IN	_	1	dep	_	_
 
+#Tweet
 1	Beauty	Beauty	_	NNP	_	2	nsubj	_	_
 2	is	be	_	VBZ	_	0	null	_	_
 3	in	in	_	IN	_	2	prep	_	_
@@ -10505,6 +11001,7 @@
 2	#beauty	#beauty	_	NNP	_	3	nn	_	_
 3	#BodyImage	#BodyImage	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Why	why	_	WRB	_	4	advmod	_	_
 2	should	should	_	MD	_	4	aux	_	_
 3	woman	woman	_	NN	_	4	nsubj	_	_
@@ -10522,6 +11019,7 @@
 8	cunts	cunt	_	NNS	_	6	pobj	_	_
 9	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	Getting	get	_	VBG	_	0	null	_	_
 2	haircut	haircut	_	NN	_	3	nn	_	_
 3	b	b	_	NN	_	7	dep	_	_
@@ -10547,6 +11045,7 @@
 11	unprofessional	unprofessional	_	JJ	_	0	null	_	_
 12	'	'	_	''	_	11	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	guess	guess	_	VBP	_	0	null	_	_
 3	crying	cry	_	VBG	_	9	csubj	_	_
@@ -10570,6 +11069,7 @@
 1	#Saad	#Saad	_	NNP	_	2	nn	_	_
 2	#Blackhawks	#Blackhawks	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubj	_	_
 2	will	will	_	MD	_	3	aux	_	_
 3	say	say	_	VB	_	0	null	_	_
@@ -10595,6 +11095,7 @@
 1	Get	get	_	VB	_	0	null	_	_
 2	help	help	_	NN	_	1	dobj	_	_
 
+#Tweet
 1	@LaNaria_Athalia	@LaNaria_Athalia	_	NNP	_	2	nsubj	_	_
 2	Are	be	_	VBP	_	0	null	_	_
 3	you	you	_	PRP	_	4	nsubj	_	_
@@ -10615,6 +11116,7 @@
 18	are	be	_	VBP	_	2	ccomp	_	_
 19	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	texting	texting	_	NN	_	0	null	_	_
 2	my	my	_	PRP$	_	3	poss	_	_
 3	bf	bf	_	NN	_	1	dep	_	_
@@ -10635,6 +11137,7 @@
 18	see	see	_	VBP	_	16	rcmod	_	_
 19	him	he	_	PRP	_	18	dobj	_	_
 
+#Tweet
 1	@HeyItsAlexM	@HeyItsAlexM	_	NNP	_	2	nn	_	_
 2	@Keatmyshiz	@Keatmyshiz	_	NNP	_	3	nsubj	_	_
 3	hes	he	_	VBZ	_	0	null	_	_
@@ -10665,6 +11168,7 @@
 11	do	do	_	VB	_	9	xcomp	_	_
 12	it	it	_	PRP	_	11	dobj	_	_
 
+#Tweet
 1	There	there	_	EX	_	2	expl	_	_
 2	is	be	_	VBZ	_	0	null	_	_
 3	nothing	nothing	_	NN	_	2	nsubj	_	_
@@ -10688,6 +11192,7 @@
 21	rise	rise	_	NN	_	19	pobj	_	_
 22	of	of	_	IN	_	21	dep	_	_
 
+#Tweet
 1	And	and	_	CC	_	3	cc	_	_
 2	people	people	_	NNS	_	3	nsubj	_	_
 3	wonder	wonder	_	VBP	_	25	dep	_	_
@@ -10715,6 +11220,7 @@
 25	rich	rich	_	JJ	_	0	null	_	_
 26	!	!	_	.	_	25	punct	_	_
 
+#Tweet
 1	@PennyRed	@pennyred	_	VBN	_	6	nsubj	_	_
 2	is	be	_	VBZ	_	6	cop	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -10727,6 +11233,7 @@
 10	@AmandaMarcotte	@AmandaMarcotte	_	NNP	_	11	nn	_	_
 11	#GamerGate	#GamerGate	_	NNP	_	8	conj	_	_
 
+#Tweet
 1	@azarrax	@azarrax	_	NNP	_	2	nn	_	_
 2	@PennyRed	@PennyRed	_	NNP	_	7	nsubj	_	_
 3	is	be	_	VBZ	_	7	cop	_	_
@@ -10742,6 +11249,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Anita	Anita	_	NNP	_	2	nn	_	_
 2	#Sarkeesian	#Sarkeesian	_	NNP	_	0	null	_	_
 3	-	-	_	HYPH	_	2	dep	_	_
@@ -10753,6 +11261,7 @@
 9	trope	trope	_	NN	_	7	pobj	_	_
 10	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	@deanesmay	@deanesmay	_	RB	_	4	advmod	_	_
 2	The	the	_	DT	_	3	det	_	_
 3	Command	Command	_	NNP	_	4	nsubj	_	_
@@ -10776,6 +11285,7 @@
 7	with	with	_	IN	_	6	prep	_	_
 8	it	it	_	PRP	_	7	pobj	_	_
 
+#Tweet
 1	@abbystew292	@abbystew292	_	CD	_	2	number	_	_
 2	@gogreen18	@gogreen18	_	CD	_	0	null	_	_
 3	If	if	_	IN	_	5	mark	_	_
@@ -10798,6 +11308,7 @@
 20	sex	sex	_	NN	_	21	nn	_	_
 21	crime	crime	_	NN	_	18	dobj	_	_
 
+#Tweet
 1	When	when	_	WRB	_	3	advmod	_	_
 2	there	there	_	EX	_	3	expl	_	_
 3	's	be	_	VBZ	_	0	null	_	_
@@ -10819,6 +11330,7 @@
 19	sexual	sexual	_	JJ	_	20	amod	_	_
 20	violence	violence	_	NN	_	16	nsubj	_	_
 
+#Tweet
 1	#HowToKeepYourGirlHappy	#howtokeepyourgirlhappy	_	JJ	_	11	nsubj	_	_
 2	treat	treat	_	VB	_	11	cop	_	_
 3	her	she	_	PRP$	_	11	punct	_	_
@@ -10831,6 +11343,7 @@
 10	your	you	_	PRP$	_	11	poss	_	_
 11	superior	superior	_	JJ	_	0	null	_	_
 
+#Tweet
 1	Modern	modern	_	JJ	_	2	amod	_	_
 2	marriage	marriage	_	NN	_	3	nsubj	_	_
 3	is	be	_	VBZ	_	0	null	_	_
@@ -10851,6 +11364,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Speaking	speak	_	VBG	_	7	csubj	_	_
 2	from	from	_	IN	_	1	prep	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -10872,6 +11386,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@TheSun	@TheSun	_	NNP	_	4	nn	_	_
 2	@George_Osborne	@George_Osborne	_	NNP	_	4	nn	_	_
 3	Innocent	innocent	_	JJ	_	4	amod	_	_
@@ -10887,6 +11402,7 @@
 
 1	#SayNoToFeminism	#SayNoToFeminism	_	NNP	_	0	null	_	_
 
+#Tweet
 1	In	in	_	IN	_	7	prep	_	_
 2	reading	read	_	VBG	_	1	pcomp	_	_
 3	the	the	_	DT	_	5	det	_	_
@@ -10914,6 +11430,7 @@
 1	#rights	#rights	_	NNS	_	2	nsubj	_	_
 2	#fight	#fight	_	VBP	_	0	null	_	_
 
+#Tweet
 1	@AsheMareexoxo	@AsheMareexoxo	_	NNP	_	4	nsubj	_	_
 2	literally	literally	_	RB	_	4	advmod	_	_
 3	you	you	_	PRP	_	4	nsubj	_	_
@@ -10932,6 +11449,7 @@
 16	nerd	nerd	_	NN	_	17	nn	_	_
 17	girls	girl	_	NNS	_	8	pobj	_	_
 
+#Tweet
 1	#Weneedfeminism	#weneedfeminism	_	NN	_	0	null	_	_
 2	because	because	_	IN	_	4	mark	_	_
 3	Twitter	Twitter	_	NNP	_	4	nsubj	_	_
@@ -10948,6 +11466,7 @@
 2	#HeForShe	#HeForShe	_	NNP	_	3	nn	_	_
 3	#Feminist	#Feminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Why	why	_	WRB	_	7	advmod	_	_
 2	are	be	_	VBP	_	7	aux	_	_
 3	we	we	_	PRP	_	7	nsubj	_	_
@@ -10982,6 +11501,7 @@
 8	people	people	_	NNS	_	6	appos	_	_
 9	!	!	_	.	_	6	punct	_	_
 
+#Tweet
 1	@cathhayden	@cathhayden	_	JJ	_	0	null	_	_
 2	ya	ya	_	PRP	_	1	dep	_	_
 3	but	but	_	CC	_	1	cc	_	_
@@ -10995,6 +11515,7 @@
 11	#sjw	#sjw	_	FW	_	5	ccomp	_	_
 12	#vegan	#vegan	_	FW	_	11	dep	_	_
 
+#Tweet
 1	U.S.	U.S.	_	NNP	_	2	nsubj	_	_
 2	putting	put	_	VBG	_	0	null	_	_
 3	a	a	_	DT	_	4	det	_	_
@@ -11022,6 +11543,7 @@
 2	#WomenOn20s	#womenon20s	_	NNS	_	3	nsubj	_	_
 3	#Feminist	#feminist	_	ADD	_	0	null	_	_
 
+#Tweet
 1	#Pretty	#pretty	_	NN	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
@@ -11045,6 +11567,7 @@
 
 1	#gender	#gender	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Mind	mind	_	NN	_	0	null	_	_
 2	you	you	_	PRP	_	18	nsubj	_	_
 3	,	,	_	,	_	18	punct	_	_
@@ -11065,6 +11588,7 @@
 18	@beauschopstick	@beauschopstick	_	VBP	_	1	rcmod	_	_
 19	#GamerGate	#gamergate	_	NN	_	18	dobj	_	_
 
+#Tweet
 1	@PennyRed	@pennyred	_	VBN	_	0	null	_	_
 2	oh	oh	_	UH	_	1	dep	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -11083,6 +11607,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	There	there	_	EX	_	2	expl	_	_
 2	is	be	_	VBZ	_	0	null	_	_
 3	one	one	_	CD	_	6	num	_	_
@@ -11118,6 +11643,7 @@
 3	Carter	Carter	_	NNP	_	4	nsubj	_	_
 4	)	)	_	-RRB-	_	1	null	_	_
 
+#Tweet
 1	If	if	_	IN	_	4	mark	_	_
 2	the	the	_	DT	_	3	det	_	_
 3	sexes	sex	_	NNS	_	4	nsubj	_	_
@@ -11137,6 +11663,7 @@
 17	necessary	necessary	_	JJ	_	7	rcmod	_	_
 18	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	@MandaReneK	@mandarenek	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -11161,6 +11688,7 @@
 3	#sor	#sor	_	NNP	_	0	null	_	_
 4	...	...	_	.	_	3	punct	_	_
 
+#Tweet
 1	Their	they	_	PRP$	_	3	poss	_	_
 2	other	other	_	JJ	_	3	amod	_	_
 3	complaints	complaint	_	NNS	_	7	nsubj	_	_
@@ -11185,6 +11713,7 @@
 22	2	2	_	CD	_	21	dep	_	_
 23	/	/	_	SYM	_	19	dep	_	_
 
+#Tweet
 1	Watch	watch	_	VB	_	12	dep	_	_
 2	out	out	_	RP	_	1	prt	_	_
 3	,	,	_	,	_	12	punct	_	_
@@ -11204,6 +11733,7 @@
 17	Lady	Lady	_	NNP	_	14	pobj	_	_
 18	.	.	_	.	_	12	punct	_	_
 
+#Tweet
 1	@stephspickle	@stephspickle	_	RB	_	3	advmod	_	_
 2	they	they	_	PRP	_	3	nsubj	_	_
 3	make	make	_	VBP	_	0	null	_	_
@@ -11211,6 +11741,7 @@
 5	smile	smile	_	VB	_	3	xcomp	_	_
 6	:)	:)	_	NFP	_	5	punct	_	_
 
+#Tweet
 1	Gender	gender	_	NN	_	2	nn	_	_
 2	norms	norm	_	NNS	_	7	nsubj	_	_
 3	my	my	_	PRP$	_	4	poss	_	_
@@ -11227,6 +11758,7 @@
 14	wedges	wedge	_	NNS	_	15	nn	_	_
 15	#muscles	#muscles	_	NNS	_	13	pobj	_	_
 
+#Tweet
 1	Writing	write	_	VBG	_	0	null	_	_
 2	and	and	_	CC	_	1	cc	_	_
 3	wondering	wonder	_	VBG	_	1	conj	_	_
@@ -11245,6 +11777,7 @@
 1	#OppressedByThesaurus	#OppressedByThesaurus	_	NNP	_	2	nn	_	_
 2	#OvariesBeforBrovaries	#ovariesbeforbrovaries	_	NNS	_	0	null	_	_
 
+#Tweet
 1	The	the	_	DT	_	3	det	_	_
 2	representation	representation	_	NN	_	3	nn	_	_
 3	goal	goal	_	NN	_	7	nsubj	_	_
@@ -11266,6 +11799,7 @@
 19	male	male	_	JJ	_	20	amod	_	_
 20	characters	character	_	NNS	_	17	dobj	_	_
 
+#Tweet
 1	The	the	_	DT	_	3	det	_	_
 2	basic	basic	_	JJ	_	3	amod	_	_
 3	principle	principle	_	NN	_	8	nsubj	_	_
@@ -11289,6 +11823,7 @@
 
 1	#antifeminism	#antifeminism	_	NNP	_	0	null	_	_
 
+#Tweet
 1	It	it	_	PRP	_	4	nsubj	_	_
 2	is	be	_	VBZ	_	4	cop	_	_
 3	not	not	_	RB	_	4	neg	_	_
@@ -11315,6 +11850,7 @@
 1	#identitypolitics	#identitypolitics	_	NNS	_	2	nsubj	_	_
 2	#SpankAFeminist	#spankafeminist	_	ADD	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubjpass	_	_
 2	'm	be	_	VBP	_	3	aux	_	_
 3	blocked	block	_	VBN	_	0	null	_	_
@@ -11345,6 +11881,7 @@
 3	handle	handle	_	VB	_	0	null	_	_
 4	facts	fact	_	NNS	_	3	dobj	_	_
 
+#Tweet
 1	RT	rt	_	NN	_	2	nn	_	_
 2	mojibakemono	mojibakemono	_	NN	_	0	null	_	_
 3	:	:	_	:	_	2	punct	_	_
@@ -11369,6 +11906,7 @@
 22	#GamerGate	#GamerGate	_	NNP	_	23	nn	_	_
 23	#NotYourShield	#NotYourShield	_	NNP	_	19	dobj	_	_
 
+#Tweet
 1	All	all	_	DT	_	2	det	_	_
 2	mascots	mascot	_	NNS	_	9	nsubj	_	_
 3	in	in	_	IN	_	2	prep	_	_
@@ -11383,6 +11921,7 @@
 1	...	...	_	NFP	_	0	null	_	_
 2	#Equalityforall	#equalityforall	_	NN	_	1	null	_	_
 
+#Tweet
 1	there	there	_	EX	_	2	expl	_	_
 2	's	be	_	VBZ	_	0	null	_	_
 3	someone	someone	_	NN	_	5	nsubj	_	_
@@ -11416,6 +11955,7 @@
 7	then	then	_	RB	_	6	pobj	_	_
 8	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	Feminists	feminist	_	NNS	_	4	nsubj	_	_
 2	are	be	_	VBP	_	4	cop	_	_
 3	about	about	_	RB	_	4	advmod	_	_
@@ -11436,6 +11976,7 @@
 18	and	and	_	CC	_	17	cc	_	_
 19	whites	whites	_	NNS	_	17	conj	_	_
 
+#Tweet
 1	@kimiyyye	@kimiyyye	_	JJ	_	3	amod	_	_
 2	nah	nah	_	UH	_	3	dep	_	_
 3	bitch	bitch	_	NN	_	0	null	_	_
@@ -11464,6 +12005,7 @@
 15	you	you	_	PRP	_	14	dobj	_	_
 16	daily	daily	_	JJ	_	14	dep	_	_
 
+#Tweet
 1	...	...	_	NFP	_	0	null	_	_
 2	OR	or	_	CC	_	1	cc	_	_
 3	SLOW	slow	_	VB	_	1	conj	_	_
@@ -11484,6 +12026,7 @@
 
 1	#WHATTHEACTUALFUCK	#WHATTHEACTUALFUCK	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@TheCoffeeFilter	@TheCoffeeFilter	_	NNP	_	0	null	_	_
 2	:	:	_	:	_	1	punct	_	_
 3	...	...	_	NFP	_	1	punct	_	_
@@ -11506,6 +12049,7 @@
 
 1	#WHATTHEACTUALFUCK	#WHATTHEACTUALFUCK	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Most	most	_	JJS	_	3	amod	_	_
 2	non-feminist	non-feminist	_	JJ	_	3	amod	_	_
 3	ppl	ppl	_	NNS	_	6	nsubj	_	_
@@ -11532,6 +12076,7 @@
 4	#MRA	#MRA	_	NNP	_	5	nn	_	_
 5	#antiSJW	#antiSJW	_	NNP	_	0	null	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	feel	feel	_	VBP	_	0	null	_	_
 3	so	so	_	RB	_	4	advmod	_	_
@@ -11565,6 +12110,7 @@
 8	home	home	_	RB	_	7	advmod	_	_
 9	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	MyVagina	MyVagina	_	NNP	_	2	nsubj	_	_
 2	kicked	kick	_	VBD	_	0	null	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -11574,6 +12120,7 @@
 7	HisCock	HisCock	_	NNP	_	6	pobj	_	_
 8	/	/	_	,	_	2	punct	_	_
 
+#Tweet
 1	@marieclaire	@marieclaire	_	VB	_	0	null	_	_
 2	Pretty	pretty	_	RB	_	3	advmod	_	_
 3	sure	sure	_	JJ	_	1	acomp	_	_
@@ -11602,6 +12149,7 @@
 
 1	#feminists	#feminists	_	NNS	_	0	null	_	_
 
+#Tweet
 1	Men	man	_	NNS	_	5	nsubj	_	_
 2	can	can	_	MD	_	5	aux	_	_
 3	no	no	_	RB	_	4	advmod	_	_
@@ -11632,6 +12180,7 @@
 7	males	male	_	NNS	_	5	pobj	_	_
 8	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	*	*	_	NFP	_	0	null	_	_
 2	sigh	sigh	_	NN	_	1	dep	_	_
 3	*	*	_	NFP	_	2	dep	_	_
@@ -11653,6 +12202,7 @@
 
 1	#ChrissyTeigen	#ChrissyTeigen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Girls	girl	_	NNS	_	4	nsubj	_	_
 2	do	do	_	VBP	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -11678,6 +12228,7 @@
 23	them	they	_	PRP	_	22	pobj	_	_
 24	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	I	I	_	PRP	_	2	nsubj	_	_
 2	get	get	_	VBP	_	0	null	_	_
 3	a	a	_	DT	_	4	det	_	_
@@ -11707,6 +12258,7 @@
 14	#freethenippple	#freethenippple	_	NN	_	15	nn	_	_
 15	#boobs	#boobs	_	NNS	_	10	conj	_	_
 
+#Tweet
 1	Being	be	_	VBG	_	2	auxpass	_	_
 2	raised	raise	_	VBN	_	17	dep	_	_
 3	by	by	_	IN	_	2	prep	_	_
@@ -11726,6 +12278,7 @@
 17	slave	slave	_	NN	_	0	null	_	_
 18	!	!	_	.	_	17	punct	_	_
 
+#Tweet
 1	#BeautyRant	#BeautyRant	_	NNP	_	0	null	_	_
 2	7	7	_	CD	_	1	num	_	_
 3	-	-	_	,	_	1	punct	_	_
@@ -11760,6 +12313,7 @@
 
 1	#Beauty	#Beauty	_	NNP	_	0	null	_	_
 
+#Tweet
 1	#INeedMeninist	#ineedmeninist	_	NN	_	0	null	_	_
 2	because	because	_	IN	_	3	dep	_	_
 3	as	as	_	IN	_	1	prep	_	_
@@ -11780,6 +12334,7 @@
 18	feminist	feminist	_	JJ	_	17	pobj	_	_
 19	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	As	as	_	IN	_	5	prep	_	_
 2	a	a	_	DT	_	3	det	_	_
 3	child	child	_	NN	_	1	pobj	_	_
@@ -11808,6 +12363,7 @@
 26	slave	slave	_	NN	_	0	null	_	_
 27	!	!	_	.	_	26	punct	_	_
 
+#Tweet
 1	Storey	Storey	_	NNP	_	3	poss	_	_
 2	's	's	_	POS	_	1	possessive	_	_
 3	Song	song	_	NN	_	0	null	_	_
@@ -11841,6 +12397,7 @@
 
 1	#BeeGees	#beegees	_	NNS	_	0	null	_	_
 
+#Tweet
 1	A	a	_	DT	_	2	det	_	_
 2	year	year	_	NN	_	0	null	_	_
 3	of	of	_	IN	_	2	prep	_	_
@@ -11863,6 +12420,7 @@
 20	social	social	_	JJ	_	21	amod	_	_
 21	media	media	_	NNS	_	19	pobj	_	_
 
+#Tweet
 1	Interesting	interesting	_	JJ	_	0	null	_	_
 2	in	in	_	IN	_	1	prep	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -11888,6 +12446,7 @@
 23	evil	evil	_	JJ	_	24	amod	_	_
 24	accountant	accountant	_	NN	_	21	pobj	_	_
 
+#Tweet
 1	to	to	_	IN	_	16	mark	_	_
 2	all	all	_	PDT	_	4	predet	_	_
 3	the	the	_	DT	_	4	det	_	_
@@ -11909,6 +12468,7 @@
 19	'	'	_	POS	_	18	possessive	_	_
 20	#Lionesses	#lionesses	_	NNS	_	16	dobj	_	_
 
+#Tweet
 1	I	I	_	PRP	_	3	nsubj	_	_
 2	'm	be	_	VBP	_	3	cop	_	_
 3	all	all	_	DT	_	0	null	_	_
@@ -11935,6 +12495,7 @@
 
 1	#Meninist	#Meninist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Never	never	_	RB	_	2	neg	_	_
 2	settle	settle	_	VB	_	0	null	_	_
 3	for	for	_	IN	_	2	prep	_	_
@@ -11946,6 +12507,7 @@
 9	worth	worth	_	JJ	_	5	ccomp	_	_
 10	.	.	_	.	_	2	punct	_	_
 
+#Tweet
 1	Really	really	_	RB	_	3	advmod	_	_
 2	interesting	interesting	_	JJ	_	3	amod	_	_
 3	debate	debate	_	NN	_	0	null	_	_
@@ -11959,6 +12521,7 @@
 11	#BSCConf15	#bscconf15	_	NN	_	12	nn	_	_
 12	#criminology	#criminology	_	NN	_	4	pcomp	_	_
 
+#Tweet
 1	Seriously	seriously	_	RB	_	4	advmod	_	_
 2	ca	can	_	MD	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -11975,6 +12538,7 @@
 14	men	man	_	NNS	_	10	dep	_	_
 15	#Wimbledon	#wimbledon	_	ADD	_	10	dep	_	_
 
+#Tweet
 1	Ca	can	_	MD	_	3	aux	_	_
 2	n't	not	_	RB	_	3	neg	_	_
 3	find	find	_	VB	_	0	null	_	_
@@ -12005,6 +12569,7 @@
 
 1	#Equality	#equality	_	NN	_	0	null	_	_
 
+#Tweet
 1	Seriously	seriously	_	RB	_	4	advmod	_	_
 2	ca	can	_	MD	_	4	aux	_	_
 3	n't	not	_	RB	_	4	neg	_	_
@@ -12019,6 +12584,7 @@
 12	now	now	_	RB	_	6	advmod	_	_
 13	.	.	_	.	_	4	punct	_	_
 
+#Tweet
 1	NiceFeminists	nicefeminist	_	NNS	_	4	nsubj	_	_
 2	are	be	_	VBP	_	4	cop	_	_
 3	passive	passive	_	JJ	_	4	amod	_	_
@@ -12049,6 +12615,7 @@
 14	!	!	_	.	_	3	punct	_	_
 15	"	"	_	''	_	3	punct	_	_
 
+#Tweet
 1	DEAR	dear	_	JJ	_	2	amod	_	_
 2	FEMINISTS	feminist	_	NNS	_	3	nsubj	_	_
 3	Start	start	_	VB	_	0	null	_	_
@@ -12068,6 +12635,7 @@
 17	concealment	concealment	_	NN	_	15	pobj	_	_
 18	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	DEAR	dear	_	JJ	_	2	amod	_	_
 2	FEMINISTS	feminist	_	NNS	_	0	null	_	_
 3	&	&	_	CC	_	2	cc	_	_
@@ -12097,6 +12665,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	All	all	_	PDT	_	3	predet	_	_
 2	the	the	_	DT	_	3	det	_	_
 3	people	people	_	NNS	_	14	nsubj	_	_
@@ -12118,6 +12687,7 @@
 19	#YesAllWomen	#YesAllWomen	_	NNP	_	20	nn	_	_
 20	#UniteBlue	#UniteBlue	_	NNP	_	14	ccomp	_	_
 
+#Tweet
 1	#HowToSpotAFeminist	#howtospotafeminist	_	NN	_	0	null	_	_
 2	?	?	_	.	_	1	punct	_	_
 
@@ -12139,6 +12709,7 @@
 16	persecution	persecution	_	NN	_	15	pobj	_	_
 17	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	@ChiefSarf	@chiefsarf	_	RB	_	3	advmod	_	_
 2	good	good	_	JJ	_	3	amod	_	_
 3	thing	thing	_	NN	_	0	null	_	_
@@ -12155,6 +12726,7 @@
 14	slay	slay	_	NN	_	13	pobj	_	_
 15	!!	!!	_	.	_	3	punct	_	_
 
+#Tweet
 1	#HowToSpotAFeminist	#howtospotafeminist	_	NN	_	0	null	_	_
 2	?	?	_	.	_	1	punct	_	_
 
@@ -12176,6 +12748,7 @@
 16	jealousy	jealousy	_	NN	_	15	dobj	_	_
 17	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	#HowToSpotAFeminist	#howtospotafeminist	_	NN	_	0	null	_	_
 2	?	?	_	.	_	1	punct	_	_
 
@@ -12198,6 +12771,7 @@
 17	lives	life	_	NNS	_	13	dobj	_	_
 18	.	.	_	.	_	5	punct	_	_
 
+#Tweet
 1	#HowToBeUnhappyLikeAFeminist	#howtobeunhappylikeafeminist	_	NN	_	0	null	_	_
 2	?	?	_	.	_	1	punct	_	_
 
@@ -12215,6 +12789,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	feminist	feminist	_	JJ	_	3	amod	_	_
 2	response	response	_	NN	_	3	nn	_	_
 3	people	people	_	NNS	_	8	nsubj	_	_
@@ -12237,6 +12812,7 @@
 4	GROUP	group	_	NN	_	0	null	_	_
 5	???	???	_	.	_	4	punct	_	_
 
+#Tweet
 1	@prpodcastshow	@prpodcastshow	_	RB	_	3	advmod	_	_
 2	I	I	_	PRP	_	3	nsubj	_	_
 3	hope	hope	_	VBP	_	0	null	_	_
@@ -12261,6 +12837,7 @@
 6	men	man	_	NNS	_	5	pobj	_	_
 7	?	?	_	.	_	2	punct	_	_
 
+#Tweet
 1	Feminists	feminist	_	NNS	_	2	nsubj	_	_
 2	saying	say	_	VBG	_	0	null	_	_
 3	they	they	_	PRP	_	6	nsubj	_	_
@@ -12284,6 +12861,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Amusing	amusing	_	JJ	_	0	null	_	_
 2	how	how	_	WRB	_	6	advmod	_	_
 3	Feminists	Feminists	_	NNPS	_	6	nsubj	_	_
@@ -12312,6 +12890,7 @@
 26	"	"	_	``	_	27	punct	_	_
 27	#GamerGate	#GamerGate	_	NNP	_	24	xcomp	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	times	time	_	NNS	_	9	nsubj	_	_
 3	in	in	_	IN	_	2	prep	_	_
@@ -12323,6 +12902,7 @@
 9	periods	period	_	NNS	_	0	null	_	_
 10	.	.	_	.	_	9	punct	_	_
 
+#Tweet
 1	Amusing	amusing	_	JJ	_	0	null	_	_
 2	how	how	_	WRB	_	4	advmod	_	_
 3	feminists	feminist	_	NNS	_	4	nsubj	_	_
@@ -12350,6 +12930,7 @@
 1	#GamerGate	#GamerGate	_	NNP	_	2	nn	_	_
 2	#NotYourShield	#NotYourShield	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Amusing	amusing	_	JJ	_	0	null	_	_
 2	.	.	_	.	_	1	punct	_	_
 
@@ -12371,6 +12952,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Women	woman	_	NNS	_	6	nsubj	_	_
 2	in	in	_	IN	_	1	prep	_	_
 3	STEM	stem	_	NN	_	2	pobj	_	_
@@ -12394,6 +12976,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	When	when	_	WRB	_	3	advmod	_	_
 2	did	do	_	VBD	_	3	aux	_	_
 3	trivializing	trivialize	_	VBG	_	13	csubj	_	_
@@ -12417,6 +13000,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	The	the	_	DT	_	2	det	_	_
 2	mentality	mentality	_	NN	_	5	nsubj	_	_
 3	of	of	_	IN	_	2	prep	_	_
@@ -12444,6 +13028,7 @@
 8	criticism	criticism	_	NN	_	6	pobj	_	_
 9	"	"	_	''	_	8	punct	_	_
 
+#Tweet
 1	If	if	_	IN	_	3	mark	_	_
 2	women	woman	_	NNS	_	3	nsubj	_	_
 3	do	do	_	VBP	_	10	advcl	_	_
@@ -12469,6 +13054,7 @@
 6	promoter	promoter	_	NN	_	7	nn	_	_
 7	#LenaDunham	#LenaDunham	_	NNP	_	4	dobj	_	_
 
+#Tweet
 1	Feminism	feminism	_	NN	_	5	nsubjpass	_	_
 2	is	be	_	VBZ	_	5	auxpass	_	_
 3	Radical	radical	_	JJ	_	4	amod	_	_
@@ -12480,6 +13066,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	DEAR	dear	_	JJ	_	2	amod	_	_
 2	FEMINISTS	feminist	_	NNS	_	7	nsubjpass	_	_
 3	IN	in	_	IN	_	2	prep	_	_
@@ -12499,6 +13086,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	IF	if	_	IN	_	3	mark	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	3	nsubj	_	_
 3	WERE	be	_	VBD	_	0	null	_	_
@@ -12520,6 +13108,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	IF	if	_	IN	_	3	mark	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	3	nsubj	_	_
 3	WERE	be	_	VBD	_	0	null	_	_
@@ -12544,6 +13133,7 @@
 22	rape	rape	_	NN	_	21	pobj	_	_
 23	"	"	_	''	_	3	punct	_	_
 
+#Tweet
 1	When	when	_	WRB	_	3	advmod	_	_
 2	did	do	_	VBD	_	3	aux	_	_
 3	people	people	_	NNS	_	7	nsubj	_	_
@@ -12565,6 +13155,7 @@
 6	Feminism	feminism	_	NN	_	7	nn	_	_
 7	#GamerGate	#gamergate	_	NN	_	4	null	_	_
 
+#Tweet
 1	IF	if	_	IN	_	3	mark	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	3	nsubj	_	_
 3	WERE	be	_	VBD	_	20	advcl	_	_
@@ -12592,6 +13183,7 @@
 25	"	"	_	``	_	26	punct	_	_
 26	#GamerGate	#gamergate	_	NN	_	20	ccomp	_	_
 
+#Tweet
 1	Feminist	Feminist	_	NNP	_	2	nn	_	_
 2	extremists	extremist	_	NNS	_	3	nsubj	_	_
 3	ruin	ruin	_	VBP	_	0	null	_	_
@@ -12613,6 +13205,7 @@
 11	handout	handout	_	NN	_	7	dep	_	_
 12	.	.	_	.	_	1	punct	_	_
 
+#Tweet
 1	@kbambi1376	@kbambi1376	_	CD	_	7	num	_	_
 2	It	it	_	PRP	_	7	nsubj	_	_
 3	's	be	_	VBZ	_	7	cop	_	_
@@ -12638,6 +13231,7 @@
 
 1	#SpankAFeminist	#SpankAFeminist	_	NNP	_	0	null	_	_
 
+#Tweet
 1	@elllode	@elllode	_	VB	_	0	null	_	_
 2	BUT	but	_	CC	_	1	cc	_	_
 3	SHE	she	_	PRP	_	4	nsubj	_	_
@@ -12646,6 +13240,7 @@
 6	HIGH	high	_	JJ	_	7	amod	_	_
 7	HEELS	heel	_	NNS	_	5	pobj	_	_
 
+#Tweet
 1	If	if	_	IN	_	5	mark	_	_
 2	Feminism	Feminism	_	NNP	_	5	nsubj	_	_
 3	is	be	_	VBZ	_	5	cop	_	_
@@ -12667,6 +13262,7 @@
 
 1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	How	how	_	WRB	_	3	advmod	_	_
 2	to	to	_	TO	_	3	aux	_	_
 3	spot	spot	_	VB	_	0	null	_	_
@@ -12689,6 +13285,7 @@
 4	otherwise	otherwise	_	RB	_	3	advmod	_	_
 5	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	@TarheelKrystle	@TarheelKrystle	_	NNP	_	2	nn	_	_
 2	@primatemachine	@primatemachine	_	NNP	_	3	nsubj	_	_
 3	Bowing	bow	_	VBG	_	0	null	_	_
@@ -12712,6 +13309,7 @@
 9	triggering	trigger	_	VBG	_	0	null	_	_
 10	.	.	_	.	_	9	punct	_	_
 
+#Tweet
 1	People	people	_	NNS	_	2	nsubj	_	_
 2	think	think	_	VBP	_	0	null	_	_
 3	because	because	_	IN	_	7	mark	_	_
@@ -12740,6 +13338,7 @@
 
 1	#EqualityForAll	#EqualityForAll	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Misogynist	misogynist	_	JJ	_	3	amod	_	_
 2	abuser	abuser	_	NN	_	3	nn	_	_
 3	@NickRinke	@NickRinke	_	NNP	_	8	nsubj	_	_
@@ -12764,6 +13363,7 @@
 
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Abusive	abusive	_	JJ	_	3	amod	_	_
 2	Misogynist	Misogynist	_	NNP	_	3	nn	_	_
 3	@NickRinke	@NickRinke	_	NNP	_	8	nsubj	_	_
@@ -12788,6 +13388,7 @@
 
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
 
+#Tweet
 1	Feminism	feminism	_	NN	_	3	nsubj	_	_
 2	is	be	_	VBZ	_	3	cop	_	_
 3	nothing	nothing	_	NN	_	0	null	_	_
@@ -12805,6 +13406,7 @@
 15	them	they	_	PRP	_	14	dobj	_	_
 16	.	.	_	.	_	3	punct	_	_
 
+#Tweet
 1	my	my	_	PRP$	_	2	poss	_	_
 2	coworker	coworker	_	NN	_	3	nsubj	_	_
 3	called	call	_	VBD	_	0	null	_	_
@@ -12834,6 +13436,7 @@
 27	i	i	_	PRP	_	28	nsubj	_	_
 28	need	need	_	VBP	_	25	advcl	_	_
 
+#Tweet
 1	I	I	_	PRP	_	4	nsubj	_	_
 2	am	be	_	VBP	_	4	cop	_	_
 3	really	really	_	RB	_	4	advmod	_	_
@@ -12856,6 +13459,7 @@
 20	feminist	feminist	_	JJ	_	21	amod	_	_
 21	#HeForShe	#heforshe	_	NN	_	15	pcomp	_	_
 
+#Tweet
 1	@shunter395	@shunter395	_	NNP	_	2	nn	_	_
 2	True	True	_	NNP	_	0	null	_	_
 3	,	,	_	,	_	2	punct	_	_
@@ -12875,6 +13479,7 @@
 17	to	to	_	TO	_	18	aux	_	_
 18	promote	promote	_	VB	_	14	xcomp	_	_
 
+#Tweet
 1	Grr	Grr	_	NNP	_	0	null	_	_
 2	!	!	_	.	_	1	punct	_	_
 
@@ -12900,6 +13505,7 @@
 9	humor	humor	_	NN	_	10	nn	_	_
 10	#SpankAFeminist	#spankafeminist	_	NN	_	8	pobj	_	_
 
+#Tweet
 1	@deanesmay	@deanesmay	_	NNP	_	4	nn	_	_
 2	@JenMurray41	@JenMurray41	_	NNP	_	4	nn	_	_
 3	Bc	Bc	_	NNP	_	4	nn	_	_
@@ -12915,6 +13521,7 @@
 1	#SpankAFeminist	#SpankAFeminist	_	NNP	_	2	nn	_	_
 2	#gamergate	#gamergate	_	NNP	_	0	null	_	_
 
+#Tweet
 1	What	what	_	WDT	_	2	det	_	_
 2	!?	!?	_	.	_	0	null	_	_
 
@@ -12936,1197 +13543,4 @@
 1	Fucking	fucking	_	UH	_	2	dep	_	_
 2	Patriarchy	Patriarchy	_	NNP	_	0	null	_	_
 3	!	!	_	.	_	2	punct	_	_
-
-1	#TweetLikeAFeminist	#TweetLikeAFeminist	_	NNP	_	2	nn	_	_
-2	#SJWLogic	#SJWLogic	_	NNP	_	0	null	_	_
-
-1	The	the	_	DT	_	2	det	_	_
-2	fact	fact	_	NN	_	10	nsubj	_	_
-3	that	that	_	IN	_	9	complm	_	_
-4	Chris	Chris	_	NNP	_	5	nn	_	_
-5	Brown	Brown	_	NNP	_	9	nsubj	_	_
-6	is	be	_	VBZ	_	9	cop	_	_
-7	somehow	somehow	_	RB	_	9	advmod	_	_
-8	still	still	_	RB	_	9	advmod	_	_
-9	famous	famous	_	JJ	_	2	ccomp	_	_
-10	is	be	_	VBZ	_	0	null	_	_
-11	why	why	_	WRB	_	13	advmod	_	_
-12	I	I	_	PRP	_	13	nsubj	_	_
-13	need	need	_	VBP	_	10	advcl	_	_
-
-1	God	God	_	NNP	_	4	nsubj	_	_
-2	did	do	_	VBD	_	4	aux	_	_
-3	not	not	_	RB	_	4	neg	_	_
-4	want	want	_	VB	_	0	null	_	_
-5	you	you	_	PRP	_	7	nsubj	_	_
-6	to	to	_	TO	_	7	aux	_	_
-7	have	have	_	VB	_	4	xcomp	_	_
-8	the	the	_	DT	_	10	det	_	_
-9	same	same	_	JJ	_	10	amod	_	_
-10	opportunity	opportunity	_	NN	_	7	dobj	_	_
-11	as	as	_	IN	_	10	prep	_	_
-12	men	man	_	NNS	_	11	pobj	_	_
-13	so	so	_	RB	_	14	advmod	_	_
-14	are	be	_	VBP	_	7	dep	_	_
-15	you	you	_	PRP	_	16	nsubj	_	_
-16	saying	say	_	VBG	_	14	rcmod	_	_
-17	God	God	_	NNP	_	19	nsubj	_	_
-18	is	be	_	VBZ	_	19	cop	_	_
-19	wrong	wrong	_	JJ	_	16	ccomp	_	_
-20	?	?	_	.	_	4	punct	_	_
-
-1	RULES	rule	_	NNS	_	0	null	_	_
-2	TO	to	_	TO	_	3	aux	_	_
-3	LIVE	live	_	VB	_	1	infmod	_	_
-4	BY	by	_	RB	_	3	advmod	_	_
-5	Seek	seek	_	VB	_	3	conj	_	_
-6	logic	logic	_	NN	_	5	dobj	_	_
-7	in	in	_	IN	_	5	prep	_	_
-8	things	thing	_	NNS	_	7	pobj	_	_
-9	,	,	_	,	_	3	punct	_	_
-10	even	even	_	RB	_	13	advmod	_	_
-11	if	if	_	IN	_	13	dep	_	_
-12	it	it	_	PRP	_	13	nsubj	_	_
-13	looks	look	_	VBZ	_	3	ccomp	_	_
-14	like	like	_	IN	_	13	prep	_	_
-15	a	a	_	DT	_	16	det	_	_
-16	waste	waste	_	NN	_	14	pobj	_	_
-17	of	of	_	IN	_	16	prep	_	_
-18	time	time	_	NN	_	17	pobj	_	_
-19	,	,	_	,	_	13	punct	_	_
-20	including	include	_	VBG	_	13	prep	_	_
-21	feminism	feminism	_	NN	_	20	pobj	_	_
-22	.	.	_	.	_	1	punct	_	_
-
-1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
-
-1	Feminism	feminism	_	NN	_	7	nsubj	_	_
-2	on	on	_	IN	_	1	prep	_	_
-3	twitter	twitter	_	NN	_	2	pobj	_	_
-4	is	be	_	VBZ	_	7	cop	_	_
-5	the	the	_	DT	_	7	det	_	_
-6	black	black	_	JJ	_	7	amod	_	_
-7	hole	hole	_	NN	_	0	null	_	_
-8	of	of	_	IN	_	7	prep	_	_
-9	human	human	_	JJ	_	10	amod	_	_
-10	intelligence	intelligence	_	NN	_	8	pobj	_	_
-11	,	,	_	,	_	7	punct	_	_
-12	just	just	_	RB	_	13	dep	_	_
-13	like	like	_	IN	_	7	prep	_	_
-14	creationism	creationism	_	NN	_	13	pobj	_	_
-15	.	.	_	.	_	7	punct	_	_
-
-1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
-
-1	The	the	_	DT	_	2	det	_	_
-2	rule	rule	_	NN	_	6	nsubj	_	_
-3	of	of	_	IN	_	2	prep	_	_
-4	attention	attention	_	NN	_	3	pobj	_	_
-5	is	be	_	VBZ	_	6	cop	_	_
-6	you	you	_	PRP	_	8	nsubj	_	_
-7	always	always	_	RB	_	8	advmod	_	_
-8	get	get	_	VBP	_	0	null	_	_
-9	both	both	_	DT	_	8	dobj	_	_
-10	:	:	_	:	_	9	punct	_	_
-11	wanted	want	_	VBD	_	9	dep	_	_
-12	and	and	_	CC	_	11	cc	_	_
-13	unwanted	unwanted	_	JJ	_	11	conj	_	_
-14	.	.	_	.	_	8	punct	_	_
-
-1	But	but	_	CC	_	5	cc	_	_
-2	Feminists	feminist	_	NNS	_	3	nn	_	_
-3	hypocrites	hypocrite	_	NNS	_	5	nsubj	_	_
-4	only	only	_	RB	_	5	advmod	_	_
-5	want	want	_	VBP	_	0	null	_	_
-6	one	one	_	CD	_	5	dobj	_	_
-7	.	.	_	.	_	5	punct	_	_
-
-1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
-
-1	The	the	_	DT	_	3	det	_	_
-2	retarded	retarded	_	JJ	_	3	amod	_	_
-3	tantrums	tantrum	_	NNS	_	7	nsubj	_	_
-4	of	of	_	IN	_	3	prep	_	_
-5	#GamerGate	#gamergate	_	NN	_	6	nn	_	_
-6	feminists	feminist	_	NNS	_	4	pobj	_	_
-7	show	show	_	VBP	_	0	null	_	_
-8	the	the	_	DT	_	9	det	_	_
-9	effects	effect	_	NNS	_	7	dobj	_	_
-10	of	of	_	IN	_	9	prep	_	_
-11	a	a	_	DT	_	12	det	_	_
-12	lifetime	lifetime	_	NN	_	10	pobj	_	_
-13	of	of	_	IN	_	12	prep	_	_
-14	never	never	_	RB	_	15	neg	_	_
-15	facing	face	_	VBG	_	13	pcomp	_	_
-16	intellectual	intellectual	_	JJ	_	17	amod	_	_
-17	challenge	challenge	_	NN	_	15	dobj	_	_
-18	.	.	_	.	_	7	punct	_	_
-
-1	@HiddenTara	@HiddenTara	_	NNP	_	4	advmod	_	_
-2	No	no	_	DT	_	3	det	_	_
-3	one	one	_	NN	_	4	nsubj	_	_
-4	wants	want	_	VBZ	_	0	null	_	_
-5	to	to	_	TO	_	6	aux	_	_
-6	see	see	_	VB	_	4	xcomp	_	_
-7	#Feminists	#feminists	_	NNS	_	8	nsubj	_	_
-8	naked	naked	_	JJ	_	6	dep	_	_
-9	,	,	_	,	_	8	punct	_	_
-10	so	so	_	IN	_	16	mark	_	_
-11	the	the	_	DT	_	15	det	_	_
-12	petty	petty	_	JJ	_	15	amod	_	_
-13	,	,	_	,	_	15	punct	_	_
-14	vindictive	vindictive	_	JJ	_	15	amod	_	_
-15	bytches	bytch	_	NNS	_	16	nsubj	_	_
-16	want	want	_	VBP	_	8	advcl	_	_
-17	to	to	_	TO	_	18	aux	_	_
-18	drag	drag	_	VB	_	16	xcomp	_	_
-19	everyone	everyone	_	NN	_	18	dobj	_	_
-20	else	else	_	RB	_	19	amod	_	_
-21	down	down	_	RB	_	18	advmod	_	_
-22	to	to	_	IN	_	21	dep	_	_
-23	their	they	_	PRP$	_	24	poss	_	_
-24	level	level	_	NN	_	22	pobj	_	_
-25	.	.	_	.	_	4	punct	_	_
-
-1	CREATIONIST	creationist	_	RB	_	8	advmod	_	_
-2	OK	ok	_	UH	_	1	dep	_	_
-3	,	,	_	,	_	8	punct	_	_
-4	you	you	_	PRP	_	8	nsubj	_	_
-5	clearly	clearly	_	RB	_	8	advmod	_	_
-6	do	do	_	VBP	_	8	aux	_	_
-7	n't	not	_	RB	_	8	neg	_	_
-8	know	know	_	VB	_	0	null	_	_
-9	what	what	_	WP	_	14	dobj	_	_
-10	the	the	_	DT	_	11	det	_	_
-11	word	word	_	NN	_	14	nsubj	_	_
-12	of	of	_	IN	_	11	prep	_	_
-13	God	God	_	NNP	_	12	pobj	_	_
-14	is	be	_	VBZ	_	8	ccomp	_	_
-15	!	!	_	.	_	8	punct	_	_
-
-1	FEMINIST	feminist	_	RB	_	2	advmod	_	_
-2	OK	ok	_	UH	_	0	null	_	_
-3	you	you	_	PRP	_	7	nsubj	_	_
-4	clearly	clearly	_	RB	_	7	advmod	_	_
-5	do	do	_	VBP	_	7	aux	_	_
-6	n't	not	_	RB	_	7	neg	_	_
-7	know	know	_	VB	_	2	rcmod	_	_
-8	what	what	_	WP	_	9	det	_	_
-9	feminism	feminism	_	NN	_	10	attr	_	_
-10	is	be	_	VBZ	_	7	ccomp	_	_
-11	!	!	_	.	_	2	punct	_	_
-
-1	TASK	task	_	NN	_	0	null	_	_
-2	1	1	_	CD	_	1	num	_	_
-3	.	.	_	.	_	1	punct	_	_
-
-1	Present	present	_	VB	_	0	null	_	_
-2	a	a	_	DT	_	1	dobj	_	_
-3	feminist	feminist	_	JJ	_	2	amod	_	_
-4	the	the	_	DT	_	5	det	_	_
-5	fact	fact	_	NN	_	3	dep	_	_
-6	most	most	_	RBS	_	7	advmod	_	_
-7	infanticides	infanticide	_	NNS	_	9	nsubjpass	_	_
-8	are	be	_	VBP	_	9	auxpass	_	_
-9	perpetrated	perpetrate	_	VBN	_	5	ccomp	_	_
-10	by	by	_	IN	_	9	prep	_	_
-11	the	the	_	DT	_	12	det	_	_
-12	mother	mother	_	NN	_	10	pobj	_	_
-13	.	.	_	.	_	1	punct	_	_
-
-1	2	2	_	LS	_	0	null	_	_
-2	.	.	_	.	_	1	punct	_	_
-
-1	She	she	_	PRP	_	3	nsubj	_	_
-2	will	will	_	MD	_	3	aux	_	_
-3	blame	blame	_	VB	_	0	null	_	_
-4	it	it	_	PRP	_	3	dobj	_	_
-5	on	on	_	IN	_	3	prep	_	_
-6	a	a	_	DT	_	7	det	_	_
-7	male	male	_	NN	_	5	pobj	_	_
-8	(	(	_	-LRB-	_	10	punct	_	_
-9	s	s	_	AFX	_	10	dep	_	_
-10	)	)	_	-RRB-	_	7	dep	_	_
-11	.	.	_	.	_	3	punct	_	_
-
-1	IF	if	_	IN	_	3	mark	_	_
-2	FEMINISTS	FEMINISTS	_	NNP	_	3	nsubj	_	_
-3	WERE	be	_	VBD	_	0	null	_	_
-4	HONEST	honest	_	JJ	_	3	acomp	_	_
-5	"	"	_	``	_	7	punct	_	_
-6	I	I	_	PRP	_	7	nsubj	_	_
-7	want	want	_	VBP	_	4	null	_	_
-8	a	a	_	DT	_	11	det	_	_
-9	worldwide	worldwide	_	JJ	_	11	amod	_	_
-10	matriarchal	matriarchal	_	JJ	_	11	amod	_	_
-11	dictatorship	dictatorship	_	NN	_	15	nsubj	_	_
-12	with	with	_	IN	_	11	prep	_	_
-13	all	all	_	DT	_	14	det	_	_
-14	men	man	_	NNS	_	12	pobj	_	_
-15	enslaved	enslave	_	VBD	_	7	xcomp	_	_
-16	to	to	_	IN	_	15	prep	_	_
-17	women	woman	_	NNS	_	19	nn	_	_
-18	"	"	_	''	_	19	punct	_	_
-19	#GamerGate	#gamergate	_	NN	_	16	pobj	_	_
-
-1	@abbeysaurusrex_	@abbeysaurusrex_	_	GW	_	0	null	_	_
-2	C	c	_	GW	_	6	punct	_	_
-3	)	)	_	-RRB-	_	6	punct	_	_
-4	the	the	_	DT	_	5	det	_	_
-5	hell	hell	_	NN	_	6	nsubj	_	_
-6	was	be	_	VBD	_	1	dep	_	_
-7	that	that	_	IN	_	8	dep	_	_
-8	video	video	_	NN	_	6	nsubj	_	_
-9	?	?	_	.	_	1	punct	_	_
-
-1	D	d	_	LS	_	9	dep	_	_
-2	)	)	_	-RRB-	_	9	advmod	_	_
-3	the	the	_	DT	_	4	det	_	_
-4	guy	guy	_	NN	_	9	dep	_	_
-5	spelled	spell	_	VBN	_	9	amod	_	_
-6	"	"	_	``	_	9	punct	_	_
-7	break	break	_	NN	_	9	nn	_	_
-8	"	"	_	''	_	9	punct	_	_
-9	wrong	wrong	_	NN	_	0	null	_	_
-10	.	.	_	.	_	9	punct	_	_
-
-1	E	e	_	NN	_	2	nn	_	_
-2	)	)	_	-RRB-	_	0	null	_	_
-3	if	if	_	IN	_	6	mark	_	_
-4	Megalodon	Megalodon	_	NNP	_	6	nsubj	_	_
-5	is	be	_	VBZ	_	6	cop	_	_
-6	alive	alive	_	JJ	_	2	advcl	_	_
-7	maybe	maybe	_	RB	_	6	advmod	_	_
-8	it	it	_	PRP	_	10	nsubj	_	_
-9	's	be	_	VBZ	_	10	cop	_	_
-10	a	a	_	DT	_	7	null	_	_
-11	she	she	_	PRP	_	12	dep	_	_
-12	Brewer	Brewer	_	NNP	_	10	null	_	_
-
-1	@orange_kae	@orange_kae	_	NNS	_	0	null	_	_
-2	a	a	_	DT	_	3	det	_	_
-3	lot	lot	_	NN	_	7	nsubjpass	_	_
-4	of	of	_	IN	_	3	prep	_	_
-5	people	people	_	NNS	_	4	pobj	_	_
-6	get	get	_	VBP	_	7	auxpass	_	_
-7	indoctrinated	indoctrinate	_	VBN	_	1	rcmod	_	_
-8	in	in	_	IN	_	7	prep	_	_
-9	a	a	_	DT	_	10	det	_	_
-10	movement	movement	_	NN	_	8	pobj	_	_
-11	by	by	_	IN	_	10	prep	_	_
-12	reading	read	_	VBG	_	11	pcomp	_	_
-13	comments	comment	_	NNS	_	12	dobj	_	_
-14	and	and	_	CC	_	13	cc	_	_
-15	articles	article	_	NNS	_	13	conj	_	_
-16	.	.	_	.	_	1	punct	_	_
-
-1	For	for	_	IN	_	0	null	_	_
-2	example	example	_	NN	_	3	nn	_	_
-3	#meinkamp	#meinkamp	_	NN	_	1	pobj	_	_
-4	.	.	_	.	_	1	punct	_	_
-
-1	#equality	#equality	_	NN	_	0	null	_	_
-
-1	DEAR	dear	_	JJ	_	4	amod	_	_
-2	LYING	lying	_	NN	_	4	nn	_	_
-3	FEMINIST	feminist	_	JJ	_	4	amod	_	_
-4	JOURNALISTS	journalist	_	NNS	_	0	null	_	_
-5	If	if	_	IN	_	13	mark	_	_
-6	candy	candy	_	NN	_	8	nn	_	_
-7	crush	crush	_	NN	_	8	nn	_	_
-8	saga	saga	_	NN	_	13	nsubj	_	_
-9	is	be	_	VBZ	_	13	cop	_	_
-10	"	"	_	``	_	13	punct	_	_
-11	hard	hard	_	JJ	_	13	amod	_	_
-12	core	core	_	NN	_	13	nn	_	_
-13	gaming	gaming	_	NN	_	4	dep	_	_
-14	"	"	_	''	_	13	punct	_	_
-15	then	then	_	RB	_	13	advmod	_	_
-16	masturbation	masturbation	_	NN	_	18	nsubj	_	_
-17	is	be	_	VBZ	_	18	cop	_	_
-18	marriage	marriage	_	NN	_	13	dep	_	_
-19	.	.	_	.	_	4	punct	_	_
-
-1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
-
-1	@patelology	@patelology	_	JJ	_	2	amod	_	_
-2	@jameelajamil	@jameelajamil	_	NN	_	4	nsubj	_	_
-3	please	please	_	UH	_	4	dep	_	_
-4	RT	rt	_	NN	_	0	null	_	_
-5	for	for	_	IN	_	4	prep	_	_
-6	our	we	_	PRP$	_	9	poss	_	_
-7	gender	gender	_	NN	_	9	nn	_	_
-8	equality	equality	_	NN	_	9	nn	_	_
-9	project	project	_	NN	_	5	pobj	_	_
-10	!	!	_	.	_	4	punct	_	_
-
-1	@arieelrosee	@arieelrosee	_	NNP	_	2	nn	_	_
-2	@nataliaxmoreno	@nataliaxmoreno	_	NNP	_	6	dep	_	_
-3	Well	well	_	UH	_	2	dep	_	_
-4	you	you	_	PRP	_	6	nsubj	_	_
-5	are	be	_	VBP	_	6	cop	_	_
-6	right	right	_	JJ	_	0	null	_	_
-7	,	,	_	,	_	6	punct	_	_
-8	its	its	_	PRP$	_	9	poss	_	_
-9	pointless	pointless	_	JJ	_	6	dep	_	_
-10	for	for	_	IN	_	13	mark	_	_
-11	you	you	_	PRP	_	13	nsubj	_	_
-12	to	to	_	TO	_	13	aux	_	_
-13	try	try	_	VB	_	9	advcl	_	_
-14	.	.	_	.	_	6	punct	_	_
-
-1	Youre	Youre	_	NNP	_	4	nsubj	_	_
-2	still	still	_	RB	_	4	advmod	_	_
-3	an	a	_	DT	_	4	det	_	_
-4	example	example	_	NN	_	0	null	_	_
-5	of	of	_	IN	_	4	prep	_	_
-6	why	why	_	WRB	_	8	advmod	_	_
-7	there	there	_	EX	_	8	expl	_	_
-8	are	be	_	VBP	_	5	pcomp	_	_
-
-1	Anti	Anti	_	NNP	_	2	nn	_	_
-2	feminism	feminism	_	NN	_	3	nsubj	_	_
-3	-	-	_	HYPH	_	0	null	_	_
-4	because	because	_	IN	_	9	mark	_	_
-5	being	be	_	VBG	_	8	cop	_	_
-6	a	a	_	DT	_	8	det	_	_
-7	good	good	_	JJ	_	8	amod	_	_
-8	person	person	_	NN	_	9	nsubj	_	_
-9	is	be	_	VBZ	_	3	advcl	_	_
-10	n't	not	_	RB	_	9	neg	_	_
-11	for	for	_	IN	_	9	prep	_	_
-12	everybody	everybody	_	NN	_	11	pobj	_	_
-13	.	.	_	.	_	3	punct	_	_
-
-1	Feminists	feminist	_	NNS	_	4	nsubj	_	_
-2	are	be	_	VBP	_	4	cop	_	_
-3	so	so	_	RB	_	4	advmod	_	_
-4	stupid	stupid	_	JJ	_	0	null	_	_
-5	they	they	_	PRP	_	6	nsubj	_	_
-6	think	think	_	VBP	_	4	ccomp	_	_
-7	they	they	_	PRP	_	11	nsubj	_	_
-8	're	be	_	VBP	_	11	cop	_	_
-9	the	the	_	DT	_	11	det	_	_
-10	only	only	_	JJ	_	11	amod	_	_
-11	ones	one	_	NNS	_	6	ccomp	_	_
-12	who	who	_	WP	_	14	nsubj	_	_
-13	can	can	_	MD	_	14	aux	_	_
-14	have	have	_	VB	_	11	rcmod	_	_
-15	freedom	freedom	_	NN	_	14	dobj	_	_
-16	of	of	_	IN	_	15	prep	_	_
-17	speech	speech	_	NN	_	18	nn	_	_
-18	Lmaooo	Lmaooo	_	NNP	_	16	pobj	_	_
-
-1	With	with	_	IN	_	10	prep	_	_
-2	or	or	_	CC	_	1	cc	_	_
-3	without	without	_	IN	_	1	conj	_	_
-4	this	this	_	DT	_	5	det	_	_
-5	farmer	farmer	_	NN	_	7	poss	_	_
-6	's	's	_	POS	_	5	possessive	_	_
-7	tan	tan	_	NN	_	3	pobj	_	_
-8	,	,	_	,	_	10	punct	_	_
-9	I	I	_	PRP	_	10	nsubj	_	_
-10	bang	bang	_	VBP	_	0	null	_	_
-11	bare	bare	_	JJ	_	13	amod	_	_
-12	bitches	bitch	_	NNS	_	13	nn	_	_
-13	#MisogynistColloquialisms	#misogynistcolloquialisms	_	NNS	_	10	dobj	_	_
-14	#DontSayBitch	#dontsaybitch	_	ADD	_	10	dep	_	_
-
-1	Patriarchy	patriarchy	_	NN	_	2	nn	_	_
-2	Theory	theory	_	NN	_	0	null	_	_
-3	-	-	_	HYPH	_	2	dep	_	_
-4	designed	design	_	VBN	_	3	partmod	_	_
-5	to	to	_	TO	_	6	aux	_	_
-6	project	project	_	VB	_	4	xcomp	_	_
-7	the	the	_	DT	_	8	det	_	_
-8	prejudice	prejudice	_	NN	_	6	dobj	_	_
-9	and	and	_	CC	_	8	cc	_	_
-10	insecurity	insecurity	_	NN	_	8	conj	_	_
-11	of	of	_	IN	_	10	prep	_	_
-12	feminists	feminist	_	NNS	_	11	pobj	_	_
-13	onto	onto	_	IN	_	8	prep	_	_
-14	men	man	_	NNS	_	13	pobj	_	_
-
-1	#LikeAFeminist	#likeafeminist	_	NN	_	0	null	_	_
-2	I	I	_	PRP	_	3	nsubj	_	_
-3	think	think	_	VBP	_	1	ccomp	_	_
-4	any	any	_	DT	_	5	det	_	_
-5	woman	woman	_	NN	_	3	dobj	_	_
-6	who	who	_	WP	_	9	nsubj	_	_
-7	does	do	_	VBZ	_	9	aux	_	_
-8	n't	not	_	RB	_	9	neg	_	_
-9	identify	identify	_	VB	_	5	rcmod	_	_
-10	as	as	_	IN	_	15	mark	_	_
-11	a	a	_	DT	_	12	det	_	_
-12	feminist	feminist	_	NN	_	15	nsubj	_	_
-13	has	have	_	VBZ	_	15	aux	_	_
-14	"	"	_	``	_	15	punct	_	_
-15	internalised	internalise	_	VBN	_	9	advcl	_	_
-16	misogyny	misogyny	_	NN	_	15	dobj	_	_
-
-1	RT	rt	_	NN	_	2	nn	_	_
-2	@SteveOortcloud	@steveoortcloud	_	NN	_	0	null	_	_
-3	:	:	_	:	_	2	punct	_	_
-4	My	my	_	PRP$	_	5	poss	_	_
-5	dream	dream	_	NN	_	8	nsubj	_	_
-6	in	in	_	IN	_	5	prep	_	_
-7	life	life	_	NN	_	6	pobj	_	_
-8	is	be	_	VBZ	_	2	parataxis	_	_
-9	to	to	_	TO	_	10	aux	_	_
-10	fuck	fuck	_	VB	_	8	xcomp	_	_
-11	a	a	_	DT	_	13	det	_	_
-12	Canadian	canadian	_	JJ	_	13	amod	_	_
-13	slut	slut	_	NN	_	10	dobj	_	_
-14	in	in	_	IN	_	10	prep	_	_
-15	her	she	_	PRP$	_	16	poss	_	_
-16	eye	eye	_	NN	_	14	pobj	_	_
-17	-	-	_	HYPH	_	18	amod	_	_
-18	socket	socket	_	NN	_	16	dep	_	_
-19	.	.	_	.	_	2	punct	_	_
-
-1	#YesAllWomen	#YesAllWomen	_	NNP	_	2	nn	_	_
-2	#ThisFuckingGuy	#ThisFuckingGuy	_	NNP	_	0	null	_	_
-
-1	'	'	_	``	_	0	null	_	_
-2	Half	half	_	NN	_	3	nn	_	_
-3	victims	victim	_	NNS	_	6	dep	_	_
-4	,	,	_	,	_	6	punct	_	_
-5	half	half	_	NN	_	6	nn	_	_
-6	accomplices	accomplice	_	NNS	_	1	null	_	_
-7	,	,	_	,	_	6	punct	_	_
-8	like	like	_	IN	_	7	prep	_	_
-9	everyone	everyone	_	NN	_	8	pobj	_	_
-10	else	else	_	RB	_	9	advmod	_	_
-11	'	'	_	''	_	9	punct	_	_
-12	Simone	Simone	_	NNP	_	14	nn	_	_
-13	De	De	_	NNP	_	14	nn	_	_
-14	Beavoir	Beavoir	_	NNP	_	9	dep	_	_
-
-1	@jaclynf	@jaclynf	_	NNP	_	0	null	_	_
-2	,	,	_	,	_	1	punct	_	_
-3	@JessicaValenti	@JessicaValenti	_	NNP	_	1	conj	_	_
-4	,	,	_	,	_	1	punct	_	_
-5	@AmandaMarcotte	@AmandaMarcotte	_	NNP	_	1	conj	_	_
-6	and	and	_	CC	_	1	cc	_	_
-7	@PennyRed	@PennyRed	_	NNP	_	1	conj	_	_
-8	are	be	_	VBP	_	1	dep	_	_
-9	why	why	_	WRB	_	13	advmod	_	_
-10	feminists	feminist	_	NNS	_	13	nsubj	_	_
-11	do	do	_	VBP	_	13	aux	_	_
-12	n't	not	_	RB	_	13	neg	_	_
-13	live	live	_	VB	_	8	advcl	_	_
-14	on	on	_	IN	_	13	prep	_	_
-15	the	the	_	DT	_	17	det	_	_
-16	same	same	_	JJ	_	17	amod	_	_
-17	planet	planet	_	NN	_	14	pobj	_	_
-18	as	as	_	IN	_	13	prep	_	_
-19	us	we	_	PRP	_	18	pobj	_	_
-20	.	.	_	.	_	1	punct	_	_
-
-1	@chelss_21x	@chelss_21x	_	NN	_	2	nn	_	_
-2	love	love	_	NN	_	0	null	_	_
-3	how	how	_	WRB	_	7	advmod	_	_
-4	it	it	_	PRP	_	7	nsubj	_	_
-5	does	do	_	VBZ	_	7	aux	_	_
-6	n't	not	_	RB	_	7	neg	_	_
-7	distract	distract	_	VB	_	2	ccomp	_	_
-8	female	female	_	JJ	_	9	amod	_	_
-9	teachers	teacher	_	NNS	_	7	dobj	_	_
-
-1	Why	why	_	WRB	_	4	advmod	_	_
-2	is	be	_	VBZ	_	4	cop	_	_
-3	it	it	_	PRP	_	4	nsubj	_	_
-4	bad	bad	_	JJ	_	0	null	_	_
-5	for	for	_	IN	_	4	prep	_	_
-6	the	the	_	DT	_	8	det	_	_
-7	Garrick	Garrick	_	NNP	_	8	nn	_	_
-8	Club	Club	_	NNP	_	5	pobj	_	_
-9	to	to	_	TO	_	11	aux	_	_
-10	be	be	_	VB	_	11	cop	_	_
-11	men	man	_	NNS	_	4	xcomp	_	_
-12	only	only	_	RB	_	16	preconj	_	_
-13	but	but	_	CC	_	12	cc	_	_
-14	not	not	_	RB	_	15	neg	_	_
-15	bad	bad	_	JJ	_	12	conj	_	_
-16	for	for	_	IN	_	11	prep	_	_
-17	my	my	_	PRP$	_	18	poss	_	_
-18	gym	gym	_	NN	_	16	pobj	_	_
-19	to	to	_	TO	_	20	aux	_	_
-20	have	have	_	VB	_	18	infmod	_	_
-21	a	a	_	DT	_	22	det	_	_
-22	women	woman	_	NNS	_	20	dobj	_	_
-23	only	only	_	RB	_	24	advmod	_	_
-24	room	room	_	NN	_	20	dep	_	_
-25	?	?	_	.	_	4	punct	_	_
-
-1	#Hypocrites	#hypocrites	_	NNS	_	0	null	_	_
-
-1	#LikeAFeminist	#likeafeminist	_	NN	_	0	null	_	_
-2	if	if	_	IN	_	6	mark	_	_
-3	you	you	_	PRP	_	6	nsubj	_	_
-4	do	do	_	VBP	_	6	aux	_	_
-5	n't	not	_	RB	_	6	neg	_	_
-6	identify	identify	_	VB	_	1	dep	_	_
-7	as	as	_	IN	_	15	mark	_	_
-8	a	a	_	DT	_	9	det	_	_
-9	feminist	feminist	_	JJ	_	15	nsubj	_	_
-10	,	,	_	,	_	9	punct	_	_
-11	clearly	clearly	_	RB	_	15	advmod	_	_
-12	you	you	_	PRP	_	15	nsubj	_	_
-13	do	do	_	VBP	_	15	aux	_	_
-14	n't	not	_	RB	_	15	neg	_	_
-15	love	love	_	VB	_	6	advcl	_	_
-16	yourself	yourself	_	PRP	_	17	nsubj	_	_
-17	sweetie	sweetie	_	NN	_	15	ccomp	_	_
-18	.	.	_	.	_	1	punct	_	_
-
-1	Do	do	_	VB	_	5	aux	_	_
-2	n't	not	_	RB	_	5	neg	_	_
-3	you	you	_	PRP	_	5	nsubj	_	_
-4	just	just	_	RB	_	5	advmod	_	_
-5	love	love	_	VBP	_	0	null	_	_
-6	how	how	_	WRB	_	10	advmod	_	_
-7	feminists	feminist	_	NNS	_	10	nsubj	_	_
-8	are	be	_	VBP	_	10	cop	_	_
-9	more	more	_	RBR	_	10	advmod	_	_
-10	focused	focused	_	JJ	_	5	ccomp	_	_
-11	on	on	_	IN	_	10	prep	_	_
-12	bondage	bondage	_	NN	_	13	nn	_	_
-13	books	book	_	NNS	_	11	pobj	_	_
-14	being	be	_	VBG	_	15	auxpass	_	_
-15	romanticized	romanticize	_	VBN	_	13	partmod	_	_
-16	than	than	_	IN	_	20	mark	_	_
-17	they	they	_	PRP	_	20	nsubj	_	_
-18	are	be	_	VBP	_	20	cop	_	_
-19	genital	genital	_	JJ	_	20	amod	_	_
-20	mutilation	mutilation	_	NN	_	15	dep	_	_
-
-1	@ActorTrivia	@actortrivia	_	NN	_	2	nsubj	_	_
-2	let	let	_	VBD	_	0	null	_	_
-3	's	's	_	POS	_	2	dobj	_	_
-4	be	be	_	VB	_	16	auxpass	_	_
-5	pretty	pretty	_	RB	_	4	advmod	_	_
-6	and	and	_	CC	_	4	cc	_	_
-7	put	put	_	VB	_	4	conj	_	_
-8	our	we	_	PRP$	_	9	poss	_	_
-9	tits	tit	_	NNS	_	7	dobj	_	_
-10	on	on	_	IN	_	9	prep	_	_
-11	full	full	_	JJ	_	12	amod	_	_
-12	display	display	_	NN	_	10	pobj	_	_
-13	and	and	_	CC	_	4	cc	_	_
-14	then	then	_	RB	_	16	advmod	_	_
-15	get	get	_	VB	_	16	auxpass	_	_
-16	pissed	piss	_	VBN	_	3	partmod	_	_
-17	when	when	_	WRB	_	19	advmod	_	_
-18	people	people	_	NNS	_	19	nsubj	_	_
-19	look	look	_	VBP	_	16	advcl	_	_
-20	.	.	_	.	_	2	punct	_	_
-
-1	#logic	#logic	_	JJ	_	2	amod	_	_
-2	#wtf	#wtf	_	NN	_	0	null	_	_
-
-1	if	if	_	IN	_	5	mark	_	_
-2	women	woman	_	NNS	_	5	nsubj	_	_
-3	did	do	_	VBD	_	5	aux	_	_
-4	n't	not	_	RB	_	5	neg	_	_
-5	have	have	_	VB	_	0	null	_	_
-6	double	double	_	JJ	_	7	amod	_	_
-7	standards	standard	_	NNS	_	11	nsubj	_	_
-8	then	then	_	RB	_	11	advmod	_	_
-9	they	they	_	PRP	_	11	nsubj	_	_
-10	would	would	_	MD	_	11	aux	_	_
-11	have	have	_	VB	_	5	ccomp	_	_
-12	no	no	_	DT	_	13	det	_	_
-13	standards	standard	_	NNS	_	11	dobj	_	_
-14	.	.	_	.	_	5	punct	_	_
-
-1	#MagicMikeXXL	#MagicMikeXXL	_	NNP	_	2	nn	_	_
-2	#YesAllWomen	#YesAllWomen	_	NNP	_	0	null	_	_
-
-1	Why	why	_	WRB	_	4	advmod	_	_
-2	do	do	_	VBP	_	4	aux	_	_
-3	feminists	feminist	_	NNS	_	4	nsubj	_	_
-4	hate	hate	_	VBP	_	0	null	_	_
-5	@Lauren_Southern	@Lauren_Southern	_	NNP	_	4	dobj	_	_
-6	so	so	_	RB	_	7	advmod	_	_
-7	much	much	_	RB	_	4	advmod	_	_
-8	?	?	_	.	_	4	punct	_	_
-
-1	Because	because	_	IN	_	5	mark	_	_
-2	she	she	_	PRP	_	5	nsubj	_	_
-3	's	be	_	VBZ	_	5	cop	_	_
-4	one	one	_	CD	_	5	num	_	_
-5	thing	thing	_	NN	_	11	nsubj	_	_
-6	none	none	_	NN	_	5	partmod	_	_
-7	of	of	_	IN	_	6	prep	_	_
-8	them	they	_	PRP	_	7	pobj	_	_
-9	are	be	_	VBP	_	11	cop	_	_
-10	:	:	_	:	_	11	punct	_	_
-11	Beautiful	beautiful	_	JJ	_	0	null	_	_
-12	.	.	_	.	_	11	punct	_	_
-
-1	#GamerGate	#GamerGate	_	NNP	_	0	null	_	_
-
-1	The	the	_	DT	_	2	det	_	_
-2	majority	majority	_	NN	_	7	nsubj	_	_
-3	of	of	_	IN	_	2	prep	_	_
-4	anti-abortion	anti-abortion	_	JJ	_	5	amod	_	_
-5	leaders	leader	_	NNS	_	3	pobj	_	_
-6	are	be	_	VBP	_	7	cop	_	_
-7	men	man	_	NNS	_	15	nsubj	_	_
-8	and	and	_	CC	_	7	cc	_	_
-9	none	none	_	NN	_	7	conj	_	_
-10	of	of	_	IN	_	9	prep	_	_
-11	them	they	_	PRP	_	10	pobj	_	_
-12	will	will	_	MD	_	15	aux	_	_
-13	ever	ever	_	RB	_	15	advmod	_	_
-14	be	be	_	VB	_	15	cop	_	_
-15	pregnant	pregnant	_	JJ	_	0	null	_	_
-16	.	.	_	.	_	15	punct	_	_
-
-1	#genderequity	#genderequity	_	NNP	_	0	null	_	_
-
-1	WHEN	when	_	WRB	_	5	advmod	_	_
-2	A	a	_	DT	_	3	det	_	_
-3	FEMINIST	feminist	_	NN	_	5	nsubj	_	_
-4	IS	be	_	VBZ	_	5	cop	_	_
-5	IRRITABLE	irritable	_	JJ	_	0	null	_	_
-6	AND	and	_	CC	_	5	cc	_	_
-7	PREACHING	preach	_	VBG	_	5	conj	_	_
-8	FEMINISM	FEMINISM	_	NNP	_	7	dobj	_	_
-9	YOU	you	_	PRP	_	10	nsubj	_	_
-10	KNOW	know	_	VBP	_	7	dep	_	_
-11	SHE	she	_	PRP	_	12	nsubj	_	_
-12	'S	be	_	VBZ	_	10	ccomp	_	_
-13	MISPLACED	misplaced	_	JJ	_	15	amod	_	_
-14	HER	her	_	NN	_	15	nn	_	_
-15	VIBRATOR	vibrator	_	NN	_	12	dobj	_	_
-16	.	.	_	.	_	5	punct	_	_
-
-1	#feminist	#feminist	_	JJ	_	2	amod	_	_
-2	#Feminists	#feminists	_	NNS	_	0	null	_	_
-
-1	#SingleBecause	#singlebecause	_	IN	_	3	mark	_	_
-2	I	I	_	PRP	_	3	nsubj	_	_
-3	refuse	refuse	_	VBP	_	0	null	_	_
-4	to	to	_	TO	_	9	aux	_	_
-5	be	be	_	VB	_	9	cop	_	_
-6	man	man	_	NN	_	9	dep	_	_
-7	's	's	_	POS	_	6	possessive	_	_
-8	'	'	_	``	_	9	punct	_	_
-9	other	other	_	JJ	_	3	xcomp	_	_
-10	'	'	_	''	_	9	punct	_	_
-11	and	and	_	CC	_	3	cc	_	_
-12	bcs	bcs	_	IN	_	14	mark	_	_
-13	I	I	_	PRP	_	14	nsubj	_	_
-14	want	want	_	VBP	_	3	conj	_	_
-15	to	to	_	TO	_	16	aux	_	_
-16	be	be	_	VB	_	14	xcomp	_	_
-17	my	my	_	PRP$	_	19	poss	_	_
-18	full	full	_	JJ	_	19	amod	_	_
-19	self	self	_	NN	_	16	nsubj	_	_
-20	,	,	_	,	_	19	punct	_	_
-21	bcs	bc	_	NNS	_	19	appos	_	_
-22	I	I	_	PRP	_	23	nsubj	_	_
-23	want	want	_	VBP	_	21	rcmod	_	_
-24	a	a	_	DT	_	26	det	_	_
-25	feminist	feminist	_	JJ	_	26	amod	_	_
-26	man	man	_	NN	_	23	dobj	_	_
-27	,	,	_	,	_	26	punct	_	_
-28	who	who	_	WP	_	33	nsubj	_	_
-29	's	be	_	VBZ	_	33	cop	_	_
-30	a	a	_	DT	_	31	det	_	_
-31	man	man	_	NN	_	33	poss	_	_
-32	's	's	_	POS	_	31	possessive	_	_
-33	man	man	_	NN	_	26	rcmod	_	_
-34	.	.	_	.	_	3	punct	_	_
-
-1	A	a	_	DT	_	2	det	_	_
-2	vote	vote	_	NN	_	11	nsubj	_	_
-3	by	by	_	IN	_	2	prep	_	_
-4	a	a	_	DT	_	5	det	_	_
-5	woman	woman	_	NN	_	3	pobj	_	_
-6	is	be	_	VBZ	_	11	cop	_	_
-7	a	a	_	DT	_	11	det	_	_
-8	wasted	waste	_	VBN	_	11	amod	_	_
-9	vote	vote	_	NN	_	11	nn	_	_
-10	@femfreq	@femfreq	_	NN	_	11	nn	_	_
-11	@feministculture	@feministculture	_	NN	_	0	null	_	_
-
-1	#sex	#sex	_	JJ	_	6	amod	_	_
-2	male	male	_	JJ	_	6	amod	_	_
-3	caste	caste	_	NN	_	6	nn	_	_
-4	general	general	_	JJ	_	6	amod	_	_
-5	religion	religion	_	NN	_	6	nn	_	_
-6	Hindu	Hindu	_	NNP	_	0	null	_	_
-7	.	.	_	.	_	6	punct	_	_
-
-1	None	none	_	NN	_	4	nsubj	_	_
-2	of	of	_	IN	_	1	prep	_	_
-3	these	these	_	DT	_	2	pobj	_	_
-4	were	be	_	VBD	_	0	null	_	_
-5	in	in	_	IN	_	4	prep	_	_
-6	my	my	_	PRP$	_	7	poss	_	_
-7	hand	hand	_	NN	_	5	pobj	_	_
-8	!!!	!!!	_	.	_	4	punct	_	_
-
-1	Gurrr	Gurrr	_	NNP	_	2	nsubj	_	_
-2	#feminazis	#feminazis	_	VBZ	_	0	null	_	_
-3	pseudo	pseudo	_	JJ	_	2	acomp	_	_
-
-1	@POBREClTA	@POBREClTA	_	NNP	_	3	nn	_	_
-2	@JustLove_Katie	@JustLove_Katie	_	NNP	_	3	nn	_	_
-3	@WillBrianna	@WillBrianna	_	NNP	_	0	null	_	_
-4	"	"	_	''	_	3	punct	_	_
-5	running	run	_	VBG	_	3	dep	_	_
-6	your	you	_	PRP$	_	8	poss	_	_
-7	dick	dick	_	NN	_	8	nn	_	_
-8	sucker	sucker	_	NN	_	5	dobj	_	_
-9	"	"	_	''	_	8	punct	_	_
-10	yes	yes	_	UH	_	5	dep	_	_
-11	because	because	_	IN	_	15	mark	_	_
-12	THAT	that	_	DT	_	15	nsubj	_	_
-13	is	be	_	VBZ	_	15	cop	_	_
-14	the	the	_	DT	_	15	det	_	_
-15	purpose	purpose	_	NN	_	5	advcl	_	_
-16	of	of	_	IN	_	15	prep	_	_
-17	your	you	_	PRP$	_	18	poss	_	_
-18	mouth	mouth	_	NN	_	16	pobj	_	_
-19	lol	lol	_	UH	_	15	dep	_	_
-
-1	With	with	_	IN	_	11	prep	_	_
-2	or	or	_	CC	_	1	cc	_	_
-3	without	without	_	IN	_	1	conj	_	_
-4	someone	someone	_	NN	_	3	pobj	_	_
-5	by	by	_	IN	_	4	prep	_	_
-6	my	my	_	PRP$	_	7	poss	_	_
-7	side	side	_	NN	_	5	pobj	_	_
-8	,	,	_	,	_	11	punct	_	_
-9	I	I	_	PRP	_	11	nsubj	_	_
-10	'm	be	_	VBP	_	11	aux	_	_
-11	gon	gon	_	VBG	_	0	null	_	_
-12	na	na	_	TO	_	11	xcomp	_	_
-13	achieve	achieve	_	VB	_	12	dep	_	_
-14	all	all	_	PDT	_	16	predet	_	_
-15	the	the	_	DT	_	16	det	_	_
-16	goals	goal	_	NNS	_	13	dobj	_	_
-17	I	I	_	PRP	_	19	nsubj	_	_
-18	have	have	_	VBP	_	19	aux	_	_
-19	set	set	_	VBN	_	16	rcmod	_	_
-20	.	.	_	.	_	11	punct	_	_
-
-1	#strongwomen	#strongwomen	_	NNS	_	2	nn	_	_
-2	#Goals	#goals	_	NNS	_	0	null	_	_
-
-1	Ashamed	Ashamed	_	NNP	_	0	null	_	_
-2	of	of	_	IN	_	1	prep	_	_
-3	my	my	_	PRP$	_	5	poss	_	_
-4	fellow	fellow	_	JJ	_	5	amod	_	_
-5	man	man	_	NN	_	2	pobj	_	_
-6	.	.	_	.	_	1	punct	_	_
-
-1	Making	make	_	VBG	_	0	null	_	_
-2	pigs	pig	_	NNS	_	1	dobj	_	_
-3	of	of	_	IN	_	2	prep	_	_
-4	ourselves	ourselves	_	PRP	_	3	pobj	_	_
-5	at	at	_	IN	_	1	prep	_	_
-6	every	every	_	DT	_	8	det	_	_
-7	given	give	_	VBN	_	8	amod	_	_
-8	opportunity	opportunity	_	NN	_	5	pobj	_	_
-9	.	.	_	.	_	1	punct	_	_
-
-1	#feminist	#feminist	_	JJ	_	0	null	_	_
-2	#ashamed	#ashamed	_	VBN	_	1	null	_	_
-
-1	@ZaraLovesScript	@zaralovesscript	_	NN	_	3	nsubj	_	_
-2	A	a	_	DT	_	3	det	_	_
-3	bloke	bloke	_	NN	_	0	null	_	_
-4	we	we	_	PRP	_	6	nsubj	_	_
-5	both	both	_	DT	_	4	dep	_	_
-6	know	know	_	VBP	_	3	rcmod	_	_
-7	,	,	_	,	_	3	punct	_	_
-8	@BigGoodJohn	@BigGoodJohn	_	NNP	_	3	appos	_	_
-9	,	,	_	,	_	3	punct	_	_
-10	asked	ask	_	VBD	_	3	appos	_	_
-11	me	I	_	PRP	_	10	dobj	_	_
-12	to	to	_	TO	_	13	aux	_	_
-13	offer	offer	_	VB	_	10	xcomp	_	_
-14	congrats	congrat	_	NNS	_	13	dobj	_	_
-15	for	for	_	IN	_	14	prep	_	_
-16	being	be	_	VBG	_	17	cop	_	_
-17	clever	clever	_	JJ	_	15	pcomp	_	_
-18	;	;	_	:	_	3	punct	_	_
-19	still	still	_	RB	_	20	advmod	_	_
-20	seems	seem	_	VBZ	_	3	parataxis	_	_
-21	stunned	stunned	_	JJ	_	22	amod	_	_
-22	girls	girl	_	NNS	_	23	nsubj	_	_
-23	ARE	be	_	VBP	_	20	ccomp	_	_
-24	.	.	_	.	_	3	punct	_	_
-
-1	Shut	shut	_	VB	_	0	null	_	_
-2	up	up	_	RP	_	1	prt	_	_
-3	and	and	_	CC	_	1	cc	_	_
-4	go	go	_	VB	_	1	conj	_	_
-5	back	back	_	RB	_	4	advmod	_	_
-6	to	to	_	IN	_	5	dep	_	_
-7	the	the	_	DT	_	9	det	_	_
-8	kitchen	kitchen	_	NN	_	9	nn	_	_
-9	bitch	bitch	_	NN	_	6	pobj	_	_
-
-1	@fingilgun	@fingilgun	_	NNP	_	6	nsubj	_	_
-2	and	and	_	CC	_	1	cc	_	_
-3	the	the	_	DT	_	5	det	_	_
-4	sad	sad	_	JJ	_	5	amod	_	_
-5	part	part	_	NN	_	1	conj	_	_
-6	is	be	_	VBZ	_	0	null	_	_
-7	they	they	_	PRP	_	8	nsubj	_	_
-8	do	do	_	VBP	_	6	ccomp	_	_
-9	nt	nt	_	RB	_	8	advmod	_	_
-10	they	they	_	PRP	_	11	nsubj	_	_
-11	hate	hate	_	VBP	_	8	ccomp	_	_
-12	people	people	_	NNS	_	11	dobj	_	_
-13	with	with	_	IN	_	11	prep	_	_
-14	their	they	_	PRP$	_	17	poss	_	_
-15	own	own	_	JJ	_	17	amod	_	_
-16	thought	thought	_	NN	_	17	nn	_	_
-17	experiences	experience	_	NNS	_	13	pobj	_	_
-18	and	and	_	CC	_	17	cc	_	_
-19	worse	worse	_	JJR	_	17	conj	_	_
-20	of	of	_	IN	_	19	prep	_	_
-21	all	all	_	DT	_	22	det	_	_
-22	voice	voice	_	NN	_	20	pobj	_	_
-
-1	I	I	_	PRP	_	2	nsubj	_	_
-2	guess	guess	_	VBP	_	0	null	_	_
-3	what	what	_	WP	_	6	dobj	_	_
-4	I	I	_	PRP	_	6	nsubj	_	_
-5	am	be	_	VBP	_	6	aux	_	_
-6	begging	beg	_	VBG	_	13	csubj	_	_
-7	for	for	_	IN	_	6	prep	_	_
-8	at	at	_	IN	_	6	prep	_	_
-9	this	this	_	DT	_	10	det	_	_
-10	point	point	_	NN	_	8	pobj	_	_
-11	,	,	_	,	_	6	punct	_	_
-12	is	be	_	VBZ	_	13	cop	_	_
-13	like	like	_	UH	_	18	dep	_	_
-14	,	,	_	,	_	18	punct	_	_
-15	some	some	_	DT	_	18	det	_	_
-16	really	really	_	RB	_	17	advmod	_	_
-17	sexist	sexist	_	JJ	_	18	amod	_	_
-18	views	view	_	NNS	_	2	dobj	_	_
-19	.	.	_	.	_	2	punct	_	_
-
-1	.	.	_	.	_	0	null	_	_
-
-1	I	I	_	PRP	_	2	nsubj	_	_
-2	know	know	_	VBP	_	0	null	_	_
-3	they	they	_	PRP	_	6	nsubj	_	_
-4	are	be	_	VBP	_	6	cop	_	_
-5	out	out	_	RB	_	6	advmod	_	_
-6	there	there	_	RB	_	2	ccomp	_	_
-7	#FeministsAreUgly	#feministsareugly	_	RB	_	6	advmod	_	_
-
-1	The	the	_	DT	_	4	det	_	_
-2	lack	lack	_	NN	_	4	nn	_	_
-3	intellectual	intellectual	_	JJ	_	4	amod	_	_
-4	integrity	integrity	_	NN	_	11	nsubj	_	_
-5	in	in	_	IN	_	4	prep	_	_
-6	a	a	_	DT	_	7	det	_	_
-7	group	group	_	NN	_	5	pobj	_	_
-8	of	of	_	IN	_	7	prep	_	_
-9	Atheists	atheist	_	NNS	_	8	pobj	_	_
-10	is	be	_	VBZ	_	11	cop	_	_
-11	easy	easy	_	JJ	_	0	null	_	_
-12	to	to	_	TO	_	13	aux	_	_
-13	spot	spot	_	VB	_	11	xcomp	_	_
-14	:	:	_	:	_	11	punct	_	_
-15	just	just	_	RB	_	16	advmod	_	_
-16	count	count	_	VB	_	11	ccomp	_	_
-17	their	they	_	PRP$	_	19	poss	_	_
-18	"	"	_	``	_	19	punct	_	_
-19	FeministAtheists	feministatheist	_	NNS	_	16	dobj	_	_
-20	"	"	_	''	_	16	punct	_	_
-21	#GamerGate	#gamergate	_	NN	_	16	dobj	_	_
-
-1	Hey	hey	_	UH	_	3	dep	_	_
-2	fellow	fellow	_	JJ	_	3	amod	_	_
-3	Feminists	feminist	_	NNS	_	6	nsubj	_	_
-4	,	,	_	,	_	6	punct	_	_
-5	we	we	_	PRP	_	6	nsubj	_	_
-6	need	need	_	VBP	_	0	null	_	_
-7	to	to	_	TO	_	8	aux	_	_
-8	fight	fight	_	VB	_	6	xcomp	_	_
-9	back	back	_	RB	_	8	advmod	_	_
-10	against	against	_	IN	_	8	prep	_	_
-11	this	this	_	DT	_	13	det	_	_
-12	ridiculous	ridiculous	_	JJ	_	13	amod	_	_
-13	war	war	_	NN	_	10	pobj	_	_
-14	-	-	_	HYPH	_	15	aux	_	_
-15	glorifying	glorify	_	VBG	_	8	xcomp	_	_
-16	that	that	_	IN	_	17	nsubj	_	_
-17	celebrates	celebrate	_	VBZ	_	15	ccomp	_	_
-18	#men	#men	_	NNS	_	17	dobj	_	_
-19	.	.	_	.	_	6	punct	_	_
-
-1	#Triggered	#triggered	_	VBN	_	2	amod	_	_
-2	#Transpatriot	#transpatriot	_	NN	_	0	null	_	_
-
-1	Heterosexual	heterosexual	_	JJ	_	2	amod	_	_
-2	male	male	_	NN	_	5	poss	_	_
-3	's	's	_	POS	_	2	possessive	_	_
-4	sexual	sexual	_	JJ	_	5	amod	_	_
-5	orientation	orientation	_	NN	_	12	nsubj	_	_
-6	is	be	_	VBZ	_	12	cop	_	_
-7	not	not	_	RB	_	12	neg	_	_
-8	a	a	_	DT	_	12	det	_	_
-9	social	social	_	JJ	_	12	amod	_	_
-10	/	/	_	HYPH	_	12	nn	_	_
-11	capitalist	capitalist	_	NN	_	12	nn	_	_
-12	construct	construct	_	NN	_	0	null	_	_
-13	that	that	_	WDT	_	17	dobj	_	_
-14	it	it	_	PRP	_	17	nsubjpass	_	_
-15	can	can	_	MD	_	17	aux	_	_
-16	be	be	_	VB	_	17	auxpass	_	_
-17	changed	change	_	VBN	_	12	rcmod	_	_
-18	with	with	_	IN	_	17	prep	_	_
-19	a	a	_	DT	_	20	det	_	_
-20	blink	blink	_	NN	_	18	pobj	_	_
-21	of	of	_	IN	_	20	prep	_	_
-22	an	a	_	DT	_	23	det	_	_
-23	eye	eye	_	NN	_	21	pobj	_	_
-24	.	.	_	.	_	12	punct	_	_
-
-1	the	the	_	DT	_	4	det	_	_
-2	Left	leave	_	VBN	_	4	amod	_	_
-3	10	10	_	CD	_	4	num	_	_
-4	years	year	_	NNS	_	5	measure	_	_
-5	ago	ago	_	IN	_	0	null	_	_
-6	"	"	_	``	_	5	dep	_	_
-7	Keep	keep	_	VB	_	6	null	_	_
-8	government	government	_	NN	_	7	dobj	_	_
-9	out	out	_	IN	_	7	prep	_	_
-10	of	of	_	IN	_	14	prep	_	_
-11	our	we	_	PRP$	_	12	poss	_	_
-12	bedrooms	bedroom	_	NNS	_	10	pobj	_	_
-13	"	"	_	``	_	14	punct	_	_
-14	Today	today	_	NN	_	9	pobj	_	_
-15	:	:	_	:	_	7	punct	_	_
-16	"	"	_	``	_	20	punct	_	_
-17	you	you	_	PRP	_	20	nsubj	_	_
-18	must	must	_	MD	_	20	aux	_	_
-19	verbally	verbally	_	RB	_	20	advmod	_	_
-20	consent	consent	_	VB	_	7	parataxis	_	_
-21	to	to	_	IN	_	20	prep	_	_
-22	every	every	_	DT	_	23	det	_	_
-23	step	step	_	NN	_	21	pobj	_	_
-24	"	"	_	''	_	28	punct	_	_
-25	"	"	_	``	_	28	punct	_	_
-26	no	no	_	DT	_	28	det	_	_
-27	drunk	drunk	_	JJ	_	28	amod	_	_
-28	sex	sex	_	NN	_	23	dep	_	_
-
-1	feminism	feminism	_	NN	_	2	nsubj	_	_
-2	appeared	appear	_	VBD	_	0	null	_	_
-3	for	for	_	IN	_	2	prep	_	_
-4	ray	ray	_	NN	_	7	nn	_	_
-5	rice	rice	_	NN	_	7	nn	_	_
-6	domestic	domestic	_	JJ	_	7	amod	_	_
-7	violence	violence	_	NN	_	3	pobj	_	_
-8	but	but	_	CC	_	2	cc	_	_
-9	disappear	disappear	_	VB	_	2	conj	_	_
-10	for	for	_	IN	_	9	prep	_	_
-11	hope	hope	_	NN	_	12	nn	_	_
-12	sole	sole	_	NN	_	14	poss	_	_
-13	's	's	_	POS	_	12	possessive	_	_
-14	#doublestandards	#doublestandards	_	NNS	_	10	pobj	_	_
-
-1	Spanish	spanish	_	JJ	_	5	amod	_	_
-2	Civil	civil	_	JJ	_	5	amod	_	_
-3	War	war	_	NN	_	5	nn	_	_
-4	publishing	publishing	_	NN	_	5	nn	_	_
-5	cookbooks	cookbook	_	NNS	_	0	null	_	_
-6	&	&	_	CC	_	5	cc	_	_
-7	author	author	_	NN	_	9	nn	_	_
-8	gender	gender	_	NN	_	9	nn	_	_
-9	points	point	_	NNS	_	5	conj	_	_
-10	to	to	_	IN	_	5	prep	_	_
-11	women	woman	_	NNS	_	13	poss	_	_
-12	's	's	_	POS	_	11	possessive	_	_
-13	lack	lack	_	NN	_	10	pobj	_	_
-14	of	of	_	IN	_	13	prep	_	_
-15	access	access	_	NN	_	14	pobj	_	_
-16	to	to	_	IN	_	15	prep	_	_
-17	education	education	_	NN	_	16	pobj	_	_
-18	,	,	_	,	_	5	punct	_	_
-19	ind	ind	_	JJ	_	21	amod	_	_
-20	wealth	wealth	_	NN	_	21	nn	_	_
-21	#osfc15	#osfc15	_	NN	_	5	conj	_	_
-
-1	Feminists	feminist	_	NNS	_	4	nsubj	_	_
-2	like	like	_	IN	_	1	prep	_	_
-3	you	you	_	PRP	_	2	pobj	_	_
-4	are	be	_	VBP	_	0	null	_	_
-5	like	like	_	IN	_	4	prep	_	_
-6	religious	religious	_	JJ	_	7	amod	_	_
-7	people	people	_	NNS	_	5	pobj	_	_
-8	who	who	_	WP	_	11	nsubj	_	_
-9	CAN	can	_	MD	_	11	aux	_	_
-10	NOT	not	_	RB	_	11	advmod	_	_
-11	understand	understand	_	VB	_	7	rcmod	_	_
-12	why	why	_	WRB	_	14	advmod	_	_
-13	Atheists	Atheists	_	NNPS	_	14	nsubj	_	_
-14	reject	reject	_	VBP	_	11	advcl	_	_
-15	their	they	_	PRP$	_	17	poss	_	_
-16	nonsense	nonsense	_	NN	_	17	nn	_	_
-17	@linneareithis	@linneareithis	_	NNS	_	14	dobj	_	_
-
-1	Rethink	rethink	_	VB	_	0	null	_	_
-2	your	you	_	PRP$	_	4	poss	_	_
-3	beach	beach	_	NN	_	4	nn	_	_
-4	clothes	clothes	_	NNS	_	1	dobj	_	_
-5	.	.	_	.	_	1	punct	_	_
-
-1	Bc	Bc	_	NNP	_	4	advmod	_	_
-2	it	it	_	PRP	_	4	nsubj	_	_
-3	may	may	_	MD	_	4	aux	_	_
-4	oppress	oppress	_	VB	_	0	null	_	_
-5	some	some	_	DT	_	6	det	_	_
-6	people	people	_	NNS	_	4	dobj	_	_
-7	!!	!!	_	.	_	4	punct	_	_
-
-1	#thisoppresseswomen	#thisoppresseswomen	_	NNS	_	0	null	_	_
-
-1	DEAR	dear	_	JJ	_	2	amod	_	_
-2	FEMINISTS	feminist	_	NNS	_	7	nsubj	_	_
-3	So	so	_	RB	_	7	advmod	_	_
-4	I	I	_	PRP	_	7	nsubj	_	_
-5	am	be	_	VBP	_	7	cop	_	_
-6	a	a	_	DT	_	7	det	_	_
-7	waste	waste	_	NN	_	0	null	_	_
-8	of	of	_	IN	_	7	prep	_	_
-9	time	time	_	NN	_	8	pobj	_	_
-10	for	for	_	IN	_	7	prep	_	_
-11	not	not	_	RB	_	12	neg	_	_
-12	joining	join	_	VBG	_	10	pcomp	_	_
-13	your	you	_	PRP$	_	15	poss	_	_
-14	feminist	feminist	_	JJ	_	15	amod	_	_
-15	cult	cult	_	NN	_	12	dobj	_	_
-16	?	?	_	.	_	7	punct	_	_
-
-1	Mormons	Mormons	_	NNPS	_	2	nsubj	_	_
-2	say	say	_	VBP	_	0	null	_	_
-3	the	the	_	DT	_	4	det	_	_
-4	same	same	_	JJ	_	2	dobj	_	_
-5	when	when	_	WRB	_	8	advmod	_	_
-6	close	close	_	RB	_	8	advmod	_	_
-7	the	the	_	DT	_	8	det	_	_
-8	door	door	_	NN	_	4	dep	_	_
-9	.	.	_	.	_	2	punct	_	_
-
-1	If	if	_	IN	_	4	mark	_	_
-2	masculinity	masculinity	_	NN	_	4	nsubj	_	_
-3	is	be	_	VBZ	_	4	cop	_	_
-4	toxic	toxic	_	JJ	_	13	advcl	_	_
-5	,	,	_	,	_	13	punct	_	_
-6	then	then	_	RB	_	13	advmod	_	_
-7	I	I	_	PRP	_	13	nsubj	_	_
-8	must	must	_	MD	_	13	aux	_	_
-9	be	be	_	VB	_	13	cop	_	_
-10	a	a	_	DT	_	13	det	_	_
-11	nuclear	nuclear	_	JJ	_	13	amod	_	_
-12	waste	waste	_	NN	_	13	nn	_	_
-13	facility	facility	_	NN	_	0	null	_	_
-14	.	.	_	.	_	13	punct	_	_
-
-1	#gamergate	#gamergate	_	JJ	_	2	amod	_	_
-2	#dumbfeminist	#dumbfeminist	_	NN	_	0	null	_	_
-
-1	#MagicMikeXXL	#magicmikexxl	_	NN	_	6	nsubj	_	_
-2	is	be	_	VBZ	_	6	cop	_	_
-3	the	the	_	DT	_	6	det	_	_
-4	most	most	_	RBS	_	5	advmod	_	_
-5	feminist	feminist	_	JJ	_	6	amod	_	_
-6	movie	movie	_	NN	_	0	null	_	_
-7	I	I	_	PRP	_	9	nsubj	_	_
-8	have	have	_	VBP	_	9	aux	_	_
-9	seen	see	_	VBN	_	6	rcmod	_	_
-10	since	since	_	IN	_	9	prep	_	_
-11	#MadMax	#MadMax	_	NNP	_	10	pobj	_	_
-12	.	.	_	.	_	6	punct	_	_
-
-1	Good	good	_	JJ	_	2	amod	_	_
-2	work	work	_	NN	_	0	null	_	_
-3	!	!	_	.	_	2	punct	_	_
-
-1	#WageEquality	#wageequality	_	NN	_	2	nsubj	_	_
-2	means	mean	_	VBZ	_	0	null	_	_
-3	Individuals	individual	_	NNS	_	11	nsubj	_	_
-4	with	with	_	IN	_	3	prep	_	_
-5	Equal	equal	_	JJ	_	6	amod	_	_
-6	Responsibilities	responsibility	_	NNS	_	4	pobj	_	_
-7	,	,	_	,	_	6	punct	_	_
-8	Training	training	_	NN	_	6	conj	_	_
-9	,	,	_	,	_	3	punct	_	_
-10	Proficiency	proficiency	_	NN	_	3	conj	_	_
-11	deserve	deserve	_	VBP	_	2	ccomp	_	_
-12	Equal	equal	_	JJ	_	13	amod	_	_
-13	pay	pay	_	NN	_	11	dobj	_	_
-14	.	.	_	.	_	2	punct	_	_
-
-1	#WomenRights	#womenrights	_	NNS	_	0	null	_	_
-
-1	Do	do	_	VBP	_	3	aux	_	_
-2	you	you	_	PRP	_	3	nsubj	_	_
-3	know	know	_	VB	_	0	null	_	_
-4	the	the	_	DT	_	5	det	_	_
-5	difference	difference	_	NN	_	3	dobj	_	_
-6	between	between	_	IN	_	5	prep	_	_
-7	Activism	activism	_	NN	_	6	pobj	_	_
-8	and	and	_	CC	_	7	cc	_	_
-9	Advocacy	advocacy	_	NN	_	7	conj	_	_
-10	?	?	_	.	_	3	punct	_	_
-
-1	#SDG	#SDG	_	NNP	_	2	nn	_	_
-2	#youthdevelopment	#youthdevelopment	_	NNP	_	0	null	_	_
-
-1	Girls	girl	_	NNS	_	6	nsubj	_	_
-2	over	over	_	IN	_	1	prep	_	_
-3	130	130	_	CD	_	2	pobj	_	_
-4	should	should	_	MD	_	6	aux	_	_
-5	n't	not	_	RB	_	6	neg	_	_
-6	wear	wear	_	VB	_	0	null	_	_
-7	a	a	_	DT	_	10	det	_	_
-8	swim	swim	_	NN	_	10	nn	_	_
-9	suit	suit	_	NN	_	10	nn	_	_
-10	#womenintech	#womenintech	_	NN	_	6	dobj	_	_
-
-1	It	it	_	PRP	_	3	nsubj	_	_
-2	's	be	_	VBZ	_	3	cop	_	_
-3	hard	hard	_	JJ	_	0	null	_	_
-4	being	be	_	VBG	_	6	cop	_	_
-5	a	a	_	DT	_	6	det	_	_
-6	woman	woman	_	NN	_	3	xcomp	_	_
-7	,	,	_	,	_	6	punct	_	_
-8	constantly	constantly	_	RB	_	9	advmod	_	_
-9	annoyed	annoyed	_	JJ	_	6	amod	_	_
-10	by	by	_	IN	_	9	prep	_	_
-11	things	thing	_	NNS	_	10	pobj	_	_
-12	that	that	_	WDT	_	16	nsubj	_	_
-13	do	do	_	VBP	_	16	aux	_	_
-14	n't	not	_	RB	_	16	neg	_	_
-15	really	really	_	RB	_	16	advmod	_	_
-16	matter	matter	_	VB	_	11	rcmod	_	_
-17	on	on	_	IN	_	16	prep	_	_
-18	the	the	_	DT	_	20	det	_	_
-19	grand	grand	_	JJ	_	20	amod	_	_
-20	scheme	scheme	_	NN	_	17	pobj	_	_
-21	of	of	_	IN	_	20	prep	_	_
-22	things	thing	_	NNS	_	21	pobj	_	_
-23	.	.	_	.	_	3	punct	_	_
-
-1	Wish	wish	_	VBP	_	0	null	_	_
-2	I	I	_	PRP	_	5	nsubj	_	_
-3	was	be	_	VBD	_	5	cop	_	_
-4	a	a	_	DT	_	5	det	_	_
-5	man	man	_	NN	_	1	null	_	_
 

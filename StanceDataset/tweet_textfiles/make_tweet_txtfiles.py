@@ -11,6 +11,7 @@ def write_tweets(name, part, tweets):
 #      s = re.search(r'\.|\?|\!$', tweet)
 #      if s is None:
 #         tweet = tweet + '.' 
+      f.write("#Tweet\n")
       f.write(tweet)
       f.write('\n')
    f.close()
