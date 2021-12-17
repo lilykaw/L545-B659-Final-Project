@@ -94,13 +94,13 @@ Here is the plot of all the performances. The optimized arguing lexicons perform
 
 - Parse your training and test data using MALTparser and the predifined model. Then extract dependency triples form the data (word, head, label) and use those as features for the stance detection task instead of the bag-of-words model. How does that affect the results? 
 
-| Target                           | Default_Parser |
-| -------------------------------- | ----------- |
-| Hillary Clinton                  | 0.5864      |
-| Climate Change is a Real Concern | 0.7337      |
-| Legalization of Abortion         | 0.6857      |
-| Atheism                          | 0.7272      |
-| Feminist Movement                | 0.6456      |
+| Target                           | Default_Parser | Optimized_Parser |
+| -------------------------------- | -------------- | ---------------- |
+| Hillary Clinton                  | 0.5864         | 0.6068	       |
+| Climate Change is a Real Concern | 0.7337         | 0.7337	       |
+| Legalization of Abortion         | 0.6857         | 0.7071	       |
+| Atheism                          | 0.7272         | 0.7181	       |
+| Feminist Movement                | 0.6456         | 0.6491	       |
 
 
 ### Part D
