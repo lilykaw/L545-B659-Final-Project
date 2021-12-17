@@ -291,6 +291,43 @@ Accuracy score: 0.5929824561403508
 
 ## Part C
 
+```
+Default SVM:
 
+>>> Hillary Clinton
+X_train: (689, 14925), Y_train: (689,)
+X_test: (295, 14925), Y_test: (295,)
+Training the SVM...
+Done!
+Accuracy score: 0.5864406779661017
+
+>>> Climate Change is a Real Concern
+X_train: (395, 9590), Y_train: (395,)
+X_test: (169, 9590), Y_test: (169,)
+Training the SVM...
+Done!
+Accuracy score: 0.7337278106508875
+
+>>> Legalization of Abortion
+X_train: (653, 14327), Y_train: (653,)
+X_test: (280, 14327), Y_test: (280,)
+Training the SVM...
+Done!
+Accuracy score: 0.6857142857142857
+
+>>> Atheism
+X_train: (513, 12524), Y_train: (513,)
+X_test: (220, 12524), Y_test: (220,)
+Training the SVM...
+Done!
+Accuracy score: 0.7272727272727273
+
+>>> Feminist Movement
+X_train: (664, 15643), Y_train: (664,)
+X_test: (285, 15643), Y_test: (285,)
+Training the SVM...
+Done!
+Accuracy score: 0.6456140350877193
+```
 
 ## Part D

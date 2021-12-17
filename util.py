@@ -6,6 +6,7 @@ LastEditTime: 2021-12-14 14:27:49
 import re
 import string
 import numpy as np
+import pandas as pd
 import treetaggerwrapper
 import pprint
 
@@ -59,7 +60,7 @@ class TweetsData(object):
         # Part C - parsing
         elif mode == 'MaltParser':
             dep_triples = args
-            # added column: the triples of parser, which will be used as tockens
+            # added column: represent the triples of parser in a one-hot vector
             self.gen_parser_feature(dep_triples) # it is a inplace function
         
 
@@ -135,11 +136,11 @@ class TweetsData(object):
         return count_lexicons # shape: (n, 17)
 
     def gen_parser_feature(self, dep_triples): 
-        targets = self.get_targets()
+        targets = [t for t in self.get_targets() if t != 'Donald Trump']
         for t in targets: 
-            print(len(self.df[self.df['Target']==t]), len(dep_triples[t]))
-            self.df[self.df['Target']==t]['ParserTriples'] = dep_triples[t]
-        return
+            # print(len(self.df[self.df['Target']==t]), len(dep_triples[t]))
+            self.df.loc[self.df['Target']==t, 'ParserArrows'] = dep_triples[t]
+        return 
 
 
 
@@ -170,3 +171,6 @@ class TweetsData(object):
 
     def get_cnt_arglexicon_of_target(self, target):  
         return self.df[self.df['Target']==target]['CntArgLex'].to_list()
+
+    def get_parser_of_target(self, target):
+        return self.df[self.df['Target']==target]['ParserArrows'].to_list()

@@ -16,7 +16,7 @@ How does that affect the results?
 
 import os
 from io import StringIO
-from nltk.util import trigrams
+import re
 import pandas as pd
 import numpy as np
 import pprint
@@ -24,13 +24,13 @@ import pprint
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import svm
 from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import normalize
 from util import TweetsData
 
 TRAIN_SET_PATH = './StanceDataset/train.csv'
 TEST_SET_PATH = './StanceDataset/test.csv'
 RESULTS_PATH = 'results.csv'
 MALTPARSER_CONLL_DIR = './tweet_conll/MaltParser_Output'
+MALTPARSER_TWEET_DIR = './StanceDataset/tweet_textfiles/'
 TARGET_LIST = ['Hillary Clinton', 'Climate Change is a Real Concern', 'Legalization of Abortion', 'Atheism', 'Feminist Movement']
 PARSER_MAP = {'hillary': 'Hillary Clinton', 'climate': 'Climate Change is a Real Concern', 'abortion': 'Legalization of Abortion', 'atheism': 'Atheism', 'feminist': 'Feminist Movement'}
 STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
@@ -39,15 +39,23 @@ STANCE_DICT = {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
 
 def per_SVM(data_train, data_test, clf, target): 
     print(">>> {}".format(target))
-    X_train, Y_train = data_train.get_data_of_target_parser(target) # X = 'MaltParser', Y = 'Stance'
-    X_test, Y_test = data_test.get_data_of_target_parser(target)
+    X_train, Y_train = data_train.get_data_of_target(target)
+    X_test, Y_test = data_test.get_data_of_target(target)
 
-    # encode X, Y and add lexicons feature into X
+    # parser tokens
+    P_train = data_train.get_parser_of_target(target)
+    P_test = data_test.get_parser_of_target(target)
+    
+    # encode X, Y
     split_flg = len(X_train) # split training and test data later
     vectorizer = CountVectorizer()           
-    X = vectorizer.fit_transform(X_train + X_test).toarray()    
+    X = vectorizer.fit_transform(X_train + X_test).toarray()
+    vectorizer_paser = CountVectorizer(token_pattern=r'[\w]+->[\w]+')
+    P = vectorizer_paser.fit_transform(P_train + P_test).toarray()
     X_train = X[:split_flg]
+    X_train = np.append(X_train, P[:split_flg], axis=1)
     X_test = X[split_flg:]
+    X_test = np.append(X_test, P[split_flg:], axis=1)
 
     Y_train = np.array([STANCE_DICT[s] for s in Y_train])
     Y_test = np.array([STANCE_DICT[s] for s in Y_test])
@@ -65,28 +73,29 @@ def per_SVM(data_train, data_test, clf, target):
     print("Accuracy score: {}\n".format(acc))
     return acc
 
-def gen_dep_triples(data): 
-    # returns triples of a sentence
-    #   [(word1, head1, label1), (word2, head2, label2), ...]
-    data = StringIO(data)
-    df = pd.read_csv(data, 
-                        sep='\t', 
-                        names=['ID', 'WORD', 'LEMMA', 'POS', 'V1', 'V2', 'HEAD_INDEX', 'DEP', 'V3', 'V4'])
-    df = df.astype({"ID": int}) # Convert some strings to integers
-    # print(df, '\n=====================\n')
+def gen_parser_arrows(sentences): 
+    # returns a string of parser arrows 
+    #   "word1->head1 word2->head2 ..."
+    dep_triples = ""
+    for data in sentences.split('\n\n'): 
+        data = StringIO(data) 
+        df = pd.read_csv(data, 
+                            sep='\t', 
+                            names=['ID', 'WORD', 'LEMMA', 'POS', 'V1', 'V2', 'HEAD_INDEX', 'DEP', 'V3', 'V4'])
+        df = df.astype({"ID": int}) # Convert some strings to integers
+        # print(df, '\n=====================\n')
 
-    dep_triples = []
-    for i in range(len(df)):
-        word = df.iloc[i]['WORD']
-        head_id = df.iloc[i]['HEAD_INDEX'] # it is the ID not the Index
-        if word == '\t': # Yuhui: discard? 
-            continue
-        else:
-            head_id = int(head_id) # Convert some strings to integers
-        head = df[df["ID"] == head_id].iloc[0]['WORD'] if head_id != 0 else word
-        label = "ROOT" if head==word else df.iloc[i]['DEP']
-        dep_triples.append((word, head, label))
-    return dep_triples
+        for i in range(len(df)):
+            word = df.iloc[i]['WORD']
+            head_id = df.iloc[i]['HEAD_INDEX'] # it is the ID not the Index
+            if word == '\t': # Yuhui: discard? 
+                continue
+            else:
+                head_id = int(head_id) # Convert some strings to integers
+            head = df[df["ID"] == head_id].iloc[0]['WORD'] if head_id != 0 else word
+            # label = "ROOT" if head==word else df.iloc[i]['DEP']
+            dep_triples += str(word) + "->" + str(head) + " "
+    return dep_triples 
 
 
 
@@ -97,24 +106,26 @@ if __name__ == "__main__":
     test_file_list = [f for f in os.listdir(MALTPARSER_CONLL_DIR) if f.endswith('_test_parsed.conllu') and f != 'donald_test_parsed.conllu']
     # A. Preprocess the triples saved in train_dep_triples
     # B. Join them with df_train
-    # train_dep_triples: {'<target1>': [<triples1>, <triples2>, ....], [<triples1>, <triples2>, ....], 
-    #                       '<target2>': [<triples1>, <triples2>, ....], [<triples1>, <triples2>, ....],}
+    # train_dep_triples: {'<target1>': ["word1->head1 word2->head2 ...", "word1->head1 word2->head2 ...", ...],
+    #                       '<target2>': ["word1->head1 word2->head2 ...", "word1->head1 word2->head2 ...", ...],
+    #                       ......} 
     train_dep_triples = {}
-    for file in train_file_list: 
-        with open(os.path.join(MALTPARSER_CONLL_DIR, file), 'r') as f:
-            data = f.read().split('\n\n')
-        target_name = PARSER_MAP[file.split('_')[0]]
-        train_dep_triples[target_name] = [gen_dep_triples(d) for d in data if d != '']
-        print("{}: {} sentences.".format(file, len(train_dep_triples[target_name])))
-    
+    for file in sorted(train_file_list): 
+        with open(os.path.join(MALTPARSER_CONLL_DIR, file), 'r') as f: 
+            data = f.read().split('#Tweet\n')
+        tweet_data = [gen_parser_arrows(d) for d in data if d != '']
+        train_dep_triples[PARSER_MAP[file.split('_')[0]]] = tweet_data
+        print("{}: {}".format(file, len(tweet_data)))
+        # print(tweet_data)
+
     test_dep_triples = {}
-    for file in test_file_list: 
-        with open(os.path.join(MALTPARSER_CONLL_DIR, file), 'r') as f:
-            data = f.read().split('\n\n')
-        target_name = PARSER_MAP[file.split('_')[0]]
-        train_dep_triples[target_name] = [gen_dep_triples(d) for d in data if d != '']
-        print("{}: {} sentences.".format(file, len(train_dep_triples[target_name])))
-    print("Done!")
+    for file in sorted(test_file_list): 
+        with open(os.path.join(MALTPARSER_CONLL_DIR, file), 'r') as f: 
+            data = f.read().split('#Tweet\n')
+        tweet_data = [gen_parser_arrows(d) for d in data if d != '']
+        test_dep_triples[PARSER_MAP[file.split('_')[0]]] = tweet_data
+        print("{}: {}".format(file, len(tweet_data)))
+        # print(tweet_data) 
 
 
 
@@ -127,7 +138,7 @@ if __name__ == "__main__":
         print("Load the previous results from {}".format(RESULTS_PATH))
         print(df_res)
     else:
-        df_res = pd.DataFrame(TARGET_LIST, columns=['Target'])
+        df_res = pd.DataFrame(TARGET_LIST, columns=['Target']) 
 
 
 
@@ -147,3 +158,12 @@ if __name__ == "__main__":
     clf = svm.SVC(decision_function_shape='ovr')
     for target in TARGET_LIST: 
         results.append(per_SVM(data_train, data_test, clf, target))
+    
+
+
+    ### 4: Save the results to a file. 
+    # add new columns for this experiment
+    df_res['Default_Parser'] = results
+    print(df_res)
+    df_res.to_csv(RESULTS_PATH, sep='\t', index=False)
+    print("Save the results into {}".format(RESULTS_PATH))
