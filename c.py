@@ -160,10 +160,21 @@ if __name__ == "__main__":
         results.append(per_SVM(data_train, data_test, clf, target))
     
 
+    ### 4: Improve the results when optimize the settings. 
+    # The details of exploring the setting are in `explore_SVM_settings.ipynb`.  
+    print("Optimized SVM:\n")
+    opt_results = []
+    # Yuhui: These optimized SVM is different with that in baseline. We may always optimize the SVM 
+    # when we use the different features. "C" is the most important parameter, which need to be adjusted. 
+    clf = svm.SVC(C=10, kernel='rbf', gamma='scale', class_weight=None)
+    for target in TARGET_LIST:
+        opt_results.append(per_SVM(data_train, data_test, clf, target))
 
-    ### 4: Save the results to a file. 
+
+    ### 5: Save the results to a file. 
     # add new columns for this experiment
     df_res['Default_Parser'] = results
+    df_res['Optimized_Parser'] = opt_results
     print(df_res)
     df_res.to_csv(RESULTS_PATH, sep='\t', index=False)
     print("Save the results into {}".format(RESULTS_PATH))
