@@ -1,5 +1,4 @@
 #Tweet
-1	Always	always	_	RB	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	delight	delight	_	NN	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -27,7 +26,6 @@
 1	#manly	#manly	_	RB	_	_	_	_	_
 
 #Tweet
-1	Sometimes	sometimes	_	RB	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	overheat	overheat	_	VBP	_	_	_	_	_
 4	and	and	_	CC	_	_	_	_	_
@@ -55,7 +53,6 @@
 3	;	;	_	:	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	feminists	feminist	_	NNS	_	_	_	_	_
 3	spent	spend	_	VBD	_	_	_	_	_
 4	1/2	1/2	_	CD	_	_	_	_	_
@@ -81,7 +78,6 @@
 24	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Stupid	stupid	_	JJ	_	_	_	_	_
 2	Feminists	feminist	_	NNS	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -105,7 +101,6 @@
 22	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	YOU	you	_	PRP	_	_	_	_	_
 2	'RE	be	_	VBP	_	_	_	_	_
 3	A	a	_	DT	_	_	_	_	_
 4	GIRL	girl	_	NN	_	_	_	_	_
@@ -126,7 +121,6 @@
 1	#feminist	#feminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Suns	Suns	_	NNPS	_	_	_	_	_
 2	out	out	_	RB	_	_	_	_	_
 3	...	...	_	:	_	_	_	_	_
 4	.	.	_	.	_	_	_	_	_
@@ -147,7 +141,6 @@
 14	@EverydaySexism	@EverydaySexism	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	's	's	_	POS	_	_	_	_	_
 3	rights	rights	_	NNS	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -171,7 +164,6 @@
 1	#CPD48	#cpd48	_	NN	_	_	_	_	_
 
 #Tweet
-1	So	so	_	RB	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	support	support	_	VBP	_	_	_	_	_
 4	unequal	unequal	_	JJ	_	_	_	_	_
@@ -194,7 +186,6 @@
 1	#EqualPayDay	#EqualPayDay	_	NNP	_	_	_	_	_
 
 #Tweet
-1	These	these	_	DT	_	_	_	_	_
 2	pics	pic	_	NNS	_	_	_	_	_
 3	of	of	_	IN	_	_	_	_	_
 4	#pornstars	#pornstars	_	NNS	_	_	_	_	_
@@ -219,7 +210,6 @@
 13	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	#YesAllWomen	#yesallwomen	_	NNS	_	_	_	_	_
 2	should	should	_	MD	_	_	_	_	_
 3	know	know	_	VB	_	_	_	_	_
 4	how	how	_	WRB	_	_	_	_	_
@@ -240,7 +230,6 @@
 1	#republicanvalues	#republicanvalues	_	NNS	_	_	_	_	_
 
 #Tweet
-1	links	link	_	NNS	_	_	_	_	_
 2	in	in	_	IN	_	_	_	_	_
 3	sauga	sauga	_	NN	_	_	_	_	_
 4	got	get	_	VBN	_	_	_	_	_
@@ -258,7 +247,6 @@
 16	#equality	#equality	_	NN	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@isocynic	@isocynic	_	JJ	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -272,7 +260,6 @@
 12	#bodypositive	#bodypositive	_	JJ	_	_	_	_	_
 
 #Tweet
-1	tired	tired	_	JJ	_	_	_	_	_
 2	of	of	_	IN	_	_	_	_	_
 3	anti-womanist	anti-womanist	_	JJ	_	_	_	_	_
 4	respectability	respectability	_	NN	_	_	_	_	_
@@ -299,7 +286,6 @@
 18	interview	interview	_	NN	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	're	be	_	VBP	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -315,7 +301,6 @@
 14	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	make	make	_	VB	_	_	_	_	_
@@ -350,7 +335,6 @@
 1	#EqualPayDay	#EqualPayDay	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@lucyblakeman12	@lucyblakeman12	_	CD	_	_	_	_	_
 2	You	you	_	PRP	_	_	_	_	_
 3	need	need	_	VBP	_	_	_	_	_
 4	feminism	feminism	_	NN	_	_	_	_	_
@@ -378,7 +362,6 @@
 11	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	MRAs	mra	_	NNS	_	_	_	_	_
 2	just	just	_	RB	_	_	_	_	_
 3	tried	try	_	VBD	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -401,7 +384,6 @@
 21	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Why	why	_	WRB	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	girls	girl	_	NNS	_	_	_	_	_
 4	/	/	_	,	_	_	_	_	_
@@ -429,7 +411,6 @@
 26	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	@randomtweetor	@randomtweetor	_	NNP	_	_	_	_	_
 2	i	i	_	PRP	_	_	_	_	_
 3	hate	hate	_	VBP	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -457,7 +438,6 @@
 8	#feminist	#feminist	_	NN	_	_	_	_	_
 
 #Tweet
-1	Job	job	_	NN	_	_	_	_	_
 2	should	should	_	MD	_	_	_	_	_
 3	always	always	_	RB	_	_	_	_	_
 4	go	go	_	VB	_	_	_	_	_
@@ -485,7 +465,6 @@
 1	#PaulHenry	#PaulHenry	_	NNP	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WP	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	say	say	_	VB	_	_	_	_	_
@@ -509,7 +488,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Did	do	_	VBD	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	know	know	_	VB	_	_	_	_	_
 4	?	?	_	.	_	_	_	_	_
@@ -534,7 +512,6 @@
 1	#gender	#gender	_	NNP	_	_	_	_	_
 
 #Tweet
-1	the	the	_	DT	_	_	_	_	_
 2	time	time	_	NN	_	_	_	_	_
 3	for	for	_	IN	_	_	_	_	_
 4	gender	gender	_	NN	_	_	_	_	_
@@ -544,7 +521,6 @@
 8	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	As	as	_	IN	_	_	_	_	_
 2	Chip	Chip	_	NNP	_	_	_	_	_
 3	Kidd	Kidd	_	NNP	_	_	_	_	_
 4	announces	announce	_	VBZ	_	_	_	_	_
@@ -569,7 +545,6 @@
 23	#poetry	#poetry	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	get	get	_	VBP	_	_	_	_	_
 3	paid	pay	_	VBN	_	_	_	_	_
 4	far	far	_	RB	_	_	_	_	_
@@ -597,7 +572,6 @@
 1	@amazingatheist	@amazingatheist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	You	you	_	PRP	_	_	_	_	_
 2	know	know	_	VBP	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	're	be	_	VBP	_	_	_	_	_
@@ -618,7 +592,6 @@
 19	#inequality	#inequality	_	NN	_	_	_	_	_
 
 #Tweet
-1	When	when	_	WRB	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	it	it	_	PRP	_	_	_	_	_
 4	ok	ok	_	JJ	_	_	_	_	_
@@ -651,7 +624,6 @@
 1	#AskHillary	#AskHillary	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	love	love	_	VBP	_	_	_	_	_
 3	that	that	_	DT	_	_	_	_	_
 4	girl	girl	_	NN	_	_	_	_	_
@@ -673,7 +645,6 @@
 7	#USWNT	#uswnt	_	NN	_	_	_	_	_
 
 #Tweet
-1	Men	man	_	NNS	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	have	have	_	VB	_	_	_	_	_
@@ -703,7 +674,6 @@
 28	silenced	silence	_	VBN	_	_	_	_	_
 
 #Tweet
-1	FINALLY	finally	_	RB	_	_	_	_	_
 2	A	a	_	DT	_	_	_	_	_
 3	WOMEN	women	_	NN	_	_	_	_	_
 4	RUNNING	run	_	VBG	_	_	_	_	_
@@ -711,7 +681,6 @@
 6	PRESIDENT	PRESIDENT	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Pissed	pissed	_	JJ	_	_	_	_	_
 2	that	that	_	IN	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	got	get	_	VBD	_	_	_	_	_
@@ -725,7 +694,6 @@
 12	n't	not	_	RB	_	_	_	_	_
 
 #Tweet
-1	@SirWilliamValen	@sirwilliamvalen	_	RB	_	_	_	_	_
 2	insulting	insulting	_	JJ	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	thinking	think	_	VBG	_	_	_	_	_
@@ -753,7 +721,6 @@
 13	us	we	_	PRP	_	_	_	_	_
 
 #Tweet
-1	@Yaahnemba	@Yaahnemba	_	NNP	_	_	_	_	_
 2	Have	have	_	VBP	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	ever	ever	_	RB	_	_	_	_	_
@@ -781,7 +748,6 @@
 11	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	believe	believe	_	VBP	_	_	_	_	_
 3	that	that	_	IN	_	_	_	_	_
 4	every	every	_	DT	_	_	_	_	_
@@ -794,7 +760,6 @@
 11	!!	!!	_	.	_	_	_	_	_
 
 #Tweet
-1	@TheRuIes	@theruies	_	NNS	_	_	_	_	_
 2	@xDirtyDianna	@xdirtydianna	_	ADD	_	_	_	_	_
 3	why	why	_	WRB	_	_	_	_	_
 4	not	not	_	RB	_	_	_	_	_
@@ -821,7 +786,6 @@
 25	hoe	hoe	_	NN	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	upsets	upset	_	NNS	_	_	_	_	_
 3	me	I	_	PRP	_	_	_	_	_
 4	how	how	_	WRB	_	_	_	_	_
@@ -845,7 +809,6 @@
 5	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	am	be	_	VBP	_	_	_	_	_
 3	obsessed	obsess	_	VBN	_	_	_	_	_
 4	with	with	_	IN	_	_	_	_	_
@@ -864,7 +827,6 @@
 4	#woc	#woc	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	just	just	_	RB	_	_	_	_	_
 3	yelled	yell	_	VBD	_	_	_	_	_
 4	at	at	_	IN	_	_	_	_	_
@@ -882,7 +844,6 @@
 16	X.	X.	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Extinction	extinction	_	NN	_	_	_	_	_
 2	of	of	_	IN	_	_	_	_	_
 3	insects	insect	_	NNS	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -907,7 +868,6 @@
 23	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@WGSndsu	@wgsndsu	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Let	let	_	VB	_	_	_	_	_
@@ -928,7 +888,6 @@
 4	#DogsCanComeToo	#dogscancometoo	_	ADD	_	_	_	_	_
 
 #Tweet
-1	Anyone	anyone	_	NN	_	_	_	_	_
 2	find	find	_	VB	_	_	_	_	_
 3	it	it	_	PRP	_	_	_	_	_
 4	funny	funny	_	JJ	_	_	_	_	_
@@ -952,7 +911,6 @@
 22	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	.@MyRainbowNinja	.@MyRainbowNinja	_	NNP	_	_	_	_	_
 2	@NotAllBhas	@NotAllBhas	_	NNP	_	_	_	_	_
 3	This	this	_	DT	_	_	_	_	_
 4	farm	farm	_	NN	_	_	_	_	_
@@ -962,7 +920,6 @@
 8	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@rossansguil	@rossansguil	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Nothing	nothing	_	NN	_	_	_	_	_
@@ -979,7 +936,6 @@
 15	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	All	all	_	DT	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	'm	be	_	VBP	_	_	_	_	_
 4	doing	do	_	VBG	_	_	_	_	_
@@ -1006,7 +962,6 @@
 1	#FeminismIsAwfullyGreat	#FeminismIsAwfullyGreat	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@FudgieeBuddiee	@FudgieeBuddiee	_	NNP	_	_	_	_	_
 2	ARE	be	_	VBP	_	_	_	_	_
 3	YOU	you	_	PRP	_	_	_	_	_
 4	SAYING	say	_	VBG	_	_	_	_	_
@@ -1025,7 +980,6 @@
 3	SWINE	swine	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@DaniBChristen	@DaniBChristen	_	NNP	_	_	_	_	_
 2	Yes	yes	_	UH	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -1046,7 +1000,6 @@
 19	#IDontNeedFeminism	#IDontNeedFeminism	_	NNP	_	_	_	_	_
 
 #Tweet
-1	WHO	who	_	WP	_	_	_	_	_
 2	DO	do	_	VBP	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	GOT	got	_	JJ	_	_	_	_	_
@@ -1064,7 +1017,6 @@
 16	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	when	when	_	WRB	_	_	_	_	_
 2	they	they	_	PRP	_	_	_	_	_
 3	say	say	_	VBP	_	_	_	_	_
 4	men	man	_	NNS	_	_	_	_	_
@@ -1094,7 +1046,6 @@
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Starting	start	_	VBG	_	_	_	_	_
 2	to	to	_	IN	_	_	_	_	_
 3	compile	compile	_	VB	_	_	_	_	_
 4	evidence	evidence	_	NN	_	_	_	_	_
@@ -1116,7 +1067,6 @@
 20	#antifeminism	#antifeminism	_	NN	_	_	_	_	_
 
 #Tweet
-1	Why	why	_	WRB	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -1125,7 +1075,6 @@
 7	Twitter	Twitter	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	HOPE	hope	_	VBP	_	_	_	_	_
 3	YOU	you	_	PRP	_	_	_	_	_
 4	GET	get	_	VB	_	_	_	_	_
@@ -1150,7 +1099,6 @@
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	How	how	_	WRB	_	_	_	_	_
 2	much	much	_	JJ	_	_	_	_	_
 3	radical	radical	_	JJ	_	_	_	_	_
 4	feminist	feminist	_	NN	_	_	_	_	_
@@ -1170,7 +1118,6 @@
 18	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	Honoured	honour	_	VBN	_	_	_	_	_
 2	to	to	_	TO	_	_	_	_	_
 3	be	be	_	VB	_	_	_	_	_
 4	followed	follow	_	VBN	_	_	_	_	_
@@ -1186,7 +1133,6 @@
 14	#thethingsthatmatter	#thethingsthatmatter	_	NN	_	_	_	_	_
 
 #Tweet
-1	Feminists	feminist	_	NNS	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	even	even	_	RB	_	_	_	_	_
@@ -1197,7 +1143,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Thanks	thanks	_	NN	_	_	_	_	_
 2	to	to	_	IN	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	work	work	_	NN	_	_	_	_	_
@@ -1219,7 +1164,6 @@
 20	society	society	_	NN	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	wan	wan	_	VBP	_	_	_	_	_
 4	na	na	_	TO	_	_	_	_	_
@@ -1247,7 +1191,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@suicidaljac3	@suicidaljac3	_	CD	_	_	_	_	_
 2	eat	eat	_	VBP	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	pus	pus	_	NN	_	_	_	_	_
@@ -1256,7 +1199,6 @@
 7	lozer	lozer	_	NN	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	superior	superior	_	JJ	_	_	_	_	_
 4	to	to	_	IN	_	_	_	_	_
@@ -1267,7 +1209,6 @@
 9	#feminist	#feminist	_	NN	_	_	_	_	_
 
 #Tweet
-1	@BruiseAurora	@bruiseaurora	_	NNS	_	_	_	_	_
 2	i	i	_	PRP	_	_	_	_	_
 3	'm	be	_	VBP	_	_	_	_	_
 4	advocating	advocate	_	VBG	_	_	_	_	_
@@ -1288,7 +1229,6 @@
 1	#everydaysexism	#everydaysexism	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	NEED	need	_	VBP	_	_	_	_	_
 3	FEMINISM	FEMINISM	_	NNP	_	_	_	_	_
 4	BECAUSE	because	_	IN	_	_	_	_	_
@@ -1318,7 +1258,6 @@
 11	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Why	why	_	WRB	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	Paul	Paul	_	NNP	_	_	_	_	_
 4	Elam	Elam	_	NNP	_	_	_	_	_
@@ -1337,7 +1276,6 @@
 1	#feminist	#feminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Yes	yes	_	UH	_	_	_	_	_
 2	women	woman	_	NNS	_	_	_	_	_
 3	it	it	_	PRP	_	_	_	_	_
 4	's	be	_	VBZ	_	_	_	_	_
@@ -1362,7 +1300,6 @@
 6	#everydaysexism	#everydaysexism	_	ADD	_	_	_	_	_
 
 #Tweet
-1	Watching	watch	_	VBG	_	_	_	_	_
 2	#missrepresentation	#missrepresentation	_	NN	_	_	_	_	_
 3	.	.	_	.	_	_	_	_	_
 
@@ -1380,7 +1317,6 @@
 3	#beauty	#beauty	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	wo	will	_	MD	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	complain	complain	_	VB	_	_	_	_	_
@@ -1416,7 +1352,6 @@
 1	#gaming	#gaming	_	VBG	_	_	_	_	_
 
 #Tweet
-1	A	a	_	DT	_	_	_	_	_
 2	woman	woman	_	NN	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	not	not	_	RB	_	_	_	_	_
@@ -1441,7 +1376,6 @@
 8	#society	#society	_	GW	_	_	_	_	_
 
 #Tweet
-1	Umrao	Umrao	_	NNP	_	_	_	_	_
 2	Jaan	Jaan	_	NNP	_	_	_	_	_
 3	Ada	Ada	_	NNP	_	_	_	_	_
 4	-	-	_	HYPH	_	_	_	_	_
@@ -1464,7 +1398,6 @@
 1	#WOMANPOWER	#WOMANPOWER	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Lol	lol	_	UH	_	_	_	_	_
 2	what	what	_	WP	_	_	_	_	_
 3	's	be	_	VBZ	_	_	_	_	_
 4	so	so	_	RB	_	_	_	_	_
@@ -1477,7 +1410,6 @@
 11	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	You	you	_	PRP	_	_	_	_	_
 2	want	want	_	VBP	_	_	_	_	_
 3	to	to	_	TO	_	_	_	_	_
 4	hear	hear	_	VB	_	_	_	_	_
@@ -1501,7 +1433,6 @@
 22	#MisogynyIsUgly	#misogynyisugly	_	RB	_	_	_	_	_
 
 #Tweet
-1	@amin86660132	@amin86660132	_	CD	_	_	_	_	_
 2	@justsoshelby	@justsoshelby	_	JJ	_	_	_	_	_
 3	Very	very	_	RB	_	_	_	_	_
 4	nice	nice	_	JJ	_	_	_	_	_
@@ -1525,7 +1456,6 @@
 15	way	way	_	NN	_	_	_	_	_
 
 #Tweet
-1	WTF	WTF	_	NNP	_	_	_	_	_
 2	LITEraL	LITEraL	_	NNP	_	_	_	_	_
 3	FUCK	FUCK	_	NNP	_	_	_	_	_
 4	AM	AM	_	NNP	_	_	_	_	_
@@ -1538,7 +1468,6 @@
 11	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Radios	radio	_	NNS	_	_	_	_	_
 2	r	be	_	VBP	_	_	_	_	_
 3	filled	fill	_	VBN	_	_	_	_	_
 4	with	with	_	IN	_	_	_	_	_
@@ -1567,7 +1496,6 @@
 8	me	I	_	PRP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	take	take	_	VBP	_	_	_	_	_
 3	some	some	_	DT	_	_	_	_	_
 4	solace	solace	_	NN	_	_	_	_	_
@@ -1593,7 +1521,6 @@
 24	@thehiredmind	@thehiredmind	_	NN	_	_	_	_	_
 
 #Tweet
-1	No	no	_	UH	_	_	_	_	_
 2	.	.	_	.	_	_	_	_	_
 
 1	Feminists	feminist	_	NNS	_	_	_	_	_
@@ -1621,7 +1548,6 @@
 1	#FeministsAreBeautiful	#FeministsAreBeautiful	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Meredith	Meredith	_	NNP	_	_	_	_	_
 2	giving	give	_	VBG	_	_	_	_	_
 3	Don	Don	_	NNP	_	_	_	_	_
 4	crap	crap	_	NN	_	_	_	_	_
@@ -1650,7 +1576,6 @@
 2	#MadMen	#MadMen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	so	so	_	RB	_	_	_	_	_
 2	i	i	_	PRP	_	_	_	_	_
 3	guess	guess	_	VBP	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -1671,7 +1596,6 @@
 19	THEN	then	_	RB	_	_	_	_	_
 
 #Tweet
-1	Strict	strict	_	JJ	_	_	_	_	_
 2	gender	gender	_	NN	_	_	_	_	_
 3	roles	role	_	NNS	_	_	_	_	_
 4	in	in	_	IN	_	_	_	_	_
@@ -1699,7 +1623,6 @@
 1	#tcot	#tcot	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Ok	ok	_	UH	_	_	_	_	_
 2	armchair	armchair	_	NN	_	_	_	_	_
 3	feminists	feminist	_	NNS	_	_	_	_	_
 4	got	get	_	VBD	_	_	_	_	_
@@ -1728,7 +1651,6 @@
 4	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	ca	can	_	MD	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	believe	believe	_	VB	_	_	_	_	_
@@ -1758,7 +1680,6 @@
 1	#antifeminist	#antifeminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@StarSThomas	@starsthomas	_	NNS	_	_	_	_	_
 2	Dear	dear	_	JJ	_	_	_	_	_
 3	god	god	_	NN	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -1768,7 +1689,6 @@
 8	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	feminists	feminist	_	NNS	_	_	_	_	_
 3	are	be	_	VBP	_	_	_	_	_
 4	ugly	ugly	_	JJ	_	_	_	_	_
@@ -1785,7 +1705,6 @@
 15	vile	vile	_	JJ	_	_	_	_	_
 
 #Tweet
-1	Im	Im	_	NNP	_	_	_	_	_
 2	sorry	sorry	_	JJ	_	_	_	_	_
 3	if	if	_	IN	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -1814,7 +1733,6 @@
 27	door	door	_	NN	_	_	_	_	_
 
 #Tweet
-1	Me	I	_	PRP	_	_	_	_	_
 2	(	(	_	-LRB-	_	_	_	_	_
 3	in	in	_	IN	_	_	_	_	_
 4	jest	jest	_	NN	_	_	_	_	_
@@ -1843,7 +1761,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	.@Awyee707	.@awyee707	_	NN	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	respect	respect	_	VBP	_	_	_	_	_
 4	your	you	_	PRP$	_	_	_	_	_
@@ -1868,7 +1785,6 @@
 14	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	@Awyee707	@awyee707	_	NN	_	_	_	_	_
 2	@TigerClaud	@TigerClaud	_	NNP	_	_	_	_	_
 3	You	you	_	PRP	_	_	_	_	_
 4	compared	compare	_	VBN	_	_	_	_	_
@@ -1890,7 +1806,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@optimist216	@optimist216	_	NN	_	_	_	_	_
 2	What	what	_	WDT	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	load	load	_	NN	_	_	_	_	_
@@ -1916,7 +1831,6 @@
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	'm	be	_	VBP	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	sure	sure	_	JJ	_	_	_	_	_
@@ -1933,7 +1847,6 @@
 2	@prettysing	@prettysing	_	VBG	_	_	_	_	_
 
 #Tweet
-1	.@diistantecho	.@diistantecho	_	RB	_	_	_	_	_
 2	Your	you	_	PRP$	_	_	_	_	_
 3	wee	wee	_	JJ	_	_	_	_	_
 4	sister	sister	_	NN	_	_	_	_	_
@@ -1955,7 +1868,6 @@
 7	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@dancerlwt	@dancerlwt	_	NNP	_	_	_	_	_
 2	Have	have	_	VBP	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	considered	consider	_	VBN	_	_	_	_	_
@@ -1969,7 +1881,6 @@
 12	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	Just	just	_	RB	_	_	_	_	_
 2	give	give	_	VB	_	_	_	_	_
 3	me	I	_	PRP	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -1987,7 +1898,6 @@
 4	#RHOAReunion	#RHOAReunion	_	NNP	_	_	_	_	_
 
 #Tweet
-1	.@nycinterlude	.@nycinterlude	_	NN	_	_	_	_	_
 2	Do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	worry	worry	_	VB	_	_	_	_	_
@@ -2013,7 +1923,6 @@
 3	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	am	be	_	VBP	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	feminist.I	feminist.I	_	NNP	_	_	_	_	_
@@ -2044,7 +1953,6 @@
 29	#humanist	#humanist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	.@feminismvibes	.@feminismvibes	_	NNS	_	_	_	_	_
 2	Men	man	_	NNS	_	_	_	_	_
 3	do	do	_	VBP	_	_	_	_	_
 4	n't	not	_	RB	_	_	_	_	_
@@ -2068,7 +1976,6 @@
 7	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@vote4pedro___	@vote4pedro___	_	NN	_	_	_	_	_
 2	she	she	_	PRP	_	_	_	_	_
 3	lied	lie	_	VBD	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -2095,7 +2002,6 @@
 25	why	why	_	WRB	_	_	_	_	_
 
 #Tweet
-1	@AnandDaranand	@AnandDaranand	_	NNP	_	_	_	_	_
 2	am	be	_	VBP	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	stopping	stop	_	VBG	_	_	_	_	_
@@ -2126,7 +2032,6 @@
 29	#VAW	#VAW	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Courting	court	_	VBG	_	_	_	_	_
 2	patriarchal	patriarchal	_	JJ	_	_	_	_	_
 3	approval	approval	_	NN	_	_	_	_	_
 4	condemns	condemn	_	VBZ	_	_	_	_	_
@@ -2141,7 +2046,6 @@
 13	#patriarchyisugly	#patriarchyisugly	_	RB	_	_	_	_	_
 
 #Tweet
-1	@SkyNews	@skynews	_	NNS	_	_	_	_	_
 2	@EamonnHolmes	@eamonnholmes	_	NNS	_	_	_	_	_
 3	@SkyJacquie	@skyjacquie	_	NN	_	_	_	_	_
 4	guy	guy	_	NN	_	_	_	_	_
@@ -2161,7 +2065,6 @@
 18	idiot	idiot	_	NN	_	_	_	_	_
 
 #Tweet
-1	@rsiereilly	@rsiereilly	_	RB	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	've	have	_	VBP	_	_	_	_	_
 4	been	be	_	VBN	_	_	_	_	_
@@ -2175,7 +2078,6 @@
 4	to	to	_	IN	_	_	_	_	_
 
 #Tweet
-1	Contempo	Contempo	_	NNP	_	_	_	_	_
 2	Qiwaamah	Qiwaamah	_	NNP	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	longer	longer	_	RBR	_	_	_	_	_
@@ -2199,7 +2101,6 @@
 22	pay	pay	_	NN	_	_	_	_	_
 
 #Tweet
-1	@MrMikeCalta	@MrMikeCalta	_	NNP	_	_	_	_	_
 2	Proud	Proud	_	NNP	_	_	_	_	_
 3	to	to	_	TO	_	_	_	_	_
 4	say	say	_	VB	_	_	_	_	_
@@ -2214,7 +2115,6 @@
 13	MJ	MJ	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	only	only	_	JJ	_	_	_	_	_
 3	reason	reason	_	NN	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -2234,7 +2134,6 @@
 18	#dailydevotional	#dailydevotional	_	JJ	_	_	_	_	_
 
 #Tweet
-1	@rimmedlarry	@rimmedlarry	_	VB	_	_	_	_	_
 2	Actually	actually	_	RB	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -2258,7 +2157,6 @@
 22	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	have	have	_	VBP	_	_	_	_	_
 3	noticed	notice	_	VBN	_	_	_	_	_
 4	that	that	_	IN	_	_	_	_	_
@@ -2277,7 +2175,6 @@
 4	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	@james_WTF	@james_wtf	_	NN	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	be	be	_	VB	_	_	_	_	_
@@ -2295,7 +2192,6 @@
 6	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@draumkunta	@draumkunta	_	NNS	_	_	_	_	_
 2	also	also	_	RB	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	sorry	sorry	_	JJ	_	_	_	_	_
@@ -2317,7 +2213,6 @@
 20	standards	standard	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@bethany_jayneW	@bethany_jayneW	_	NNP	_	_	_	_	_
 2	its	its	_	PRP$	_	_	_	_	_
 3	cool	cool	_	JJ	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -2332,7 +2227,6 @@
 13	side	side	_	NN	_	_	_	_	_
 
 #Tweet
-1	@_sarcasmspasm	@_sarcasmspasm	_	NNP	_	_	_	_	_
 2	@MT8_9	@MT8_9	_	NNP	_	_	_	_	_
 3	Then	then	_	RB	_	_	_	_	_
 4	there	there	_	EX	_	_	_	_	_
@@ -2357,7 +2251,6 @@
 23	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	Your	you	_	PRP$	_	_	_	_	_
 2	physical	physical	_	JJ	_	_	_	_	_
 3	appearance	appearance	_	NN	_	_	_	_	_
 4	does	do	_	VBZ	_	_	_	_	_
@@ -2378,7 +2271,6 @@
 19	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	All	all	_	PDT	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	feminist	feminist	_	JJ	_	_	_	_	_
 4	block	block	_	NN	_	_	_	_	_
@@ -2390,7 +2282,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	'm	be	_	VBP	_	_	_	_	_
 3	going	go	_	VBG	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -2414,7 +2305,6 @@
 22	@BristolBen	@bristolben	_	ADD	_	_	_	_	_
 
 #Tweet
-1	@MsLuuna	@msluuna	_	NN	_	_	_	_	_
 2	women	woman	_	NNS	_	_	_	_	_
 3	do	do	_	VBP	_	_	_	_	_
 4	n't	not	_	RB	_	_	_	_	_
@@ -2424,7 +2314,6 @@
 8	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	only	only	_	JJ	_	_	_	_	_
 3	thing	thing	_	NN	_	_	_	_	_
 4	ugly	ugly	_	JJ	_	_	_	_	_
@@ -2443,7 +2332,6 @@
 17	tag	tag	_	NN	_	_	_	_	_
 
 #Tweet
-1	Wives	wife	_	NNS	_	_	_	_	_
 2	who	who	_	WP	_	_	_	_	_
 3	dislike	dislike	_	VBP	_	_	_	_	_
 4	cooking	cooking	_	NN	_	_	_	_	_
@@ -2467,7 +2355,6 @@
 22	#WomensProgress2015	#womensprogress2015	_	NN	_	_	_	_	_
 
 #Tweet
-1	These	these	_	DT	_	_	_	_	_
 2	SJWs	sjw	_	NNS	_	_	_	_	_
 3	are	be	_	VBP	_	_	_	_	_
 4	so	so	_	RB	_	_	_	_	_
@@ -2492,7 +2379,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	#Feminists	#feminists	_	NNS	_	_	_	_	_
 2	can	can	_	MD	_	_	_	_	_
 3	now	now	_	RB	_	_	_	_	_
 4	prove	prove	_	VB	_	_	_	_	_
@@ -2518,7 +2404,6 @@
 24	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Feminists	feminist	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	ugly	ugly	_	JJ	_	_	_	_	_
@@ -2542,7 +2427,6 @@
 9	planet	planet	_	NN	_	_	_	_	_
 
 #Tweet
-1	Wonder	wonder	_	NN	_	_	_	_	_
 2	what	what	_	WP	_	_	_	_	_
 3	it	it	_	PRP	_	_	_	_	_
 4	'd	would	_	MD	_	_	_	_	_
@@ -2564,7 +2448,6 @@
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Lehi	Lehi	_	NNP	_	_	_	_	_
 2	high	high	_	JJ	_	_	_	_	_
 3	school	school	_	NN	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -2584,7 +2467,6 @@
 18	#WhatAreYouAfraidOf	#WhatAreYouAfraidOf	_	NNP	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	want	want	_	VBP	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -2610,7 +2492,6 @@
 9	#war	#war	_	NNP	_	_	_	_	_
 
 #Tweet
-1	hey	hey	_	UH	_	_	_	_	_
 2	@JCDFitness	@JCDFitness	_	NNP	_	_	_	_	_
 3	stop	stop	_	VB	_	_	_	_	_
 4	teiggering	teigger	_	VBG	_	_	_	_	_
@@ -2637,7 +2518,6 @@
 2	#Equality2015	#Equality2015	_	NNP	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WP	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	wrong	wrong	_	JJ	_	_	_	_	_
 4	with	with	_	IN	_	_	_	_	_
@@ -2666,7 +2546,6 @@
 10	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	Hey	hey	_	UH	_	_	_	_	_
 2	first	first	_	RB	_	_	_	_	_
 3	-	-	_	HYPH	_	_	_	_	_
 4	world	world	_	NN	_	_	_	_	_
@@ -2687,7 +2566,6 @@
 19	#killallmen	#killallmen	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Hey	hey	_	UH	_	_	_	_	_
 2	,	,	_	,	_	_	_	_	_
 3	all	all	_	DT	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -2717,7 +2595,6 @@
 28	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@WeNeedFeminism	@weneedfeminism	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -2736,7 +2613,6 @@
 17	career	career	_	NN	_	_	_	_	_
 
 #Tweet
-1	@EmWallbank	@emwallbank	_	RB	_	_	_	_	_
 2	listen	listen	_	VB	_	_	_	_	_
 3	well	well	_	RB	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -2755,7 +2631,6 @@
 17	#hsmsong	#hsmsong	_	NN	_	_	_	_	_
 
 #Tweet
-1	@evelynlns	@evelynlns	_	NNS	_	_	_	_	_
 2	@jes_chastain	@jes_chastain	_	VBP	_	_	_	_	_
 3	Agree	agree	_	VB	_	_	_	_	_
 4	100	100	_	CD	_	_	_	_	_
@@ -2779,7 +2654,6 @@
 6	all	all	_	DT	_	_	_	_	_
 
 #Tweet
-1	Anyone	anyone	_	NN	_	_	_	_	_
 2	else	else	_	RB	_	_	_	_	_
 3	starting	start	_	VBG	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -2798,7 +2672,6 @@
 17	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Sexism	sexism	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	power	power	_	NN	_	_	_	_	_
 4	plus	plus	_	CC	_	_	_	_	_
@@ -2823,7 +2696,6 @@
 16	#Anitasarkeesian	#anitasarkeesian	_	JJ	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	strong	strong	_	JJ	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -2839,7 +2711,6 @@
 1	#FeministsAreBeautifulisalovemovement	#feministsarebeautifulisalovemovement	_	NN	_	_	_	_	_
 
 #Tweet
-1	Want	want	_	VBP	_	_	_	_	_
 2	revenge	revenge	_	NN	_	_	_	_	_
 3	for	for	_	IN	_	_	_	_	_
 4	being	be	_	VBG	_	_	_	_	_
@@ -2868,7 +2739,6 @@
 2	#UglyFeminist	#uglyfeminist	_	NN	_	_	_	_	_
 
 #Tweet
-1	people	people	_	NNS	_	_	_	_	_
 2	actually	actually	_	RB	_	_	_	_	_
 3	brag	brag	_	VBP	_	_	_	_	_
 4	about	about	_	IN	_	_	_	_	_
@@ -2891,7 +2761,6 @@
 21	420	420	_	CD	_	_	_	_	_
 
 #Tweet
-1	Got	get	_	VBN	_	_	_	_	_
 2	ta	ta	_	TO	_	_	_	_	_
 3	love	love	_	VB	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -2916,7 +2785,6 @@
 23	#IDontNeedFeminism	#idontneedfeminism	_	NN	_	_	_	_	_
 
 #Tweet
-1	@KrewellaJahan	@krewellajahan	_	JJ	_	_	_	_	_
 2	feminism	feminism	_	NN	_	_	_	_	_
 3	does	do	_	VBZ	_	_	_	_	_
 4	not	not	_	RB	_	_	_	_	_
@@ -2940,7 +2808,6 @@
 12	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	guess	guess	_	VBP	_	_	_	_	_
 3	wanting	want	_	VBG	_	_	_	_	_
 4	and	and	_	CC	_	_	_	_	_
@@ -2962,7 +2829,6 @@
 1	#feminist	#feminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Because	because	_	IN	_	_	_	_	_
 2	heckling	heckle	_	VBG	_	_	_	_	_
 3	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 4	&	&	_	CC	_	_	_	_	_
@@ -2990,7 +2856,6 @@
 14	individual	individual	_	NN	_	_	_	_	_
 
 #Tweet
-1	feminist	feminist	_	NN	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	*	*	_	NFP	_	_	_	_	_
 4	says	say	_	VBZ	_	_	_	_	_
@@ -3017,7 +2882,6 @@
 25	lmao	lmao	_	NN	_	_	_	_	_
 
 #Tweet
-1	.@Rod	.@Rod	_	NNP	_	_	_	_	_
 2	_	_	_	NFP	_	_	_	_	_
 3	McCallum	McCallum	_	NNP	_	_	_	_	_
 4	You	you	_	PRP	_	_	_	_	_
@@ -3053,7 +2917,6 @@
 1	Bye	bye	_	UH	_	_	_	_	_
 
 #Tweet
-1	@EverydaySexism	@EverydaySexism	_	NNP	_	_	_	_	_
 2	.@Rod	.@Rod	_	NNP	_	_	_	_	_
 3	_	_	_	NFP	_	_	_	_	_
 4	McCallum	McCallum	_	NNP	_	_	_	_	_
@@ -3077,7 +2940,6 @@
 1	Bye	bye	_	UH	_	_	_	_	_
 
 #Tweet
-1	@foreigncorrespo	@foreigncorrespo	_	RB	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	'm	be	_	VBP	_	_	_	_	_
 4	never	never	_	RB	_	_	_	_	_
@@ -3111,7 +2973,6 @@
 8	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@foreigncorrespo	@foreigncorrespo	_	JJ	_	_	_	_	_
 2	And	and	_	CC	_	_	_	_	_
 3	just	just	_	RB	_	_	_	_	_
 4	because	because	_	IN	_	_	_	_	_
@@ -3137,7 +2998,6 @@
 8	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	length	length	_	NN	_	_	_	_	_
 3	of	of	_	IN	_	_	_	_	_
 4	time	time	_	NN	_	_	_	_	_
@@ -3158,7 +3018,6 @@
 19	#Worlds2015	#Worlds2015	_	NNP	_	_	_	_	_
 
 #Tweet
-1	All	all	_	DT	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	need	need	_	VBP	_	_	_	_	_
 4	in	in	_	IN	_	_	_	_	_
@@ -3173,7 +3032,6 @@
 13	girlfriend	girlfriend	_	NN	_	_	_	_	_
 
 #Tweet
-1	the	the	_	DT	_	_	_	_	_
 2	fact	fact	_	NN	_	_	_	_	_
 3	that	that	_	IN	_	_	_	_	_
 4	people	people	_	NNS	_	_	_	_	_
@@ -3199,7 +3057,6 @@
 24	feminism	feminism	_	NN	_	_	_	_	_
 
 #Tweet
-1	They	they	_	PRP	_	_	_	_	_
 2	want	want	_	VBP	_	_	_	_	_
 3	equality	equality	_	NN	_	_	_	_	_
 4	but	but	_	CC	_	_	_	_	_
@@ -3215,7 +3072,6 @@
 1	#feminazi	#feminazi	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Saying	say	_	VBG	_	_	_	_	_
 2	#AllLivesMatter	#alllivesmatter	_	NN	_	_	_	_	_
 3	instead	instead	_	RB	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -3231,7 +3087,6 @@
 14	of	of	_	IN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	met	meet	_	VBD	_	_	_	_	_
 3	my	my	_	PRP$	_	_	_	_	_
 4	first	first	_	JJ	_	_	_	_	_
@@ -3256,7 +3111,6 @@
 10	#wtf	#wtf	_	NN	_	_	_	_	_
 
 #Tweet
-1	@thefemaleboook	@thefemaleboook	_	NNP	_	_	_	_	_
 2	@MeninistTweet	@MeninistTweet	_	NNP	_	_	_	_	_
 3	lmao	lmao	_	NN	_	_	_	_	_
 4	at	at	_	IN	_	_	_	_	_
@@ -3273,7 +3127,6 @@
 15	celebrities	celebrity	_	NNS	_	_	_	_	_
 
 #Tweet
-1	.@cooImemegirl	.@cooimemegirl	_	NN	_	_	_	_	_
 2	Feminists	feminist	_	NNS	_	_	_	_	_
 3	reject	reject	_	VBP	_	_	_	_	_
 4	(	(	_	-LRB-	_	_	_	_	_
@@ -3300,7 +3153,6 @@
 7	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	.@cooImemegirl	.@cooImemegirl	_	NNP	_	_	_	_	_
 2	Damn	Damn	_	NNP	_	_	_	_	_
 3	that	that	_	IN	_	_	_	_	_
 4	wage	wage	_	NN	_	_	_	_	_
@@ -3323,7 +3175,6 @@
 14	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	.@cooImemegirl	.@cooimemegirl	_	NN	_	_	_	_	_
 2	Feminists	feminist	_	NNS	_	_	_	_	_
 3	believe	believe	_	VBP	_	_	_	_	_
 4	mothers	mother	_	NNS	_	_	_	_	_
@@ -3346,7 +3197,6 @@
 21	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	you	you	_	PRP	_	_	_	_	_
 2	know	know	_	VBP	_	_	_	_	_
 3	what	what	_	WP	_	_	_	_	_
 4	's	be	_	VBZ	_	_	_	_	_
@@ -3366,7 +3216,6 @@
 11	judged	judge	_	VBN	_	_	_	_	_
 
 #Tweet
-1	.@johnny	.@johnny	_	JJ	_	_	_	_	_
 2	_	_	_	NFP	_	_	_	_	_
 3	nimble	nimble	_	JJ	_	_	_	_	_
 4	@__heyheather	@__heyheather	_	NN	_	_	_	_	_
@@ -3388,7 +3237,6 @@
 20	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	This	this	_	DT	_	_	_	_	_
 2	feminist	feminist	_	NN	_	_	_	_	_
 3	supports	support	_	VBZ	_	_	_	_	_
 4	gender	gender	_	NN	_	_	_	_	_
@@ -3409,7 +3257,6 @@
 19	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	claim	claim	_	VBP	_	_	_	_	_
 4	nor	nor	_	CC	_	_	_	_	_
@@ -3437,7 +3284,6 @@
 26	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Elizabeth	Elizabeth	_	NNP	_	_	_	_	_
 2	Cady	Cady	_	NNP	_	_	_	_	_
 3	Stanton	Stanton	_	NNP	_	_	_	_	_
 4	did	do	_	VBD	_	_	_	_	_
@@ -3457,7 +3303,6 @@
 18	back	back	_	RB	_	_	_	_	_
 
 #Tweet
-1	@Piddy_X	@Piddy_X	_	NNP	_	_	_	_	_
 2	@Nero	@Nero	_	NNP	_	_	_	_	_
 3	@CYBERSTALIN	@CYBERSTALIN	_	NNP	_	_	_	_	_
 4	It	it	_	PRP	_	_	_	_	_
@@ -3475,7 +3320,6 @@
 3	#socialism	#socialism	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	in	in	_	IN	_	_	_	_	_
 3	Hollywood	Hollywood	_	NNP	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -3491,7 +3335,6 @@
 4	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@mit5_anders	@mit5_anders	_	NNS	_	_	_	_	_
 2	To	to	_	TO	_	_	_	_	_
 3	paraphrase	paraphrase	_	VB	_	_	_	_	_
 4	Friedan	Friedan	_	NNP	_	_	_	_	_
@@ -3521,7 +3364,6 @@
 2	1960s	1960	_	NNS	_	_	_	_	_
 
 #Tweet
-1	watching	watch	_	VBG	_	_	_	_	_
 2	#BaltimoreRiots	#baltimoreriots	_	NNS	_	_	_	_	_
 3	on	on	_	IN	_	_	_	_	_
 4	Fox	Fox	_	NNP	_	_	_	_	_
@@ -3541,7 +3383,6 @@
 18	attention	attention	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	've	have	_	VBP	_	_	_	_	_
 3	removed	remove	_	VBN	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -3566,7 +3407,6 @@
 23	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@beeeatles	@beeeatles	_	NNS	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	this	this	_	DT	_	_	_	_	_
 4	list	list	_	NN	_	_	_	_	_
@@ -3599,7 +3439,6 @@
 1	#pissed	#pissed	_	VBN	_	_	_	_	_
 
 #Tweet
-1	Now	now	_	RB	_	_	_	_	_
 2	Harry	Harry	_	NNP	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	arguing	argue	_	VBG	_	_	_	_	_
@@ -3623,7 +3462,6 @@
 1	#Horns	#horns	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@sammikluber	@sammikluber	_	IN	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	'm	be	_	VBP	_	_	_	_	_
 4	just	just	_	RB	_	_	_	_	_
@@ -3632,7 +3470,6 @@
 7	facts	fact	_	NNS	_	_	_	_	_
 
 #Tweet
-1	How	how	_	WRB	_	_	_	_	_
 2	can	can	_	MD	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	be	be	_	VB	_	_	_	_	_
@@ -3660,7 +3497,6 @@
 14	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	wonder	wonder	_	VBP	_	_	_	_	_
 3	what	what	_	WP	_	_	_	_	_
 4	would	would	_	MD	_	_	_	_	_
@@ -3686,7 +3522,6 @@
 24	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@WeNeedFeminism	@weneedfeminism	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	'	'	_	``	_	_	_	_	_
@@ -3699,7 +3534,6 @@
 11	compliment	compliment	_	NN	_	_	_	_	_
 
 #Tweet
-1	.@cooImemegirl	.@cooImemegirl	_	NNP	_	_	_	_	_
 2	@TC_Stompa	@TC_Stompa	_	NNP	_	_	_	_	_
 3	Women	Women	_	NNPS	_	_	_	_	_
 4	do	do	_	VBP	_	_	_	_	_
@@ -3723,7 +3557,6 @@
 22	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	.@cooImemegirl	.@cooImemegirl	_	NNP	_	_	_	_	_
 2	@TC_Stompa	@TC_Stompa	_	NNP	_	_	_	_	_
 3	So	so	_	RB	_	_	_	_	_
 4	what	what	_	WP	_	_	_	_	_
@@ -3746,7 +3579,6 @@
 15	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	.@cooImemegirl	.@cooImemegirl	_	NNP	_	_	_	_	_
 2	@TC_Stompa	@TC_Stompa	_	NNP	_	_	_	_	_
 3	You	you	_	PRP	_	_	_	_	_
 4	have	have	_	VBP	_	_	_	_	_
@@ -3766,7 +3598,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	OH	OH	_	NNP	_	_	_	_	_
 2	NO	no	_	DT	_	_	_	_	_
 3	EQUALITY	EQUALITY	_	NNP	_	_	_	_	_
 4	FOR	for	_	IN	_	_	_	_	_
@@ -3782,7 +3613,6 @@
 3	ASAP	asap	_	RB	_	_	_	_	_
 
 #Tweet
-1	.@TheActualSarah	.@TheActualSarah	_	NNP	_	_	_	_	_
 2	The	the	_	DT	_	_	_	_	_
 3	UK	UK	_	NNP	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -3802,7 +3632,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@Vivvyyy	@Vivvyyy	_	NNP	_	_	_	_	_
 2	what	what	_	WP	_	_	_	_	_
 3	's	be	_	VBZ	_	_	_	_	_
 4	so	so	_	RB	_	_	_	_	_
@@ -3829,7 +3658,6 @@
 2	SEXIST	sexist	_	RB	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	moment	moment	_	NN	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	know	know	_	VBP	_	_	_	_	_
@@ -3861,7 +3689,6 @@
 4	#joke	#joke	_	NN	_	_	_	_	_
 
 #Tweet
-1	You	you	_	PRP	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	have	have	_	VB	_	_	_	_	_
@@ -3880,7 +3707,6 @@
 5	#men	#men	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@JahMMARastafari	@JahMMARastafari	_	NNP	_	_	_	_	_
 2	@Vosnic	@Vosnic	_	NNP	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	're	be	_	VBP	_	_	_	_	_
@@ -3897,7 +3723,6 @@
 1	#mensrights	#mensrights	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Full	full	_	JJ	_	_	_	_	_
 2	of	of	_	IN	_	_	_	_	_
 3	#narcissism	#narcissism	_	NN	_	_	_	_	_
 4	and	and	_	CC	_	_	_	_	_
@@ -3926,7 +3751,6 @@
 9	#WolfWhistling	#WolfWhistling	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@Demias20	@demias20	_	NN	_	_	_	_	_
 2	Misogynist	misogynist	_	NN	_	_	_	_	_
 3	Patriarchy	patriarchy	_	NN	_	_	_	_	_
 4	rapist	rapist	_	NN	_	_	_	_	_
@@ -3945,7 +3769,6 @@
 17	Etc	etc	_	NN	_	_	_	_	_
 
 #Tweet
-1	.@brigadam	.@brigadam	_	NNP	_	_	_	_	_
 2	@KlaraJoelsson	@KlaraJoelsson	_	NNP	_	_	_	_	_
 3	Abortion	Abortion	_	NNP	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -3971,7 +3794,6 @@
 7	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -3993,7 +3815,6 @@
 1	#PoppySmart	#PoppySmart	_	NNP	_	_	_	_	_
 
 #Tweet
-1	.@brigadam	.@brigadam	_	NNP	_	_	_	_	_
 2	@KlaraJoelsson	@KlaraJoelsson	_	NNP	_	_	_	_	_
 3	The	the	_	DT	_	_	_	_	_
 4	child	child	_	NN	_	_	_	_	_
@@ -4017,7 +3838,6 @@
 22	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	.@brigadam	.@brigadam	_	NNP	_	_	_	_	_
 2	@KlaraJoelsson	@KlaraJoelsson	_	NNP	_	_	_	_	_
 3	You	you	_	PRP	_	_	_	_	_
 4	just	just	_	RB	_	_	_	_	_
@@ -4038,7 +3858,6 @@
 3	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	So	so	_	RB	_	_	_	_	_
 2	,	,	_	,	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	'm	be	_	VBP	_	_	_	_	_
@@ -4065,7 +3884,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Just	just	_	RB	_	_	_	_	_
 2	read	read	_	VB	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	rather	rather	_	RB	_	_	_	_	_
@@ -4089,7 +3907,6 @@
 22	place	place	_	NN	_	_	_	_	_
 
 #Tweet
-1	to	to	_	IN	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	people	people	_	NNS	_	_	_	_	_
 4	(	(	_	-LRB-	_	_	_	_	_
@@ -4122,7 +3939,6 @@
 31	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Every	every	_	DT	_	_	_	_	_
 2	time	time	_	NN	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	was	be	_	VBD	_	_	_	_	_
@@ -4142,7 +3958,6 @@
 18	,	,	_	,	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	most	most	_	RBS	_	_	_	_	_
 3	upsetting	upsetting	_	JJ	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -4169,7 +3984,6 @@
 25	and	and	_	CC	_	_	_	_	_
 
 #Tweet
-1	wanted	want	_	VBD	_	_	_	_	_
 2	to	to	_	TO	_	_	_	_	_
 3	pursue	pursue	_	VB	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -4200,7 +4014,6 @@
 11	&	&	_	CC	_	_	_	_	_
 
 #Tweet
-1	This	this	_	DT	_	_	_	_	_
 2	always	always	_	RB	_	_	_	_	_
 3	infuriates	infuriate	_	VBZ	_	_	_	_	_
 4	me	I	_	PRP	_	_	_	_	_
@@ -4235,7 +4048,6 @@
 15	or	or	_	CC	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	refuse	refuse	_	VBP	_	_	_	_	_
 3	to	to	_	TO	_	_	_	_	_
 4	accept	accept	_	VB	_	_	_	_	_
@@ -4261,7 +4073,6 @@
 24	#glassceiling	#glassceiling	_	VBG	_	_	_	_	_
 
 #Tweet
-1	@carly_senatore	@carly_senatore	_	VB	_	_	_	_	_
 2	Also	also	_	RB	_	_	_	_	_
 3	im	im	_	JJ	_	_	_	_	_
 4	assuming	assume	_	VBG	_	_	_	_	_
@@ -4291,7 +4102,6 @@
 2	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@VirginRadioTO	@VirginRadioTO	_	NNP	_	_	_	_	_
 2	@MauraGrierson	@MauraGrierson	_	NNP	_	_	_	_	_
 3	how	how	_	WRB	_	_	_	_	_
 4	about	about	_	IN	_	_	_	_	_
@@ -4307,7 +4117,6 @@
 14	#seniority	#seniority	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	understand	understand	_	VB	_	_	_	_	_
@@ -4338,7 +4147,6 @@
 1	#feminist	#feminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@Mike_Charmander	@Mike_Charmander	_	NNP	_	_	_	_	_
 2	@MsLatina	@MsLatina	_	NNP	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	right	right	_	NN	_	_	_	_	_
@@ -4362,7 +4170,6 @@
 8	laws	law	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Today	today	_	NN	_	_	_	_	_
 2	we	we	_	PRP	_	_	_	_	_
 3	watch	watch	_	VBP	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -4373,7 +4180,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	We	we	_	PRP	_	_	_	_	_
 2	live	live	_	VBP	_	_	_	_	_
 3	in	in	_	IN	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -4389,7 +4195,6 @@
 14	doormat	doormat	_	NN	_	_	_	_	_
 
 #Tweet
-1	@jowilliams293	@jowilliams293	_	CD	_	_	_	_	_
 2	Feminists	feminist	_	NNS	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	go	go	_	VB	_	_	_	_	_
@@ -4409,7 +4214,6 @@
 18	everything	everything	_	NN	_	_	_	_	_
 
 #Tweet
-1	@spectator	@spectator	_	NN	_	_	_	_	_
 2	exactly	exactly	_	RB	_	_	_	_	_
 3	women	woman	_	NNS	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -4435,7 +4239,6 @@
 24	vapours	vapours	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Men	man	_	NNS	_	_	_	_	_
 2	that	that	_	WDT	_	_	_	_	_
 3	want	want	_	VBP	_	_	_	_	_
 4	"	"	_	``	_	_	_	_	_
@@ -4464,7 +4267,6 @@
 9	#p2	#p2	_	NN	_	_	_	_	_
 
 #Tweet
-1	@oakleyftgaga	@oakleyftgaga	_	NFP	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	should	should	_	MD	_	_	_	_	_
 4	be	be	_	VB	_	_	_	_	_
@@ -4475,7 +4277,6 @@
 9	#NicerInternet	#NicerInternet	_	NNP	_	_	_	_	_
 
 #Tweet
-1	We	we	_	PRP	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	actually	actually	_	RB	_	_	_	_	_
 4	watching	watch	_	VBG	_	_	_	_	_
@@ -4496,7 +4297,6 @@
 19	seen	see	_	VBN	_	_	_	_	_
 
 #Tweet
-1	they	they	_	PRP	_	_	_	_	_
 2	opened	open	_	VBD	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	blenders	blender	_	NNS	_	_	_	_	_
@@ -4511,7 +4311,6 @@
 1	#TheMoreYouKnow	#TheMoreYouKnow	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Thought	think	_	VBD	_	_	_	_	_
 2	that	that	_	DT	_	_	_	_	_
 3	goes	go	_	VBZ	_	_	_	_	_
 4	through	through	_	IN	_	_	_	_	_
@@ -4537,7 +4336,6 @@
 24	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	When	when	_	WRB	_	_	_	_	_
 2	real	real	_	JJ	_	_	_	_	_
 3	life	life	_	NN	_	_	_	_	_
 4	gets	get	_	VBZ	_	_	_	_	_
@@ -4554,7 +4352,6 @@
 3	#kyliejennerchallenge	#kyliejennerchallenge	_	NNP	_	_	_	_	_
 
 #Tweet
-1	People	people	_	NNS	_	_	_	_	_
 2	who	who	_	WP	_	_	_	_	_
 3	call	call	_	VBP	_	_	_	_	_
 4	themselves	themselves	_	PRP	_	_	_	_	_
@@ -4572,7 +4369,6 @@
 5	#Baltimore	#baltimore	_	ADD	_	_	_	_	_
 
 #Tweet
-1	For	for	_	IN	_	_	_	_	_
 2	Us	we	_	PRP	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	By	by	_	IN	_	_	_	_	_
@@ -4596,7 +4392,6 @@
 22	1HHhM18	1hhhm18	_	NN	_	_	_	_	_
 
 #Tweet
-1	Hey	hey	_	UH	_	_	_	_	_
 2	guyz	guyz	_	NN	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	'm	be	_	VBP	_	_	_	_	_
@@ -4614,7 +4409,6 @@
 16	events	event	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Just	just	_	RB	_	_	_	_	_
 2	been	be	_	VBN	_	_	_	_	_
 3	putting	put	_	VBG	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -4634,7 +4428,6 @@
 1	#crosswords	#crosswords	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@MrRamsbottom	@MrRamsbottom	_	NNP	_	_	_	_	_
 2	@instruct	@instruct	_	NNP	_	_	_	_	_
 3	@madebyreformat	@madebyreformat	_	NNP	_	_	_	_	_
 4	@studiodbd	@studiodbd	_	NNP	_	_	_	_	_
@@ -4654,7 +4447,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@POWSIMIAN	@POWSIMIAN	_	NNP	_	_	_	_	_
 2	does	do	_	VBZ	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	vegan	vegan	_	JJ	_	_	_	_	_
@@ -4674,7 +4466,6 @@
 8	die	die	_	VB	_	_	_	_	_
 
 #Tweet
-1	@moonsmuke	@moonsmuke	_	JJ	_	_	_	_	_
 2	Wow	wow	_	UH	_	_	_	_	_
 3	.	.	_	.	_	_	_	_	_
 
@@ -4702,7 +4493,6 @@
 5	. . .	. . .	_	NN	_	_	_	_	_
 
 #Tweet
-1	Walking	walk	_	VBG	_	_	_	_	_
 2	through	through	_	IN	_	_	_	_	_
 3	my	my	_	PRP$	_	_	_	_	_
 4	neighborhood	neighborhood	_	NN	_	_	_	_	_
@@ -4723,7 +4513,6 @@
 19	#househusband	#househusband	_	NN	_	_	_	_	_
 
 #Tweet
-1	@foxtrotjames	@foxtrotjames	_	NNS	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	can	can	_	MD	_	_	_	_	_
 4	kind	kind	_	RB	_	_	_	_	_
@@ -4739,7 +4528,6 @@
 14	#yolo	#yolo	_	NN	_	_	_	_	_
 
 #Tweet
-1	@OliviaJeniferx	@oliviajeniferx	_	VB	_	_	_	_	_
 2	it	it	_	PRP	_	_	_	_	_
 3	's	be	_	VBZ	_	_	_	_	_
 4	not	not	_	RB	_	_	_	_	_
@@ -4752,7 +4540,6 @@
 1	#equality	#equality	_	NN	_	_	_	_	_
 
 #Tweet
-1	Eating	eat	_	VBG	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	bagel	bagel	_	NN	_	_	_	_	_
 4	by	by	_	IN	_	_	_	_	_
@@ -4776,7 +4563,6 @@
 3	#freedom	#freedom	_	NN	_	_	_	_	_
 
 #Tweet
-1	Well	well	_	UH	_	_	_	_	_
 2	maybe	maybe	_	RB	_	_	_	_	_
 3	if	if	_	IN	_	_	_	_	_
 4	more	more	_	JJR	_	_	_	_	_
@@ -4802,7 +4588,6 @@
 24	#fnm231	#fnm231	_	NN	_	_	_	_	_
 
 #Tweet
-1	#WeNeedFeminism	#weneedfeminism	_	NN	_	_	_	_	_
 2	because	because	_	IN	_	_	_	_	_
 3	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 4	simply	simply	_	RB	_	_	_	_	_
@@ -4825,7 +4610,6 @@
 1	#HeForShe	#HeForShe	_	NNP	_	_	_	_	_
 
 #Tweet
-1	#FSURHET	#FSURHET	_	NNP	_	_	_	_	_
 2	protip	protip	_	NN	_	_	_	_	_
 3	.	.	_	.	_	_	_	_	_
 
@@ -4842,7 +4626,6 @@
 11	#BaltimoreRiots	#baltimoreriots	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@__florencesmith	@__florencesmith	_	JJ	_	_	_	_	_
 2	Not	not	_	RB	_	_	_	_	_
 3	"	"	_	``	_	_	_	_	_
 4	if	if	_	IN	_	_	_	_	_
@@ -4871,7 +4654,6 @@
 5	Farm	Farm	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Some	some	_	DT	_	_	_	_	_
 2	guy	guy	_	NN	_	_	_	_	_
 3	just	just	_	RB	_	_	_	_	_
 4	called	call	_	VBD	_	_	_	_	_
@@ -4902,7 +4684,6 @@
 13	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	Excited	excited	_	JJ	_	_	_	_	_
 2	to	to	_	TO	_	_	_	_	_
 3	hear	hear	_	VB	_	_	_	_	_
 4	author	author	_	NN	_	_	_	_	_
@@ -4918,7 +4699,6 @@
 14	#slutshaming	#slutshaming	_	VBG	_	_	_	_	_
 
 #Tweet
-1	do	do	_	VB	_	_	_	_	_
 2	n't	not	_	RB	_	_	_	_	_
 3	let	let	_	VB	_	_	_	_	_
 4	anyone	anyone	_	NN	_	_	_	_	_
@@ -4946,7 +4726,6 @@
 26	worth	worth	_	NN	_	_	_	_	_
 
 #Tweet
-1	U	u	_	PRP	_	_	_	_	_
 2	can	can	_	MD	_	_	_	_	_
 3	be	be	_	VB	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -4974,7 +4753,6 @@
 26	#empoweringwomen	#empoweringwomen	_	NNS	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	does	do	_	VBZ	_	_	_	_	_
 3	nt	nt	_	RB	_	_	_	_	_
 4	take	take	_	VB	_	_	_	_	_
@@ -4999,7 +4777,6 @@
 23	#MaryJaneLives	#maryjanelives	_	NNS	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	take	take	_	VBP	_	_	_	_	_
 3	it	it	_	PRP	_	_	_	_	_
 4	personally	personally	_	RB	_	_	_	_	_
@@ -5020,7 +4797,6 @@
 6	too	too	_	RB	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	queen	queen	_	NN	_	_	_	_	_
 3	won	win	_	VBD	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -5033,7 +4809,6 @@
 11	prince	prince	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	nailed	nail	_	VBD	_	_	_	_	_
 3	another	another	_	DT	_	_	_	_	_
 4	black	black	_	JJ	_	_	_	_	_
@@ -5064,7 +4839,6 @@
 1	#BaltimoreRiots	#baltimoreriots	_	NNS	_	_	_	_	_
 
 #Tweet
-1	We	we	_	PRP	_	_	_	_	_
 2	teach	teach	_	VBP	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	young	young	_	JJ	_	_	_	_	_
@@ -5088,7 +4862,6 @@
 22	#teamnocondom	#teamnocondom	_	NN	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@PatsyMaureen	@patsymaureen	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Females	female	_	NNS	_	_	_	_	_
@@ -5111,7 +4884,6 @@
 21	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Let	let	_	VB	_	_	_	_	_
 2	's	's	_	PRP	_	_	_	_	_
 3	fight	fight	_	VB	_	_	_	_	_
 4	for	for	_	IN	_	_	_	_	_
@@ -5140,7 +4912,6 @@
 18	!!	!!	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@WeAreFemstrong	@wearefemstrong	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Wonder	wonder	_	NN	_	_	_	_	_
@@ -5165,7 +4936,6 @@
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@ENews	@enews	_	NNS	_	_	_	_	_
 2	Tell	tell	_	VB	_	_	_	_	_
 3	@TerrenceJ	@TerrenceJ	_	NNP	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -5192,7 +4962,6 @@
 2	#asshole	#asshole	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Whether	whether	_	IN	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	label	label	_	VBP	_	_	_	_	_
 4	yourself	yourself	_	PRP	_	_	_	_	_
@@ -5216,7 +4985,6 @@
 22	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	#WeNeedFeminism	#weneedfeminism	_	NN	_	_	_	_	_
 2	because	because	_	IN	_	_	_	_	_
 3	#NoMeansNo	#NoMeansNo	_	NNP	_	_	_	_	_
 4	it	it	_	PRP	_	_	_	_	_
@@ -5238,7 +5006,6 @@
 3	#RT	#RT	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Thanks	thanks	_	NN	_	_	_	_	_
 2	for	for	_	IN	_	_	_	_	_
 3	all	all	_	PDT	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -5261,7 +5028,6 @@
 11	#girlyoudontneedmakeup	#girlyoudontneedmakeup	_	NN	_	_	_	_	_
 
 #Tweet
-1	V	v	_	NN	_	_	_	_	_
 2	!	!	_	.	_	_	_	_	_
 
 1	Ca	can	_	MD	_	_	_	_	_
@@ -5275,7 +5041,6 @@
 1	#	#	_	NN	_	_	_	_	_
 
 #Tweet
-1	@victoriacoren	@victoriacoren	_	NNS	_	_	_	_	_
 2	has	have	_	VBZ	_	_	_	_	_
 3	an	a	_	DT	_	_	_	_	_
 4	article	article	_	NN	_	_	_	_	_
@@ -5300,7 +5065,6 @@
 3	#women	#women	_	GW	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WDT	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	wonderful	wonderful	_	JJ	_	_	_	_	_
 4	interview	interview	_	NN	_	_	_	_	_
@@ -5316,7 +5080,6 @@
 4	views	view	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@Daily_Feminism	@daily_feminism	_	NN	_	_	_	_	_
 2	--	--	_	:	_	_	_	_	_
 3	give	give	_	VB	_	_	_	_	_
 4	us	we	_	PRP	_	_	_	_	_
@@ -5328,7 +5091,6 @@
 1	#feminist	#feminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Contrary	contrary	_	JJ	_	_	_	_	_
 2	to	to	_	IN	_	_	_	_	_
 3	stereotype	stereotype	_	NN	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -5349,7 +5111,6 @@
 2	#HeForShe	#HeForShe	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Time	time	_	NN	_	_	_	_	_
 2	to	to	_	TO	_	_	_	_	_
 3	go	go	_	VB	_	_	_	_	_
 4	hashtag	hashtag	_	RB	_	_	_	_	_
@@ -5368,7 +5129,6 @@
 17	#Folk	#Folk	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@UKIP	@UKIP	_	NNP	_	_	_	_	_
 2	Also	also	_	RB	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	policy	policy	_	NN	_	_	_	_	_
@@ -5391,7 +5151,6 @@
 7	#VoteUKIP	#voteukip	_	NN	_	_	_	_	_
 
 #Tweet
-1	M	m	_	NN	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 4	NEED	need	_	VBP	_	_	_	_	_
@@ -5423,7 +5182,6 @@
 2	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	those	those	_	DT	_	_	_	_	_
 2	who	who	_	WP	_	_	_	_	_
 3	resist	resist	_	VBP	_	_	_	_	_
 4	against	against	_	IN	_	_	_	_	_
@@ -5449,7 +5207,6 @@
 8	#USElections	#uselections	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Feminism	feminism	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	just	just	_	RB	_	_	_	_	_
@@ -5470,7 +5227,6 @@
 19	#life	#life	_	NN	_	_	_	_	_
 
 #Tweet
-1	So	so	_	RB	_	_	_	_	_
 2	if	if	_	IN	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	find	find	_	VBP	_	_	_	_	_
@@ -5499,7 +5255,6 @@
 13	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@Agratha	@Agratha	_	NNP	_	_	_	_	_
 2	Feminist	Feminist	_	NNP	_	_	_	_	_
 3	logic	logic	_	NN	_	_	_	_	_
 4	:	:	_	:	_	_	_	_	_
@@ -5531,7 +5286,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	wonder	wonder	_	VBP	_	_	_	_	_
 3	when	when	_	WRB	_	_	_	_	_
 4	my	my	_	PRP$	_	_	_	_	_
@@ -5559,7 +5313,6 @@
 12	#collegelife	#collegelife	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Pope	Pope	_	NNP	_	_	_	_	_
 2	Francis	Francis	_	NNP	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Christians	Christians	_	NNPS	_	_	_	_	_
@@ -5576,7 +5329,6 @@
 15	#women	#women	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@whenindoubtdo	@whenindoubtdo	_	RB	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	trigger	trigger	_	NN	_	_	_	_	_
 4	levels	level	_	NNS	_	_	_	_	_
@@ -5585,7 +5337,6 @@
 7	9000	9000	_	CD	_	_	_	_	_
 
 #Tweet
-1	@andybud_o	@andybud_o	_	RB	_	_	_	_	_
 2	The	the	_	DT	_	_	_	_	_
 3	Mito	Mito	_	NNP	_	_	_	_	_
 4	Eve	Eve	_	NNP	_	_	_	_	_
@@ -5610,7 +5361,6 @@
 23	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	Kristen	Kristen	_	NNP	_	_	_	_	_
 2	Stewart	Stewart	_	NNP	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	'	'	_	``	_	_	_	_	_
@@ -5625,7 +5375,6 @@
 13	#women	#women	_	NNS	_	_	_	_	_
 
 #Tweet
-1	hooks	hook	_	NNS	_	_	_	_	_
 2	says	say	_	VBZ	_	_	_	_	_
 3	that	that	_	IN	_	_	_	_	_
 4	we	we	_	PRP	_	_	_	_	_
@@ -5652,7 +5401,6 @@
 25	#love	#love	_	VBP	_	_	_	_	_
 
 #Tweet
-1	Male	male	_	JJ	_	_	_	_	_
 2	rape	rape	_	NN	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	one	one	_	CD	_	_	_	_	_
@@ -5679,7 +5427,6 @@
 25	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	statistics	statistics	_	NNS	_	_	_	_	_
 3	show	show	_	VBP	_	_	_	_	_
 4	that	that	_	IN	_	_	_	_	_
@@ -5698,7 +5445,6 @@
 17	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	This	this	_	DT	_	_	_	_	_
 2	#MaritalRape	#maritalrape	_	NN	_	_	_	_	_
 3	law	law	_	NN	_	_	_	_	_
 4	if	if	_	IN	_	_	_	_	_
@@ -5724,7 +5470,6 @@
 24	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@WeNeedFeminism	@weneedfeminism	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	My	my	_	PRP$	_	_	_	_	_
@@ -5741,7 +5486,6 @@
 15	clitoris	clitoris	_	NN	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	're	be	_	VBP	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -5774,7 +5518,6 @@
 4	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@ProteinWorld	@ProteinWorld	_	NNP	_	_	_	_	_
 2	Do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	worry	worry	_	VB	_	_	_	_	_
@@ -5802,7 +5545,6 @@
 2	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@Body_in_Mind	@body_in_mind	_	NN	_	_	_	_	_
 2	SJWs	sjw	_	NNS	_	_	_	_	_
 3	prove	prove	_	VBP	_	_	_	_	_
 4	that	that	_	IN	_	_	_	_	_
@@ -5821,7 +5563,6 @@
 1	#gamergate	#gamergate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@Fashionopolis	@Fashionopolis	_	NNP	_	_	_	_	_
 2	You	you	_	PRP	_	_	_	_	_
 3	just	just	_	RB	_	_	_	_	_
 4	gained	gain	_	VBD	_	_	_	_	_
@@ -5841,7 +5582,6 @@
 9	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	@fxckyoustagram	@fxckyoustagram	_	NNP	_	_	_	_	_
 2	u	u	_	PRP	_	_	_	_	_
 3	have	have	_	VBP	_	_	_	_	_
 4	no	no	_	DT	_	_	_	_	_
@@ -5868,7 +5608,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@thomas_RAL	@thomas_RAL	_	NNP	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	Most	most	_	JJS	_	_	_	_	_
 4	feminists	feminist	_	NNS	_	_	_	_	_
@@ -5899,7 +5638,6 @@
 1	#c4news	#c4news	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Upload	upload	_	VB	_	_	_	_	_
 2	sexually	sexually	_	RB	_	_	_	_	_
 3	provocative	provocative	_	JJ	_	_	_	_	_
 4	pics	pic	_	NNS	_	_	_	_	_
@@ -5927,7 +5665,6 @@
 1	Right	right	_	UH	_	_	_	_	_
 
 #Tweet
-1	One	one	_	CD	_	_	_	_	_
 2	time	time	_	NN	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	said	say	_	VBD	_	_	_	_	_
@@ -5953,7 +5690,6 @@
 24	everyone	everyone	_	NN	_	_	_	_	_
 
 #Tweet
-1	All	all	_	DT	_	_	_	_	_
 2	men	man	_	NNS	_	_	_	_	_
 3	accused	accuse	_	VBN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -5972,7 +5708,6 @@
 2	#HeForShe	#heforshe	_	NN	_	_	_	_	_
 
 #Tweet
-1	@RiotChildArmy	@riotchildarmy	_	NN	_	_	_	_	_
 2	Even	even	_	RB	_	_	_	_	_
 3	though	though	_	IN	_	_	_	_	_
 4	we	we	_	PRP	_	_	_	_	_
@@ -5987,7 +5722,6 @@
 1	=)	=)	_	NFP	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 3	Why	why	_	WRB	_	_	_	_	_
 4	do	do	_	VBP	_	_	_	_	_
@@ -6014,7 +5748,6 @@
 3	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	@brandileighhhhh	@brandileighhhhh	_	VB	_	_	_	_	_
 2	its	its	_	PRP$	_	_	_	_	_
 3	called	call	_	VBN	_	_	_	_	_
 4	sexual	sexual	_	JJ	_	_	_	_	_
@@ -6032,7 +5765,6 @@
 1	#RapeCulture	#rapeculture	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	am	be	_	VBP	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	free	free	_	JJ	_	_	_	_	_
@@ -6057,7 +5789,6 @@
 23	#feminist	#feminist	_	NN	_	_	_	_	_
 
 #Tweet
-1	Wan	Wan	_	NNP	_	_	_	_	_
 2	na	na	_	TO	_	_	_	_	_
 3	hear	hear	_	VB	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -6087,7 +5818,6 @@
 6	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	This	this	_	DT	_	_	_	_	_
 2	just	just	_	RB	_	_	_	_	_
 3	in	in	_	IN	_	_	_	_	_
 4	:	:	_	:	_	_	_	_	_
@@ -6099,7 +5829,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Because	because	_	IN	_	_	_	_	_
 2	young	young	_	JJ	_	_	_	_	_
 3	girls	girl	_	NNS	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -6117,7 +5846,6 @@
 16	rape	rape	_	VB	_	_	_	_	_
 
 #Tweet
-1	Because	because	_	IN	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	United	United	_	NNP	_	_	_	_	_
 4	States	States	_	NNP	_	_	_	_	_
@@ -6136,7 +5864,6 @@
 17	leave	leave	_	NN	_	_	_	_	_
 
 #Tweet
-1	Because	because	_	IN	_	_	_	_	_
 2	women	woman	_	NNS	_	_	_	_	_
 3	are	be	_	VBP	_	_	_	_	_
 4	seen	see	_	VBN	_	_	_	_	_
@@ -6161,7 +5888,6 @@
 23	politicians	politician	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Because	because	_	IN	_	_	_	_	_
 2	all	all	_	DT	_	_	_	_	_
 3	human	human	_	JJ	_	_	_	_	_
 4	beings	being	_	NNS	_	_	_	_	_
@@ -6173,7 +5899,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@UN_Women	@UN_Women	_	NNP	_	_	_	_	_
 2	@WomenUndrSiege	@WomenUndrSiege	_	NNP	_	_	_	_	_
 3	@OSCE_RFoM	@OSCE_RFoM	_	NNP	_	_	_	_	_
 4	It	it	_	PRP	_	_	_	_	_
@@ -6194,7 +5919,6 @@
 19	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	who	who	_	WP	_	_	_	_	_
 3	falsely	falsely	_	RB	_	_	_	_	_
 4	accuse	accuse	_	VBP	_	_	_	_	_
@@ -6217,7 +5941,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	Olympics	Olympics	_	NNPS	_	_	_	_	_
 4	were	be	_	VBD	_	_	_	_	_
@@ -6239,7 +5962,6 @@
 20	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	Woman	woman	_	NN	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	see	see	_	VBP	_	_	_	_	_
@@ -6261,7 +5983,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@njaniboy99	@njaniboy99	_	CD	_	_	_	_	_
 2	@omercayir1	@omercayir1	_	CD	_	_	_	_	_
 3	@Sahil_Handa_	@sahil_handa_	_	NN	_	_	_	_	_
 4	i	i	_	PRP	_	_	_	_	_
@@ -6274,7 +5995,6 @@
 11	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	DateOffCampus	DateOffCampus	_	NNP	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	Now	now	_	RB	_	_	_	_	_
 4	part	part	_	NN	_	_	_	_	_
@@ -6289,7 +6009,6 @@
 13	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	Kwink884	kwink884	_	NN	_	_	_	_	_
 2	thewtfmagazine	thewtfmagazine	_	NN	_	_	_	_	_
 3	gamers	gamer	_	NNS	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -6314,7 +6033,6 @@
 3	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	@toasterhead	@toasterhead	_	NNP	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	@blueeyedgagal	@blueeyedgagal	_	JJ	_	_	_	_	_
 4	@soxmom47	@soxmom47	_	NN	_	_	_	_	_
@@ -6337,7 +6055,6 @@
 8	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	should	should	_	MD	_	_	_	_	_
 3	come	come	_	VB	_	_	_	_	_
 4	with	with	_	IN	_	_	_	_	_
@@ -6369,7 +6086,6 @@
 19	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Petition	petition	_	NN	_	_	_	_	_
 2	for	for	_	IN	_	_	_	_	_
 3	journalists	journalist	_	NNS	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -6390,7 +6106,6 @@
 19	toughness	toughness	_	NN	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
 3	frustrating	frustrating	_	JJ	_	_	_	_	_
 4	&	&	_	CC	_	_	_	_	_
@@ -6416,7 +6131,6 @@
 2	#race	#race	_	NNP	_	_	_	_	_
 
 #Tweet
-1	pls	pls	_	UH	_	_	_	_	_
 2	do	do	_	VB	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	h8	h8	_	VB	_	_	_	_	_
@@ -6432,7 +6146,6 @@
 14	#rightsforall	#rightsforall	_	NN	_	_	_	_	_
 
 #Tweet
-1	were	be	_	VBD	_	_	_	_	_
 2	even	even	_	RB	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -6445,7 +6158,6 @@
 1	#stophidingit	#stophidingit	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@jordanelliott_	@jordanelliott_	_	NNP	_	_	_	_	_
 2	Slut	Slut	_	NNP	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -6474,7 +6186,6 @@
 27	like	like	_	VBP	_	_	_	_	_
 
 #Tweet
-1	@luisaomielan	@luisaomielan	_	JJ	_	_	_	_	_
 2	amazing	amazing	_	JJ	_	_	_	_	_
 3	show	show	_	NN	_	_	_	_	_
 4	in	in	_	IN	_	_	_	_	_
@@ -6495,7 +6206,6 @@
 1	#upgradeyourself	#upgradeyourself	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	'd	would	_	MD	_	_	_	_	_
 3	rather	rather	_	RB	_	_	_	_	_
 4	share	share	_	VB	_	_	_	_	_
@@ -6527,7 +6237,6 @@
 1	#Equality	#equality	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	like	like	_	VBP	_	_	_	_	_
 3	how	how	_	WRB	_	_	_	_	_
 4	rape	rape	_	NN	_	_	_	_	_
@@ -6556,7 +6265,6 @@
 3	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	'll	will	_	MD	_	_	_	_	_
 3	gladly	gladly	_	RB	_	_	_	_	_
 4	accept	accept	_	VB	_	_	_	_	_
@@ -6576,7 +6284,6 @@
 18	#NeverSatisfied	#neversatisfied	_	ADD	_	_	_	_	_
 
 #Tweet
-1	i	i	_	PRP	_	_	_	_	_
 2	wish	wish	_	VBP	_	_	_	_	_
 3	people	people	_	NNS	_	_	_	_	_
 4	would	would	_	MD	_	_	_	_	_
@@ -6598,7 +6305,6 @@
 20	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	confederate	confederate	_	JJ	_	_	_	_	_
 4	flag	flag	_	NN	_	_	_	_	_
@@ -6614,7 +6320,6 @@
 4	#politicallycorrect	#politicallycorrect	_	ADD	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -6639,7 +6344,6 @@
 23	freedoms	freedom	_	NNS	_	_	_	_	_
 
 #Tweet
-1	stop	stop	_	VB	_	_	_	_	_
 2	with	with	_	IN	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	male	male	_	JJ	_	_	_	_	_
@@ -6650,7 +6354,6 @@
 9	animators	animator	_	NNS	_	_	_	_	_
 
 #Tweet
-1	#feminists	#feminists	_	NNS	_	_	_	_	_
 2	gave	give	_	VBD	_	_	_	_	_
 3	women	woman	_	NNS	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -6674,7 +6377,6 @@
 13	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	VivienneDenue	VivienneDenue	_	NNP	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Code	code	_	NN	_	_	_	_	_
@@ -6704,7 +6406,6 @@
 4	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	Done	do	_	VBN	_	_	_	_	_
 2	with	with	_	IN	_	_	_	_	_
 3	crime	crime	_	NN	_	_	_	_	_
 4	shows	show	_	VBZ	_	_	_	_	_
@@ -6719,7 +6420,6 @@
 13	victim	victim	_	NN	_	_	_	_	_
 
 #Tweet
-1	and	and	_	CC	_	_	_	_	_
 2	when	when	_	WRB	_	_	_	_	_
 3	men	man	_	NNS	_	_	_	_	_
 4	can	can	_	MD	_	_	_	_	_
@@ -6738,7 +6438,6 @@
 17	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@MrRepzion	@MrRepzion	_	NNP	_	_	_	_	_
 2	This	this	_	DT	_	_	_	_	_
 3	lady	lady	_	NN	_	_	_	_	_
 4	on	on	_	IN	_	_	_	_	_
@@ -6763,7 +6462,6 @@
 23	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@equalforwomen	@equalforwomen	_	NNS	_	_	_	_	_
 2	why	why	_	WRB	_	_	_	_	_
 3	r	be	_	VBP	_	_	_	_	_
 4	u	u	_	PRP	_	_	_	_	_
@@ -6780,7 +6478,6 @@
 15	#Equality	#equality	_	NN	_	_	_	_	_
 
 #Tweet
-1	Everfetching	Everfetching	_	NNP	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	i	i	_	PRP	_	_	_	_	_
 4	wan	wan	_	VBP	_	_	_	_	_
@@ -6811,7 +6508,6 @@
 2	#feminazi	#feminazi	_	NNS	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@LZats	@lzats	_	NNS	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Do	do	_	VBP	_	_	_	_	_
@@ -6844,7 +6540,6 @@
 12	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 3	The	the	_	DT	_	_	_	_	_
 4	problem	problem	_	NN	_	_	_	_	_
@@ -6867,7 +6562,6 @@
 21	#GamerGate	#gamergate	_	ADD	_	_	_	_	_
 
 #Tweet
-1	Multiple	multiple	_	JJ	_	_	_	_	_
 2	abortions	abortion	_	NNS	_	_	_	_	_
 3	means	mean	_	VBZ	_	_	_	_	_
 4	Feminists	feminist	_	NNS	_	_	_	_	_
@@ -6884,7 +6578,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Multiple	multiple	_	JJ	_	_	_	_	_
 2	abortions	abortion	_	NNS	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	one	one	_	CD	_	_	_	_	_
@@ -6909,7 +6602,6 @@
 4	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	IF	if	_	IN	_	_	_	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	_	_	_	_
 3	WERE	be	_	VBD	_	_	_	_	_
 4	HONEST	honest	_	JJ	_	_	_	_	_
@@ -6936,7 +6628,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	up	up	_	RB	_	_	_	_	_
@@ -6957,7 +6648,6 @@
 19	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	Gender	gender	_	NN	_	_	_	_	_
 2	research	research	_	NN	_	_	_	_	_
 3	helps	help	_	VBZ	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -6976,7 +6666,6 @@
 2	#research	#research	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	only	only	_	RB	_	_	_	_	_
 3	ever	ever	_	RB	_	_	_	_	_
 4	see	see	_	VB	_	_	_	_	_
@@ -7009,7 +6698,6 @@
 2	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	With	with	_	IN	_	_	_	_	_
 2	Hillary	Hillary	_	NNP	_	_	_	_	_
 3	's	's	_	POS	_	_	_	_	_
 4	lead	lead	_	NN	_	_	_	_	_
@@ -7030,7 +6718,6 @@
 1	#tcot	#tcot	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@THOSEGOODVlBES	@THOSEGOODVlBES	_	NNP	_	_	_	_	_
 2	wtf	wtf	_	NNP	_	_	_	_	_
 3	what	what	_	WP	_	_	_	_	_
 4	about	about	_	IN	_	_	_	_	_
@@ -7038,7 +6725,6 @@
 6	fathers	father	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Meritocracy	meritocracy	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	only	only	_	RB	_	_	_	_	_
 4	oppressive	oppressive	_	JJ	_	_	_	_	_
@@ -7061,7 +6747,6 @@
 21	#therealkind	#therealkind	_	NN	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	just	just	_	RB	_	_	_	_	_
@@ -7089,7 +6774,6 @@
 26	women	woman	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Hate	hate	_	VB	_	_	_	_	_
 2	when	when	_	WRB	_	_	_	_	_
 3	girls	girl	_	NNS	_	_	_	_	_
 4	turn	turn	_	VBP	_	_	_	_	_
@@ -7113,7 +6797,6 @@
 22	?!!??!????	?!!??!????	_	NFP	_	_	_	_	_
 
 #Tweet
-1	@_aimless	@_aimless	_	VB	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	friend	friend	_	NN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -7130,7 +6813,6 @@
 2	#blessed	#blessed	_	VBD	_	_	_	_	_
 
 #Tweet
-1	Anti-	anti-	_	JJ	_	_	_	_	_
 2	#gamergate	#gamergate	_	JJ	_	_	_	_	_
 3	people	people	_	NNS	_	_	_	_	_
 4	who	who	_	WP	_	_	_	_	_
@@ -7153,7 +6835,6 @@
 3	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	'm	be	_	VBP	_	_	_	_	_
 3	glad	glad	_	JJ	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -7182,7 +6863,6 @@
 1	#nonvaxxerhere	#nonvaxxerhere	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	problem	problem	_	NN	_	_	_	_	_
 3	with	with	_	IN	_	_	_	_	_
 4	liberals	liberal	_	NNS	_	_	_	_	_
@@ -7203,7 +6883,6 @@
 19	#tcot	#tcot	_	RB	_	_	_	_	_
 
 #Tweet
-1	Feminists	feminist	_	NNS	_	_	_	_	_
 2	spread	spread	_	VBD	_	_	_	_	_
 3	misandry	misandry	_	NN	_	_	_	_	_
 4	.	.	_	.	_	_	_	_	_
@@ -7220,7 +6899,6 @@
 2	#dontmancriminate	#dontmancriminate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	meaning	meaning	_	NN	_	_	_	_	_
 3	of	of	_	IN	_	_	_	_	_
 4	peace	peace	_	NN	_	_	_	_	_
@@ -7236,7 +6914,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Recenter	recenter	_	VB	_	_	_	_	_
 2	your	you	_	PRP$	_	_	_	_	_
 3	world	world	_	NN	_	_	_	_	_
 4	.	.	_	.	_	_	_	_	_
@@ -7258,7 +6935,6 @@
 7	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	should	should	_	MD	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	have	have	_	VB	_	_	_	_	_
@@ -7283,7 +6959,6 @@
 3	#equality	#equality	_	NN	_	_	_	_	_
 
 #Tweet
-1	Keep	keep	_	VB	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	fight	fight	_	NN	_	_	_	_	_
 4	going	go	_	VBG	_	_	_	_	_
@@ -7299,7 +6974,6 @@
 14	#HispanicGirlsUnited	#hispanicgirlsunited	_	VBN	_	_	_	_	_
 
 #Tweet
-1	@Ricky_Vaughn99	@ricky_vaughn99	_	NN	_	_	_	_	_
 2	Why	why	_	WRB	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	it	it	_	PRP	_	_	_	_	_
@@ -7311,7 +6985,6 @@
 10	?!	?!	_	.	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
 3	funny	funny	_	JJ	_	_	_	_	_
 4	how	how	_	WRB	_	_	_	_	_
@@ -7332,7 +7005,6 @@
 19	problems	problem	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Mother	Mother	_	NNP	_	_	_	_	_
 2	and	and	_	CC	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	were	be	_	VBD	_	_	_	_	_
@@ -7358,7 +7030,6 @@
 24	#strongwomen	#strongwomen	_	VBN	_	_	_	_	_
 
 #Tweet
-1	.@GloriaSteinem	.@GloriaSteinem	_	NNP	_	_	_	_	_
 2	said	say	_	VBD	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	"	"	_	``	_	_	_	_	_
@@ -7389,7 +7060,6 @@
 1	#antifeminism	#antifeminism	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@Natee909	@Natee909	_	NNP	_	_	_	_	_
 2	@victoria_abii	@victoria_abii	_	NNP	_	_	_	_	_
 3	nah	nah	_	UH	_	_	_	_	_
 4	abi	abi	_	IN	_	_	_	_	_
@@ -7417,7 +7087,6 @@
 26	divorced	divorced	_	JJ	_	_	_	_	_
 
 #Tweet
-1	@camerongreen22	@camerongreen22	_	CD	_	_	_	_	_
 2	Young	young	_	JJ	_	_	_	_	_
 3	man	man	_	NN	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -7439,7 +7108,6 @@
 1	#SpankAFeminist	#SpankAFeminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	now	now	_	RB	_	_	_	_	_
 2	let	let	_	VB	_	_	_	_	_
 3	's	's	_	PRP	_	_	_	_	_
 4	raise	raise	_	VB	_	_	_	_	_
@@ -7459,7 +7127,6 @@
 18	#EAQUALITY	#EAQUALITY	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@CB_Printer	@CB_Printer	_	NNP	_	_	_	_	_
 2	@adamnick_nick	@adamnick_nick	_	NNP	_	_	_	_	_
 3	@victorymonk	@victorymonk	_	NNP	_	_	_	_	_
 4	feminists	feminist	_	NNS	_	_	_	_	_
@@ -7479,7 +7146,6 @@
 6	#feministcruelty	#feministcruelty	_	NN	_	_	_	_	_
 
 #Tweet
-1	@ProLifeAction	@ProLifeAction	_	NNP	_	_	_	_	_
 2	nope	nope	_	UH	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	no	no	_	DT	_	_	_	_	_
@@ -7508,7 +7174,6 @@
 1	#prochoice	#prochoice	_	RB	_	_	_	_	_
 
 #Tweet
-1	@CurlyChloe_	@CurlyChloe_	_	NNP	_	_	_	_	_
 2	psst	psst	_	NN	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	it	it	_	PRP	_	_	_	_	_
@@ -7531,7 +7196,6 @@
 3	#feminist	#feminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@OccupyCourt	@OccupyCourt	_	NNP	_	_	_	_	_
 2	Family	Family	_	NNP	_	_	_	_	_
 3	Court	Court	_	NNP	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -7548,7 +7212,6 @@
 1	#FEMINAZIS	#FEMINAZIS	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@MeninistTweet	@meninisttweet	_	NN	_	_	_	_	_
 2	why	why	_	WRB	_	_	_	_	_
 3	do	do	_	VBP	_	_	_	_	_
 4	white	white	_	JJ	_	_	_	_	_
@@ -7572,7 +7235,6 @@
 22	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	After	after	_	IN	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	gr8	gr8	_	NN	_	_	_	_	_
 4	day	day	_	NN	_	_	_	_	_
@@ -7599,7 +7261,6 @@
 25	#gaymarriage	#gaymarriage	_	NN	_	_	_	_	_
 
 #Tweet
-1	@arristotlee	@arristotlee	_	NNP	_	_	_	_	_
 2	Thank	thank	_	VBP	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -7618,7 +7279,6 @@
 2	#Liberals	#liberals	_	NNS	_	_	_	_	_
 
 #Tweet
-1	im	im	_	NNP	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	strong	strong	_	JJ	_	_	_	_	_
 4	independent	independent	_	JJ	_	_	_	_	_
@@ -7634,7 +7294,6 @@
 14	#girlpower	#girlpower	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	think	think	_	VBP	_	_	_	_	_
 3	if	if	_	IN	_	_	_	_	_
 4	Australia	Australia	_	NNP	_	_	_	_	_
@@ -7655,7 +7314,6 @@
 19	#auspol	#auspol	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Charlotte	Charlotte	_	NNP	_	_	_	_	_
 2	Church	Church	_	NNP	_	_	_	_	_
 3	interviewing	interview	_	VBG	_	_	_	_	_
 4	Pussy	Pussy	_	NNP	_	_	_	_	_
@@ -7665,7 +7323,6 @@
 8	#fuckyeahglasto	#fuckyeahglasto	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Congratulations	congratulation	_	NNS	_	_	_	_	_
 2	to	to	_	IN	_	_	_	_	_
 3	America	America	_	NNP	_	_	_	_	_
 4	for	for	_	IN	_	_	_	_	_
@@ -7689,7 +7346,6 @@
 11	#AllLivesMatter	#AllLivesMatter	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@lucypalmreports	@lucypalmreports	_	NNS	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	do	do	_	VBP	_	_	_	_	_
 4	n't	not	_	RB	_	_	_	_	_
@@ -7701,7 +7357,6 @@
 10	pretty	pretty	_	RB	_	_	_	_	_
 
 #Tweet
-1	Ca	can	_	MD	_	_	_	_	_
 2	n't	not	_	RB	_	_	_	_	_
 3	win	win	_	VB	_	_	_	_	_
 4	for	for	_	IN	_	_	_	_	_
@@ -7736,7 +7391,6 @@
 5	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	need	need	_	VBP	_	_	_	_	_
 3	feminism	feminism	_	NN	_	_	_	_	_
 4	because	because	_	IN	_	_	_	_	_
@@ -7763,7 +7417,6 @@
 25	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	WOW	wow	_	UH	_	_	_	_	_
 2	.	.	_	.	_	_	_	_	_
 
 1	Why	why	_	WRB	_	_	_	_	_
@@ -7787,7 +7440,6 @@
 7	NOW	now	_	NN	_	_	_	_	_
 
 #Tweet
-1	Feminism	feminism	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	built	build	_	VBN	_	_	_	_	_
 4	on	on	_	IN	_	_	_	_	_
@@ -7809,7 +7461,6 @@
 13	tMancriminate	tmancriminate	_	NN	_	_	_	_	_
 
 #Tweet
-1	@	@	_	IN	_	_	_	_	_
 2	70kha	70kha	_	CD	_	_	_	_	_
 3	@scroll_in	@scroll_in	_	NN	_	_	_	_	_
 4	We	we	_	PRP	_	_	_	_	_
@@ -7834,7 +7485,6 @@
 23	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	#Feminists	#feminists	_	NNS	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	calling	call	_	VBG	_	_	_	_	_
 4	other	other	_	JJ	_	_	_	_	_
@@ -7859,7 +7509,6 @@
 2	#antiSJW	#antiSJW	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Friendly	friendly	_	JJ	_	_	_	_	_
 2	reminder	reminder	_	NN	_	_	_	_	_
 3	that	that	_	IN	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -7874,7 +7523,6 @@
 13	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Ruth_Blane	ruth_blane	_	NN	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	_	_	_	NFP	_	_	_	_	_
 4	AnAvgJoe	AnAvgJoe	_	NNP	_	_	_	_	_
@@ -7903,7 +7551,6 @@
 3	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	_	_	_	NFP	_	_	_	_	_
 2	AnAvgJoe	AnAvgJoe	_	NNP	_	_	_	_	_
 3	_	_	_	NFP	_	_	_	_	_
 4	:	:	_	:	_	_	_	_	_
@@ -7931,7 +7578,6 @@
 3	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@KennyWarner	@kennywarner	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Look	look	_	VB	_	_	_	_	_
@@ -7956,7 +7602,6 @@
 1	#womensrights	#womensrights	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@gelijkis	@gelijkis	_	VB	_	_	_	_	_
 2	my	my	_	PRP$	_	_	_	_	_
 3	hat	hat	_	NN	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -7985,7 +7630,6 @@
 1	#womensrights	#womensrights	_	NNS	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@mrkrusader	@mrkrusader	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	@attorneybharti	@attorneybharti	_	NNP	_	_	_	_	_
@@ -8007,7 +7651,6 @@
 20	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	about	about	_	IN	_	_	_	_	_
@@ -8036,7 +7679,6 @@
 12	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	Even	even	_	RB	_	_	_	_	_
 2	if	if	_	IN	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	did	do	_	VBD	_	_	_	_	_
@@ -8063,7 +7705,6 @@
 7	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	single	single	_	JJ	_	_	_	_	_
 3	biggest	biggest	_	JJS	_	_	_	_	_
 4	stimulus	stimulus	_	NN	_	_	_	_	_
@@ -8082,7 +7723,6 @@
 4	#alaac15	#alaac15	_	NN	_	_	_	_	_
 
 #Tweet
-1	Pop	pop	_	NN	_	_	_	_	_
 2	quiz	quiz	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Whats	Whats	_	NNP	_	_	_	_	_
@@ -8098,7 +7738,6 @@
 2	#BlackLivesMatter	#blacklivesmatter	_	ADD	_	_	_	_	_
 
 #Tweet
-1	@JayAlessandra	@JayAlessandra	_	NNP	_	_	_	_	_
 2	yeah	yeah	_	UH	_	_	_	_	_
 3	!	!	_	.	_	_	_	_	_
 
@@ -8125,7 +7764,6 @@
 21	pretty.obvs	pretty.obvs	_	JJ	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	buy	buy	_	VB	_	_	_	_	_
@@ -8146,7 +7784,6 @@
 19	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@DFoxtrot15	@dfoxtrot15	_	NN	_	_	_	_	_
 2	@FeminismIsLies	@feminismislies	_	NNS	_	_	_	_	_
 3	so	so	_	RB	_	_	_	_	_
 4	labeling	label	_	VBG	_	_	_	_	_
@@ -8173,7 +7810,6 @@
 10	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	Men	man	_	NNS	_	_	_	_	_
 2	want	want	_	VBP	_	_	_	_	_
 3	women	woman	_	NNS	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -8198,7 +7834,6 @@
 1	#genderequality	#genderequality	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	think	think	_	VBP	_	_	_	_	_
 3	it	it	_	PRP	_	_	_	_	_
 4	's	be	_	VBZ	_	_	_	_	_
@@ -8220,7 +7855,6 @@
 1	#genderequality	#genderequality	_	NN	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	we	we	_	PRP	_	_	_	_	_
 3	have	have	_	VBP	_	_	_	_	_
 4	equality	equality	_	NN	_	_	_	_	_
@@ -8243,7 +7877,6 @@
 1	#genderequality	#genderequality	_	NN	_	_	_	_	_
 
 #Tweet
-1	Watch	watch	_	VB	_	_	_	_	_
 2	colors	color	_	NNS	_	_	_	_	_
 3	code	code	_	NN	_	_	_	_	_
 4	red	red	_	NN	_	_	_	_	_
@@ -8272,7 +7905,6 @@
 7	#scrap498a	#scrap498a	_	NN	_	_	_	_	_
 
 #Tweet
-1	Downvoting	downvote	_	VBG	_	_	_	_	_
 2	my	my	_	PRP$	_	_	_	_	_
 3	youtube	youtube	_	NNP	_	_	_	_	_
 4	videos	video	_	NNS	_	_	_	_	_
@@ -8289,7 +7921,6 @@
 5	#gaming	#gaming	_	VBG	_	_	_	_	_
 
 #Tweet
-1	Tumblr	Tumblr	_	NNP	_	_	_	_	_
 2	made	make	_	VBD	_	_	_	_	_
 3	me	I	_	PRP	_	_	_	_	_
 4	slightly	slightly	_	RB	_	_	_	_	_
@@ -8301,7 +7932,6 @@
 1	#Tumblr	#Tumblr	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@WomensPowerHub	@WomensPowerHub	_	NNP	_	_	_	_	_
 2	@AlessandroCynic	@AlessandroCynic	_	NNP	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	fact	fact	_	NN	_	_	_	_	_
@@ -8319,7 +7949,6 @@
 16	#SpankAFeminist	#spankafeminist	_	ADD	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	nt	nt	_	RB	_	_	_	_	_
 4	need	need	_	VB	_	_	_	_	_
@@ -8342,7 +7971,6 @@
 21	#Feminist	#feminist	_	NN	_	_	_	_	_
 
 #Tweet
-1	@Tesco	@Tesco	_	NNP	_	_	_	_	_
 2	@TescoMedia	@TescoMedia	_	NNP	_	_	_	_	_
 3	@TescoFood	@TescoFood	_	NNP	_	_	_	_	_
 4	Disgusted	disgust	_	VBD	_	_	_	_	_
@@ -8365,7 +7993,6 @@
 21	branch	branch	_	NN	_	_	_	_	_
 
 #Tweet
-1	@sass_unicorn	@sass_unicorn	_	JJ	_	_	_	_	_
 2	lol	lol	_	UH	_	_	_	_	_
 3	!	!	_	.	_	_	_	_	_
 
@@ -8375,7 +8002,6 @@
 4	for	for	_	IN	_	_	_	_	_
 
 #Tweet
-1	Communists	Communists	_	NNPS	_	_	_	_	_
 2	can	can	_	MD	_	_	_	_	_
 3	relate	relate	_	VB	_	_	_	_	_
 4	to	to	_	IN	_	_	_	_	_
@@ -8389,7 +8015,6 @@
 3	#karlmarx	#karlmarx	_	NN	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@LeexxxW	@leexxxw	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	So	so	_	CC	_	_	_	_	_
@@ -8412,7 +8037,6 @@
 6	!!	!!	_	.	_	_	_	_	_
 
 #Tweet
-1	Last	last	_	JJ	_	_	_	_	_
 2	week	week	_	NN	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	man	man	_	NN	_	_	_	_	_
@@ -8442,7 +8066,6 @@
 2	#streetharassment	#streetharassment	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	brace	brace	_	VBP	_	_	_	_	_
 3	myself	myself	_	PRP	_	_	_	_	_
 4	for	for	_	IN	_	_	_	_	_
@@ -8465,7 +8088,6 @@
 4	#sexism	#sexism	_	NN	_	_	_	_	_
 
 #Tweet
-1	Sehri	Sehri	_	NNP	_	_	_	_	_
 2	time	time	_	NN	_	_	_	_	_
 3	seems	seem	_	VBZ	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -8485,7 +8107,6 @@
 3	#Ramadan	#ramadan	_	NN	_	_	_	_	_
 
 #Tweet
-1	One	one	_	CD	_	_	_	_	_
 2	gay	gay	_	NN	_	_	_	_	_
 3	one	one	_	CD	_	_	_	_	_
 4	straight	straight	_	RB	_	_	_	_	_
@@ -8505,7 +8126,6 @@
 2	#Friends	#friends	_	NNS	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WDT	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	great	great	_	JJ	_	_	_	_	_
 4	accomplishment	accomplishment	_	NN	_	_	_	_	_
@@ -8530,7 +8150,6 @@
 2	#truthbomb	#truthbomb	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@fdGhtP54	@fdghtp54	_	NN	_	_	_	_	_
 2	@_Lemaign	@_lemaign	_	NN	_	_	_	_	_
 3	@kungfuman316	@kungfuman316	_	NN	_	_	_	_	_
 4	as	as	_	IN	_	_	_	_	_
@@ -8557,7 +8176,6 @@
 25	FOR	for	_	IN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	need	need	_	VBP	_	_	_	_	_
 3	feminism	feminism	_	NN	_	_	_	_	_
 4	because	because	_	IN	_	_	_	_	_
@@ -8577,7 +8195,6 @@
 2	#DeathNote	#deathnote	_	NN	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	cutting	cutting	_	NN	_	_	_	_	_
 3	and	and	_	CC	_	_	_	_	_
 4	mutilation	mutilation	_	NN	_	_	_	_	_
@@ -8595,7 +8212,6 @@
 16	my	my	_	PRP$	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	VivienneDenue	VivienneDenue	_	NNP	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	bittergourd	bittergourd	_	NNP	_	_	_	_	_
@@ -8621,7 +8237,6 @@
 4	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	son	son	_	NN	_	_	_	_	_
 2	,	,	_	,	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	ca	can	_	MD	_	_	_	_	_
@@ -8653,7 +8268,6 @@
 1	#smh	#smh	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	hate	hate	_	VBP	_	_	_	_	_
 3	feminism	feminism	_	NN	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -8672,7 +8286,6 @@
 3	#HeForShe	#heforshe	_	ADD	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	wish	wish	_	VB	_	_	_	_	_
@@ -8694,7 +8307,6 @@
 4	#PTIFamily	#PTIFamily	_	NNP	_	_	_	_	_
 
 #Tweet
-1	So	so	_	RB	_	_	_	_	_
 2	now	now	_	RB	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	'm	be	_	VBP	_	_	_	_	_
@@ -8725,7 +8337,6 @@
 29	maths	math	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Great	great	_	JJ	_	_	_	_	_
 2	to	to	_	TO	_	_	_	_	_
 3	see	see	_	VB	_	_	_	_	_
 4	singer	singer	_	NN	_	_	_	_	_
@@ -8743,7 +8354,6 @@
 16	#charlottechurch	#charlottechurch	_	NN	_	_	_	_	_
 
 #Tweet
-1	Staying	stay	_	VBG	_	_	_	_	_
 2	silent	silent	_	JJ	_	_	_	_	_
 3	after	after	_	IN	_	_	_	_	_
 4	being	be	_	VBG	_	_	_	_	_
@@ -8763,7 +8373,6 @@
 18	my	my	_	PRP$	_	_	_	_	_
 
 #Tweet
-1	Those	those	_	DT	_	_	_	_	_
 2	fucking	fucking	_	JJ	_	_	_	_	_
 3	feminists	feminist	_	NNS	_	_	_	_	_
 4	...	...	_	NFP	_	_	_	_	_
@@ -8788,7 +8397,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINIST	feminist	_	JJ	_	_	_	_	_
 3	SUPPORTERS	supporter	_	NNS	_	_	_	_	_
 4	People	people	_	NNS	_	_	_	_	_
@@ -8807,7 +8415,6 @@
 17	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 3	The	the	_	DT	_	_	_	_	_
 4	evidence	evidence	_	NN	_	_	_	_	_
@@ -8830,7 +8437,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Feminism	feminism	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	fashionable	fashionable	_	JJ	_	_	_	_	_
@@ -8850,7 +8456,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 3	Give	give	_	VB	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -8878,7 +8483,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	responsibilities	responsibility	_	NNS	_	_	_	_	_
 3	Feminism	Feminism	_	NNP	_	_	_	_	_
 4	admits	admit	_	VBZ	_	_	_	_	_
@@ -8897,7 +8501,6 @@
 1	#OnlyRights	#onlyrights	_	NNS	_	_	_	_	_
 
 #Tweet
-1	A	a	_	DT	_	_	_	_	_
 2	"	"	_	``	_	_	_	_	_
 3	Strong	strong	_	JJ	_	_	_	_	_
 4	Feminist	Feminist	_	NNP	_	_	_	_	_
@@ -8924,7 +8527,6 @@
 5	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	best	best	_	JJS	_	_	_	_	_
 3	way	way	_	NN	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -8951,7 +8553,6 @@
 5	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	IF	if	_	IN	_	_	_	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	_	_	_	_
 3	WERE	be	_	VBD	_	_	_	_	_
 4	HONEST	honest	_	JJ	_	_	_	_	_
@@ -8973,7 +8574,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	CEOs	ceo	_	NNS	_	_	_	_	_
 2	apologizing	apologize	_	VBG	_	_	_	_	_
 3	to	to	_	IN	_	_	_	_	_
 4	feminists	feminist	_	NNS	_	_	_	_	_
@@ -8993,7 +8593,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	You	you	_	PRP	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	penetrating	penetrate	_	VBG	_	_	_	_	_
@@ -9012,7 +8611,6 @@
 1	#insideamyschumer	#insideamyschumer	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Old	Old	_	NNP	_	_	_	_	_
 2	,	,	_	,	_	_	_	_	_
 3	insecure	insecure	_	JJ	_	_	_	_	_
 4	females	female	_	NNS	_	_	_	_	_
@@ -9028,7 +8626,6 @@
 14	women	woman	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@E__Strobel	@E__Strobel	_	NNP	_	_	_	_	_
 2	@rsmccain	@rsmccain	_	NNP	_	_	_	_	_
 3	@instapundit	@instapundit	_	NN	_	_	_	_	_
 4	@CHSommers	@chsommers	_	NNS	_	_	_	_	_
@@ -9048,7 +8645,6 @@
 5	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Like	like	_	UH	_	_	_	_	_
 2	,	,	_	,	_	_	_	_	_
 3	feminism	feminism	_	NN	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -9072,7 +8668,6 @@
 22	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@FaZeNikan	@fazenikan	_	JJ	_	_	_	_	_
 2	@dznCosta	@dzncosta	_	NN	_	_	_	_	_
 3	why	why	_	WRB	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -9087,7 +8682,6 @@
 13	pig	pig	_	NN	_	_	_	_	_
 
 #Tweet
-1	Just	just	_	RB	_	_	_	_	_
 2	watched	watch	_	VBN	_	_	_	_	_
 3	Mad	Mad	_	NNP	_	_	_	_	_
 4	Max	Max	_	NNP	_	_	_	_	_
@@ -9116,7 +8710,6 @@
 1	#MadMaxFuryRoad	#madmaxfuryroad	_	NN	_	_	_	_	_
 
 #Tweet
-1	Video	video	_	NN	_	_	_	_	_
 2	games	game	_	NNS	_	_	_	_	_
 3	are	be	_	VBP	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -9141,7 +8734,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	My	my	_	PRP$	_	_	_	_	_
 2	feminist	feminist	_	JJ	_	_	_	_	_
 3	heart	heart	_	NN	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -9171,7 +8763,6 @@
 7	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	And	and	_	CC	_	_	_	_	_
 2	no	no	_	DT	_	_	_	_	_
 3	femaskanks	femaskank	_	NNS	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -9190,7 +8781,6 @@
 17	....	....	_	.	_	_	_	_	_
 
 #Tweet
-1	@SilviuMajor	@silviumajor	_	VB	_	_	_	_	_
 2	your	you	_	PRP$	_	_	_	_	_
 3	tweet	tweet	_	NN	_	_	_	_	_
 4	has	have	_	VBZ	_	_	_	_	_
@@ -9204,7 +8794,6 @@
 12	mate	mate	_	NN	_	_	_	_	_
 
 #Tweet
-1	Wow	wow	_	UH	_	_	_	_	_
 2	@fernemccann	@fernemccann	_	VB	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -9218,7 +8807,6 @@
 1	#girlpower	#girlpower	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@CosmopolitanUK	@cosmopolitanuk	_	NN	_	_	_	_	_
 2	why	why	_	WRB	_	_	_	_	_
 3	does	do	_	VBZ	_	_	_	_	_
 4	someone	someone	_	NN	_	_	_	_	_
@@ -9244,7 +8832,6 @@
 3	#history	#history	_	NN	_	_	_	_	_
 
 #Tweet
-1	i	i	_	PRP	_	_	_	_	_
 2	have	have	_	VBP	_	_	_	_	_
 3	autocorrect	autocorrect	_	NN	_	_	_	_	_
 4	switched	switch	_	VBD	_	_	_	_	_
@@ -9258,7 +8845,6 @@
 12	independent	independent	_	JJ	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	gamergatenews	gamergatenew	_	NNS	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	RT	rt	_	NN	_	_	_	_	_
@@ -9282,7 +8868,6 @@
 11	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	Towie	Towie	_	NNP	_	_	_	_	_
 2	catchup	catchup	_	NN	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	totally	totally	_	RB	_	_	_	_	_
@@ -9292,7 +8877,6 @@
 8	#TOWIE	#TOWIE	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@TrapLordAlec	@TrapLordAlec	_	NNP	_	_	_	_	_
 2	@Bold_Radicals	@Bold_Radicals	_	NNPS	_	_	_	_	_
 3	10	10	_	CD	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -9306,7 +8890,6 @@
 12	for	for	_	IN	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	had	have	_	VBD	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -9335,7 +8918,6 @@
 27	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@marieclaire	@marieclaire	_	VB	_	_	_	_	_
 2	Or	or	_	CC	_	_	_	_	_
 3	...	...	_	NFP	_	_	_	_	_
 4	She	she	_	PRP	_	_	_	_	_
@@ -9362,7 +8944,6 @@
 7	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WP	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	feminists	feminist	_	NNS	_	_	_	_	_
 4	want	want	_	VBP	_	_	_	_	_
@@ -9389,7 +8970,6 @@
 2	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	going	go	_	VBG	_	_	_	_	_
@@ -9412,7 +8992,6 @@
 21	#men	#men	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Of	of	_	RB	_	_	_	_	_
 2	course	course	_	RB	_	_	_	_	_
 3	ugly	ugly	_	JJ	_	_	_	_	_
 4	feminists	feminist	_	NNS	_	_	_	_	_
@@ -9437,7 +9016,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@FCKH8	@fckh8	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	poster	poster	_	NN	_	_	_	_	_
@@ -9450,7 +9028,6 @@
 11	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	RB	_	_	_	_	_
 2	ANTI-PORN	anti-porn	_	JJ	_	_	_	_	_
 3	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 4	If	if	_	IN	_	_	_	_	_
@@ -9472,7 +9049,6 @@
 20	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	People	people	_	NNS	_	_	_	_	_
 2	say	say	_	VBP	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	'm	be	_	VBP	_	_	_	_	_
@@ -9502,7 +9078,6 @@
 2	#coexist	#coexist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	History	history	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	"	"	_	``	_	_	_	_	_
 4	his	he	_	PRP$	_	_	_	_	_
@@ -9519,7 +9094,6 @@
 15	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	Feminists	feminist	_	NNS	_	_	_	_	_
 2	tend	tend	_	VBP	_	_	_	_	_
 3	to	to	_	TO	_	_	_	_	_
 4	get	get	_	VB	_	_	_	_	_
@@ -9542,7 +9116,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	To	to	_	IN	_	_	_	_	_
 2	men	man	_	NNS	_	_	_	_	_
 3	who	who	_	WP	_	_	_	_	_
 4	make	make	_	VBP	_	_	_	_	_
@@ -9558,7 +9131,6 @@
 14	#patriarchy	#patriarchy	_	NN	_	_	_	_	_
 
 #Tweet
-1	Shhhh	Shhhh	_	NNP	_	_	_	_	_
 2	!	!	_	.	_	_	_	_	_
 
 1	@Bayonethics	@bayonethics	_	NNS	_	_	_	_	_
@@ -9583,7 +9155,6 @@
 10	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	@PennyRed	@pennyred	_	VBN	_	_	_	_	_
 2	Do	do	_	VBP	_	_	_	_	_
 3	realise	realise	_	VB	_	_	_	_	_
 4	that	that	_	IN	_	_	_	_	_
@@ -9614,7 +9185,6 @@
 12	#fail	#fail	_	VB	_	_	_	_	_
 
 #Tweet
-1	@PennyRed	@pennyred	_	VBD	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	realise	realise	_	VB	_	_	_	_	_
 4	that	that	_	IN	_	_	_	_	_
@@ -9645,7 +9215,6 @@
 1	#fail	#fail	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@staacy_weedy	@staacy_weedy	_	JJ	_	_	_	_	_
 2	@levithekid2	@levithekid2	_	NN	_	_	_	_	_
 3	@alexaa_Mccune	@alexaa_mccune	_	NN	_	_	_	_	_
 4	that	that	_	WDT	_	_	_	_	_
@@ -9659,7 +9228,6 @@
 12	you	you	_	PRP	_	_	_	_	_
 
 #Tweet
-1	Someone	someone	_	NN	_	_	_	_	_
 2	should	should	_	MD	_	_	_	_	_
 3	do	do	_	VB	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -9679,7 +9247,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Funny	funny	_	JJ	_	_	_	_	_
 2	how	how	_	WRB	_	_	_	_	_
 3	it	it	_	PRP	_	_	_	_	_
 4	's	be	_	VBZ	_	_	_	_	_
@@ -9702,7 +9269,6 @@
 1	@IroynA	@IroynA	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@AymieLouise1995	@aymielouise1995	_	NN	_	_	_	_	_
 2	'	'	_	''	_	_	_	_	_
 3	look	look	_	NN	_	_	_	_	_
 4	we	we	_	PRP	_	_	_	_	_
@@ -9720,7 +9286,6 @@
 16	#jurassicworld	#jurassicworld	_	NN	_	_	_	_	_
 
 #Tweet
-1	Dear	dear	_	JJ	_	_	_	_	_
 2	80	80	_	CD	_	_	_	_	_
 3	percent	percent	_	NN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -9745,7 +9310,6 @@
 5	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	@ParnassusBooks1	@parnassusbooks1	_	NN	_	_	_	_	_
 2	any	any	_	DT	_	_	_	_	_
 3	chance	chance	_	NN	_	_	_	_	_
 4	@QueSaraiSera	@quesaraisera	_	NN	_	_	_	_	_
@@ -9769,7 +9333,6 @@
 1	#plum	#plum	_	NNP	_	_	_	_	_
 
 #Tweet
-1	At	at	_	IN	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	WGSS	wgss	_	NN	_	_	_	_	_
 4	Discussion	discussion	_	NN	_	_	_	_	_
@@ -9786,7 +9349,6 @@
 1	#fuckyeahlibrarians	#fuckyeahlibrarians	_	NNS	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	EmilAaslund	EmilAaslund	_	NNP	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Dear	dear	_	JJ	_	_	_	_	_
@@ -9814,7 +9376,6 @@
 4	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	Goldstein	Goldstein	_	NNP	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	#SanFrancisco	#SanFrancisco	_	NNP	_	_	_	_	_
@@ -9841,7 +9402,6 @@
 2	#archives	#archives	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Staying	stay	_	VBG	_	_	_	_	_
 2	well	well	_	RB	_	_	_	_	_
 3	informed	inform	_	VBN	_	_	_	_	_
 4	on	on	_	IN	_	_	_	_	_
@@ -9864,7 +9424,6 @@
 1	#rapeculture	#rapeculture	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	wish	wish	_	VBP	_	_	_	_	_
 3	Laura	Laura	_	NNP	_	_	_	_	_
 4	croft	croft	_	NNP	_	_	_	_	_
@@ -9882,7 +9441,6 @@
 1	#FemFreq	#FemFreq	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	have	have	_	VBP	_	_	_	_	_
 3	seen	see	_	VBN	_	_	_	_	_
 4	feminists	feminist	_	NNS	_	_	_	_	_
@@ -9913,7 +9471,6 @@
 3	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Feminist	Feminist	_	NNP	_	_	_	_	_
 2	outrage	outrage	_	NN	_	_	_	_	_
 3	over	over	_	IN	_	_	_	_	_
 4	American	american	_	JJ	_	_	_	_	_
@@ -9928,7 +9485,6 @@
 2	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Or	or	_	CC	_	_	_	_	_
 2	maybe	maybe	_	RB	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	'm	be	_	VBP	_	_	_	_	_
@@ -9942,7 +9498,6 @@
 12	hmmmm	hmmmm	_	UH	_	_	_	_	_
 
 #Tweet
-1	@it_is_cancer	@it_is_cancer	_	NNP	_	_	_	_	_
 2	@fat_tush	@fat_tush	_	NNP	_	_	_	_	_
 3	categorizing	categorize	_	VBG	_	_	_	_	_
 4	homelessness	homelessness	_	NN	_	_	_	_	_
@@ -9954,7 +9509,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	#SignsYoureInTheUSA	#SignsYoureInTheUSA	_	NNP	_	_	_	_	_
 2	You	you	_	PRP	_	_	_	_	_
 3	are	be	_	VBP	_	_	_	_	_
 4	attacked	attack	_	VBN	_	_	_	_	_
@@ -9973,7 +9527,6 @@
 17	eggs	egg	_	NNS	_	_	_	_	_
 
 #Tweet
-1	feminists	feminist	_	NNS	_	_	_	_	_
 2	be	be	_	VB	_	_	_	_	_
 3	like	like	_	IN	_	_	_	_	_
 4	:	:	_	:	_	_	_	_	_
@@ -9998,7 +9551,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	How	how	_	WRB	_	_	_	_	_
 2	can	can	_	MD	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	be	be	_	VB	_	_	_	_	_
@@ -10022,7 +9574,6 @@
 2	#Feminist	#Feminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Just	just	_	RB	_	_	_	_	_
 2	heard	hear	_	VBD	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	most	most	_	RBS	_	_	_	_	_
@@ -10041,7 +9592,6 @@
 17	#revolution	#revolution	_	NN	_	_	_	_	_
 
 #Tweet
-1	They	they	_	PRP	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	call	call	_	VB	_	_	_	_	_
@@ -10054,7 +9604,6 @@
 11	reason	reason	_	NN	_	_	_	_	_
 
 #Tweet
-1	@Yohanzor	@Yohanzor	_	NNP	_	_	_	_	_
 2	@kittylight	@kittylight	_	NNP	_	_	_	_	_
 3	@OccupyWomen	@OccupyWomen	_	NNP	_	_	_	_	_
 4	You	you	_	PRP	_	_	_	_	_
@@ -10077,7 +9626,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@DrEmilyGrossman	@DrEmilyGrossman	_	NNP	_	_	_	_	_
 2	@LiquideousSnake	@LiquideousSnake	_	NNP	_	_	_	_	_
 3	@FredvonsydowTW	@FredvonsydowTW	_	NNP	_	_	_	_	_
 4	@ibbibby	@ibbibby	_	NNP	_	_	_	_	_
@@ -10091,7 +9639,6 @@
 12	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	when	when	_	WRB	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	get	get	_	VBP	_	_	_	_	_
 4	sexually	sexually	_	RB	_	_	_	_	_
@@ -10099,7 +9646,6 @@
 6	twice	twice	_	RB	_	_	_	_	_
 
 #Tweet
-1	@YMFROMTHEBLOCK	@YMFROMTHEBLOCK	_	NNP	_	_	_	_	_
 2	YES	yes	_	UH	_	_	_	_	_
 3	girl	girl	_	NN	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -10113,7 +9659,6 @@
 12	#Islam	#islam	_	NN	_	_	_	_	_
 
 #Tweet
-1	We	we	_	PRP	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	51	51	_	CD	_	_	_	_	_
 4	%	%	_	NN	_	_	_	_	_
@@ -10144,7 +9689,6 @@
 5	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	#WhoIsBurningBlackChurches	#whoisburningblackchurches	_	NNS	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	latest	latest	_	JJS	_	_	_	_	_
@@ -10166,7 +9710,6 @@
 1	#SJWLogic	#sjwlogic	_	JJ	_	_	_	_	_
 
 #Tweet
-1	*	*	_	NFP	_	_	_	_	_
 2	watching	watch	_	VBG	_	_	_	_	_
 3	house	house	_	NN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -10206,7 +9749,6 @@
 1	"	"	_	``	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	shamed	shame	_	VBN	_	_	_	_	_
 4	if	if	_	IN	_	_	_	_	_
@@ -10236,7 +9778,6 @@
 28	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@Noin007	@noin007	_	NN	_	_	_	_	_
 2	though	though	_	IN	_	_	_	_	_
 3	I	I	_	PRP	_	_	_	_	_
 4	'm	be	_	VBP	_	_	_	_	_
@@ -10260,7 +9801,6 @@
 22	to	to	_	IN	_	_	_	_	_
 
 #Tweet
-1	@Not_Jaewon_Kang	@Not_Jaewon_Kang	_	NNP	_	_	_	_	_
 2	lol	lol	_	UH	_	_	_	_	_
 3	Jaewon	Jaewon	_	NNP	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -10281,7 +9821,6 @@
 7	issues	issue	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Selective	selective	_	JJ	_	_	_	_	_
 2	listening	listen	_	VBG	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	#character	#character	_	NN	_	_	_	_	_
@@ -10291,7 +9830,6 @@
 8	#feminists	#feminists	_	NNS	_	_	_	_	_
 
 #Tweet
-1	#narcissism	#narcissism	_	NN	_	_	_	_	_
 2	another	another	_	DT	_	_	_	_	_
 3	character	character	_	NN	_	_	_	_	_
 4	trait	trait	_	NN	_	_	_	_	_
@@ -10301,7 +9839,6 @@
 8	convenience	convenience	_	NN	_	_	_	_	_
 
 #Tweet
-1	Reading	read	_	VBG	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	mag	mag	_	NN	_	_	_	_	_
 4	that	that	_	WDT	_	_	_	_	_
@@ -10333,7 +9870,6 @@
 5	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	Pussy	Pussy	_	NNP	_	_	_	_	_
 2	Riot	Riot	_	NNP	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	A	a	_	DT	_	_	_	_	_
@@ -10354,7 +9890,6 @@
 5	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Pushing	push	_	VBG	_	_	_	_	_
 2	misinformation	misinformation	_	NN	_	_	_	_	_
 3	about	about	_	IN	_	_	_	_	_
 4	#wagegap	#wagegap	_	NN	_	_	_	_	_
@@ -10366,7 +9901,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Australia	Australia	_	NNP	_	_	_	_	_
 2	even	even	_	RB	_	_	_	_	_
 3	has	have	_	VBZ	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -10379,7 +9913,6 @@
 11	sake!IsAwful	sake!isawful	_	ADD	_	_	_	_	_
 
 #Tweet
-1	Here	here	_	RB	_	_	_	_	_
 2	we	we	_	PRP	_	_	_	_	_
 3	are	be	_	VBP	_	_	_	_	_
 4	fighting	fight	_	VBG	_	_	_	_	_
@@ -10405,7 +9938,6 @@
 7	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	Men	man	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	dirty	dirty	_	JJ	_	_	_	_	_
 4	&	&	_	CC	_	_	_	_	_
@@ -10430,7 +9962,6 @@
 23	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	GETTING	get	_	VBG	_	_	_	_	_
 2	OFFENDED	offended	_	NN	_	_	_	_	_
 3	Is	be	_	VBZ	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -10454,7 +9985,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	#SharkRocket	#SharkRocket	_	NNP	_	_	_	_	_
 2	"	"	_	``	_	_	_	_	_
 3	Real	Real	_	NNP	_	_	_	_	_
 4	People	People	_	NNPS	_	_	_	_	_
@@ -10478,7 +10008,6 @@
 1	#NotBuyingIt	#NotBuyingIt	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@KatTimpf	@KatTimpf	_	NNP	_	_	_	_	_
 2	@BMC1181	@BMC1181	_	NNP	_	_	_	_	_
 3	@Jezebel	@Jezebel	_	NNP	_	_	_	_	_
 4	going	go	_	VBG	_	_	_	_	_
@@ -10494,7 +10023,6 @@
 1	#SJWLogic	#sjwlogic	_	JJ	_	_	_	_	_
 
 #Tweet
-1	@BizerBizer	@BizerBizer	_	NNP	_	_	_	_	_
 2	@GiftofGodsFavor	@GiftofGodsFavor	_	NNP	_	_	_	_	_
 3	It	it	_	PRP	_	_	_	_	_
 4	's	be	_	VBZ	_	_	_	_	_
@@ -10509,7 +10037,6 @@
 13	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WP	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	fuck	fuck	_	VB	_	_	_	_	_
 4	do	do	_	VBP	_	_	_	_	_
@@ -10534,7 +10061,6 @@
 2	#Feminist	#feminist	_	ADD	_	_	_	_	_
 
 #Tweet
-1	Ignoring	ignore	_	VBG	_	_	_	_	_
 2	peer	peer	_	NN	_	_	_	_	_
 3	-	-	_	HYPH	_	_	_	_	_
 4	reviewed	review	_	VBN	_	_	_	_	_
@@ -10555,7 +10081,6 @@
 2	#NotYourShield	#NotYourShield	_	NNP	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WDT	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	real	real	_	JJ	_	_	_	_	_
 4	#Patriarchy	#patriarchy	_	NN	_	_	_	_	_
@@ -10570,7 +10095,6 @@
 3	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	if	if	_	IN	_	_	_	_	_
 2	your	you	_	PRP$	_	_	_	_	_
 3	feminism	feminism	_	NN	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -10591,7 +10115,6 @@
 1	#intersectionality	#intersectionality	_	NN	_	_	_	_	_
 
 #Tweet
-1	Cat	cat	_	NN	_	_	_	_	_
 2	Pt.	pt.	_	NN	_	_	_	_	_
 3	2	2	_	CD	_	_	_	_	_
 4	:	:	_	:	_	_	_	_	_
@@ -10611,7 +10134,6 @@
 4	#life	#life	_	NNP	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WP	_	_	_	_	_
 2	about	about	_	IN	_	_	_	_	_
 3	how	how	_	WRB	_	_	_	_	_
 4	in	in	_	IN	_	_	_	_	_
@@ -10638,7 +10160,6 @@
 25	flower	flower	_	NN	_	_	_	_	_
 
 #Tweet
-1	@virtuadad	@virtuadad	_	JJ	_	_	_	_	_
 2	@TakedownMRAs	@takedownmras	_	NNS	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	library	library	_	NN	_	_	_	_	_
@@ -10659,7 +10180,6 @@
 19	do	do	_	VBP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	'm	be	_	VBP	_	_	_	_	_
 3	honestly	honestly	_	RB	_	_	_	_	_
 4	surprised	surprised	_	JJ	_	_	_	_	_
@@ -10682,7 +10202,6 @@
 4	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@moderncomments	@moderncomments	_	NNS	_	_	_	_	_
 2	Oh	oh	_	UH	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	come	come	_	VB	_	_	_	_	_
@@ -10710,7 +10229,6 @@
 19	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	@_toekey	@_toekey	_	NN	_	_	_	_	_
 2	and	and	_	CC	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	offensive	offensive	_	JJ	_	_	_	_	_
@@ -10725,7 +10243,6 @@
 13	#SpankAFeminist	#spankafeminist	_	NN	_	_	_	_	_
 
 #Tweet
-1	@Martin_chris4	@martin_chris4	_	NN	_	_	_	_	_
 2	Car	car	_	NN	_	_	_	_	_
 3	women	woman	_	NNS	_	_	_	_	_
 4	will	will	_	MD	_	_	_	_	_
@@ -10734,7 +10251,6 @@
 7	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Feminism	feminism	_	NN	_	_	_	_	_
 2	then	then	_	RB	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Fight	fight	_	VB	_	_	_	_	_
@@ -10758,7 +10274,6 @@
 22	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	am	be	_	VBP	_	_	_	_	_
 3	#NotAFeminist	#notafeminist	_	JJ	_	_	_	_	_
 4	b	b	_	NN	_	_	_	_	_
@@ -10782,7 +10297,6 @@
 2	#antifeminist	#antifeminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Omfg	Omfg	_	NNP	_	_	_	_	_
 2	...	...	_	NFP	_	_	_	_	_
 3	definition	definition	_	NN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -10794,7 +10308,6 @@
 1	#FuckFeminism	#FuckFeminism	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Some	some	_	DT	_	_	_	_	_
 2	feminist	feminist	_	NN	_	_	_	_	_
 3	's	's	_	POS	_	_	_	_	_
 4	would	would	_	MD	_	_	_	_	_
@@ -10818,7 +10331,6 @@
 22	care	care	_	VB	_	_	_	_	_
 
 #Tweet
-1	A	a	_	DT	_	_	_	_	_
 2	quote	quote	_	NN	_	_	_	_	_
 3	from	from	_	IN	_	_	_	_	_
 4	mother	mother	_	NN	_	_	_	_	_
@@ -10853,7 +10365,6 @@
 2	4thwavefeminism	4thwavefeminism	_	NN	_	_	_	_	_
 
 #Tweet
-1	men	man	_	NNS	_	_	_	_	_
 2	suck	suck	_	VBP	_	_	_	_	_
 3	.	.	_	.	_	_	_	_	_
 
@@ -10865,7 +10376,6 @@
 2	sucks	suck	_	VBZ	_	_	_	_	_
 
 #Tweet
-1	For	for	_	IN	_	_	_	_	_
 2	all	all	_	DT	_	_	_	_	_
 3	y'	y'	_	PRP	_	_	_	_	_
 4	all	all	_	DT	_	_	_	_	_
@@ -10891,7 +10401,6 @@
 24	soccer	soccer	_	NN	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@FemMagKPFK	@femmagkpfk	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	"	"	_	``	_	_	_	_	_
@@ -10914,7 +10423,6 @@
 21	#kpfk	#kpfk	_	NN	_	_	_	_	_
 
 #Tweet
-1	usa	usa	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	only	only	_	RB	_	_	_	_	_
 4	good	good	_	JJ	_	_	_	_	_
@@ -10926,7 +10434,6 @@
 10	playing	play	_	VBG	_	_	_	_	_
 
 #Tweet
-1	So	so	_	RB	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	want	want	_	VBP	_	_	_	_	_
 4	equality	equality	_	NN	_	_	_	_	_
@@ -10956,7 +10463,6 @@
 2	sense	sense	_	NN	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@rapebombing	@rapebombing	_	VBG	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	#HowToSpotAFeminist	#howtospotafeminist	_	NN	_	_	_	_	_
@@ -10977,7 +10483,6 @@
 19	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Heads	head	_	VBZ	_	_	_	_	_
 2	up	up	_	RP	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	everyone	everyone	_	NN	_	_	_	_	_
@@ -10987,7 +10492,6 @@
 8	from	from	_	IN	_	_	_	_	_
 
 #Tweet
-1	Beauty	Beauty	_	NNP	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	in	in	_	IN	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -11002,7 +10506,6 @@
 3	#BodyImage	#BodyImage	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Why	why	_	WRB	_	_	_	_	_
 2	should	should	_	MD	_	_	_	_	_
 3	woman	woman	_	NN	_	_	_	_	_
 4	stick	stick	_	VB	_	_	_	_	_
@@ -11020,7 +10523,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Getting	get	_	VBG	_	_	_	_	_
 2	haircut	haircut	_	NN	_	_	_	_	_
 3	b	b	_	NN	_	_	_	_	_
 4	/	/	_	HYPH	_	_	_	_	_
@@ -11046,7 +10548,6 @@
 12	'	'	_	''	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	guess	guess	_	VBP	_	_	_	_	_
 3	crying	cry	_	VBG	_	_	_	_	_
 4	over	over	_	IN	_	_	_	_	_
@@ -11070,7 +10571,6 @@
 2	#Blackhawks	#Blackhawks	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	will	will	_	MD	_	_	_	_	_
 3	say	say	_	VB	_	_	_	_	_
 4	it	it	_	PRP	_	_	_	_	_
@@ -11096,7 +10596,6 @@
 2	help	help	_	NN	_	_	_	_	_
 
 #Tweet
-1	@LaNaria_Athalia	@LaNaria_Athalia	_	NNP	_	_	_	_	_
 2	Are	be	_	VBP	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	using	use	_	VBG	_	_	_	_	_
@@ -11117,7 +10616,6 @@
 19	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	texting	texting	_	NN	_	_	_	_	_
 2	my	my	_	PRP$	_	_	_	_	_
 3	bf	bf	_	NN	_	_	_	_	_
 4	telling	tell	_	VBG	_	_	_	_	_
@@ -11138,7 +10636,6 @@
 19	him	he	_	PRP	_	_	_	_	_
 
 #Tweet
-1	@HeyItsAlexM	@HeyItsAlexM	_	NNP	_	_	_	_	_
 2	@Keatmyshiz	@Keatmyshiz	_	NNP	_	_	_	_	_
 3	hes	he	_	VBZ	_	_	_	_	_
 4	lyin	lyin	_	NN	_	_	_	_	_
@@ -11169,7 +10666,6 @@
 12	it	it	_	PRP	_	_	_	_	_
 
 #Tweet
-1	There	there	_	EX	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	nothing	nothing	_	NN	_	_	_	_	_
 4	more	more	_	RBR	_	_	_	_	_
@@ -11193,7 +10689,6 @@
 22	of	of	_	IN	_	_	_	_	_
 
 #Tweet
-1	And	and	_	CC	_	_	_	_	_
 2	people	people	_	NNS	_	_	_	_	_
 3	wonder	wonder	_	VBP	_	_	_	_	_
 4	why	why	_	WRB	_	_	_	_	_
@@ -11221,7 +10716,6 @@
 26	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	@PennyRed	@pennyred	_	VBN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	UK	UK	_	NNP	_	_	_	_	_
@@ -11234,7 +10728,6 @@
 11	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@azarrax	@azarrax	_	NNP	_	_	_	_	_
 2	@PennyRed	@PennyRed	_	NNP	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -11250,7 +10743,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Anita	Anita	_	NNP	_	_	_	_	_
 2	#Sarkeesian	#Sarkeesian	_	NNP	_	_	_	_	_
 3	-	-	_	HYPH	_	_	_	_	_
 4	living	live	_	VBG	_	_	_	_	_
@@ -11262,7 +10754,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@deanesmay	@deanesmay	_	RB	_	_	_	_	_
 2	The	the	_	DT	_	_	_	_	_
 3	Command	Command	_	NNP	_	_	_	_	_
 4	-	-	_	HYPH	_	_	_	_	_
@@ -11286,7 +10777,6 @@
 8	it	it	_	PRP	_	_	_	_	_
 
 #Tweet
-1	@abbystew292	@abbystew292	_	CD	_	_	_	_	_
 2	@gogreen18	@gogreen18	_	CD	_	_	_	_	_
 3	If	if	_	IN	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -11309,7 +10799,6 @@
 21	crime	crime	_	NN	_	_	_	_	_
 
 #Tweet
-1	When	when	_	WRB	_	_	_	_	_
 2	there	there	_	EX	_	_	_	_	_
 3	's	be	_	VBZ	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -11331,7 +10820,6 @@
 20	violence	violence	_	NN	_	_	_	_	_
 
 #Tweet
-1	#HowToKeepYourGirlHappy	#howtokeepyourgirlhappy	_	JJ	_	_	_	_	_
 2	treat	treat	_	VB	_	_	_	_	_
 3	her	she	_	PRP$	_	_	_	_	_
 4	like	like	_	IN	_	_	_	_	_
@@ -11344,7 +10832,6 @@
 11	superior	superior	_	JJ	_	_	_	_	_
 
 #Tweet
-1	Modern	modern	_	JJ	_	_	_	_	_
 2	marriage	marriage	_	NN	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	like	like	_	IN	_	_	_	_	_
@@ -11365,7 +10852,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Speaking	speak	_	VBG	_	_	_	_	_
 2	from	from	_	IN	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	heart	heart	_	NN	_	_	_	_	_
@@ -11387,7 +10873,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@TheSun	@TheSun	_	NNP	_	_	_	_	_
 2	@George_Osborne	@George_Osborne	_	NNP	_	_	_	_	_
 3	Innocent	innocent	_	JJ	_	_	_	_	_
 4	men	man	_	NNS	_	_	_	_	_
@@ -11403,7 +10888,6 @@
 1	#SayNoToFeminism	#SayNoToFeminism	_	NNP	_	_	_	_	_
 
 #Tweet
-1	In	in	_	IN	_	_	_	_	_
 2	reading	read	_	VBG	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	#BeingFemale	#BeingFemale	_	NNP	_	_	_	_	_
@@ -11431,7 +10915,6 @@
 2	#fight	#fight	_	VBP	_	_	_	_	_
 
 #Tweet
-1	@AsheMareexoxo	@AsheMareexoxo	_	NNP	_	_	_	_	_
 2	literally	literally	_	RB	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -11450,7 +10933,6 @@
 17	girls	girl	_	NNS	_	_	_	_	_
 
 #Tweet
-1	#Weneedfeminism	#weneedfeminism	_	NN	_	_	_	_	_
 2	because	because	_	IN	_	_	_	_	_
 3	Twitter	Twitter	_	NNP	_	_	_	_	_
 4	has	have	_	VBZ	_	_	_	_	_
@@ -11467,7 +10949,6 @@
 3	#Feminist	#Feminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Why	why	_	WRB	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	we	we	_	PRP	_	_	_	_	_
 4	all	all	_	DT	_	_	_	_	_
@@ -11502,7 +10983,6 @@
 9	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	@cathhayden	@cathhayden	_	JJ	_	_	_	_	_
 2	ya	ya	_	PRP	_	_	_	_	_
 3	but	but	_	CC	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -11516,7 +10996,6 @@
 12	#vegan	#vegan	_	FW	_	_	_	_	_
 
 #Tweet
-1	U.S.	U.S.	_	NNP	_	_	_	_	_
 2	putting	put	_	VBG	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	women	woman	_	NNS	_	_	_	_	_
@@ -11544,7 +11023,6 @@
 3	#Feminist	#feminist	_	ADD	_	_	_	_	_
 
 #Tweet
-1	#Pretty	#pretty	_	NN	_	_	_	_	_
 2	.	.	_	.	_	_	_	_	_
 
 1	#Young	#Young	_	NNP	_	_	_	_	_
@@ -11568,7 +11046,6 @@
 1	#gender	#gender	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Mind	mind	_	NN	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	if	if	_	IN	_	_	_	_	_
@@ -11589,7 +11066,6 @@
 19	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	@PennyRed	@pennyred	_	VBN	_	_	_	_	_
 2	oh	oh	_	UH	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	irony	irony	_	NN	_	_	_	_	_
@@ -11608,7 +11084,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	There	there	_	EX	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	one	one	_	CD	_	_	_	_	_
 4	more	more	_	JJR	_	_	_	_	_
@@ -11644,7 +11119,6 @@
 4	)	)	_	-RRB-	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	sexes	sex	_	NNS	_	_	_	_	_
 4	had	have	_	VBD	_	_	_	_	_
@@ -11664,7 +11138,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@MandaReneK	@mandarenek	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	Feminism	feminism	_	NN	_	_	_	_	_
@@ -11689,7 +11162,6 @@
 4	...	...	_	.	_	_	_	_	_
 
 #Tweet
-1	Their	they	_	PRP$	_	_	_	_	_
 2	other	other	_	JJ	_	_	_	_	_
 3	complaints	complaint	_	NNS	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -11714,7 +11186,6 @@
 23	/	/	_	SYM	_	_	_	_	_
 
 #Tweet
-1	Watch	watch	_	VB	_	_	_	_	_
 2	out	out	_	RP	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -11734,7 +11205,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@stephspickle	@stephspickle	_	RB	_	_	_	_	_
 2	they	they	_	PRP	_	_	_	_	_
 3	make	make	_	VBP	_	_	_	_	_
 4	me	I	_	PRP	_	_	_	_	_
@@ -11742,7 +11212,6 @@
 6	:)	:)	_	NFP	_	_	_	_	_
 
 #Tweet
-1	Gender	gender	_	NN	_	_	_	_	_
 2	norms	norm	_	NNS	_	_	_	_	_
 3	my	my	_	PRP$	_	_	_	_	_
 4	ass	ass	_	NN	_	_	_	_	_
@@ -11759,7 +11228,6 @@
 15	#muscles	#muscles	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Writing	write	_	VBG	_	_	_	_	_
 2	and	and	_	CC	_	_	_	_	_
 3	wondering	wonder	_	VBG	_	_	_	_	_
 4	why	why	_	WRB	_	_	_	_	_
@@ -11778,7 +11246,6 @@
 2	#OvariesBeforBrovaries	#ovariesbeforbrovaries	_	NNS	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	representation	representation	_	NN	_	_	_	_	_
 3	goal	goal	_	NN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -11800,7 +11267,6 @@
 20	characters	character	_	NNS	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	basic	basic	_	JJ	_	_	_	_	_
 3	principle	principle	_	NN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -11824,7 +11290,6 @@
 1	#antifeminism	#antifeminism	_	NNP	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	enough	enough	_	JJ	_	_	_	_	_
@@ -11851,7 +11316,6 @@
 2	#SpankAFeminist	#spankafeminist	_	ADD	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	'm	be	_	VBP	_	_	_	_	_
 3	blocked	block	_	VBN	_	_	_	_	_
 4	by	by	_	IN	_	_	_	_	_
@@ -11882,7 +11346,6 @@
 4	facts	fact	_	NNS	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	mojibakemono	mojibakemono	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -11907,7 +11370,6 @@
 23	#NotYourShield	#NotYourShield	_	NNP	_	_	_	_	_
 
 #Tweet
-1	All	all	_	DT	_	_	_	_	_
 2	mascots	mascot	_	NNS	_	_	_	_	_
 3	in	in	_	IN	_	_	_	_	_
 4	women	woman	_	NNS	_	_	_	_	_
@@ -11922,7 +11384,6 @@
 2	#Equalityforall	#equalityforall	_	NN	_	_	_	_	_
 
 #Tweet
-1	there	there	_	EX	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
 3	someone	someone	_	NN	_	_	_	_	_
 4	once	once	_	RB	_	_	_	_	_
@@ -11956,7 +11417,6 @@
 8	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Feminists	feminist	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	about	about	_	RB	_	_	_	_	_
 4	equality	equality	_	NN	_	_	_	_	_
@@ -11977,7 +11437,6 @@
 19	whites	whites	_	NNS	_	_	_	_	_
 
 #Tweet
-1	@kimiyyye	@kimiyyye	_	JJ	_	_	_	_	_
 2	nah	nah	_	UH	_	_	_	_	_
 3	bitch	bitch	_	NN	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -12006,7 +11465,6 @@
 16	daily	daily	_	JJ	_	_	_	_	_
 
 #Tweet
-1	...	...	_	NFP	_	_	_	_	_
 2	OR	or	_	CC	_	_	_	_	_
 3	SLOW	slow	_	VB	_	_	_	_	_
 4	DOWN	down	_	RP	_	_	_	_	_
@@ -12027,7 +11485,6 @@
 1	#WHATTHEACTUALFUCK	#WHATTHEACTUALFUCK	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@TheCoffeeFilter	@TheCoffeeFilter	_	NNP	_	_	_	_	_
 2	:	:	_	:	_	_	_	_	_
 3	...	...	_	NFP	_	_	_	_	_
 4	OR	or	_	CC	_	_	_	_	_
@@ -12050,7 +11507,6 @@
 1	#WHATTHEACTUALFUCK	#WHATTHEACTUALFUCK	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Most	most	_	JJS	_	_	_	_	_
 2	non-feminist	non-feminist	_	JJ	_	_	_	_	_
 3	ppl	ppl	_	NNS	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -12077,7 +11533,6 @@
 5	#antiSJW	#antiSJW	_	NNP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	feel	feel	_	VBP	_	_	_	_	_
 3	so	so	_	RB	_	_	_	_	_
 4	self	self	_	NN	_	_	_	_	_
@@ -12111,7 +11566,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	MyVagina	MyVagina	_	NNP	_	_	_	_	_
 2	kicked	kick	_	VBD	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	Shit	Shit	_	NNP	_	_	_	_	_
@@ -12121,7 +11575,6 @@
 8	/	/	_	,	_	_	_	_	_
 
 #Tweet
-1	@marieclaire	@marieclaire	_	VB	_	_	_	_	_
 2	Pretty	pretty	_	RB	_	_	_	_	_
 3	sure	sure	_	JJ	_	_	_	_	_
 4	most	most	_	JJS	_	_	_	_	_
@@ -12150,7 +11603,6 @@
 1	#feminists	#feminists	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Men	man	_	NNS	_	_	_	_	_
 2	can	can	_	MD	_	_	_	_	_
 3	no	no	_	RB	_	_	_	_	_
 4	longer	longer	_	RB	_	_	_	_	_
@@ -12181,7 +11633,6 @@
 8	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	*	*	_	NFP	_	_	_	_	_
 2	sigh	sigh	_	NN	_	_	_	_	_
 3	*	*	_	NFP	_	_	_	_	_
 4	One	one	_	CD	_	_	_	_	_
@@ -12203,7 +11654,6 @@
 1	#ChrissyTeigen	#ChrissyTeigen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Girls	girl	_	NNS	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	wan	wan	_	VB	_	_	_	_	_
@@ -12229,7 +11679,6 @@
 24	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	get	get	_	VBP	_	_	_	_	_
 3	a	a	_	DT	_	_	_	_	_
 4	lot	lot	_	NN	_	_	_	_	_
@@ -12259,7 +11708,6 @@
 15	#boobs	#boobs	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Being	be	_	VBG	_	_	_	_	_
 2	raised	raise	_	VBN	_	_	_	_	_
 3	by	by	_	IN	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -12279,7 +11727,6 @@
 18	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	#BeautyRant	#BeautyRant	_	NNP	_	_	_	_	_
 2	7	7	_	CD	_	_	_	_	_
 3	-	-	_	,	_	_	_	_	_
 4	Why	why	_	WRB	_	_	_	_	_
@@ -12314,7 +11761,6 @@
 1	#Beauty	#Beauty	_	NNP	_	_	_	_	_
 
 #Tweet
-1	#INeedMeninist	#ineedmeninist	_	NN	_	_	_	_	_
 2	because	because	_	IN	_	_	_	_	_
 3	as	as	_	IN	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -12335,7 +11781,6 @@
 19	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	As	as	_	IN	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	child	child	_	NN	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -12364,7 +11809,6 @@
 27	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	Storey	Storey	_	NNP	_	_	_	_	_
 2	's	's	_	POS	_	_	_	_	_
 3	Song	song	_	NN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -12398,7 +11842,6 @@
 1	#BeeGees	#beegees	_	NNS	_	_	_	_	_
 
 #Tweet
-1	A	a	_	DT	_	_	_	_	_
 2	year	year	_	NN	_	_	_	_	_
 3	of	of	_	IN	_	_	_	_	_
 4	relentless	relentless	_	JJ	_	_	_	_	_
@@ -12421,7 +11864,6 @@
 21	media	media	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Interesting	interesting	_	JJ	_	_	_	_	_
 2	in	in	_	IN	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	video	video	_	NN	_	_	_	_	_
@@ -12447,7 +11889,6 @@
 24	accountant	accountant	_	NN	_	_	_	_	_
 
 #Tweet
-1	to	to	_	IN	_	_	_	_	_
 2	all	all	_	PDT	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	girls	girl	_	NNS	_	_	_	_	_
@@ -12469,7 +11910,6 @@
 20	#Lionesses	#lionesses	_	NNS	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	'm	be	_	VBP	_	_	_	_	_
 3	all	all	_	DT	_	_	_	_	_
 4	for	for	_	IN	_	_	_	_	_
@@ -12496,7 +11936,6 @@
 1	#Meninist	#Meninist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Never	never	_	RB	_	_	_	_	_
 2	settle	settle	_	VB	_	_	_	_	_
 3	for	for	_	IN	_	_	_	_	_
 4	anything	anything	_	NN	_	_	_	_	_
@@ -12508,7 +11947,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Really	really	_	RB	_	_	_	_	_
 2	interesting	interesting	_	JJ	_	_	_	_	_
 3	debate	debate	_	NN	_	_	_	_	_
 4	about	about	_	IN	_	_	_	_	_
@@ -12522,7 +11960,6 @@
 12	#criminology	#criminology	_	NN	_	_	_	_	_
 
 #Tweet
-1	Seriously	seriously	_	RB	_	_	_	_	_
 2	ca	can	_	MD	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	believe	believe	_	VB	_	_	_	_	_
@@ -12539,7 +11976,6 @@
 15	#Wimbledon	#wimbledon	_	ADD	_	_	_	_	_
 
 #Tweet
-1	Ca	can	_	MD	_	_	_	_	_
 2	n't	not	_	RB	_	_	_	_	_
 3	find	find	_	VB	_	_	_	_	_
 4	it	it	_	PRP	_	_	_	_	_
@@ -12570,7 +12006,6 @@
 1	#Equality	#equality	_	NN	_	_	_	_	_
 
 #Tweet
-1	Seriously	seriously	_	RB	_	_	_	_	_
 2	ca	can	_	MD	_	_	_	_	_
 3	n't	not	_	RB	_	_	_	_	_
 4	believe	believe	_	VB	_	_	_	_	_
@@ -12585,7 +12020,6 @@
 13	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	NiceFeminists	nicefeminist	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	passive	passive	_	JJ	_	_	_	_	_
 4	onlookers	onlooker	_	NNS	_	_	_	_	_
@@ -12616,7 +12050,6 @@
 15	"	"	_	''	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 3	Start	start	_	VB	_	_	_	_	_
 4	asking	ask	_	VBG	_	_	_	_	_
@@ -12636,7 +12069,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 3	&	&	_	CC	_	_	_	_	_
 4	SJWs	sjw	_	NNS	_	_	_	_	_
@@ -12666,7 +12098,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	All	all	_	PDT	_	_	_	_	_
 2	the	the	_	DT	_	_	_	_	_
 3	people	people	_	NNS	_	_	_	_	_
 4	who	who	_	WP	_	_	_	_	_
@@ -12688,7 +12119,6 @@
 20	#UniteBlue	#UniteBlue	_	NNP	_	_	_	_	_
 
 #Tweet
-1	#HowToSpotAFeminist	#howtospotafeminist	_	NN	_	_	_	_	_
 2	?	?	_	.	_	_	_	_	_
 
 1	-	-	_	HYPH	_	_	_	_	_
@@ -12710,7 +12140,6 @@
 17	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@ChiefSarf	@chiefsarf	_	RB	_	_	_	_	_
 2	good	good	_	JJ	_	_	_	_	_
 3	thing	thing	_	NN	_	_	_	_	_
 4	youre	youre	_	PRP$	_	_	_	_	_
@@ -12727,7 +12156,6 @@
 15	!!	!!	_	.	_	_	_	_	_
 
 #Tweet
-1	#HowToSpotAFeminist	#howtospotafeminist	_	NN	_	_	_	_	_
 2	?	?	_	.	_	_	_	_	_
 
 1	-	-	_	HYPH	_	_	_	_	_
@@ -12749,7 +12177,6 @@
 17	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	#HowToSpotAFeminist	#howtospotafeminist	_	NN	_	_	_	_	_
 2	?	?	_	.	_	_	_	_	_
 
 1	-	-	_	HYPH	_	_	_	_	_
@@ -12772,7 +12199,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	#HowToBeUnhappyLikeAFeminist	#howtobeunhappylikeafeminist	_	NN	_	_	_	_	_
 2	?	?	_	.	_	_	_	_	_
 
 1	Feminists	feminist	_	NNS	_	_	_	_	_
@@ -12790,7 +12216,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	feminist	feminist	_	JJ	_	_	_	_	_
 2	response	response	_	NN	_	_	_	_	_
 3	people	people	_	NNS	_	_	_	_	_
 4	wearing	wear	_	VBG	_	_	_	_	_
@@ -12813,7 +12238,6 @@
 5	???	???	_	.	_	_	_	_	_
 
 #Tweet
-1	@prpodcastshow	@prpodcastshow	_	RB	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	hope	hope	_	VBP	_	_	_	_	_
 4	there	there	_	EX	_	_	_	_	_
@@ -12838,7 +12262,6 @@
 7	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	Feminists	feminist	_	NNS	_	_	_	_	_
 2	saying	say	_	VBG	_	_	_	_	_
 3	they	they	_	PRP	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -12862,7 +12285,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Amusing	amusing	_	JJ	_	_	_	_	_
 2	how	how	_	WRB	_	_	_	_	_
 3	Feminists	Feminists	_	NNPS	_	_	_	_	_
 4	&	&	_	CC	_	_	_	_	_
@@ -12891,7 +12313,6 @@
 27	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	times	time	_	NNS	_	_	_	_	_
 3	in	in	_	IN	_	_	_	_	_
 4	between	between	_	IN	_	_	_	_	_
@@ -12903,7 +12324,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Amusing	amusing	_	JJ	_	_	_	_	_
 2	how	how	_	WRB	_	_	_	_	_
 3	feminists	feminist	_	NNS	_	_	_	_	_
 4	swap	swap	_	VBP	_	_	_	_	_
@@ -12931,7 +12351,6 @@
 2	#NotYourShield	#NotYourShield	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Amusing	amusing	_	JJ	_	_	_	_	_
 2	.	.	_	.	_	_	_	_	_
 
 1	Feminists	feminist	_	NNS	_	_	_	_	_
@@ -12953,7 +12372,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Women	woman	_	NNS	_	_	_	_	_
 2	in	in	_	IN	_	_	_	_	_
 3	STEM	stem	_	NN	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -12977,7 +12395,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	When	when	_	WRB	_	_	_	_	_
 2	did	do	_	VBD	_	_	_	_	_
 3	trivializing	trivialize	_	VBG	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -13001,7 +12418,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	mentality	mentality	_	NN	_	_	_	_	_
 3	of	of	_	IN	_	_	_	_	_
 4	#GamerGate	#gamergate	_	NN	_	_	_	_	_
@@ -13029,7 +12445,6 @@
 9	"	"	_	''	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	women	woman	_	NNS	_	_	_	_	_
 3	do	do	_	VBP	_	_	_	_	_
 4	it	it	_	PRP	_	_	_	_	_
@@ -13055,7 +12470,6 @@
 7	#LenaDunham	#LenaDunham	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Feminism	feminism	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	Radical	radical	_	JJ	_	_	_	_	_
 4	Islam	Islam	_	NNP	_	_	_	_	_
@@ -13067,7 +12481,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 3	IN	in	_	IN	_	_	_	_	_
 4	GAMING	gaming	_	NN	_	_	_	_	_
@@ -13087,7 +12500,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	IF	if	_	IN	_	_	_	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	_	_	_	_
 3	WERE	be	_	VBD	_	_	_	_	_
 4	HONEST	honest	_	JJ	_	_	_	_	_
@@ -13109,7 +12521,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	IF	if	_	IN	_	_	_	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	_	_	_	_
 3	WERE	be	_	VBD	_	_	_	_	_
 4	HONEST	honest	_	JJ	_	_	_	_	_
@@ -13134,7 +12545,6 @@
 23	"	"	_	''	_	_	_	_	_
 
 #Tweet
-1	When	when	_	WRB	_	_	_	_	_
 2	did	do	_	VBD	_	_	_	_	_
 3	people	people	_	NNS	_	_	_	_	_
 4	without	without	_	IN	_	_	_	_	_
@@ -13156,7 +12566,6 @@
 7	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	IF	if	_	IN	_	_	_	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	_	_	_	_
 3	WERE	be	_	VBD	_	_	_	_	_
 4	HONEST	honest	_	JJ	_	_	_	_	_
@@ -13184,7 +12593,6 @@
 26	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	Feminist	Feminist	_	NNP	_	_	_	_	_
 2	extremists	extremist	_	NNS	_	_	_	_	_
 3	ruin	ruin	_	VBP	_	_	_	_	_
 4	it	it	_	PRP	_	_	_	_	_
@@ -13206,7 +12614,6 @@
 12	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@kbambi1376	@kbambi1376	_	CD	_	_	_	_	_
 2	It	it	_	PRP	_	_	_	_	_
 3	's	be	_	VBZ	_	_	_	_	_
 4	not	not	_	RB	_	_	_	_	_
@@ -13232,7 +12639,6 @@
 1	#SpankAFeminist	#SpankAFeminist	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@elllode	@elllode	_	VB	_	_	_	_	_
 2	BUT	but	_	CC	_	_	_	_	_
 3	SHE	she	_	PRP	_	_	_	_	_
 4	RUNS	run	_	VBZ	_	_	_	_	_
@@ -13241,7 +12647,6 @@
 7	HEELS	heel	_	NNS	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	Feminism	Feminism	_	NNP	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	not	not	_	RB	_	_	_	_	_
@@ -13263,7 +12668,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	How	how	_	WRB	_	_	_	_	_
 2	to	to	_	TO	_	_	_	_	_
 3	spot	spot	_	VB	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -13286,7 +12690,6 @@
 5	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@TarheelKrystle	@TarheelKrystle	_	NNP	_	_	_	_	_
 2	@primatemachine	@primatemachine	_	NNP	_	_	_	_	_
 3	Bowing	bow	_	VBG	_	_	_	_	_
 4	down	down	_	RP	_	_	_	_	_
@@ -13310,7 +12713,6 @@
 10	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	People	people	_	NNS	_	_	_	_	_
 2	think	think	_	VBP	_	_	_	_	_
 3	because	because	_	IN	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -13339,7 +12741,6 @@
 1	#EqualityForAll	#EqualityForAll	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Misogynist	misogynist	_	JJ	_	_	_	_	_
 2	abuser	abuser	_	NN	_	_	_	_	_
 3	@NickRinke	@NickRinke	_	NNP	_	_	_	_	_
 4	whining	whine	_	VBG	_	_	_	_	_
@@ -13364,7 +12765,6 @@
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Abusive	abusive	_	JJ	_	_	_	_	_
 2	Misogynist	Misogynist	_	NNP	_	_	_	_	_
 3	@NickRinke	@NickRinke	_	NNP	_	_	_	_	_
 4	whining	whine	_	VBG	_	_	_	_	_
@@ -13389,7 +12789,6 @@
 1	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Feminism	feminism	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	nothing	nothing	_	NN	_	_	_	_	_
 4	more	more	_	JJR	_	_	_	_	_
@@ -13407,7 +12806,6 @@
 16	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	my	my	_	PRP$	_	_	_	_	_
 2	coworker	coworker	_	NN	_	_	_	_	_
 3	called	call	_	VBD	_	_	_	_	_
 4	me	I	_	PRP	_	_	_	_	_
@@ -13437,7 +12835,6 @@
 28	need	need	_	VBP	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	am	be	_	VBP	_	_	_	_	_
 3	really	really	_	RB	_	_	_	_	_
 4	proud	proud	_	JJ	_	_	_	_	_
@@ -13460,7 +12857,6 @@
 21	#HeForShe	#heforshe	_	NN	_	_	_	_	_
 
 #Tweet
-1	@shunter395	@shunter395	_	NNP	_	_	_	_	_
 2	True	True	_	NNP	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	but	but	_	CC	_	_	_	_	_
@@ -13480,7 +12876,6 @@
 18	promote	promote	_	VB	_	_	_	_	_
 
 #Tweet
-1	Grr	Grr	_	NNP	_	_	_	_	_
 2	!	!	_	.	_	_	_	_	_
 
 1	That	that	_	DT	_	_	_	_	_
@@ -13506,7 +12901,6 @@
 10	#SpankAFeminist	#spankafeminist	_	NN	_	_	_	_	_
 
 #Tweet
-1	@deanesmay	@deanesmay	_	NNP	_	_	_	_	_
 2	@JenMurray41	@JenMurray41	_	NNP	_	_	_	_	_
 3	Bc	Bc	_	NNP	_	_	_	_	_
 4	feminists	feminist	_	NNS	_	_	_	_	_
@@ -13522,7 +12916,6 @@
 2	#gamergate	#gamergate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	What	what	_	WDT	_	_	_	_	_
 2	!?	!?	_	.	_	_	_	_	_
 
 1	Women	woman	_	NNS	_	_	_	_	_
@@ -13544,10 +12937,8 @@
 2	Patriarchy	Patriarchy	_	NNP	_	_	_	_	_
 3	!	!	_	.	_	_	_	_	_
 
-#Tweet2	#SJWLogic	#SJWLogic	_	NNP	_	_	_	_	_
-
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
+#Tweet
 2	fact	fact	_	NN	_	_	_	_	_
 3	that	that	_	IN	_	_	_	_	_
 4	Chris	Chris	_	NNP	_	_	_	_	_
@@ -13562,7 +12953,6 @@
 13	need	need	_	VBP	_	_	_	_	_
 
 #Tweet
-1	God	God	_	NNP	_	_	_	_	_
 2	did	do	_	VBD	_	_	_	_	_
 3	not	not	_	RB	_	_	_	_	_
 4	want	want	_	VB	_	_	_	_	_
@@ -13584,7 +12974,6 @@
 20	?	?	_	.	_	_	_	_	_
 
 #Tweet
-1	RULES	rule	_	NNS	_	_	_	_	_
 2	TO	to	_	TO	_	_	_	_	_
 3	LIVE	live	_	VB	_	_	_	_	_
 4	BY	by	_	RB	_	_	_	_	_
@@ -13610,7 +12999,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Feminism	feminism	_	NN	_	_	_	_	_
 2	on	on	_	IN	_	_	_	_	_
 3	twitter	twitter	_	NN	_	_	_	_	_
 4	is	be	_	VBZ	_	_	_	_	_
@@ -13629,7 +13017,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	rule	rule	_	NN	_	_	_	_	_
 3	of	of	_	IN	_	_	_	_	_
 4	attention	attention	_	NN	_	_	_	_	_
@@ -13655,7 +13042,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	retarded	retarded	_	JJ	_	_	_	_	_
 3	tantrums	tantrum	_	NNS	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -13675,7 +13061,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@HiddenTara	@HiddenTara	_	NNP	_	_	_	_	_
 2	No	no	_	DT	_	_	_	_	_
 3	one	one	_	NN	_	_	_	_	_
 4	wants	want	_	VBZ	_	_	_	_	_
@@ -13702,7 +13087,6 @@
 25	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	CREATIONIST	creationist	_	RB	_	_	_	_	_
 2	OK	ok	_	UH	_	_	_	_	_
 3	,	,	_	,	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -13731,7 +13115,6 @@
 11	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	TASK	task	_	NN	_	_	_	_	_
 2	1	1	_	CD	_	_	_	_	_
 3	.	.	_	.	_	_	_	_	_
 
@@ -13765,7 +13148,6 @@
 11	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	IF	if	_	IN	_	_	_	_	_
 2	FEMINISTS	FEMINISTS	_	NNP	_	_	_	_	_
 3	WERE	be	_	VBD	_	_	_	_	_
 4	HONEST	honest	_	JJ	_	_	_	_	_
@@ -13786,7 +13168,6 @@
 19	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	@abbeysaurusrex_	@abbeysaurusrex_	_	GW	_	_	_	_	_
 2	C	c	_	GW	_	_	_	_	_
 3	)	)	_	-RRB-	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -13821,7 +13202,6 @@
 12	Brewer	Brewer	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@orange_kae	@orange_kae	_	NNS	_	_	_	_	_
 2	a	a	_	DT	_	_	_	_	_
 3	lot	lot	_	NN	_	_	_	_	_
 4	of	of	_	IN	_	_	_	_	_
@@ -13846,7 +13226,6 @@
 1	#equality	#equality	_	NN	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	LYING	lying	_	NN	_	_	_	_	_
 3	FEMINIST	feminist	_	JJ	_	_	_	_	_
 4	JOURNALISTS	journalist	_	NNS	_	_	_	_	_
@@ -13869,7 +13248,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@patelology	@patelology	_	JJ	_	_	_	_	_
 2	@jameelajamil	@jameelajamil	_	NN	_	_	_	_	_
 3	please	please	_	UH	_	_	_	_	_
 4	RT	rt	_	NN	_	_	_	_	_
@@ -13881,7 +13259,6 @@
 10	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	@arieelrosee	@arieelrosee	_	NNP	_	_	_	_	_
 2	@nataliaxmoreno	@nataliaxmoreno	_	NNP	_	_	_	_	_
 3	Well	well	_	UH	_	_	_	_	_
 4	you	you	_	PRP	_	_	_	_	_
@@ -13906,7 +13283,6 @@
 8	are	be	_	VBP	_	_	_	_	_
 
 #Tweet
-1	Anti	Anti	_	NNP	_	_	_	_	_
 2	feminism	feminism	_	NN	_	_	_	_	_
 3	-	-	_	HYPH	_	_	_	_	_
 4	because	because	_	IN	_	_	_	_	_
@@ -13921,7 +13297,6 @@
 13	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Feminists	feminist	_	NNS	_	_	_	_	_
 2	are	be	_	VBP	_	_	_	_	_
 3	so	so	_	RB	_	_	_	_	_
 4	stupid	stupid	_	JJ	_	_	_	_	_
@@ -13941,7 +13316,6 @@
 18	Lmaooo	Lmaooo	_	NNP	_	_	_	_	_
 
 #Tweet
-1	With	with	_	IN	_	_	_	_	_
 2	or	or	_	CC	_	_	_	_	_
 3	without	without	_	IN	_	_	_	_	_
 4	this	this	_	DT	_	_	_	_	_
@@ -13957,7 +13331,6 @@
 14	#DontSayBitch	#dontsaybitch	_	ADD	_	_	_	_	_
 
 #Tweet
-1	Patriarchy	patriarchy	_	NN	_	_	_	_	_
 2	Theory	theory	_	NN	_	_	_	_	_
 3	-	-	_	HYPH	_	_	_	_	_
 4	designed	design	_	VBN	_	_	_	_	_
@@ -13973,7 +13346,6 @@
 14	men	man	_	NNS	_	_	_	_	_
 
 #Tweet
-1	#LikeAFeminist	#likeafeminist	_	NN	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	think	think	_	VBP	_	_	_	_	_
 4	any	any	_	DT	_	_	_	_	_
@@ -13991,7 +13363,6 @@
 16	misogyny	misogyny	_	NN	_	_	_	_	_
 
 #Tweet
-1	RT	rt	_	NN	_	_	_	_	_
 2	@SteveOortcloud	@steveoortcloud	_	NN	_	_	_	_	_
 3	:	:	_	:	_	_	_	_	_
 4	My	my	_	PRP$	_	_	_	_	_
@@ -14015,7 +13386,6 @@
 2	#ThisFuckingGuy	#ThisFuckingGuy	_	NNP	_	_	_	_	_
 
 #Tweet
-1	'	'	_	``	_	_	_	_	_
 2	Half	half	_	NN	_	_	_	_	_
 3	victims	victim	_	NNS	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -14031,7 +13401,6 @@
 14	Beavoir	Beavoir	_	NNP	_	_	_	_	_
 
 #Tweet
-1	@jaclynf	@jaclynf	_	NNP	_	_	_	_	_
 2	,	,	_	,	_	_	_	_	_
 3	@JessicaValenti	@JessicaValenti	_	NNP	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -14053,7 +13422,6 @@
 20	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	@chelss_21x	@chelss_21x	_	NN	_	_	_	_	_
 2	love	love	_	NN	_	_	_	_	_
 3	how	how	_	WRB	_	_	_	_	_
 4	it	it	_	PRP	_	_	_	_	_
@@ -14064,7 +13432,6 @@
 9	teachers	teacher	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Why	why	_	WRB	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	it	it	_	PRP	_	_	_	_	_
 4	bad	bad	_	JJ	_	_	_	_	_
@@ -14093,7 +13460,6 @@
 1	#Hypocrites	#hypocrites	_	NNS	_	_	_	_	_
 
 #Tweet
-1	#LikeAFeminist	#likeafeminist	_	NN	_	_	_	_	_
 2	if	if	_	IN	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	do	do	_	VBP	_	_	_	_	_
@@ -14113,7 +13479,6 @@
 18	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Do	do	_	VB	_	_	_	_	_
 2	n't	not	_	RB	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	just	just	_	RB	_	_	_	_	_
@@ -14135,7 +13500,6 @@
 20	mutilation	mutilation	_	NN	_	_	_	_	_
 
 #Tweet
-1	@ActorTrivia	@actortrivia	_	NN	_	_	_	_	_
 2	let	let	_	VBD	_	_	_	_	_
 3	's	's	_	POS	_	_	_	_	_
 4	be	be	_	VB	_	_	_	_	_
@@ -14160,7 +13524,6 @@
 2	#wtf	#wtf	_	NN	_	_	_	_	_
 
 #Tweet
-1	if	if	_	IN	_	_	_	_	_
 2	women	woman	_	NNS	_	_	_	_	_
 3	did	do	_	VBD	_	_	_	_	_
 4	n't	not	_	RB	_	_	_	_	_
@@ -14179,7 +13542,6 @@
 2	#YesAllWomen	#YesAllWomen	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Why	why	_	WRB	_	_	_	_	_
 2	do	do	_	VBP	_	_	_	_	_
 3	feminists	feminist	_	NNS	_	_	_	_	_
 4	hate	hate	_	VBP	_	_	_	_	_
@@ -14204,7 +13566,6 @@
 1	#GamerGate	#GamerGate	_	NNP	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	majority	majority	_	NN	_	_	_	_	_
 3	of	of	_	IN	_	_	_	_	_
 4	anti-abortion	anti-abortion	_	JJ	_	_	_	_	_
@@ -14224,7 +13585,6 @@
 1	#genderequity	#genderequity	_	NNP	_	_	_	_	_
 
 #Tweet
-1	WHEN	when	_	WRB	_	_	_	_	_
 2	A	a	_	DT	_	_	_	_	_
 3	FEMINIST	feminist	_	NN	_	_	_	_	_
 4	IS	be	_	VBZ	_	_	_	_	_
@@ -14245,7 +13605,6 @@
 2	#Feminists	#feminists	_	NNS	_	_	_	_	_
 
 #Tweet
-1	#SingleBecause	#singlebecause	_	IN	_	_	_	_	_
 2	I	I	_	PRP	_	_	_	_	_
 3	refuse	refuse	_	VBP	_	_	_	_	_
 4	to	to	_	TO	_	_	_	_	_
@@ -14281,7 +13640,6 @@
 34	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	A	a	_	DT	_	_	_	_	_
 2	vote	vote	_	NN	_	_	_	_	_
 3	by	by	_	IN	_	_	_	_	_
 4	a	a	_	DT	_	_	_	_	_
@@ -14294,7 +13652,6 @@
 11	@feministculture	@feministculture	_	NN	_	_	_	_	_
 
 #Tweet
-1	#sex	#sex	_	JJ	_	_	_	_	_
 2	male	male	_	JJ	_	_	_	_	_
 3	caste	caste	_	NN	_	_	_	_	_
 4	general	general	_	JJ	_	_	_	_	_
@@ -14316,7 +13673,6 @@
 3	pseudo	pseudo	_	JJ	_	_	_	_	_
 
 #Tweet
-1	@POBREClTA	@POBREClTA	_	NNP	_	_	_	_	_
 2	@JustLove_Katie	@JustLove_Katie	_	NNP	_	_	_	_	_
 3	@WillBrianna	@WillBrianna	_	NNP	_	_	_	_	_
 4	"	"	_	''	_	_	_	_	_
@@ -14337,7 +13693,6 @@
 19	lol	lol	_	UH	_	_	_	_	_
 
 #Tweet
-1	With	with	_	IN	_	_	_	_	_
 2	or	or	_	CC	_	_	_	_	_
 3	without	without	_	IN	_	_	_	_	_
 4	someone	someone	_	NN	_	_	_	_	_
@@ -14362,7 +13717,6 @@
 2	#Goals	#goals	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Ashamed	Ashamed	_	NNP	_	_	_	_	_
 2	of	of	_	IN	_	_	_	_	_
 3	my	my	_	PRP$	_	_	_	_	_
 4	fellow	fellow	_	JJ	_	_	_	_	_
@@ -14383,7 +13737,6 @@
 2	#ashamed	#ashamed	_	VBN	_	_	_	_	_
 
 #Tweet
-1	@ZaraLovesScript	@zaralovesscript	_	NN	_	_	_	_	_
 2	A	a	_	DT	_	_	_	_	_
 3	bloke	bloke	_	NN	_	_	_	_	_
 4	we	we	_	PRP	_	_	_	_	_
@@ -14409,7 +13762,6 @@
 24	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	Shut	shut	_	VB	_	_	_	_	_
 2	up	up	_	RP	_	_	_	_	_
 3	and	and	_	CC	_	_	_	_	_
 4	go	go	_	VB	_	_	_	_	_
@@ -14420,7 +13772,6 @@
 9	bitch	bitch	_	NN	_	_	_	_	_
 
 #Tweet
-1	@fingilgun	@fingilgun	_	NNP	_	_	_	_	_
 2	and	and	_	CC	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	sad	sad	_	JJ	_	_	_	_	_
@@ -14444,7 +13795,6 @@
 22	voice	voice	_	NN	_	_	_	_	_
 
 #Tweet
-1	I	I	_	PRP	_	_	_	_	_
 2	guess	guess	_	VBP	_	_	_	_	_
 3	what	what	_	WP	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -14475,7 +13825,6 @@
 7	#FeministsAreUgly	#feministsareugly	_	RB	_	_	_	_	_
 
 #Tweet
-1	The	the	_	DT	_	_	_	_	_
 2	lack	lack	_	NN	_	_	_	_	_
 3	intellectual	intellectual	_	JJ	_	_	_	_	_
 4	integrity	integrity	_	NN	_	_	_	_	_
@@ -14498,7 +13847,6 @@
 21	#GamerGate	#gamergate	_	NN	_	_	_	_	_
 
 #Tweet
-1	Hey	hey	_	UH	_	_	_	_	_
 2	fellow	fellow	_	JJ	_	_	_	_	_
 3	Feminists	feminist	_	NNS	_	_	_	_	_
 4	,	,	_	,	_	_	_	_	_
@@ -14522,7 +13870,6 @@
 2	#Transpatriot	#transpatriot	_	NN	_	_	_	_	_
 
 #Tweet
-1	Heterosexual	heterosexual	_	JJ	_	_	_	_	_
 2	male	male	_	NN	_	_	_	_	_
 3	's	's	_	POS	_	_	_	_	_
 4	sexual	sexual	_	JJ	_	_	_	_	_
@@ -14548,7 +13895,6 @@
 24	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	the	the	_	DT	_	_	_	_	_
 2	Left	leave	_	VBN	_	_	_	_	_
 3	10	10	_	CD	_	_	_	_	_
 4	years	year	_	NNS	_	_	_	_	_
@@ -14578,7 +13924,6 @@
 28	sex	sex	_	NN	_	_	_	_	_
 
 #Tweet
-1	feminism	feminism	_	NN	_	_	_	_	_
 2	appeared	appear	_	VBD	_	_	_	_	_
 3	for	for	_	IN	_	_	_	_	_
 4	ray	ray	_	NN	_	_	_	_	_
@@ -14594,7 +13939,6 @@
 14	#doublestandards	#doublestandards	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Spanish	spanish	_	JJ	_	_	_	_	_
 2	Civil	civil	_	JJ	_	_	_	_	_
 3	War	war	_	NN	_	_	_	_	_
 4	publishing	publishing	_	NN	_	_	_	_	_
@@ -14617,7 +13961,6 @@
 21	#osfc15	#osfc15	_	NN	_	_	_	_	_
 
 #Tweet
-1	Feminists	feminist	_	NNS	_	_	_	_	_
 2	like	like	_	IN	_	_	_	_	_
 3	you	you	_	PRP	_	_	_	_	_
 4	are	be	_	VBP	_	_	_	_	_
@@ -14636,7 +13979,6 @@
 17	@linneareithis	@linneareithis	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Rethink	rethink	_	VB	_	_	_	_	_
 2	your	you	_	PRP$	_	_	_	_	_
 3	beach	beach	_	NN	_	_	_	_	_
 4	clothes	clothes	_	NNS	_	_	_	_	_
@@ -14653,7 +13995,6 @@
 1	#thisoppresseswomen	#thisoppresseswomen	_	NNS	_	_	_	_	_
 
 #Tweet
-1	DEAR	dear	_	JJ	_	_	_	_	_
 2	FEMINISTS	feminist	_	NNS	_	_	_	_	_
 3	So	so	_	RB	_	_	_	_	_
 4	I	I	_	PRP	_	_	_	_	_
@@ -14681,7 +14022,6 @@
 9	.	.	_	.	_	_	_	_	_
 
 #Tweet
-1	If	if	_	IN	_	_	_	_	_
 2	masculinity	masculinity	_	NN	_	_	_	_	_
 3	is	be	_	VBZ	_	_	_	_	_
 4	toxic	toxic	_	JJ	_	_	_	_	_
@@ -14700,7 +14040,6 @@
 2	#dumbfeminist	#dumbfeminist	_	NN	_	_	_	_	_
 
 #Tweet
-1	#MagicMikeXXL	#magicmikexxl	_	NN	_	_	_	_	_
 2	is	be	_	VBZ	_	_	_	_	_
 3	the	the	_	DT	_	_	_	_	_
 4	most	most	_	RBS	_	_	_	_	_
@@ -14718,7 +14057,6 @@
 3	!	!	_	.	_	_	_	_	_
 
 #Tweet
-1	#WageEquality	#wageequality	_	NN	_	_	_	_	_
 2	means	mean	_	VBZ	_	_	_	_	_
 3	Individuals	individual	_	NNS	_	_	_	_	_
 4	with	with	_	IN	_	_	_	_	_
@@ -14736,7 +14074,6 @@
 1	#WomenRights	#womenrights	_	NNS	_	_	_	_	_
 
 #Tweet
-1	Do	do	_	VBP	_	_	_	_	_
 2	you	you	_	PRP	_	_	_	_	_
 3	know	know	_	VB	_	_	_	_	_
 4	the	the	_	DT	_	_	_	_	_
@@ -14751,7 +14088,6 @@
 2	#youthdevelopment	#youthdevelopment	_	NNP	_	_	_	_	_
 
 #Tweet
-1	Girls	girl	_	NNS	_	_	_	_	_
 2	over	over	_	IN	_	_	_	_	_
 3	130	130	_	CD	_	_	_	_	_
 4	should	should	_	MD	_	_	_	_	_
@@ -14763,7 +14099,6 @@
 10	#womenintech	#womenintech	_	NN	_	_	_	_	_
 
 #Tweet
-1	It	it	_	PRP	_	_	_	_	_
 2	's	be	_	VBZ	_	_	_	_	_
 3	hard	hard	_	JJ	_	_	_	_	_
 4	being	be	_	VBG	_	_	_	_	_
